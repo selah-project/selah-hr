@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 29,
-  "translation": "i jednoga jarca ⟨את⟩ od koza ⟨את⟩ za grijeh ⟨את⟩, da se pomirite ⟨את⟩ nad vama.",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:43:30.245169235Z",
+  "translation": "i jednoga jarca između koza za grijeh ⟨חטאת⟩, da se pomiri za vas.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "i jednoga jarca"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "između koza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "za grijeh ⟨חטאת⟩"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomiri"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "za vas"
+    }
+  ],
+  "timestamp": "2026-10-04T21:01:37.666534535Z",
   "model": "glm-5.3"
 }
