@@ -5,11 +5,23 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 20,
-  "translation": "I kraljevstvo Jehošafatovo bijaše u miru, jer mu njegov Elohim dade odmor sa svih strana.",
+  "translation": "I kraljevstvo Jehošafatovo bijaše mirno, jer mu njegov Elohim dade počinak sa svih strana.",
   "tokens": [
     {
+      "surface": "ותשקט",
+      "gloss": "bijaše mirno"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafatovo"
+    },
+    {
       "surface": "וינח",
-      "gloss": "dade odmor"
+      "gloss": "dade počinak"
     },
     {
       "surface": "לו",
@@ -22,20 +34,8 @@
     {
       "surface": "מסביב",
       "gloss": "sa svih strana"
-    },
-    {
-      "surface": "ותשקט",
-      "gloss": "bijaše u miru"
-    },
-    {
-      "surface": "מלכות",
-      "gloss": "kraljevstvo"
-    },
-    {
-      "surface": "יהושפט",
-      "gloss": "Jehošafatovo"
     }
   ],
-  "timestamp": "2026-10-04T20:11:31.544402138Z",
+  "timestamp": "2026-10-04T21:22:24.638272698Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 63,
-  "translation": "Predat će ih oštrici mača, bit će dijelom šakala.",
+  "translation": "Prosut će ih ⟨na⟩ oštricu mača, postat će plijenom ⟨את⟩ — šakalima će pripasti.",
   "tokens": [
     {
       "surface": "יגירהו",
-      "gloss": "Predat će ih"
+      "gloss": "prosut će ih"
     },
     {
       "surface": "על",
-      "gloss": "pred"
+      "gloss": "na"
     },
     {
       "surface": "ידי",
-      "gloss": "oštrici"
+      "gloss": "oštricu"
     },
     {
       "surface": "חרב",
       "gloss": "mača"
     },
     {
-      "surface": "יהיו",
-      "gloss": "bit će"
-    },
-    {
       "surface": "מנת",
-      "gloss": "dijelom"
+      "gloss": "dio"
     },
     {
       "surface": "שעלים",
-      "gloss": "šakala"
+      "gloss": "šakali"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
     }
   ],
-  "timestamp": "2026-10-04T19:10:38.831582480Z",
+  "timestamp": "2026-10-04T21:22:27.036055503Z",
   "model": "glm-5.3"
 }
