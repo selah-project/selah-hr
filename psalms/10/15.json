@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Slomi ruku zlikovca i zloga; zloću njegovu ispitaj — neka je više ⟨ne⟩ nađe.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "slomi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlikovca"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "i zloga"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ispitaj"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "zloću njegovu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "neka je više"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nađe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:09.468151712Z",
+  "model": "glm-5.3"
+}

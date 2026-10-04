@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I pripremiše ⟨את⟩ dar dok Josef ne dođe u podne, jer su čuli da će ondje jesti kruh.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "pripremiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "u podne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:10.346220060Z",
+  "model": "glm-5.3"
+}

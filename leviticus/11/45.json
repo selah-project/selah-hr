@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Jer ja sam Jahve koji ⟨את⟩ vas izvodim iz zemlje Micrajim da budem vam Elohim; budite sveti jer sam svet ja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "koji izvodim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "da budem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "budite"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sveti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:46.161202362Z",
+  "model": "glm-5.3"
+}

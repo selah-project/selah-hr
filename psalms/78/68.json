@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Nego izabra ⟨את⟩ pleme Judino, ⟨את⟩ brdo Cion koje ljubi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "nego izabra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleme Judino"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brdo Cion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "brdo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:05.010278725Z",
+  "model": "glm-5.3"
+}

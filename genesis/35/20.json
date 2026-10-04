@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I postavi Jaakov spomen-stub nad njezin grob; to je stub groba Rahelin do dana današnjega.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "spomen-stub"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "njezin grob"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stub"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "groba"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana današnjega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:56.825258725Z",
+  "model": "glm-5.3"
+}

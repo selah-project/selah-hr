@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Tako reče Jahve Cebaot: Ovaj narod govori: Došlo nije vrijeme, vrijeme da se kuća Jahvina sagradi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "govori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došlo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuća"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "da se sagradi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:34.826948049Z",
+  "model": "glm-5.3"
+}

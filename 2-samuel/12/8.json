@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i dao sam ti ⟨את⟩ dom tvoga gospodara i ⟨את⟩ žene tvoga gospodara u tvoje naručje, i dao sam ti ⟨את⟩ dom Jisraelov i Judin; i ako je ⟨to⟩ malo, dodao bih ti ovakvo i ovakvo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "i dao sam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom tvoga gospodara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvoga gospodara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "žene tvoga gospodara"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvoga gospodara"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "u tvoje naručje"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dao sam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jisraelov i Judin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Judin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "i ako"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "dodao bih"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ovakvo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "i ovakvo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:58.600159575Z",
+  "model": "glm-5.3"
+}

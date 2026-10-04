@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tako govori Jahve Cebaot: Pohodih ⟨את⟩ ono što učini Amalek Jisraelu, što mu postavi na putu pri njegovu izlasku iz Micrajima.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Pohodih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što učini Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "pri njegovu izlasku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:03.228300657Z",
+  "model": "glm-5.3"
+}

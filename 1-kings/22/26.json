@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče kralj Jisraela: Uzmite ⟨את⟩ Mikajahua i vrati ga k Amonu, knezu grada, i k Joašu, sinu kraljevomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajahua"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahua"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "i vrati ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knezu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:03.209532423Z",
+  "model": "glm-5.3"
+}

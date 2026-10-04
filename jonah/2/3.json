@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče: Zovnuh iz tjeskobe svoje Jahvi, i odgovori mi; iz krila Šeola vapih — ti si čuo glas moj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zovnuh"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "iz tjeskobe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "i odgovori mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iz utrobe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šeola"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "vapih"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "čuo si"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glas moj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:05.839810555Z",
+  "model": "glm-5.3"
+}

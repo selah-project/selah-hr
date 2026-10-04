@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "I izraste kao izdanak pred njim i kao korijen iz zemlje suhe: nema oblika ni veličanstva; i vidjeli smo ga, ali izgleda nema — i nismo ga željeli.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i izraste"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "kao izdanak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "i kao korijen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suhе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nema"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "oblika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨u njemu⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "veličanstva"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "i vidjeli smo ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali nema"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "izgleda"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "i nismo ga željeli"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:19.128159061Z",
+  "model": "glm-5.3"
+}

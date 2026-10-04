@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I otvori ⟨ga⟩ te ga ugleda — ⟨את⟩ dijete, i gle, dječak plače; i sažali se nad njim pa reče: Od djece Ivrima ⟨je⟩ ovaj.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "te ga ugleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dječak"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "plače"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "sažali se"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "Od djece"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivrima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.982687915Z",
+  "model": "glm-5.3"
+}

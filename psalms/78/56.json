@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Ali iskušavahu i buniti se protiv ⟨את⟩ Elohim Svevišnjega, i svjedočanstava njegovih ne čuvaše.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "iskušavahu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "i buniti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Svevišnjega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Svevišnjega"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "i svjedočanstava njegovih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "čuvaše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:12.397082865Z",
+  "model": "glm-5.3"
+}

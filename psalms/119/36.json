@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Prigni moje srce k svojim svjedočanstvima, a ne k ⟨pohlepnomu⟩ dobitku.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Prigni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "svojim svjedočanstvima"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨pohlepnomu⟩ dobitku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:45.093449893Z",
+  "model": "glm-5.3"
+}

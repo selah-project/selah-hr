@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Jer Elohim jest sudac: jednoga ponižava, a drugoga uzvisuje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sudac"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ponižava"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a drugoga"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "uzvisuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.068824299Z",
+  "model": "glm-5.3"
+}

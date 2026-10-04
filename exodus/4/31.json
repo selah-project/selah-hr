@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I narod povjerova; i čuše da se Jahve sjetio sinova Jisraelovih i da vidio ⟨את⟩ njihovu nevolju, te se pokloniše i padoše ničice.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "povjerova"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sjetio se (posjetio)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinova Jisraelovih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i da"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovu nevolju"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "nevolju"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "pokloniše se"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "padoše ničice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:45.846646049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Nema besjede i nema riječi, bez da se čuje glas njihov.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nema"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "besjede"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "da se čuje"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glas njihov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:16.541249864Z",
+  "model": "glm-5.3"
+}

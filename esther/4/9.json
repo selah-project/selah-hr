@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I dođe Hatak i kaza Esteri ⟨את⟩ riječi Mordecajeve.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i kaza"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi Mordecajeve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecajeve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:51.850168216Z",
+  "model": "glm-5.3"
+}

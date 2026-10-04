@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Junak je mudar ⟨u⟩ snazi, i čovjek znanja učvršćuje silu.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "junak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "u snazi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanja"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "učvršćuje"
+    },
+    {
+      "surface": "כח",
+      "gloss": "silu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:42.881206917Z",
+  "model": "glm-5.3"
+}

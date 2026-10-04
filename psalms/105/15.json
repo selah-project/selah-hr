@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Ne dirajte moje pomazanike i mojim prorocima ne činite zla!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dirajte"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "moje pomazanike"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "i mojim prorocima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "činite zla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.304038318Z",
+  "model": "glm-5.3"
+}

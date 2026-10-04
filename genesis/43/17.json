@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I učini čovjek kako reče Josef, i uvede čovjek ⟨את⟩ ljude u kuću Josefovu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i uvede"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:22.323094793Z",
+  "model": "glm-5.3"
+}

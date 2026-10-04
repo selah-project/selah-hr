@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Smrde i trule su moje rane zbog moje ludosti.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "smrde"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "trule"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "moje rane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "moje ludosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.847807721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 50:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Zašto dođoh, a nikoga nema? Zvao sam, i nitko se ne odaziva. Je li mi ruka prekratka da otkupi, ili u meni nema snage da izbavi? Gle, svojim ukorom more isušujem, rijeke u pustinju pretvaram; riba im smrdi jer nema vode, i od žeđi ugiba.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "dođoh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikoga"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Zvao sam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tko se odaziva"
+    },
+    {
+      "surface": "הקצור",
+      "gloss": "Je li prekratka"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "kratka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mi ruka"
+    },
+    {
+      "surface": "מפדות",
+      "gloss": "da otkupi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "כח",
+      "gloss": "snage"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "da izbavi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "בגערתי",
+      "gloss": "svojim ukorom"
+    },
+    {
+      "surface": "אחריב",
+      "gloss": "isušujem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "more"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "pretvaram"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "u pustinju"
+    },
+    {
+      "surface": "תבאש",
+      "gloss": "smrdi"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "riba im"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "jer nema"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "i ugiba"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "od žeđi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:00.222038319Z",
+  "model": "glm-5.3"
+}

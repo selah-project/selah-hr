@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A ⟨את⟩ domu Jehudinu smilovat ću se i spasit ću ih po Jahvi, Elohimu njihovu, i neću ih spasiti lukom ni mačem ni bojem, konjima ni konjanicima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domu Jehudinu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudinom"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "smilovat ću se"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "i spasit ću ih"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "po Jahvi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu njihovu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ih spasiti"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "lukom"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ni mačem"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ni bojem"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "konjima"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ni konjanicima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:13.194104181Z",
+  "model": "glm-5.3"
+}

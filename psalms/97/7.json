@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": " Neka se postide svi koji služe liku isklesanomu, koji se hvale u kumirima; poklonite mu se svi <b> bogovi<\/b>!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "neka se postide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "koji služe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "liku isklesanomu"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "koji se hvale"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "u kumirima"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "poklonite se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:33.731813527Z",
+  "model": "glm-5.3"
+}

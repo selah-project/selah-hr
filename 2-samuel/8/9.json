@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ču Toi, kralj Hamata, da je David potukao sve ⟨את⟩ vojsku Hadadezerovu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "potukao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vojsku Hadadezerovu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:07.646012115Z",
+  "model": "glm-5.3"
+}

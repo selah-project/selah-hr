@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Ljubite ⟨את⟩ Jahvu, svi njegovi hasidi! Vjernike čuva Jahve i obilato uzvraća onomu koji čini oholost.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Ljubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "njegovi hasidi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "Vjernike"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "i obilato uzvraća"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "obilato"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "oholost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:49.699440342Z",
+  "model": "glm-5.3"
+}

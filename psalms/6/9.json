@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Odstupite od mene, svi vi koji činite ništavost, jer Jahve ču je glas plača mojega.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "odstupite"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "koji činite"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ču je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "plača mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:48.501587990Z",
+  "model": "glm-5.3"
+}

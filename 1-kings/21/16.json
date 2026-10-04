@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Kad ču Ahav da je Navot mrtav, usta Ahav da siđe k vinogradu Navota Jizreelca, da ga zaposjedne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kad se dogodi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מת",
+      "gloss": "je mrtav"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "da siđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinogradu"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Jizreelca"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "da ga zaposjedne"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:57.916387463Z",
+  "model": "glm-5.3"
+}

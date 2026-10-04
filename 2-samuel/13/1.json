@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 13:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dogodi se nakon toga da Avšalom, sin Davidov, imaše lijepu sestru po imenu Tamar, i zavoli je Amnon, sin Davidov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "Avšalomu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestru"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lijepu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "i ime joj"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "i zavoli je"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:13.995909748Z",
+  "model": "glm-5.3"
+}

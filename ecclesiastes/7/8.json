@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Bolji je svršetak stvari negoli njezin početak; bolji je strpljiv na duhu negoli ohol na duhu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bolji je"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "svršetak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "negoli njezin početak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolji je"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "strpljiv"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "na duhu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "negoli ohol"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "na duhu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:13.062903137Z",
+  "model": "glm-5.3"
+}

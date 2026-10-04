@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 142,
+  "translation": "Glasom svojim Jahvi vičem, glasom svojim Jahvi milost izmoljujem.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Glasom svojim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "vičem"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasom svojim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "milost izmoljujem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:15.837705571Z",
+  "model": "glm-5.3"
+}

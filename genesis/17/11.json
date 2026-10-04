@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I obrežite ⟨את⟩ tijelo svoje kožice, i neka bude znakom saveza između mene i vas.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "I obrežite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tijelo svoje kožice"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "svoje kožice"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i neka bude"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "znakom"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "i vas"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:00.411534242Z",
+  "model": "glm-5.3"
+}

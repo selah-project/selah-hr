@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Otvaraš ⟨את⟩ ruku svoju, i sitnjuješ svako živo ⟨svoju dobru volju⟩.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "otvaraš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "i sitnjuješ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svakom"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živom"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "svoju dobru volju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:56.208590774Z",
+  "model": "glm-5.3"
+}

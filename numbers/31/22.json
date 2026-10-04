@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Samo ⟨את⟩ zlato i ⟨את⟩ srebro, ⟨את⟩ mjed, ⟨את⟩ željezo, ⟨את⟩ kositar i ⟨את⟩ olovo",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjed"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mjed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "željezo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "željezo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kositar"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "kositar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "olovo"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "olovo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:21.960511557Z",
+  "model": "glm-5.3"
+}

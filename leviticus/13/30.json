@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i svećenik vidi ⟨את⟩ ranu, a gle, njezin izgled dublji od kože i u njoj dlaka žuta, tanka — tada će ⟨את⟩ ga svećenik proglasiti nečistim: netek je to, caraat glave ili brade je to.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "njezin izgled"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dublji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kože"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "i u njoj"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dlaka"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "žuta"
+    },
+    {
+      "surface": "דק",
+      "gloss": "tank"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "tat će ga proglasiti nečistim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "caraat"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "brade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:02.430262738Z",
+  "model": "glm-5.3"
+}

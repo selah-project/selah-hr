@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Ne budite kao konj, kao mula bez razuma: uzdom i dingopom, uresom njegovim, da se ukroti, da ne pristupi k tebi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "budite"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kao konj"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "kao mula"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razuma"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "uzdom"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "i dingopom"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "uresom njegovim"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "da se ukroti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.262027650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "⟨את⟩ stranca smiješ naplaćivati, ali ono što je tvoje ⟨את⟩ kod brata svojega neka otpusti ruka tvoja.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stranca"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "stranca"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "naplaćivati"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ali ono što"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "je"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kod"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "neka otpusti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:20.275220306Z",
+  "model": "glm-5.3"
+}

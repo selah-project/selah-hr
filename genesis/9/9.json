@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A ja, evo mene, uspostavljam ⟨את⟩ svoj savez s ⟨את⟩ vama i sa ⟨את⟩ vašim sjemenom poslije vas.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo mene"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "uspostavljam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj savez"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoj savez"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "s ⟨את⟩ vama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i sa ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "vaše sjeme"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "poslije vas"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:34.135953462Z",
+  "model": "glm-5.3"
+}

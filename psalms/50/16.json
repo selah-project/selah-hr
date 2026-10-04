@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "A zločincu Elohim reče: Što tebi da kazuješ moje uredbe i da nosiš moj savez na svojim ustima?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "a zločincu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "da kazuješ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "moje uredbe"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "i da nosiš"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moj savez"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "svojim ustima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.518092835Z",
+  "model": "glm-5.3"
+}

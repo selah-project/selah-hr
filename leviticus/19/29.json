@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne obeščašćuj ⟨את⟩ svoju kćer da je učiniš bludnicom, da se zemlja ne odâ bludu i da se zemlja ne napuni opačinom.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "obeščašćuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju kćer"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "svoju kćer"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "da je učiniš bludnicom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da se ne"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "odâ bludu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i da se ne napuni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "opačinom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:50.423367234Z",
+  "model": "glm-5.3"
+}

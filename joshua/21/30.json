@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I iz plemena Ašera ⟨את⟩ Mišal s njezinim pašnjacima, ⟨את⟩ Avdon s njezinim pašnjacima.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "i iz plemena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ašera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mišal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mišal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pašnjake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "njezini pašnjaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pašnjake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "njezini pašnjaci"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:45.141514786Z",
+  "model": "glm-5.3"
+}

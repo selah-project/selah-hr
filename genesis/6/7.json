@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče Jahve: Izbrišu ⟨את⟩ čovjeka kojega sam stvorio s lica zemlje, od čovjeka do živine, do gmizavca i do ptice neba, jer sam se predomislio što sam ih načinio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "izbrišu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "sam stvorio"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gmizavca"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "sam se predomislio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "sam ih načinio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:06.996049905Z",
+  "model": "glm-5.3"
+}

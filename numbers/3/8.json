@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Neka čuvaju ⟨את⟩ sve predmete Šatora sastanka i ⟨את⟩ stražu sinova Jisraelovih, da vrše ⟨את⟩ službu Miškana.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Neka čuvaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve predmete Šatora sastanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stražu sinova Jisraelovih"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stražu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da vrše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "službu Miškana"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "službu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:05.095276440Z",
+  "model": "glm-5.3"
+}

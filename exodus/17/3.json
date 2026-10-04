@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I žeđa ondje narod za vodom, i mrmljaše narod na Mošea, te reče: Zašto si nas ovo izveo iz Micrajima, da pogubiš ⟨את⟩ mene i ⟨את⟩ sinove moje i ⟨את⟩ stoku moju žeđu?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "I žeđa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "למים",
+      "gloss": "za vodom"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "i mrmljaše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "si nas izveo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "da pogubiš"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove moje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove moje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoku moju"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "stoku moju"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "žeđu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:56.120340486Z",
+  "model": "glm-5.3"
+}

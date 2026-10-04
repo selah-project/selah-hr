@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Tvoje sjedenje i tvoj izlazak i tvoj ulazak znam, i ⟨את⟩ tvoju jarost protiv mene.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Tvoje sjedenje"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i tvoj izlazak"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "i tvoj ulazak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoju jarost"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tvoju jarost"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:44.006549996Z",
+  "model": "glm-5.3"
+}

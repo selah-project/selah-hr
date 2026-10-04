@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "jer šest je mjeseci ostao ondje Joav i sav Jisrael, dok ne istrijebi svakog muškarca u Edomu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mjeseci"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ostao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok ne"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "istrijebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakog"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarca"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "u Edomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.607450340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I reče: Ja ću poslati ⟨ti⟩ kozlića iz stada. A ona reče: Hoćeš li dati zalog dok ⟨ga⟩ ne pošalješ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ću poslati"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kozlića"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dadeš"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "zalog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ne pošalješ"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:04.604620562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I vidje David da Šaul iziđe tražiti ⟨את⟩ njegov život; a David bijaše u pustinji Zif, u Horši.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov život"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegov život"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "u Horši"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:16.259765777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "Nada se, Jisraele, Jahvi, jer je kod Jahve hesed i obilno je s njime otkupljenje.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Nada se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "i obilno"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "otkupljenje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.405206188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Sudi mi po svom cedeku, Jahve, Elohim moj, i neka se ne vesele nada mnom.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "sudi mi"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "po svom cedeku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i neka ne"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vesele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nada mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:53.060048960Z",
+  "model": "glm-5.3"
+}

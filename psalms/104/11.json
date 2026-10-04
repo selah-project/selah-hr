@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Poje sve zvijeri poljske, divlji magarci utolju žeđ svoju.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Poje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvijeri"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "poljske"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "utolju"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "divlji magarci"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "žeđ svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:16.255895463Z",
+  "model": "glm-5.3"
+}

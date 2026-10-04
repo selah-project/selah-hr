@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad dovrči da ga napoji, reče: i ⟨את⟩ tvojim devama zahvatit ću dok ne dovrše piti.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "kad dovrči"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "da ga napoji"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "⟨את⟩ tvojim devama"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "zahvatit ću"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ne dovrše"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "piti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:24.072312460Z",
+  "model": "glm-5.3"
+}

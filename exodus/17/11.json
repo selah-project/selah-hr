@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I bijaše: kad bi Moše podigao svoju ruku, nadvladao bi Jisrael; a kad bi spustio svoju ruku, nadvladao bi Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I bijaše"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "bi podigao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nadvladao bi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "bi spustio"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nadvladao bi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:31.356287963Z",
+  "model": "glm-5.3"
+}

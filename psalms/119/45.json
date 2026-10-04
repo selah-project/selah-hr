@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "I hodat ću u prostranosti, jer tvoje naredbe tražih.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "i hodat ću"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "u prostranosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "tražih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:48.590987398Z",
+  "model": "glm-5.3"
+}

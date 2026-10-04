@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I ⟨את⟩ kuće Jerušalajima izbrojiste, i porušiste kuće da utvrdite zid.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuće Jerušalajima"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "izbrojiste"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "i porušiste"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "da utvrdite"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zid"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:01.039889626Z",
+  "model": "glm-5.3"
+}

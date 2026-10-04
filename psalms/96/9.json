@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 96,
+  "translation": "Poklonite se Jahvi u sjaju svetosti, trepite pred licem njegovim, sva zemljo!",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Poklonite se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "u sjaju"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "trepite"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pred licem njegovim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:13.186314740Z",
+  "model": "glm-5.3"
+}

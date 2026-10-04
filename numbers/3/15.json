@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Prebroji ⟨את⟩ sinove Levijeve po domu otaca njihovih, po porodicama njihovim: sve muško od sina mjeseca dana naviše prebroji ih.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "prebroji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Levijeve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijeve"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca njihovih"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po porodicama njihovim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od sina"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mjeseca dana"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "naviše"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "prebroji ih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:14.170509674Z",
+  "model": "glm-5.3"
+}

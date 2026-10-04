@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Uzmi ⟨את⟩ Ahrona i ⟨את⟩ njegove sinove ⟨את⟩ s njim, i ⟨את⟩ haljine, i ⟨את⟩ ulje pomazanja, i ⟨את⟩ junca ⟨za⟩ žrtvu okaljanosti, i ⟨את⟩ dva ovna, i ⟨את⟩ košaricu beskvasnih hljebova.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "Ahrona i njegove sinove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "haljine"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "haljine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "junca za žrtvu okaljanosti"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtva okaljanosti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dva ovna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "košaricu beskvasnih hljebova"
+    },
+    {
+      "surface": "סל",
+      "gloss": "košarica"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "beskvasni hljebovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:26.345405739Z",
+  "model": "glm-5.3"
+}

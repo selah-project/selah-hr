@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "⟨Tada⟩ poučavat ću prekršitelje tvojim putevima, i grješnici tebi ⟨će⟩ se vratiti.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "poučavat ću"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "prekršitelje"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tvojim putevima"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "i grješnici"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "vratiti se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:38.308581407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I odsijekoše ⟨את⟩ glavu njegovu, i svukoše ⟨את⟩ oružje njegovo, i razaslaše ⟨to⟩ po zemlji plištejskoj unaokolo, da se obznani u domu kumira njihovih i ⟨את⟩ narodu.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "i odsijekoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu njegovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "i svukoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oružje njegovo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "oružje njegovo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i razaslaše"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištijaca"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "da se obznani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "kumira njihovih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:15.690032042Z",
+  "model": "glm-5.3"
+}

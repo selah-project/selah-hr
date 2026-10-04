@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dozva ⟨את⟩ svojega slugu, svojega poslužnika, i reče: Pošaljite sada ⟨את⟩ ovu odavde, van, i zaključaj vrata za njom.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega slugu"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "svojega slugu"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "svojega poslužnika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pošaljite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "odavde"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "i zaključaj"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "za njom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:14.137148414Z",
+  "model": "glm-5.3"
+}

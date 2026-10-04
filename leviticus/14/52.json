@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I očistit će ⟨את⟩ kuću krvlju ptice i vodom živom, i pticom živom i drvom cedrovim i izopom i grimiznom pređom.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "i očistit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "krvlju"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i vodom"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živom"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "i pticom"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živom"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "i drvom"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "cedrovim"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "i izopom"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "i grimiznom"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "pređom (od crva)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:19.895439178Z",
+  "model": "glm-5.3"
+}

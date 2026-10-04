@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I rastoči David ⟨את⟩ ljude svoje riječima i ne dade im da ustanu protiv Šaula; a Šaul usta iz pećine i pođe putem.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "i rastoči"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude svoje"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ljude svoje"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "riječima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "dade im"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "da ustanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Šaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "iz pećine"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:18.480004379Z",
+  "model": "glm-5.3"
+}

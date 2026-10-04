@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Jahve čuva ⟨את⟩ strance, siroče i udovicu podupire, a put zlih iskrivljuje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strance"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "strance"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "siroče"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "i udovicu"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "podupire"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "a put"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "iskrivljuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:30.346993Z",
+  "model": "glm-5.3"
+}

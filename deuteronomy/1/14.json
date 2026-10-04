@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I odgovoriste me ⟨את⟩ i rekoste: dobar je govor što si govorio činiti.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "i odgovoriste"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (אתי — suderžni kazalnik s privitkom 'me')"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "i rekoste"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "govor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "si govorio"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:04.825545586Z",
+  "model": "glm-5.3"
+}

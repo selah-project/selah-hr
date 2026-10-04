@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Razveseli nas koliko dana nas ti pati, koliko godina zla vidjesmo.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Razveseli nas"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "koliko dana"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "nas ti pati"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "koliko godina"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vidjesmo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:11.562274535Z",
+  "model": "glm-5.3"
+}

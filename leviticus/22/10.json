@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I nijedan tuđinac ne smije jesti svetinu; naseljenik svećenika i najamnik ne smiju jesti svetinu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i nijedan"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđinac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne smije"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinu"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "naseljenik"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "i najamnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne smije"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:23.574646647Z",
+  "model": "glm-5.3"
+}

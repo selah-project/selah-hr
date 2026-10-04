@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I uništi Zimri ⟨את⟩ sav dom Bašin, po riječi Jahvinoj koju zbori protiv Baše rukom Jehu proročkom.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "i uništi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav dom Bašin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zbori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baše"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proročkom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:21.983278901Z",
+  "model": "glm-5.3"
+}

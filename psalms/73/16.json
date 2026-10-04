@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "I promišljah da ovo spoznam — muka je to u mojim očima.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "i promišljah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da spoznam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "muka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u mojim očima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:26.937495852Z",
+  "model": "glm-5.3"
+}

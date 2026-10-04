@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Visoke gore ⟨su⟩ za kozoroge, stijene zaklon za pečinke.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "visoke"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "za kozoroge"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "stijene"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "zaklon"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "za pečinke"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:13.380276437Z",
+  "model": "glm-5.3"
+}

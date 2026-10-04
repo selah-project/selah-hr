@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I podiže ⟨את⟩ dom ⟨na⟩ uzvišenjima, i postavi svećenike iz krajeva naroda koji nisu bili od sinova Levijevih.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "במות",
+      "gloss": "uzvišenjima"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "iz krajeva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bili"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijevih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:36.594906919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ svu lojavu njezinu prinijet će iz nje: ⟨את⟩ rep i ⟨את⟩ lojavu koja pokriva ⟨את⟩ utrobu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu lojavu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lojavu njezinu"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "prinijet će"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz nje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rep"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "rep"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lojavu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lojavu"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "koja pokriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utrobu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:53.614107621Z",
+  "model": "glm-5.3"
+}

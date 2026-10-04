@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Poznat je u Judi Elohim, u Jisraelu veliko je ime njegovo.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Poznat je"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "u Judi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:29.309412448Z",
+  "model": "glm-5.3"
+}

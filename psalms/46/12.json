@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Jahve Cebaot ⟨je⟩ s nama, utvrda nama ⟨je⟩ Elohim Jaakovljevi. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s nama"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "utvrda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljevi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:54.363939609Z",
+  "model": "glm-5.3"
+}

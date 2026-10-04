@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A nas je izveo odande, da bi nas uveo, da bi dao nama ⟨את⟩ zemlju koju je zakleo ocima našim.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "izveo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "izveo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "uveo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "uveo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da bi dao"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "zakleo"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ocima našim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:18.396018728Z",
+  "model": "glm-5.3"
+}

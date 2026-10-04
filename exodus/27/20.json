@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A ti zapovjedi ⟨את⟩ sinove Jisraelove, neka tebi donese ulja maslinova čista, tučenoga, za svjetiljku, da se neprestano diže plamen svjetiljke.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "neka donese"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "זית",
+      "gloss": "maslinova"
+    },
+    {
+      "surface": "זך",
+      "gloss": "čista"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tučena"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "za svjetiljku"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "da se diže"
+    },
+    {
+      "surface": "נר",
+      "gloss": "plamen svjetiljke"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:57.353641146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I sinovi Jisraela koji se nađoše ondje obaviše ⟨את⟩ Pesah u to vrijeme, i ⟨את⟩ blagdan beskvasnih kruhova sedam dana.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i obaviše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "koji se nađoše ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "to vrijeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "blagdan beskvasnih kruhova"
+    },
+    {
+      "surface": "חג",
+      "gloss": "blagdan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "beskvasnih kruhova"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:50.081690728Z",
+  "model": "glm-5.3"
+}

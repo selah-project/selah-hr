@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I svećenik neka zapali ⟨את⟩ salo na žrtveniku, i prsa neka budu Aharonova i njegovih sinova.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "neka zapali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i neka budu"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "prsa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonova"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "i njegovih sinova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:53.313590986Z",
+  "model": "glm-5.3"
+}

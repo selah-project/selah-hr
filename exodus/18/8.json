@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 18:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ispripovjedi Moše svome pencu ⟨את⟩ sve što učini Jahve faraonu i Micrajimcima zbog Jisraela, ⟨את⟩ svu muku koja ih zadesila na putu, i kako ih Jahve izbavio.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "i ispripovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "svome pencu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što učini Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "ולמצרים",
+      "gloss": "i Micrajimcima"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "אודת",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu muku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "muku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "zadesila ih"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "ויצלם",
+      "gloss": "i izbavio ih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:41.588755338Z",
+  "model": "glm-5.3"
+}

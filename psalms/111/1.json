@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Halelu-Jah! Slavit ću Jahvu svim svojim srcem, u tajnome zboru iskrenih i u zajednici.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "slavit ću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "u tajnome zboru"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "iskrenih"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "i u zajednici"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:47.116973216Z",
+  "model": "glm-5.3"
+}

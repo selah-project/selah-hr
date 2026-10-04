@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I sav se Jisrael upisao po rodoslovljima, i gle, upisani su u knjizi kraljeva Jisraela i Jehude; oni bijahu odvedeni u Babel zbog svojega prijestupa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "upisao se po rodoslovljima"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "upisani"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjizi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehude"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "odvedeni su u progonstvo"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "u Babel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "zbog svojega prijestupa"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:27.767312476Z",
+  "model": "glm-5.3"
+}

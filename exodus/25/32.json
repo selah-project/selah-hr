@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I šest krakova neka izlazi iz njezinih bokova: tri kraka Menore iz njezina jednoga boka i tri kraka Menore iz njezina drugoga boka.",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "šest"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "krakova"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "neka izlaze"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "iz njezinih bokova"
+    },
+    {
+      "surface": "šלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "קני",
+      "gloss": "kraka"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "Menore"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "iz njezina boka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "קני",
+      "gloss": "kraka"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "Menore"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "iz njezina boka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:18.223894702Z",
+  "model": "glm-5.3"
+}

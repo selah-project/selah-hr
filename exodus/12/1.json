@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče Jahve Mošeu i Aharonu u zemlji micrajimskoj ⟨rekavši⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimskoj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨rekavši⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:36.458108967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Neće se vratiti u zemlju Micrajim, a Ašur — on je kralj njegov, jer odbiše vratiti se.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vratiti se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "a Ašur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "kralj njegov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odbiše"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "vratiti se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:33.920053613Z",
+  "model": "glm-5.3"
+}

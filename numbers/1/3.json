@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Od dvadeset godina i više, svekoj <sep> tko izlazi u vojsku u Jisraelu, popisat ćete ⟨את⟩ njih po njihovim četama, ti i Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i više"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "u vojsku"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "popisat ćete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "po njihovim četama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:32.860065764Z",
+  "model": "glm-5.3"
+}

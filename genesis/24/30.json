@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 24:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I bi, kad vidje ⟨את⟩ nosnjaču i ⟨את⟩ narukvice na rukama svoje sestre, i kad ču ⟨את⟩ riječi Rivke, sestre svoje, kako govori: Ovako mi reče čovjek — dođe k čovjeku, a ono stoji kod deva kod izvora.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "kad vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nosnjaču"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "nosnjaču"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narukvice"
+    },
+    {
+      "surface": "הצמדים",
+      "gloss": "narukvice"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rukama"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "svoje sestre"
+    },
+    {
+      "surface": "וכשמעו",
+      "gloss": "i kad ču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivke"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sestre svoje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kako govori"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a ono"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kod"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "deva"
+    },
+    {
+      "surface": "על",
+      "gloss": "kod"
+    },
+    {
+      "surface": "העין",
+      "gloss": "izvora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:21.127469474Z",
+  "model": "glm-5.3"
+}

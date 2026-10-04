@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Nasuprot ogradi neka budu kolci, kao kuće za motke da se njima nosi ⟨את⟩ stol.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ogradi"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "kolci"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "kao kuće"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "za motke"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da se nosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:36.601603086Z",
+  "model": "glm-5.3"
+}

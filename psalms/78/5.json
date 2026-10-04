@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Jer podiže svjedočanstvo u Jaakovu, i Toru postavi u Jisraelu, koju zapovjedi ⟨את⟩ ocima našim, da je objave sinovima svojim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svjedočanstvo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "u Jaakovu"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "i Toru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocima našim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ocima našim"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "da je objave"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sinovima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:01.810547080Z",
+  "model": "glm-5.3"
+}

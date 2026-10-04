@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "a ako niste, neka iziđe oganj iz Avimeleha i neka proždere ⟨את⟩ gostare Šekema i ⟨את⟩ dom Millov; i neka iziđe oganj iz gostara Šekema i iz doma Millova i neka proždre ⟨את⟩ Avimeleha.\"",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niste"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "neka iziđe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "iz Avimeleha"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i neka proždre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gostare Šekema (בעלי שכם)"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "gostare"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom Millov (בית מלוא)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millov"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "i neka iziđe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "iz gostara"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekema"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "i iz doma"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milova"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i neka proždre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleha (אבימלך)"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleha"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:27.462763256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Osusušila se kao crijep snaga moja, i jezik mi se prilijepio za čeljusti, i u prah smrti položio si me.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "osusušila se"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kao crijep"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "snaga moja"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "i jezik mi"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "prilijepio"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "za čeljusti"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "i u prah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "položio si me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:13.161418384Z",
+  "model": "glm-5.3"
+}

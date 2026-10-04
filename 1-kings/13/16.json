@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A on reče: Ne mogu se vratiti s tobom ni ući s tobom, niti ću jesti kruh ni piti vodu s tobom na ovome mjestu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A on reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogu"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "se vratiti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ni ući"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti ću"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "piti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:19.400857241Z",
+  "model": "glm-5.3"
+}

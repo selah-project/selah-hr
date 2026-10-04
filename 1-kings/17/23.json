@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I uze Eliyahu ⟨את⟩ dijete, i sveđe ga s gornje sobe u kuću, i predade ga majci njegovoj; i reče Eliyahu: Gle, živ je sin tvoj.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "sveđe ga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "gornje sobe"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i predade ga"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "majci njegovoj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "gle"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sin tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:35.306673540Z",
+  "model": "glm-5.3"
+}

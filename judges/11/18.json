@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I prođe pustinjom, zaobišavši ⟨את⟩ zemlju edomsku i ⟨את⟩ zemlju moapsku, te dođe s istoka sunca u zemlju moapsku i taborio s onu stranu Arnona, a ne uđoše u među moapsku, jer Arnon bijaše međa Moaba.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "prođe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pustinjom"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "zaobišavši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju edomsku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "edomsku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju moapsku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapsku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunca"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapsku"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "taborio"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uđoše"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "u među"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapsku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "međa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:45.023963226Z",
+  "model": "glm-5.3"
+}

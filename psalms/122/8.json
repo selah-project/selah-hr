@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Radi braće svoje i prijatelja svojih govorit ću: mir u tebi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braće svoje"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "i prijatelja svojih"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "govorit ću"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨molim⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:15.378724787Z",
+  "model": "glm-5.3"
+}

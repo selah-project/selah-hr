@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Proklet budeš u gradu i proklet budeš u polju.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "budeš"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "i proklet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "budeš"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:15.709391285Z",
+  "model": "glm-5.3"
+}

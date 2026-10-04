@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Čuvajte se da se srce vaše ne zavede, i da ne skrenete, i ne budete služili bogovima drugim, i ne poklonili im se.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "čuvajte se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "se"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "zavede"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srce vaše"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "i da ne skrenete"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i ne budete služili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "i ne poklonili se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:03.123172314Z",
+  "model": "glm-5.3"
+}

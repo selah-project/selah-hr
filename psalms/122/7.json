@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Neka bude mir u tvojim bedemima, spokoj u tvojim palačama.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "u tvojim bedemima"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "spokoj"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "u tvojim palačama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:15.378597665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I posla Moše ⟨את⟩ njih da izvide ⟨את⟩ zemlju Kenaan, i reče im: Uzađite ovamo u Negev i uzađite ⟨את⟩ goru.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "da izvide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "uzađite"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovamo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "u Negev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "i uzađite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goru"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:21.324807996Z",
+  "model": "glm-5.3"
+}

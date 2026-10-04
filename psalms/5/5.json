@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jer nisi El koji voli nepravednost, zlo se ⟨ne⟩će nastaniti s tobom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "voli"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nepravednost"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "nastaniti se s tobom"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:58.119883293Z",
+  "model": "glm-5.3"
+}

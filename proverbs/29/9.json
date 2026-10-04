@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Čovjek mudar sudi se s ⟨את⟩ čovjekom luđakovskim ⟨i⟩ bjesni ⟨i⟩ smije se ⟨i⟩ nema mira.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "sudi se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjekom luđakovskim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "luđakovski"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "bjesni"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "smije se"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mira"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:37.840887417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Samo dobro i hesed pratit će me sve dane života mog, i prebivat ću u domu Jahvinu ⟨za dugu vremena⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "pratit će me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "života mog"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "i prebivat ću"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "za dugu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "vremena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:44.245073394Z",
+  "model": "glm-5.3"
+}

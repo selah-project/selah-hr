@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Jer vidi ⟨ da ⟩ mudraci umiru, zajedno s luđakom i nerazumnim propadaju, i ostavljaju drugima imetak svoj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mudrace"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "umiru"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđak"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "i nerazumni"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "propadaju"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "i ostavljaju"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "drugima"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "imetak svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:58.833261596Z",
+  "model": "glm-5.3"
+}

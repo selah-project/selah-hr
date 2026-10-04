@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "neka uzmu sebi svećenici, svaki ⟨od⟩ ⟨את⟩ svoga poznanika, i oni neka utvrđuju ⟨את⟩ oštećenja doma, u svemu gdje se nađe ondje oštećenje.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "neka uzmu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od svoga poznanika"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "svoga poznanika"
+    },
+    {
+      "surface": "והם",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "neka utvrđuju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oštećenja doma"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "oštećenja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "oštećenje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:44.434027008Z",
+  "model": "glm-5.3"
+}

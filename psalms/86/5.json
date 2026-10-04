@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Jer ti si Adonaj dobar i spreman oprostiti, i bogat hesedom svima koji te zazivlju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "i spreman oprostiti"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i bogat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "koji te zazivlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.453546463Z",
+  "model": "glm-5.3"
+}

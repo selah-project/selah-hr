@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "On primi iz njihovih ruku, te ⟨את⟩ ga oblikova dlijetom i načini od njega tele lijevano. I rekoše: Ovo su tvoji bogovi, Jisraele, koji su te izveli iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "primi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iz njihovih ruku"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "oblikova"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "dlijetom"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "dlijetom"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "načini od njega"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "lijevano"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoji bogovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "su te izveli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:29.865834286Z",
+  "model": "glm-5.3"
+}

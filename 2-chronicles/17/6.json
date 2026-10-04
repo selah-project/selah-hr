@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I srce mu se uzvisi u putevima Jahvinim, i još ukloni ⟨את⟩ uzvišice i ⟨את⟩ ašere iz Jude.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "uzvisi se"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce njegovo"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "u putevima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinim"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "i još"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzvišice"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "uzvišice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "iz Jude"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:52.429371971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "nego nećeš odrezati ⟨את⟩ hesed svoj od doma mojega do vijeka, ni onda kad Jahve odreže ⟨את⟩ neprijatelje Davidove, svakoga s lica zemlje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nego nećeš"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "odrezati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hesed svoj"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed svoj"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "doma mojega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "kad odreže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neprijatelje Davidove"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidove"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:39.335634408Z",
+  "model": "glm-5.3"
+}

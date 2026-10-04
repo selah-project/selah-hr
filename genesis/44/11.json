@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I pohitaše te spustiše svaki čovjek svoju vreću na zemlju, i otvori svaki čovjek svoju vreću.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "i pohitaše"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "te spustiše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju vreću"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "svoju vreću"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "i otvoriše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "svoju vreću"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.773300979Z",
+  "model": "glm-5.3"
+}

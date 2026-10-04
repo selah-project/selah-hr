@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Pred mnome postavljaš ⟨את⟩ stol nasuprot onima koji me tjesne; uljem mi mažeš glavu, čaša mi je preplavljena.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "postavljaš"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "onima koji me tjesne"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "mažeš"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "uljem"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "čaša"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "preplavljena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:44.244831863Z",
+  "model": "glm-5.3"
+}

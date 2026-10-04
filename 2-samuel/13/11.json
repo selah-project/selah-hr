@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Kad mu približi da jede, on je zgrabi i reče joj: Dođi, lezi sa mnom, sestro moja!",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "približi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da jede"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "on je zgrabi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "Dođi"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "sestro moja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.138901144Z",
+  "model": "glm-5.3"
+}

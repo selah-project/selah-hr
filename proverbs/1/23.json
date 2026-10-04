@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Vratite se na moj ukor; evo, izlit ću na vas svoju ruah, objavit ću vam svoje riječi ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Vratite se"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "na moj ukor"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "izlit ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "svoju ruah"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "objavit ću"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svoje riječi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:16.614295765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ne hvali se danom sutrašnjim, jer ne znaš što će roditi dan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "hvali se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "danom"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutrašnjim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "će roditi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:53.378734284Z",
+  "model": "glm-5.3"
+}

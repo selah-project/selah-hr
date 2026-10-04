@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Od mesa njihova nećete jesti i njihovu strvinu nećete dirati — nečisti su vama.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "od mesa njihova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ćete jesti"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "i strvinu njihovu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ćete dirati"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "nečisti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni su"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:02.954874370Z",
+  "model": "glm-5.3"
+}

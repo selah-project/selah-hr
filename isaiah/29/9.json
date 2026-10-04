@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Zaustavite se i čudite; zaslijepite se i budite slijepi; pijani ste, ali ne vinom; posrćete, ali ne od žestokoga pića.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "zaustavite se"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "i čudite se"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "zaslijepite se"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "i budite slijepi"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "pijani ste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "posrćete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "žestokoga pića"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:43.727797377Z",
+  "model": "glm-5.3"
+}

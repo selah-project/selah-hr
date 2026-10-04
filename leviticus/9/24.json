@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I iziđe oganj ispred Jahve i sažeže na žrtveniku ⟨את⟩ paljenicu i ⟨את⟩ prekomjere; i vidje sav narod, pa kliknuše i padoše na lica svoja.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "sažeže"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prekomjere"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "prekomjere"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "kliknuše"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "lica svoja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:18.864768306Z",
+  "model": "glm-5.3"
+}

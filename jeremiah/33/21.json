@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "tako će se prekršiti i moj savez s ⟨את⟩ Davidom, slugom mojim, da nema sina koji kraljuje na prijestolju njegovu, i ⟨s⟩ ⟨את⟩ levitima svećenicima, poslužiteljima mojim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tako će se i"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moj savez"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "prekršiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida, sluge mojega"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugom mojim"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "da nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "prijestolju njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "levitima svećenicima"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitima"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenicima"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "poslužiteljima mojim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:30:05.527729005Z",
+  "model": "glm-5.3"
+}

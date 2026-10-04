@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Zbog zime lijenčina ne ore; u žetvi će tražiti — i nema ništa.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "zbog zime"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lijenčina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ore"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "tražiti će"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "u žetvi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema ništa"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:28.610444716Z",
+  "model": "glm-5.3"
+}

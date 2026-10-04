@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I dođoše u Maru, ali ne mogoše piti vode iz Mare jer bijahu gorke — zato se prozva ime njezino Mara.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "u Maru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogoše"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "piti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "iz Mare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "gorke"
+    },
+    {
+      "surface": "הם",
+      "gloss": "one (bijahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "prozva"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ime njezino"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Mara"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:40.504577264Z",
+  "model": "glm-5.3"
+}

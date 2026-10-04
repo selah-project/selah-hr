@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I udari ⟨את⟩ Moab, i postaše Moabci sluge Davidu, nosioci minhе.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "postaše"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabci"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosioci"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:59.335725902Z",
+  "model": "glm-5.3"
+}

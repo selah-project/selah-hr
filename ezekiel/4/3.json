@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A ti uzmi sebi željeznu ploču i stavi je ⟨kao⟩ željezni zid između sebe i grada, i uprti lice svoje ⟨את⟩ prema njoj, i neka bude u opsadi, i opsjedat ćeš je; ona je znak domu Jisraelovu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "željeznu ploču"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "željeznu"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ je",
+      "marks": "željezni zid"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "zeljezni zid"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "željezni"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "između sebe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "i uprti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "prema njoj"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i neka bude"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "u opsadi"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "i opsjedat ćeš"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "je"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:53.232863712Z",
+  "model": "glm-5.3"
+}

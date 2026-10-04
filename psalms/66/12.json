@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Dopustio si da smrtnici jašu nad glavama našim; prošli smo kroz oganj i kroz vodu, a izveo si nas ⟨u⟩ obilje.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "dopustio si da jašu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnici"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "nad glavama našim"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "prošli smo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kroz oganj"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i kroz vodu"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "a izveo si nas"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "u obilje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:33.363970992Z",
+  "model": "glm-5.3"
+}

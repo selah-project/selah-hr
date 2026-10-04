@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Saginje se i pritišće da padnu bijednici snagom svojom.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "i pritišće"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "saginje se"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "da padnu"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "snagom svojom"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "bijednici"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.240916597Z",
+  "model": "glm-5.3"
+}

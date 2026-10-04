@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Sretan ⟨onaj⟩ koga izabereš i približiš, da prebiva u tvojim dvorištima; nasitismo se dobrotom kuće tvoje, svetošću hrama tvojega.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sretan"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "izabereš"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "i približiš"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "da prebiva"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "u tvojim dvorištima"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "nasitismo se"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrotom"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kuće tvoje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetošću"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "hrama tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:12.059293902Z",
+  "model": "glm-5.3"
+}

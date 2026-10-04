@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tko ⟨bi⟩ dao čisto iz nečista? Nijedan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bi dao"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisto"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "iz nečista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nijedan"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:56.085428193Z",
+  "model": "glm-5.3"
+}

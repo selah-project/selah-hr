@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Čuj, Jisraele: ti danas prelaziš ⟨את⟩ Jordan da uđeš da zavladaš narodima velikima i moćnijima od tebe, gradovima velikima i utvrđenima do neba.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prelaziš"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "da uđeš"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "da zavladaš"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velikima"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "i moćnijima"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradovima"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "velikima"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "i utvrđenima"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "do neba"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:49.536288662Z",
+  "model": "glm-5.3"
+}

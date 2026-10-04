@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jahve im pomaže i izbavlja ih, izbavlja ih od zlih i spašava ih, jer se u njega zaklanjaju.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "pomaže im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "i izbavlja ih"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "izbavlja ih"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "od zlih"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "i spašava ih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "se zaklanjaju"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:45.973413191Z",
+  "model": "glm-5.3"
+}

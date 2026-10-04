@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jesu li ⟨uopće⟩ bogovi naroda kakvoga izbavili svakoga ⟨את⟩ zemlje svoje iz ruke kralja Asura?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "jesu li ⟨uopće⟩"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "izbavili"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje svoje"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zemlje svoje"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:39.742098689Z",
+  "model": "glm-5.3"
+}

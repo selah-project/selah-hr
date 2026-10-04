@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I postaviše ⟨את⟩ kovčeg Jahvin na kola, i ⟨את⟩ kovčegić, i ⟨את⟩ zlatne miševe, i ⟨את⟩ likove njihovih čireva.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "i postaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kovčegić"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kovčegić"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zlatne miševe"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "miševe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "likove čireva"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "likove"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "čireva njihovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:09.055200637Z",
+  "model": "glm-5.3"
+}

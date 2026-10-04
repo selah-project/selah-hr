@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I bilo je, nakon što su ⟨את⟩ ga prenijeli, da je ruka Jahvina bila na gradu — metež vrlo velik; i udario je ⟨את⟩ ljude grada, od maloga do velikoga, i izbile su na njima otekline.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "što su prenijeli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega — kovčeg Elohimov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "da je bila"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na gradu"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "metež"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udario je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude grada"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od maloga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikoga"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "izbile su"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na njima"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "otekline"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:03.038332705Z",
+  "model": "glm-5.3"
+}

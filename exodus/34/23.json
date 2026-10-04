@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Triput u godini neka se pokaže svaki muškarac tvoj ⟨את⟩ pred licem gospodara Jahve, Elohim Jisraelov.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "triput"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "neka se pokaže"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "muškarac tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "licem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "gospodara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:23.680321Z",
+  "model": "glm-5.3"
+}

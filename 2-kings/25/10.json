@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ zidine Jerušalajima unaokolo sruši sva vojska kaldejska koja ⟨bijaše⟩ uz glavara krvnika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zidine"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidine"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "sruši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldejska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "glavar"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnika"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:38.515800954Z",
+  "model": "glm-5.3"
+}

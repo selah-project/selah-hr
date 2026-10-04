@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Hani je dao jedan dio ⟨za dvoje⟩, jer je ⟨את⟩ Hanu ljubio, a Jahve bijaše zatvorio njezinu utrobu.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "a Hani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "je dao"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "dio"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨za dvoje⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubio"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zatvorio"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "njezinu utrobu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:07.873401032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Udovu, otpuštenu i oskvrnjenu, bludnicu — ⟨את⟩ te neće uzeti; nego djevicu iz svoga naroda uzet će za ženu.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "udovu"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "otpuštenu"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "oskvrnjenu"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "bludnicu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te (udovu, otpuštenu, oskvrnjenu, bludnicu)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "djevicu"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "iz svoga naroda"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzet će"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:50.931837958Z",
+  "model": "glm-5.3"
+}

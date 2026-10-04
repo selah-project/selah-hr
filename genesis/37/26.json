@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I reče Jehuda braći svojoj: Kakva korist ako ubijemo ⟨את⟩ brata svojega i sakrijemo ⟨את⟩ krv njegovu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braći svojoj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "korist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "ubijemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "i sakrijemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv njegovu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:43.209987099Z",
+  "model": "glm-5.3"
+}

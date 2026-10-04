@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Kruniš godinu dobrotom svojom, a staze tvoje kaplju ugoj.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "kruniš"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "godinu"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "dobrotom svojom"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "a staze tvoje"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "kaplju"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ugoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:49.089222218Z",
+  "model": "glm-5.3"
+}

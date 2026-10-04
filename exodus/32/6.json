@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I rano ustadoše sutradan, i prinesoše žrtve paljenice, i prinesoše žrtve zadovoljštine; i sjede narod jesti i piti, pa ustaše da se igraju.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "i rano ustadoše"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i prinesoše"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "i prinesoše"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "žrtve zadovoljštine"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i sjede"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "i piti"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "pa ustaše"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "da se igraju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:24.293131003Z",
+  "model": "glm-5.3"
+}

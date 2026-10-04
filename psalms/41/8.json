@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Zajedno protiv mene šapću svi koji me mrze; protiv mene smišljaju zlo meni.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Zajedno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "šapću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "koji me mrze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "smišljaju"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:11.940567596Z",
+  "model": "glm-5.3"
+}

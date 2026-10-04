@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "Kolika su djela tvoja, Jahve! Veoma su duboke misli tvoje.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kolika"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "su velika"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "djela tvoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "su duboke"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "misli tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:28.147591007Z",
+  "model": "glm-5.3"
+}

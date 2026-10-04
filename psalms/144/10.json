@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "⟨On⟩ koji daje pobjedu kraljevima, koji izbavlja ⟨את⟩ Davida, slugu svojega, od mača zla.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "koji daje"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pobjedu"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kraljevima"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "koji izbavlja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od mača"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.016044966Z",
+  "model": "glm-5.3"
+}

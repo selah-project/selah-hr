@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Gdje su tvoji hesedi prvotni, Adonaje, koje si se zakleo Davidu u svojoj vjernosti?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Gdje su"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedi tvoji"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvotni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "zakleo si se"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "u svojoj vjernosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.081492143Z",
+  "model": "glm-5.3"
+}

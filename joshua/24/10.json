@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I ne htjedoh slušati Bileama, te vas blagoslovi blagoslovom; i izbavih ⟨את⟩ vas iz ruke njegove.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "htjedoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "slušati"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "te blagoslovi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (prvi put)"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "i izbavih"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (drugi put)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iz ruke njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:59.124326626Z",
+  "model": "glm-5.3"
+}

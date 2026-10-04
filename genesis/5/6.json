@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I življeše Šet sto pet godina i rodi ⟨את⟩ Enoša.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življeše"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoša"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoša"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:25.567139358Z",
+  "model": "glm-5.3"
+}

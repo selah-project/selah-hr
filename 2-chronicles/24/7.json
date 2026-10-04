@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Jer Atalija, ⟨ta⟩ zločestica, i njezini sinovi probiše ⟨את⟩ dom Elohim, i sve svete stvari doma Jahvina načiniše za Baale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalija"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "⟨ta⟩ zločestica"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "njezini sinovi"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "probiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svete stvari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "za Baale"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:31.507223882Z",
+  "model": "glm-5.3"
+}

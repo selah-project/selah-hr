@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Osim jutarnje žrtve paljenice, koja je za stalnu žrtvu paljenicu, ⟨את⟩ učinit ćete ⟨את⟩ ove ⟨žrtve⟩.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutarnje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja je"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "za žrtvu paljenicu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stalnu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "",
+      "notes": []
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "⟨את⟩ učinit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ove žrtve"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:27.461858350Z",
+  "model": "glm-5.3"
+}

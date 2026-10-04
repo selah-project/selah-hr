@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 38:35",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Možeš li poslati ⟨את⟩ munje da idu i da ti kažu: Evo nas?",
+  "tokens": [
+    {
+      "surface": "התשלח",
+      "gloss": "možeš li poslati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munje"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "munje"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "da idu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "da kažu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "Evo nas"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:26.119442827Z",
+  "model": "glm-5.3"
+}

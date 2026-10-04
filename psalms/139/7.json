@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Kamo da odem od duha tvojega רוח, i kamo da pobjegnem od lica tvojega?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Kamo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "da odem"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "od ruah tvoje"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "i kamo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "od lica tvojega"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "da pobjegnem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.654734025Z",
+  "model": "glm-5.3"
+}

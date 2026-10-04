@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I porušite ⟨את⟩ žrtvenike njihove, i smrskajte ⟨את⟩ stupove njihove, i ašere njihove spalite u ognju, i rezane likove bogova njihovih posiječite, i uništite ⟨את⟩ ime njihovo s onoga mjesta.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "porušite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenike njihove"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "žrtvenike njihove"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "smrskajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove njihove"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "stupove njihove"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "ašere njihove"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "spalite"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "rezane likove"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogova njihovih"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "posiječite"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "uništite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njihovo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ime njihovo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:10.388908344Z",
+  "model": "glm-5.3"
+}

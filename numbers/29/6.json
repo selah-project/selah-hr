@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 29:6",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Osim paljenice mjesečeve i njezine minhe, i paljenice stalne i njezine minhe, i njihovih ljevanica, po njihovu pravu, na miris ugodan, žrtva ognjena Jahvi.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mjesečeve"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "i njezine minhe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "i paljenice"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stalne"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "i njezine minhe"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "i njihovih ljevanica"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "po njihovu pravu"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "na miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ugodan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žrtva ognjena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:30.150087410Z",
+  "model": "glm-5.3"
+}

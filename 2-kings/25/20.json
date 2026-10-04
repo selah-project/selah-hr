@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I uze ⟨את⟩ njih Nevuzaradan, zapovjednik koljača, i odvede ⟨את⟩ ih k kralju babilonskomu, u Rivlu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (uhijećenike iz st. 18–19)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zapovjednik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "koljača"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i odvede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskomu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "u Rivlu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:24.852795609Z",
+  "model": "glm-5.3"
+}

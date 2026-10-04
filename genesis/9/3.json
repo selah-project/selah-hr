@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Svako živo gmižuće što se kreće neka vam bude za hranu; kao zeleno raslinje dao sam vam ⟨את⟩ sve.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Svako"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gmižuće"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "za hranu"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kao zeleno"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "raslinje"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:23.628131937Z",
+  "model": "glm-5.3"
+}

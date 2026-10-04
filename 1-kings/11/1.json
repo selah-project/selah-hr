@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I kralj Šelomo ljubljaše mnoge tuđe žene, i ⟨את⟩ kći faraonovu: Moabke, Amonke, Edomke, Sidonke i Hitijke.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "I kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubljaše"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "tuđe"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnoge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kći faraonovu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovu"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabke"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amonke"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomke"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidonke"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hitijke"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:52.726232329Z",
+  "model": "glm-5.3"
+}

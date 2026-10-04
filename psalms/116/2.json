@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Jer nagnuo je uho svoje k meni, i po dane svoje ⟨ću⟩ zazivati ⟨ga⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nagnuo je"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "i po dane svoje"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zazivati ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.758798071Z",
+  "model": "glm-5.3"
+}

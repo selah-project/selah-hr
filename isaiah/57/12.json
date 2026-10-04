@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Ja ću obznaniti tvoj cedek i ⟨את⟩ tvoja djela, i neće ti koristiti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ću obznaniti"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvoj cedek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoja djela"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvoja djela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ti koristiti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:38.095708977Z",
+  "model": "glm-5.3"
+}

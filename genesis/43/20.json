@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I rekoše: Molim te, gospodaru moj, doista siđosmo prvi put kupiti hranu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru moj"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "doista siđe"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "siđosmo"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "prvi put"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kupiti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hranu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:22.323768886Z",
+  "model": "glm-5.3"
+}

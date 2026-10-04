@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Nauči me dobru okusa i znanja, jer u tvoje zapovijedi povjerovah.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "okusa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "i znanja"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "Nauči me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "u tvoje zapovijedi"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "povjerovah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:01.021388273Z",
+  "model": "glm-5.3"
+}

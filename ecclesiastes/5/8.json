@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A korist zemlje u svemu ⟨jest⟩: kralj — polju koje se obrađuje ⟨služi⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "a korist"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "polju"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "koje se obrađuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:57.018956134Z",
+  "model": "glm-5.3"
+}

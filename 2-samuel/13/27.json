@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I navalio je na nj Avšalom, te posla ⟨את⟩ s njim ⟨את⟩ Amnona i ⟨את⟩ sve sinove kraljeve.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "I navalio je"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve sinove kraljeve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:06.719745618Z",
+  "model": "glm-5.3"
+}

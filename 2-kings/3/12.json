@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Jehošafat reče: Riječ je Jahvina s njim. I siđoše k njemu kralj Jisraela i Jehošafat i kralj Edoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga — riječ Jahvina koja je s njim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "i siđoše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "i Jehošafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:34.118138702Z",
+  "model": "glm-5.3"
+}

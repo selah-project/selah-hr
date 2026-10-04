@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I napravit ćeš stol od drva šitima: dvije lakte neka mu je dužina, a lakat širina, i lakat i pol visina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "napravit ćeš"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitima"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvije lakte"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a lakat"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "širina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "visina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:55.349423598Z",
+  "model": "glm-5.3"
+}

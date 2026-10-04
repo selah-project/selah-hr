@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Jer sluge su moje, koje sam izveo ⟨את⟩ njih iz zemlje micrajske; ne smiju se prodavati prodajom robovskom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge su moje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "sam izveo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "smiju se prodavati"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "prodajom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "robovskom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:37.670065348Z",
+  "model": "glm-5.3"
+}

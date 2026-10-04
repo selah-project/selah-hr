@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A ovo su imena ljudi koji će stajati ⟨את⟩ s vama: za Reuvena — Elicur, sin Šedeurov.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "su imena"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "će stajati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "s vama — prepozicionalo 's', ne prijelazni את"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "za Reuvena"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elicur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Šedeurov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:16.320566407Z",
+  "model": "glm-5.3"
+}

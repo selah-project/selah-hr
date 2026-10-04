@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I zarobiše sinovi Jisraela ⟨את⟩ žene Midjana i ⟨את⟩ djecu njihovu, i ⟨את⟩ svu stoku njihovu, i ⟨את⟩ svu marvu njihovu, i ⟨את⟩ sve blago njihovo oplijeniše.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "zarobiše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žene Midjana"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "žene"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "djecu njihovu"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "djecu njihovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu stoku njihovu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "stoku njihovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu marvu njihovu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "marvu njihovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve blago njihovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "blago njihovo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "oplijeniše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:53.385500045Z",
+  "model": "glm-5.3"
+}

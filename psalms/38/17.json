@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jer rekoh ⟨da me čuju⟩, da se ne bi veselili nadomnom mene: kad mi noga posrne, oni se protiv mene uzohole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da se ne bi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "veselili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nadomnom mene"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "kad posrne"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moja noga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "uzohole se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.882039980Z",
+  "model": "glm-5.3"
+}

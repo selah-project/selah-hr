@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Kao što se zemlja ori i razbija, raspršene su kosti naše na ustima Šeola.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "ori"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "i razbija"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "raspršene su"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "kosti naše"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na ustima"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šeola"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:35.526120172Z",
+  "model": "glm-5.3"
+}

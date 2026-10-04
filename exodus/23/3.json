@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I siromaha ne povlači u parnici njegovoj.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "i siromaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "povlači"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "u parnici njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:57.669108507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "U svetosti presvetoga jest ćeš jesti ⟨את⟩ to; svaki muškarac smije jesti ⟨את⟩ to; sveto neka bude tebi.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "U svetosti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "presvetoga"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "jest ćeš jesti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarac"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smije jesti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:19.436507018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A zemlja bijaše pusta i prazna, i tama nad licem bezdana, i ruah Elohim lebdijaše nad licem vode.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "A zemlja"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pusta"
+    },
+    {
+      "surface": "ובהvu",
+      "gloss": "i prazna"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "i tama"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bezdana"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lebdijaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:15.497270275Z",
+  "model": "glm-5.3"
+}

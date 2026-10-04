@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Jer Jahve vraća ⟨את⟩ ponos Jaakovov, kao ponos Jisraelov, jer ih isprazniše ispraznjivači i loze njihove upropastiše.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vraća"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponos Jaakovov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ponos"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kao ponos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "isprazniše"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ispraznjivači"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "i loze njihove"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "upropastiše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:23.205988043Z",
+  "model": "glm-5.3"
+}

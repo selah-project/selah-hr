@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Istina će nicati iz zemlje, a cedek će gledati s neba.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Istina"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "će nicati"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "a cedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s neba"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "će gledati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:06.408488677Z",
+  "model": "glm-5.3"
+}

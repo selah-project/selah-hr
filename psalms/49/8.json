@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Brat nikako ne može otkupiti ⟨את⟩ brata, ne može dati Elohimu otkupninu njegovu.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Brat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "nikako otkupiti"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "može otkupiti"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "može dati"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "otkupninu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:48.312351058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Zar ćeš učiniti čudo mrtvima? Zar će reffaim ustati i zahvaljivati ti? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "zar mrtvima"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ćeš učiniti"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "čudo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zar"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "reffaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "će ustati"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "zahvaljivati ti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.147428169Z",
+  "model": "glm-5.3"
+}

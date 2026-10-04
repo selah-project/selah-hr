@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I uze David ⟨את⟩ glavu onoga Pelištejca te je donese u Jerušalajim, a ⟨את⟩ oružje njegovo položi u svoj šator.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "onoga Pelištejca"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "te je donese"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oružje njegovo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "oružje njegovo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "položi"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "u svoj šator"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:35.088467739Z",
+  "model": "glm-5.3"
+}

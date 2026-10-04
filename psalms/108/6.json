@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Uzvisi se, Elohime, iznad nebara, i nad svom zemljom slava tvoja!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "uzvisi se"
+    },
+    {
+      "surface": "על",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "וועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "slava tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.172054743Z",
+  "model": "glm-5.3"
+}

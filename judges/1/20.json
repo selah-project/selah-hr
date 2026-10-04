@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dadoše Kalebu ⟨את⟩ Hebron, kao što je rekao Moše, i istjera odande ⟨את⟩ tri sina Anakovih.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "i dadoše"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "i istjera"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tri sina Anakovih"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anakovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.161220821Z",
+  "model": "glm-5.3"
+}

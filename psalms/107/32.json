@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "I neka ga uzvisuju u zboru naroda, i na sjedištu staraca neka ga hvale.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "i neka ga uzvisuju"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zboru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "i na sjedištu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "staraca"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "neka ga hvale"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:23.521814777Z",
+  "model": "glm-5.3"
+}

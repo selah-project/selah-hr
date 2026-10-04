@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 19:19",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I prijeđe skela da preveze ⟨את⟩ dom kraljev i da učini što je dobro u očima njegovim; a Šimi sin Gerin pade pred kraljem kad je prelazio preko Jordana.",
+  "tokens": [
+    {
+      "surface": "ועברה",
+      "gloss": "I prijeđe"
+    },
+    {
+      "surface": "העברה",
+      "gloss": "skela"
+    },
+    {
+      "surface": "לעביר",
+      "gloss": "da preveze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom kraljev"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "i da učini"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "što je dobro"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "u očima njegovim"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "a Šimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "Gerin"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "בעברו",
+      "gloss": "kad je prelazio"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "preko Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:47.854109307Z",
+  "model": "glm-5.3"
+}

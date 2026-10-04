@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I uzmite ⟨את⟩ svoju braću, ustanite, vratite se k onomu čovjeku,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoju braću"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "svoju braću"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "uzmite"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ustanite"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "vratite se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onomu čovjeku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:59.575388906Z",
+  "model": "glm-5.3"
+}

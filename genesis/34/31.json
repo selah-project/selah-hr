@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "A oni rekoše: Zar s bludnicom da se postupi s ⟨את⟩ sestrom našom?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "zar kao s bludnicom"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "da se postupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sestrom našom"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "sestrom našom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:00.347976045Z",
+  "model": "glm-5.3"
+}

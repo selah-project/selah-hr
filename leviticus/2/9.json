@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I neka svećenik podigne od ⟨את⟩ spomen-dio ⟨את⟩ njezine mine i nek zapali na žrtveniku, oganj ⟨je⟩ miris dahka Jahvi.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "i neka podigne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spomen-dio njezine mine"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "njezin spomen-dio"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i nek zapali"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "oganj-žrtva"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "dahak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:45.368169552Z",
+  "model": "glm-5.3"
+}

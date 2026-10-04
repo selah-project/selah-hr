@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Uši imaju, ali ne slušaju; štoviše, nema ruah u ustima njihovim.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "uši"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imaju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "slušaju"
+    },
+    {
+      "surface": "אף",
+      "gloss": "štoviše"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ima⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "u ustima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:23.099616346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 19:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče Jahve Mošeu: Siđi, opomeni narod, da ne provali k Jahvi da vidi, pa da ne padne od njih mnogo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "רד",
+      "gloss": "siđi"
+    },
+    {
+      "surface": "העד",
+      "gloss": "opomeni"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יהרסו",
+      "gloss": "provali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "pa da ne padne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnogo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:16.877939528Z",
+  "model": "glm-5.3"
+}

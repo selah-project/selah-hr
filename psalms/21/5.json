@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Život zaiska od tebe, dade mu ga — dužinu dana, zauvijek i svagda.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Život"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "zaiska"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dužinu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i svagda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:13.098340749Z",
+  "model": "glm-5.3"
+}

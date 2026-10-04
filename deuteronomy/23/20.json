@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne naplaćuj kamatu bratu svojemu: kamatu na srebro, kamatu na jelo, kamatu na ikoji predmet što se daje na kamatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "naplaćuj kamatu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bratu svojemu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na srebro"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "na jelo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na ikoji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "predmet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "daje na kamatu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:32.445473572Z",
+  "model": "glm-5.3"
+}

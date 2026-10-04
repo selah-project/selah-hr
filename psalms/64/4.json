@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 64,
+  "translation": "Koji su izoštrili kao mač jezik svoj, napeo strelicu svoju — riječ gorka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Koji"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "su izoštrili"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kao mač"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jezik svoj"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "napeo"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "strelicu svoju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:09.702359959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Oko mi vene od nevolje; zazvao sam te, Jahve, svaki dan, raširio sam k sebi dlanove svoje.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "vene"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevolje"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "zazvao sam te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "raširio sam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dlanove svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.147262352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I svećenik će uzeti košaricu iz tvoje ruke i položit će je pred žrtvenik Jahve, Elohima tvojega.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uzet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "košaricu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz tvoje ruke"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "položit će je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:31.706613775Z",
+  "model": "glm-5.3"
+}

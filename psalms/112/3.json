@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Bogatstvo i koplje ⟨u⟩ njegovoj su kući, i njegova cedek stoji zauvijek.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Bogatstvo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "i blago"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨u⟩ njegovoj su kući"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "i njegova cedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.632207307Z",
+  "model": "glm-5.3"
+}

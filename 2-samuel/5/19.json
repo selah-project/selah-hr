@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 5:19",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I upita David Jahvu govoreći: Hoću li se podići na Pelešćane, hoćeš li ih predati u moju ruku? I reče Jahve Davidu: Podigni se, jer ću zacijelo predati ⟨את⟩ Pelešćane u tvoju ruku.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "hoću li se podići"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelešćane"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "hoćeš li ih predati"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "u moju ruku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "⟨Davidu⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "podigni se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predati"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću predati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelešćane"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelešćane"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvoju ruku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:10.689572025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dođe Jahve, i stade, i zovnu kao i prije: Šemuele, Šemuele. I reče Šemuel: Govori, jer sluša sluga tvoj.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zovnu"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kao i prije"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kao prije"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sluša"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:33.180150677Z",
+  "model": "glm-5.3"
+}

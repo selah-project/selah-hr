@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Izvede ih iz tame i smrtne sjene, i okove njihove raskida.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "izvede ih"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "iz tame"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "i smrtne sjene"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "i okove njihove"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "raskida"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:40.769583090Z",
+  "model": "glm-5.3"
+}

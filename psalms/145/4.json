@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Naraštaj naraštaju slavit tvoja djela, i tvoju silu objavit.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Naraštaj"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "slavit"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvoja djela"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "tvoju silu"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "objavit"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.985053876Z",
+  "model": "glm-5.3"
+}

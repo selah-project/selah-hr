@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ junca i ⟨את⟩ kožu njegovu i ⟨את⟩ meso njegovo i ⟨את⟩ izmet njegov spali ognjem izvan tabora, kako Jahve zapovjedi ⟨את⟩ Mošeu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kožu njegovu"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "koža njegova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meso njegovo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "meso njegovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izmet njegov"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "izmet njegov"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:06.339171312Z",
+  "model": "glm-5.3"
+}

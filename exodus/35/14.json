@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "i ⟨את⟩ menoru svjetla i ⟨את⟩ njezin pribor i ⟨את⟩ njezine svjetiljke i ⟨את⟩ ulje za svjetlo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menora svjetla"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "svjetla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pribor njezin"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pribor njezin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svjetiljke njezine"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "svjetiljke njezine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulje za svjetlo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "za svjetlo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:35.071624614Z",
+  "model": "glm-5.3"
+}

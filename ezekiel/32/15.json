@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 32:15",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Kad dadem ⟨את⟩ zemlju micrajimsku u pustoš, i opustoši se zemlja svega što ju je ispunjavalo, kad pobijem ⟨את⟩ sve stanovnike njezine, tada će spoznati da sam ja Jahve.",
+  "tokens": [
+    {
+      "surface": "בתתי",
+      "gloss": "kad dadem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju micrajimsku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "u pustoš"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "i opustoši se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ממלאה",
+      "gloss": "svega što ju je ispunjavalo"
+    },
+    {
+      "surface": "בהכותי",
+      "gloss": "kad pobijem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve stanovnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njezine"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "tada će spoznati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T18:46:00.249771989Z",
+  "model": "glm-5.3"
+}

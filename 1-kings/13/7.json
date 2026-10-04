@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče kralj čovjeku Elohimovu: Dođi sa mnom ⟨את⟩ kući i okrijepi se, i dat ću ti dar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kući"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "i okrijepi se"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:30.847560Z",
+  "model": "glm-5.3"
+}

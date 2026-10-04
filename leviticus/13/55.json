@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I neka pogleda svećenik nakon što je opran ⟨את⟩ čir, i gle, ako čir nije promijenio ⟨את⟩ svoj izgled i čir se nije proširio — nečisto je; u vatri ga spali; to je udubina, bilo na prednjoj bilo na stražnjoj strani.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i neka pogleda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "što je opran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čir"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "čir"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "promijenio"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "čir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj izgled"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "svoj izgled"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "i čir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "proširio se"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto je"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u vatri"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "spali ga"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "udubina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "na prednjoj strani"
+    },
+    {
+      "surface": "או",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "na stražnjoj strani"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:21.230474254Z",
+  "model": "glm-5.3"
+}

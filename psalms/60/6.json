@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Dao si onima koji te se boje stijeg, da se podigne zbog istine. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "dao si"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "onima koji te se boje"
+    },
+    {
+      "surface": "נס",
+      "gloss": "stijeg"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "da se podigne"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "istine"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:56.732993649Z",
+  "model": "glm-5.3"
+}

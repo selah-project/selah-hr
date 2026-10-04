@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Jer stoji zdesna siromahu, da ga spasi od onih koji osuđuju dušu njegovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "zdesna"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "da spasi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "od onih koji osuđuju"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dušu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:45.851252651Z",
+  "model": "glm-5.3"
+}

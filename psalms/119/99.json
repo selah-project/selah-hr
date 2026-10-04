@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Od svih mojih učitelja razumnijim ⟨sam postao⟩, jer je Tvojih svjedočanstava razmišljanje ⟨meni⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Od svih"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mojih učitelja"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "razumnijim ⟨sam postao⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Tvojih svjedočanstava"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "razmišljanje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:20.970055624Z",
+  "model": "glm-5.3"
+}

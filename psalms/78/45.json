@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Posla među njih roj mušica, i izjede ih, i žabe, i upropasti ih.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Posla"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "među njih"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "roj mušica"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "i izjede ih"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "i žabe"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "i upropasti ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:21.476168432Z",
+  "model": "glm-5.3"
+}

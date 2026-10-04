@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Davidovo, kad je pred Avimelehom mijenjao ⟨את⟩ svoje ponašanje, a on ga otjera i on ode.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "kad je mijenjao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ponašanje"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "svoje ponašanje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehom"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "a on ga otjera"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i on ode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:03.415586402Z",
+  "model": "glm-5.3"
+}

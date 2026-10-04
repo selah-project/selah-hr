@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Došljak i najamnik neka ne jedu od njega.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "došljak"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "i najamnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka jedu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:56.384023811Z",
+  "model": "glm-5.3"
+}

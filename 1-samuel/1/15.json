@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Hana odgovori i reče: Ne, gospodaru moj! Žena tvrda duha ⟨ruah⟩ sam ja; i vino i žestoko piće nisam pila, nego sam prolila ⟨את⟩ svoju dušu pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru moj"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Žena"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tvrda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duha ⟨ruah⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "i vino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i žestoko piće"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "pila"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "nego sam prolila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju dušu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoju dušu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:09.454554261Z",
+  "model": "glm-5.3"
+}

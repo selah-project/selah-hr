@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I opet sam vidio pod suncem: na mjestu suda — ondje je opačina, i na mjestu cedeka — ondje je opačina.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "i opet"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sam vidio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "suda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "opačina"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "i na mjestu"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "opačina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.468646954Z",
+  "model": "glm-5.3"
+}

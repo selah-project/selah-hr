@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I poče Noa, čovjek zemlje, saditi vinograd.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "I poče"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "saditi"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinograd"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:03.589568036Z",
+  "model": "glm-5.3"
+}

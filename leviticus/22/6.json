@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Duša koja ga dotakne bit će nečista do večeri i neće jesti od svetih stvari, osim ako opere svoje tijelo u vodi.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Duša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "dotakne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "bit će nečista"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetih stvari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "opere"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "svoje tijelo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:59.874704271Z",
+  "model": "glm-5.3"
+}

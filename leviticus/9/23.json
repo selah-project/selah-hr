@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I uđe Moše i Aharon u Šator sastanka, pa iziđoše i blagosloviše ⟨את⟩ narod, i pokaza se slava Jahvina cijelome narodu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "iziđoše"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "blagosloviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "pokaza se"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijelome"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:18.864579510Z",
+  "model": "glm-5.3"
+}

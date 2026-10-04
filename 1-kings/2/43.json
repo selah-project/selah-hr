@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zašto onda nisi čuvao ⟨את⟩ zakletve Jahvine i ⟨את⟩ zapovijedi koju sam ti naredio?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "zašto onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "čuvao si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zakletve"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zakletve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "i zapovijedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "sam naredio"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:31.608572336Z",
+  "model": "glm-5.3"
+}

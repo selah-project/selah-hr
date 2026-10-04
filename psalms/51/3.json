@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Smiluj mi se, Elohim, po svojem hesedu, po množini svojih samilosti izbriši moje prijestupe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj mi se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "po svojem hesedu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "po množini"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svojih samilosti"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "izbriši"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "moje prijestupe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.581663051Z",
+  "model": "glm-5.3"
+}

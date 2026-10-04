@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A svećenik koji prinese ⟨את⟩ paljenicu nekoga čovjeka — koža od paljenice koju je prinio, njemu neka bude.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "a svećenik"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "koji prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paljenicu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nekoga čovjeka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koža"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "od paljenice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "je prinio"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:32.135354703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A svaka duša koja pojede strvinu ili rastrganu životinju, domorodac ili dođoš, neka opere svoju odjeću, okupa se u vodi i bit će nečist do večeri — pa će biti čist.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a svaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "pojede"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "strvinu"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ili rastrganu životinju"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "domorodac"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ili dođoš"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "neka opere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svoju odjeću"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "okupa se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "bit će nečist"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "pa će biti čist"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:11.496011851Z",
+  "model": "glm-5.3"
+}

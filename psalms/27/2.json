@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Kad se zlodjeli približiše meni da prožderu ⟨את⟩ tijelo moje, tlačitelji moji i neprijatelji moji — oni posrnuše i padoše.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "kad se približiše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlodjeli"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da prožderu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tijelo moje"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tijelo moje"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "tlačitelji moji"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "i neprijatelji moji"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "posrnuše"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i padoše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:29.183937632Z",
+  "model": "glm-5.3"
+}

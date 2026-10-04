@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "⟨את⟩ svoje srebro ne daj mu u nešek, i uz marbit ne daj svoju hranu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje srebro"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "svoje srebro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "u nešek"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "i uz marbit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "svoju hranu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:40.378102227Z",
+  "model": "glm-5.3"
+}

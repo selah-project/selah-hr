@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I rekoše mu: Gdje je Sara, žena tvoja? A on reče: Evo je ⟨u⟩ šatoru.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "žena tvoja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo je"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šatoru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:25.938826037Z",
+  "model": "glm-5.3"
+}

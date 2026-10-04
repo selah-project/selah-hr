@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ ove ćete od ptica držati na gnusobu: ne smiju se jesti, gnusoba su: ⟨את⟩ orao i ⟨את⟩ sup i ⟨את⟩ orao ribič.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ove"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "držat ćete na gnusobu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "smiju se jesti"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orao"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sup"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "sup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orao ribič"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "orao ribič"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:54.799831554Z",
+  "model": "glm-5.3"
+}

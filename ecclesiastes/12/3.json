@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "U dan kada zadrhte čuvari kuće i sagnu se ljudi snage, i mlinovi stanu jer ih je malo, i potamniju oni što gledaju kroz rešetke.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "kada zadrhte"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "čuvari"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "i sagnu se"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "snage"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "i stanu"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "mlinovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ih je malo"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "i potamniju"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "oni što gledaju"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "kroz rešetke"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:31.798101636Z",
+  "model": "glm-5.3"
+}

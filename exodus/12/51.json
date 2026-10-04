@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I dogodi se toga istoga dana: Jahve izvede ⟨את⟩ sinove Jisraelove iz zemlje micrajimske, po svojim četama.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "upravo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tega dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toga istoga"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "izvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimske"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "svojim četama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:26.337645787Z",
+  "model": "glm-5.3"
+}

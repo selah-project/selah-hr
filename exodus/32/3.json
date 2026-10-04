@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I sav narod skide sa sebe ⟨את⟩ zlatno prstenje što bijaše na njihovim ušima, i donesoše Aharonu.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "skide sa sebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatno prstenje"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "prstenje"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "na njihovim ušima"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i donesoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:29.865647236Z",
+  "model": "glm-5.3"
+}

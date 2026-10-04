@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I još više se počne bojati Šaul pred Davidom, i bijaše Šaul neprijatelj ⟨את⟩ Davidu sve dane.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i još više se počne"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "bojati"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:34.290180970Z",
+  "model": "glm-5.3"
+}

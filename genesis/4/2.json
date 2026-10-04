@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I nastavi rađati ⟨את⟩ brata njegova, ⟨את⟩ Hevela. I bijaše Hevel pastir stada, a Kajin bijaše radnik tla.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "i nastavi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "rađati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata njegova, Hevela"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevela"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastir"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "a Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "radnik"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tla"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:33.545748887Z",
+  "model": "glm-5.3"
+}

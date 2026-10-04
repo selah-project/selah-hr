@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Zborovođi. Pjesma, mizmor. Kličite Elohimu, sva zemlja!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Kličite"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:41.868504459Z",
+  "model": "glm-5.3"
+}

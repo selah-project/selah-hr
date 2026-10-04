@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Jahve, spasi ⟨את⟩ kralja! Neka nas odgovori u dan kad ga zazovemo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "neka nas odgovori"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "kad ga zazovemo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:43.423073777Z",
+  "model": "glm-5.3"
+}

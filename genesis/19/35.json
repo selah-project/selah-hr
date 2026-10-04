@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I napojiše i te noći ⟨את⟩ oca svojega vinom, pa ustane mlađa i leže s njim; a on nije znao ni kad je ona legla ni kad je ustala.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "I napojiše"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "te noći"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "pa ustane"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "mlađa"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "i leže"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nije"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znao"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "kad je legla"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "ni kad je ustala"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:27.048220815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Pozva ⟨Jahve⟩ Mošea i progovori njemu iz Šatora sastanka, govoreći:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Pozva"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "progovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "iz Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.424030085Z",
+  "model": "glm-5.3"
+}

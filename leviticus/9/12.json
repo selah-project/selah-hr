@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I zakolje ⟨את⟩ žrtvu paljenicu, i prinesu sinovi Aharonovi k njemu ⟨את⟩ krv, te je poškropi po žrtveniku unaokolo.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i prinesu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "te je poškropi"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.367092059Z",
+  "model": "glm-5.3"
+}

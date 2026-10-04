@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Posla kralj i odriješi ga, vladar naroda, i oslobodi ga.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Posla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "i odriješi ga"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vladar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "i oslobodi ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.391698602Z",
+  "model": "glm-5.3"
+}

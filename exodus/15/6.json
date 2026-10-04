@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tvoja desnica, Jahve, sjajna je u sili; tvoja desnica, Jahve, satire neprijatelja.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "tvoja desnica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "sjajna je"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "u sili"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoja desnica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "satire"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:52.923818144Z",
+  "model": "glm-5.3"
+}

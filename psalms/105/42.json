@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Jer se spomenu ⟨את⟩ riječi svoje svetosti, ⟨את⟩ Avrahama, sluge svojega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "se spomenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi svoje svetosti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svoje svetosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama, sluge svojega"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sluge svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:44.916580269Z",
+  "model": "glm-5.3"
+}

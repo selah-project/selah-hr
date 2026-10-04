@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I podiže Moše ⟨את⟩ ruku svoju i udari ⟨את⟩ stijenu štapom svojim dva puta, i izađe vode obilno, pa pi zbor i stoka njihova.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stijenu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "štapom svojim"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dva puta"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i izađe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "obilno"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "pa pi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "i stoka njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:24.399302230Z",
+  "model": "glm-5.3"
+}

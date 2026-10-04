@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reći ćeš u onaj dan: Zahvaljit ću te, Jahve, jer si se rasrdio na mene, ali se srdžba tvoja odvrati i ti me tješiš.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "i reći ćeš"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "zahvaljit ću te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "si se rasrdio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "odvrati se"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "srdžba tvoja"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "i tješiš me"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:12.068916849Z",
+  "model": "glm-5.3"
+}

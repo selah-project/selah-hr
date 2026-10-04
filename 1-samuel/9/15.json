@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A Jahve bijaše otkrio ⟨את⟩ uho Šemuelu jedan dan prije Šaulova dolaska, rekavši:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otkri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uho Šemuelovo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prije"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dolaska"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:40.282353257Z",
+  "model": "glm-5.3"
+}

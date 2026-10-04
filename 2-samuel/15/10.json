@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I posla Avšalom uhode po svim plemenima Jisraela da kažu: Čim čujete ⟨את⟩ glas roga, tada recite: Avšalom zakralji se u Hevronu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "uhode"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svim"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemenima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da kažu"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "čim čujete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "roga"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "tada recite"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "zakralji se"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:46.625082083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Povući će se natrag, posve će se postidjeti oni koji se uzdaju u kip isklesan, koji govore lijevanom slici: Vi ste naši bogovi.",
+  "tokens": [
+    {
+      "surface": "נסגו",
+      "gloss": "povući će se natrag"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "postidjeti će se"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "posve ⟨u sramotu⟩"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "koji se uzdaju"
+    },
+    {
+      "surface": "בפסל",
+      "gloss": "u kip isklesan"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "koji govore"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "lijevanoj slici"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ste naši bogovi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:47.248400505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 10:18",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I krenu zastora tabora Rubenovih po njihovim vojskama, a nad njegovom vojskom ⟨bi⟩ Elicur, sin Šedeurov.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "i krenu"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "zastora"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenovih"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "po njihovim vojskama"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "njegovom vojskom"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elicur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Šedeurov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:49.017968967Z",
+  "model": "glm-5.3"
+}

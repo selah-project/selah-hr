@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I napisa svećenik ⟨את⟩ ove kletve u knjigu, i obriše ih u gorku vodu.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "i napisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kletve"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "kletve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "u knjigu"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "i obriše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "gorku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:20.310951662Z",
+  "model": "glm-5.3"
+}

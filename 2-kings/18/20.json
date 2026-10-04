@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Rečeš: samo riječ usana — savjet i junštvo za rat. Sada: u koga se uzdaš, kad si se pobunio protiv mene?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "rečeš"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "usana"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "savjet"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "i junštvo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za rat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koga"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "se uzdaš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "si se pobunio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:21.119379083Z",
+  "model": "glm-5.3"
+}

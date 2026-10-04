@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Savez sklopio ⟨sam⟩ s izabranikom svojim, zakleo ⟨sam⟩ se Davidu, sluzi svojem.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "sklopio ⟨sam⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "s izabranikom svojim"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "zakleo ⟨sam⟩ se"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluzi svojem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:37.702632583Z",
+  "model": "glm-5.3"
+}

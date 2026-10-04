@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I sa ženom svoga bližnjega ne daj svoje sjeme ljudanja, da se ne okaljaš s njom.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženom"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "svoga bližnjega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "svoje ljudanje"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "da se ne okaljaš"
+    },
+    {
+      "surface": "בה",
+      "gloss": "s njom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:59.528210047Z",
+  "model": "glm-5.3"
+}

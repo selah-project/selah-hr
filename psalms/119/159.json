@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Pogledaj kako sam ljubio tvoje naredbe, Jahve; po svome hesedu poživi me.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kako"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubio sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "po svome hesedu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "poživi me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.570175997Z",
+  "model": "glm-5.3"
+}

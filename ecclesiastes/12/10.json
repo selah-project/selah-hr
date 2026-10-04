@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Kohelet je tražio da nađe riječi koje su milina, a napisano ⟨je to⟩ pravo — riječi istine.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "tražio je"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "naći"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "koje su milina"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "a napisano"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:19.664766176Z",
+  "model": "glm-5.3"
+}

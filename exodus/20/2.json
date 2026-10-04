@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ja sam Jahve, Elohim tvoj, koji sam te izveo iz zemlje micrajske, iz kuće robovske.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "sam te izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:38.089610196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "A oni mu rekoše: San sanjasmo, a tumača — nema ⟨את⟩ ga. Nato im reče Josef: Zar nisu od Elohima tumačenja? Ispričajte mi, molim vas.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rekoše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "sanjasmo"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "a tumača"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "tumača"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "od Elohima"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "tumačenja"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ispričajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim vas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:43.458302086Z",
+  "model": "glm-5.3"
+}

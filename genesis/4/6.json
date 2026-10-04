@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče Jahve Kajinu: Zašto si se rasrdio i zašto ti je lice palo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajinu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "si se rasrdio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "je palo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:53.156842824Z",
+  "model": "glm-5.3"
+}

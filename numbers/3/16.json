@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I prebroji Moše ⟨את⟩ njih po nalogu Jahvinu, kako bijaše zapovjeđeno.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i prebroji"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nalogu (doslovno: ustima)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bijaše zapovjeđeno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:14.170635469Z",
+  "model": "glm-5.3"
+}

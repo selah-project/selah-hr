@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I izvede ⟨את⟩ kraljeva sina i stavi na njega ⟨את⟩ nezer i ⟨את⟩ svjedočanstvo, pa ga zakraljiše i pomazaše ga, i pljesnuše rukama i rekoše: Živio kralj!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljeva sina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svjedočanstvo"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svjedočanstvo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "pa zakraljiše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "i pomazaše ga"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i pljesnuše"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlanom"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Živio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:24.004769741Z",
+  "model": "glm-5.3"
+}

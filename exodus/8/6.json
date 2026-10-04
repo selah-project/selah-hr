@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče: Za sutra. A on reče: ⟨Bit će⟩ po riječi tvojoj, da bi znao da nema nikoga ⟨kao⟩ Jahve, Elohim naš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "za sutra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "po riječi tvojoj"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "znao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema nikoga"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kao Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:36.521525067Z",
+  "model": "glm-5.3"
+}

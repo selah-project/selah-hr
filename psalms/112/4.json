@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Granu ⟨u⟩ tami svjetlost ispravnima: milostiv i milosrdan i pravedan.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Granu"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "⟨u⟩ tami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ispravnima"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "milostiv"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "i milosrdan"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "i pravedan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.632394078Z",
+  "model": "glm-5.3"
+}

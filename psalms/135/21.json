@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Blagoslovljen bio Jahve sa Ciona, koji prebiva u Jerušalajimu. Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen bio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "sa Ciona"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "koji prebiva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:41.190541694Z",
+  "model": "glm-5.3"
+}

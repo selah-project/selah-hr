@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I vratio se Jehošua u to vrijeme, i zauzeo ⟨את⟩ Hacor, a ⟨את⟩ njezina kralja porazio mačem — jer Hacor bijaše prije glava svih tih kraljevstava.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vratio se"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "to"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zauzeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hacor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezina kralja"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "njezina kralja"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazio"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "prije"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "kraljevstava"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:55.076035864Z",
+  "model": "glm-5.3"
+}

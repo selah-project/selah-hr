@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I naredi svećenik, i zakolje ⟨את⟩ pticu jednu, uz posudu od lončarine, nad vodom živom.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i naredi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pticu jednu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "pticu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posudu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "od lončarine"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:43.148437260Z",
+  "model": "glm-5.3"
+}

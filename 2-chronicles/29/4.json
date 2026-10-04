@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I dovede ⟨את⟩ svećenike i ⟨את⟩ levite, i skupi ih na istočni trg.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenike"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "i skupi ih"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "na trg"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "istočni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:55.556000249Z",
+  "model": "glm-5.3"
+}

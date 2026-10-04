@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Volju onih koji ga se boje izvršit će, i ⟨את⟩ njihov vapaj čut će i spasit će ih.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Volju"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "onih koji ga se boje"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "izvršit će"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihov vapaj"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "njihov vapaj"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "čut će"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "i spasit će ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.681756251Z",
+  "model": "glm-5.3"
+}

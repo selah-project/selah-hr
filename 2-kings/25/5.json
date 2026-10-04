@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I progoni četa kasdimska kralja, te ga sustigoše u poljima Jeriha; i sva se njegova četa razbježa od njega.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "i progoni"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "četa"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdimska"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "te ga sustigoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "u poljima"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "njegova četa"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "razbježa se"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:45.373914942Z",
+  "model": "glm-5.3"
+}

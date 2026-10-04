@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A tomu narodu reći ćeš: Ovako reče Jahve: Evo, stavljam pred vas ⟨את⟩ put života i ⟨את⟩ put smrti.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a tomu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "reći ćeš"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stavljam"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "put života"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "put smrti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:22.184399852Z",
+  "model": "glm-5.3"
+}

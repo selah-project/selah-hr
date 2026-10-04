@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I opet bijaše rat ⟨את⟩ Filistejaca; i udari Elhanan, sin Jaorov, ⟨את⟩ Lahmija, brata Golijata Gitijca, a drvo njegova koplja kao greda tkalačkoga stana.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistejaca"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Jaorov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lahmija"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lahmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golijata"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitijac"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "a drvo"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "njegova koplja"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "kao greda tkalačkoga stana"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "tkalačkoga stana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:16.689134245Z",
+  "model": "glm-5.3"
+}

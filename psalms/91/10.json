@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Neće te zadesiti zlo, i pošast se neće približiti šatoru tvojemu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "zadesiti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "i pošast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "približiti se"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "šatoru tvojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.278053459Z",
+  "model": "glm-5.3"
+}

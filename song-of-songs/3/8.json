@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Svi drže mač, uvježbani u boju; svakomu je mač njegov na stegnu njegovu, zbog noćnoga straha.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "drže"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "uvježbani"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "u boju"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakomu"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mač njegov"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "stegnu njegovu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "zbog straha"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "noćnoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:13.646656349Z",
+  "model": "glm-5.3"
+}

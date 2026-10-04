@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Jahve, usliši molitvu moju, i vika moja neka k tebi dođe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "usliši"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitvu moju"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "i vika moja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "neka dođe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:11.535497205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 13:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ako se krasta ipak proširi po koži nakon što se pokazao svećeniku radi svojega čišćenja, neka se pokaže svećeniku po drugi put.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "raširiti se"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "proširi se"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "krasta"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "po koži"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הראתו",
+      "gloss": "što se pokazao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "radi svojega čišćenja"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "neka se pokaže"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "po drugi put"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:26.306098564Z",
+  "model": "glm-5.3"
+}

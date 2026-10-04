@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Neka prionе jezik moj uz nepca moja ako tebe ne spomnem, ako ne postavim Jerušalajim ⟨את⟩ na vrh radosti svoje.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "neka prione"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "jezik moj"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "uz nepca moja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "tebe ne spomnem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ne postavim na vrh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrh"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "radosti svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:18.774929959Z",
+  "model": "glm-5.3"
+}

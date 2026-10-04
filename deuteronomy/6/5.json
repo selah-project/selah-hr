@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I ljubit ćeš ⟨את⟩ Jahvu, Elohim svojega, svim srcem svojim, i svom dušom svojom ⟨ nefesh ⟩, i svom snagom svojom.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "i ljubit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dušom svojom ⟨nefesh⟩"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "snagom svojom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:42.224699087Z",
+  "model": "glm-5.3"
+}

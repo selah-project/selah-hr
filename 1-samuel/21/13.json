@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I David položi ⟨את⟩ te riječi u svoje srce, i silno se poboja od Akisa, kralja gatskoga.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "te riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "u svoje srce"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i poboja se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "silno"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גת",
+      "gloss": "gatski"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:48.797367637Z",
+  "model": "glm-5.3"
+}

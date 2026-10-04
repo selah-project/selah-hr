@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I stavi u moja usta pjesmu novu, hvalu Elohimu našemu; mnogi će vidjeti i bojati se, i uzdati se u Jahvu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "u moja usta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hvalu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimu našemu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i bojati se"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "i uzdati se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:14.126044087Z",
+  "model": "glm-5.3"
+}

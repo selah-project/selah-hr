@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Po svoj zemlji izlazi njihov konopac, i do kraja svijeta njihove riječi; suncu je postavio šator u njima.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "njihov konopac"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "i do kraja"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijeta"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "njihove riječi"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "suncu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavio"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:32.708243907Z",
+  "model": "glm-5.3"
+}

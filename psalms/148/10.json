@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Zvijeri i sva stada, gmazovi i ptice krilate,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "zvijeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "stada"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gmazovi"
+    },
+    {
+      "surface": "ו צפור",
+      "gloss": "i ptice"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "krilate"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:32.773822448Z",
+  "model": "glm-5.3"
+}

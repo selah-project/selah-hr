@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ljubit ćeš ⟨את⟩ Jahvu, Elohim svojega, i čuvat ćeš njegovo čuvanje, i njegove odredbe, i njegove sudove, i njegove zapovijedi sve dane.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "i ljubit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "i čuvat ćeš"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "njegovo čuvanje"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "i njegove odredbe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i njegove sudove"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "i njegove zapovijedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:43.877280614Z",
+  "model": "glm-5.3"
+}

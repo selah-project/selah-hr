@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Zborovođi. Davidov. Reče bezumnik u srcu svojem: \"Nema Elohim.\" Pokvarili su se, gnusno radili djela; nema tko čini dobro.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bezumnik"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu svojem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pokvarili su se"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "gnusno radili"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "djela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:27.843176653Z",
+  "model": "glm-5.3"
+}

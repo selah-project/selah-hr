@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reći ćeš mu: Jahve, Elohim Hebreja, posla me k tebi da kažem: Pusti ⟨את⟩ moj narod da mi služi u pustinji; a evo, do sada nisi poslušao.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "i reći ćeš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreja"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "posla me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da kažem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "da mi služi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a evo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si poslušao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sada"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:52.349486210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I podiže ⟨את⟩ stupove pred lice hramova, jedan zdesna i jedan slijeva; i dade ime desnome Jakin, a ime lijevome Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stupove"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hramova"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "zdesna"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "i jedan"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "slijeva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i daje ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "desnome"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "lijevome"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-04T20:06:53.472505491Z",
+  "model": "glm-5.3"
+}

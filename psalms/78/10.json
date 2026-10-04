@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Ne sačuvaše saveza Elohimova i u Tori njegovoj odbiše hoditi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sačuvaše"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "i u Tori njegovoj"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odbiše"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hoditi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.490295251Z",
+  "model": "glm-5.3"
+}

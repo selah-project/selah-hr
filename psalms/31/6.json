@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "U tvoju ruku predajem svoju ruah; otkupio si ⟨את⟩ mene, Jahve, Elu istine.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "u tvoju ruku"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "predajem"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "svoju ruah"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "otkupio si"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.273621668Z",
+  "model": "glm-5.3"
+}

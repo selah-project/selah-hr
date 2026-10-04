@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i da biš pripovijedao u ušima sina svojega i sina sina svojega ⟨את⟩ ono što sam učinio u Micrajimu i ⟨את⟩ znamenja svoja koja sam stavio u njih, i da znate da sam ja Jahve.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "i da biš"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "pripovijedao"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "u ušima"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i sina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što sam učinio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "znamenja svoja"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "znamenja svoja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "sam stavio"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njih"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i da znate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:15.072691424Z",
+  "model": "glm-5.3"
+}

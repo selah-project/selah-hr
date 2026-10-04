@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Eno, ti si čuo ⟨את⟩ ono što učiniše kraljevi Ašura svim zemljama da ih posve zatru, i ti da se izbaviš?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si čuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što učiniše kraljevi Ašura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemljama"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "da ih posve zatru"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i ti"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "da se izbaviš"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:36.235607570Z",
+  "model": "glm-5.3"
+}

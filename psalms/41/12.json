@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Po ovome znam da mi naklonjen jesi, jer neprijatelj moj ne klice nada mnom.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "po ovome"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "naklonjen jesi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "klice"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelj moj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.877998069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Kako je zapovjedio Jahve ⟨את⟩ Mošeu, tako učiniše sinovi Jisraelovi, i razdijeliše ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "i razdijeliše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:28.989814438Z",
+  "model": "glm-5.3"
+}

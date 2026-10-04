@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče: Reci, molim te, Šelomu kralju, jer on neće odbiti ⟨את⟩ lice tvoje, i neka mi da ⟨את⟩ Avišag Šunamku za ženu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "reci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "će odbiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice tvoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i neka da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avišag Šunamku"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avišag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Šunamka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:44.831791895Z",
+  "model": "glm-5.3"
+}

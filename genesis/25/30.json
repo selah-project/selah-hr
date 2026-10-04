@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I reče Esav Jaakovu: Daj mi da progutam, molim te, od toga crvenoga, toga crvenoga, jer sam iznemogao. Zato se prozva ime njegovo Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jaakovu (kome)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "daj mi da progutam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "crvenoga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "crvenoga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "iznemogao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato (na to)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "prozva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:15.546255827Z",
+  "model": "glm-5.3"
+}

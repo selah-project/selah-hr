@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I Ješua rodi ⟨את⟩ Jojakima, a Jojakim rodi ⟨את⟩ Eljašiva, i Eljašiv ⟨את⟩ Jojadu.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "i Ješua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakima"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakima"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "a Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljašiva"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljašiva"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "i Eljašiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojadu"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojadu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:58:28.618106535Z",
+  "model": "glm-5.3"
+}

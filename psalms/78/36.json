@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Ali varali su ga ustima svojim, i jezikom svojim lagali su mu.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "varali su ga"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ustima svojim"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "i jezikom svojim"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "lagali su"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:18.411167954Z",
+  "model": "glm-5.3"
+}

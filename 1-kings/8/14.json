@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I okrene kralj ⟨את⟩ lice svoje, i blagoslovi ⟨את⟩ sav zbor Jisraelov — a sav zbor Jisraelov stajaše.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "i okrene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav zbor Jisraelov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a sav"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stajaše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:55.934208805Z",
+  "model": "glm-5.3"
+}

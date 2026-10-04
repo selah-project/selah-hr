@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I Aharon neka prinese ⟨את⟩ junica za grijeh koji je njegov, i neka pomiri za sebe i za svoj dom.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i neka prinese"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junica za grijeh"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junica"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "za grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegov"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i neka pomiri"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za sebe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:39.192321623Z",
+  "model": "glm-5.3"
+}

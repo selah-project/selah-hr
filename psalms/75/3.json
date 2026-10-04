@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Kada uzmem određeno vrijeme, ja ću suditi pravedno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "uzmem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "određeno vrijeme"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravedno"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ću suditi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.399726123Z",
+  "model": "glm-5.3"
+}

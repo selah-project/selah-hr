@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načini motke od drva šitim, i obloži ih zlatom.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "načini"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (motke)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:35.406251277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Vodi me stazom svojih zapovijedi, jer u njoj je moja želja.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Vodi me"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "stazom"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "svojih zapovijedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "je moja želja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:45.093294902Z",
+  "model": "glm-5.3"
+}

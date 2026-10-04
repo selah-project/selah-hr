@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Jer Jahve, vaš Elohim, ide s vama da se bori za vas protiv vaših neprijatelja, da vas spasi ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vaš Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ide"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "da se bori"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vaših neprijatelja"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "da spasi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:12.027226422Z",
+  "model": "glm-5.3"
+}

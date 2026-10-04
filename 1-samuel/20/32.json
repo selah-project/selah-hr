@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I odgovori Jehonatan ⟨את⟩ Šaula, oca svojega, i reče mu: Zašto da se ubije? Što je učinio?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula, oca svojega"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "da se ubije"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:40.040714217Z",
+  "model": "glm-5.3"
+}

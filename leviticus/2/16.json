@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I svećenik će dimom podignuti ⟨את⟩ njezin spomen-dio, od njezinih zrna i od njezina ulja, uz svu njezinu tamjanu — paljenica Jahvi.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dimom podignuti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin spomen-dio"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "njezin spomen-dio"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "od njezinih zrna"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "i od njezina ulja"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "njezinu tamjanu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:51.802527785Z",
+  "model": "glm-5.3"
+}

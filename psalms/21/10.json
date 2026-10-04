@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Učinit ćeš ih kao peć ognjenu u vrijeme svojega lica, Jahve; u svojoj srdžbi progutat ćeš ih, i oganj će ih požderati.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "učinit ćeš ih"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kao peć"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognjenu"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svojega lica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "u svojoj srdžbi"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "progutat ćeš ih"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "i požderat će ih"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:58.706878649Z",
+  "model": "glm-5.3"
+}

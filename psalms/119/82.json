@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Iznemogoše oči moje za tvoju izreku, ⟨govoreći⟩: kad ćeš me utješiti?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "iznemogoše"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "za tvoju izreku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "utišit ćeš me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:23.945779828Z",
+  "model": "glm-5.3"
+}

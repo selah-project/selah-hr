@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Zborovođi, na napev »Šušan Edut«, mihtam Davidov, za pouku.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na napev"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Šušan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mihtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "za pouku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:49.337891293Z",
+  "model": "glm-5.3"
+}

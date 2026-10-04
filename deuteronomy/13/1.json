@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "⟨את⟩ svu ovu riječ koju vam ja zapovijedam, nju ćete čuvati ⟨את⟩ da izvršite; ne dodavati ćeš na nju i ne oduzimati od nje.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu ovu riječ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ovu riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ćete čuvati"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da izvršite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "dodavati ćeš"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "oduzimati"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:13.843016947Z",
+  "model": "glm-5.3"
+}

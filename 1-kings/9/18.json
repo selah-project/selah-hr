@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I ⟨את⟩ Baalat i ⟨את⟩ Tamar u pustinji, u zemlji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:00.659570066Z",
+  "model": "glm-5.3"
+}

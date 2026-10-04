@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Neka ga zadesi propast nenadano — da i ne zna; i mreža njegova što je sakrio neka njega uhvati; u propast neka padne u nju.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "neka ga zadesi"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "propast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "i mreža njegova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "sakrio"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "neka uhvati"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "u propast"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "neka padne"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u nju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:10.337274272Z",
+  "model": "glm-5.3"
+}

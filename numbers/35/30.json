@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Tko ubije osobu, na svjedočanstvo svjedoka ubit će se ⟨את⟩ ubojica; a jedan svjedok ne svjedoči protiv osobe ⟨na smrt⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tko"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ubije"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "osobu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na svjedočanstvo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svjedoka"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ubit će se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubojica"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ubojica"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a svjedok"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svjedoči"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "protiv osobe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨na smrt⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:06.329112357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i poštedite ⟨את⟩ oca mojega i ⟨את⟩ majku moju i ⟨את⟩ braću moju i ⟨את⟩ sestre moje i ⟨את⟩ sve što je njihovo, i izbavite ⟨את⟩ živote naše od smrti.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "i poštedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca mojega"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "majku moju"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majku moju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "braću moju"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braću moju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sestre moje"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "sestre moje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što je njihovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "להם",
+      "gloss": "je njihovo"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "i izbavite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živote naše"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "živote naše"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:09.902901308Z",
+  "model": "glm-5.3"
+}

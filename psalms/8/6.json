@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A učinio si ga malo manjim od Elohim ⟨a⟩, slavom i sjajem ovjenčao si ga.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "a učinio si ga manjim"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "slavom"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "i sjajem"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "ovjenčao si ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:52.428525068Z",
+  "model": "glm-5.3"
+}

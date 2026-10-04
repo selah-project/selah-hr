@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Zahvaljivat ću ti među narodima, Adonaj; pjevat ću ti među plemenima.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "zahvaljivat ću ti"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "pjevat ću ti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "među"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "plemenima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:53.704141713Z",
+  "model": "glm-5.3"
+}

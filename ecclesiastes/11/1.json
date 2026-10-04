@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Pošalji svoj kruh po licu voda, jer ćeš ga poslije mnogo dana naći.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pošalji"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "poslije mnogo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "naći ćeš ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:52.638413229Z",
+  "model": "glm-5.3"
+}

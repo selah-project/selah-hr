@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Tko je to izveo i učinio, zove naraštaje od početka? Ja, Jahve, prvi, i ⟨s⟩ posljednjima ⟨את⟩ — ja sam ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "je izveo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i učinio"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zove"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "naraštaje"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "od početka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "posljednje"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "posljednjima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:11.582428489Z",
+  "model": "glm-5.3"
+}

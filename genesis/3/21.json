@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I napravi Jahve Elohim Adamu i njegovoj želi košulje od kože, i odjenu ih.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "i njegovoj ženi"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "košulje"
+    },
+    {
+      "surface": "עור",
+      "gloss": "od kože"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "i odjenu ih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:31.657069070Z",
+  "model": "glm-5.3"
+}

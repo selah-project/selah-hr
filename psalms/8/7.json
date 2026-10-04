@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Daš mu vladati nad djelima ruku svojih; sve si položio pod noge njegove.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "daš mu vladati"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nad djelima"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "si položio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nogama njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:52.428689418Z",
+  "model": "glm-5.3"
+}

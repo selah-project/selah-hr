@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Poučna pjesma Eitanu Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pjesma"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Eitanu"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:37.702159091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Iz tvoje prisutnosti neka iziđe moj sud, oči tvoje neka gledaju pravdu.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Iz tvoje prisutnosti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moj sud"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "neka iziđe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oči tvoje"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "neka gledaju"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravdu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.436927854Z",
+  "model": "glm-5.3"
+}

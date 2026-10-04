@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jer nije prezreo ni osjetio odvratnost prema poniženju poniznoga, nije sakrio lica svojega od njega, i kad je k njemu zazvao, uslišio ga je.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "prezreo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "osjetio odvratnost"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "poniženje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poniznoga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "sakrio"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "i kad je zazvao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uslišio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:56.347448862Z",
+  "model": "glm-5.3"
+}

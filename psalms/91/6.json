@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "ni kuge što hodi u tmini, ni pogibli koja pustoši u podne.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "kuge"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "u tmini"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "što hodi"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "pogibli"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "koja pustoši"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "u podne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:26.453541431Z",
+  "model": "glm-5.3"
+}

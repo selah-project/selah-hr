@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I ne posluša Amacjahu, jer bijaše od Elohim ⟨je⟩ — da ih preda u ruku — jer su tražili ⟨את⟩ bogove edomske.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacjahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "ih preda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "su tražili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogove edomske"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "edomske"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:40.120601373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I okrenuh se ja da bih dao ⟨את⟩ srcu svome očaj zbog svega napora kojim sam se naporno trdio pod suncem.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "i okrenuh se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "da bih obeshrabrio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svoje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "napora"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "kojim sam se naporno trdio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:57.458218838Z",
+  "model": "glm-5.3"
+}

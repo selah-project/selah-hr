@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "U to vrijeme stupiše sluge Nevukadnecara, kralja babilonskoga, na Jerušalajim, i dođe grad pod opsadu.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "to"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stupiše na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "pod opsadu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:16.780013241Z",
+  "model": "glm-5.3"
+}

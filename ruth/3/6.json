@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I siđe na gumno, i učini sve kako joj je zapovjedila punica.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "na gumno"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "zapovjedila"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "punica"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:53.696098873Z",
+  "model": "glm-5.3"
+}

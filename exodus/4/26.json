@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pusti ga ⟨od sebe⟩. Tada reče: Zete krvâ, zbog obrezanja.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "i pusti ga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨od sebe⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "reče"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zete"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvâ"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "zbog obrezanja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.111493021Z",
+  "model": "glm-5.3"
+}

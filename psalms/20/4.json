@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Spomeni se svih svojih minha i svoju paljenicu ⟨neka⟩ udejani. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "spomeni se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "⟨neka⟩ udejani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:26.402939903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Prošla je žetva, svršilo je ljeto, a mi nismo spašeni.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "prošla je"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetva"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "svršilo je"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ljeto"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nismo"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "spašeni"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:35.979275745Z",
+  "model": "glm-5.3"
+}

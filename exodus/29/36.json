@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I junicu za grijeh priređivat ćeš svaki dan za ⟨את⟩ okajanja, i okajat ćeš ⟨את⟩ žrtvenik kad na njemu okajuješ, pa ćeš ga pomazati da ga posvetiš.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "i junica"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "za grijeh"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "priređivat ćeš"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "svaki dan"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "okajanja"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "i okajat ćeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "kad okajuješ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomazat ćeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "da ga posvetiš"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ga posvetiš"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:19.695213767Z",
+  "model": "glm-5.3"
+}

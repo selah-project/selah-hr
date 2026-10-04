@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Nahšon rodi ⟨את⟩ Salmu, a Salma rodi ⟨את⟩ Boaza.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "a Nahšon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmu"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmu"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "a Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaza"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:22.015697476Z",
+  "model": "glm-5.3"
+}

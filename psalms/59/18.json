@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Snago moja, tebi ću pjevati hvalu, jer Elohim je stijena moja uzvišena, Elohim heseda mojega.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Snago moja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pjevat ću hvalu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "stijena moja uzvišena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "heseda mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:36.244536673Z",
+  "model": "glm-5.3"
+}

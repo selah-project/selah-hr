@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Oni vidješe ⟨i⟩ zapanjiše se; prestrašiše se, pobjegoše u žurbi.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "zapanjiše se"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "prestrašiše se"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "pobjegoše u žurbi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.331272878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "i grad koji je najbliži mrtvacu — starješine toga grada uzet će kravu iz stada koja nije rađena, koja nije vukla u jarmu,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "najbliži"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mrtvacu"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "mrtvacu"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "uzet će"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "kravu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iz stada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rađena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njome"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "vukla"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "u jarmu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:27.541497446Z",
+  "model": "glm-5.3"
+}

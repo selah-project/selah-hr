@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Ne korim te zbog tvojih žrtava, tvoje paljenice stalno su preda mnom.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "tvojih žrtava"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "korim te"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "tvoje paljenice"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:06.905608147Z",
+  "model": "glm-5.3"
+}

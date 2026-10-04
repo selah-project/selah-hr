@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I reče im Moše: Zar ste ostavili ⟨u životu⟩ sve žene?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "ostaviste ⟨u životu⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "žene"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:32.128785007Z",
+  "model": "glm-5.3"
+}

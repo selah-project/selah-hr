@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I udarit će Jahve ⟨את⟩ Micrajim, udaranje i liječenje; i vratit će se do Jahve, i on će se dati umoliti, i izliječit ih.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "udarit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "udaranje"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "liječenje"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "dat će se umoliti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "izliječit ih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:08:51.223019937Z",
+  "model": "glm-5.3"
+}

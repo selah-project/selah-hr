@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ti, Jahve, čuvat ćeš ih, sačuvat ćeš ⟨nas⟩ od toga naraštaja zauvijek.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "čuvat ćeš ih"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "sačuvat ćeš"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "tega naraštaja"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.120506166Z",
+  "model": "glm-5.3"
+}

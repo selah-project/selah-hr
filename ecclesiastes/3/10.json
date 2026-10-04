@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Vidio sam ⟨את⟩ posao koji je Elohim dao sinovima ljudskim da se u njemu bave.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posao"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "posao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ljudskim"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "da se bave"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:27.046150338Z",
+  "model": "glm-5.3"
+}

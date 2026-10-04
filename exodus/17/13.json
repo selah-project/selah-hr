@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I J ehšua satr Amaleka i ⟨את⟩ narod njegov oštricom mača.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "satr"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "J ehšua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narod njegov"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:01.042138309Z",
+  "model": "glm-5.3"
+}

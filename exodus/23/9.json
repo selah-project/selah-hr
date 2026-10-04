@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A stranca nećeš tlačiti, jer vi znate ⟨את⟩ dušu stranca, jer stranci ste bili u zemlji micrajskoj.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "a stranca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nećeš"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "tlačiti"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušu stranca"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "stranca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "stranci"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ste bili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:40.029871405Z",
+  "model": "glm-5.3"
+}

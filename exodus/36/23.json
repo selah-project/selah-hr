@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I načini ⟨את⟩ daske za Miškan: dvadeset dasaka za južnu stranu, prema jugu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daske"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "daske"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Miškan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dasaka"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "za"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "južnu stranu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "prema jugu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:32.956717930Z",
+  "model": "glm-5.3"
+}

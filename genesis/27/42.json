@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I dojave Rivki ⟨את⟩ riječi Esava, sina njezina starijega; ona pošalje i dozove Jaakova, sina svojega mlađega, i reče mu: Eno, Esav, brat tvoj, tješi se mišlju o tebi ⟨da⟩ te ubije.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dojave"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "Rivki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi Esava"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sina njezina"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "starijega"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "pošalje"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dozove"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mlađega"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "tješi se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mišlju o tebi"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "da te ubije"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:02.099111632Z",
+  "model": "glm-5.3"
+}

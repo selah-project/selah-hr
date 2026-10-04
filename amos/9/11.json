@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "U onaj dan podignut ću ⟨את⟩ srušenu Davidsku kolibu, i zagradit ću ⟨את⟩ njezine pukotine, i njezine ruševine podignut ću, i sagradit ću je kao u danima davnim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "podignut ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srušenu kolibu"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "kolibu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "srušenu"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "i zagradit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pukotine"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "njezine pukotine"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "i njezine ruševine"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "podignut ću"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "i sagradit ću je"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kao u danima"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "davnim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:03.966028647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Čujte, gore, ⟨את⟩ parnicu Jahvinu, i vi, stijene vječne, temelji zemlje — jer Jahvi je parnica s narodom svojim, i s Jisraelom će se pravdati.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Čujte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parnicu Jahvinu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "parnicu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "i vi, stijene vječne"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "temelji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "parnica"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narodom svojim"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "će se pravdati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:15.505180682Z",
+  "model": "glm-5.3"
+}

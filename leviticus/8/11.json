@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I pokropi njime ⟨את⟩ žrtvenik sedam puta, i pomaza ⟨את⟩ žrtvenik i ⟨את⟩ sve njegove predmete, i ⟨את⟩ umivaonik i ⟨את⟩ njegov postament, da ih posveti.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "i pokropi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i pomaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve predmete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "njegove predmete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "umivaonik"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegov postament"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "njegov postament"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "da ih posveti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.449771068Z",
+  "model": "glm-5.3"
+}

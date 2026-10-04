@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Jer tako reče Jahve: i roblje mogućega bit će oduzeto, i plijen nasilnika bit će istrgnut; a s tvojim protivnikom ja ću se prepirati, i tvoje ću sinove spasiti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "roblje"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mogućega"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bit će oduzeto"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "i plijen"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "nasilnika"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bit će istrgnut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "s tvojim protivnikom"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "tvojim protivnikom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ću se prepirati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje sinove"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoje sinove"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ću spasiti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:39.740777024Z",
+  "model": "glm-5.3"
+}

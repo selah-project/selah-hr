@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Što da David još doda tebi u čast sluge tvojega ⟨את⟩? A ti si slugu svojega ⟨את⟩ upoznao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "da doda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "u čast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge tvojega"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluge tvojega"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugu svojega"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "upoznao si"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:13.139516320Z",
+  "model": "glm-5.3"
+}

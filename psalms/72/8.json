@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "I neka vlada od mora do mora, i od Rijeke do krajova zemlje.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i neka vlada"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od mora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "i od Rijeke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krajova"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:56.799222723Z",
+  "model": "glm-5.3"
+}

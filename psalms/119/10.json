@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Svim srcem svojim tražio sam tebe; ne daj da zastranim od zapovijedi tvojih.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "tražio sam tebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "da zastranim"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "od zapovijedi tvojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:55.744408194Z",
+  "model": "glm-5.3"
+}

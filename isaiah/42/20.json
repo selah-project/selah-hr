@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Vidio si mnogo toga, ali ne čuvaš; uši otvorene ⟨ima⟩, ali ne čuje.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "vidio si"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnogo toga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "čuvaš"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "otvorene"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "uši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "čuje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:47.248930364Z",
+  "model": "glm-5.3"
+}

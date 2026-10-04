@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Jahve reče Mošeu u pustinji Sinaj, u drugoj godini otkako iziđoše iz zemlje Micrajim, u prvome mjesecu govoreći:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": ""
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugoj"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "otkako iziđoše"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvome"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:09.493821846Z",
+  "model": "glm-5.3"
+}

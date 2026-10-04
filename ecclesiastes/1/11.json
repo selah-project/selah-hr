@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Nema spomena na prve, a ni na kasnije koji će doći — neće biti im spomena uz one koji će doći poslije.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "spomena"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "na prve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "na kasnije"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "koji će doći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "spomen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "one koji će doći"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "poslije"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:21.061764615Z",
+  "model": "glm-5.3"
+}

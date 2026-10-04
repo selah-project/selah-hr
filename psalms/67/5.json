@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Neka se raduju i kliču narodi, jer sudiš puke po pravu ⟨cedek⟩ i narode na zemlji vodiš. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "neka se raduju"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "i kliču"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "sudiš"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "puke"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "po pravu ⟨cedek⟩"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i narode"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "vodiš"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:50.803181182Z",
+  "model": "glm-5.3"
+}

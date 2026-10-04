@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Jer on zna kako smo stvoreni, spominje se da smo prah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "kako smo stvoreni"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "spominje se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "smo (mi)"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:09.312097234Z",
+  "model": "glm-5.3"
+}

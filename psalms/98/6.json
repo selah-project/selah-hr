@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Trubljama i glasom šofara uglasite se pred kraljem, Jahvom.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Trubljama"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i glasom"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "uglasite se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:52.272929138Z",
+  "model": "glm-5.3"
+}

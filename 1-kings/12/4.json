@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Otac tvoj učini oštrim ⟨את⟩ jaram naš; a ti sada olakšaj od sluge oca svojega tvrde i od jarma njegova teškoga što ga je stavio na nas, pa ćemo tebi služiti.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Otac tvoj"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "učini oštrim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram naš"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jaram naš"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "olakšaj"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "od sluge"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "tvrde"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "i od jarma njegova"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "teškoga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stavio je"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "pa ćemo tebi služiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:45.135181677Z",
+  "model": "glm-5.3"
+}

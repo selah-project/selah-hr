@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I bijaše, kad ja, Daniel, vidjeh ⟨את⟩ viđenje, i tražah razumijevanje, gle, stajaše preda mnom kao lik muža.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kad vidjeh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viđenje"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "viđenje"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "i tražah"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "razumijevanje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stajaše"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kao lik"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "muža"
+    }
+  ],
+  "timestamp": "2026-10-04T19:51:09.689843585Z",
+  "model": "glm-5.3"
+}

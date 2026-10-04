@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Tvoj je dan, i noć je tvoja, ti si pripravio svjetlilo i sunce.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tvoj je"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoja je"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noć"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "pripravio"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "svjetlilo"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "i sunce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:42.366701944Z",
+  "model": "glm-5.3"
+}

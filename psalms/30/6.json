@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Jer tren traje u njegovu gnjevu, život u njegovoj milosti; uvečer prenoći plač, a ujutro radost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "tren"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "u njegovu gnjevu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "u njegovoj milosti"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "uvečer"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "prenoći"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plač"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "a ujutro"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:11.671453678Z",
+  "model": "glm-5.3"
+}

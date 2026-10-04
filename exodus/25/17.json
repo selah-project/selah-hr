@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I načinišće kaporet od zlata čista: dva lakta i pol neka je njegova dužina, a lakat i pol njegova širina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načinit ćeš"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čista"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dva lakta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "njegova dužina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "njegova širina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:21.398929369Z",
+  "model": "glm-5.3"
+}

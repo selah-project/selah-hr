@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Broji broj zvijezda, svima njih imena nadijeva.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Broji"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "broj"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "zvijezda"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "svima njih"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nadijeva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.032954919Z",
+  "model": "glm-5.3"
+}

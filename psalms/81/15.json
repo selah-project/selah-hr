@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Ubrzo bih pokorio neprijatelje njihove i na protivnike njihove okrenuo ruku svoju.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ubrzo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "neprijatelje njihove"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "pokyrio bih"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "protivnike njihove"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "okrenuo bih"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.120857798Z",
+  "model": "glm-5.3"
+}

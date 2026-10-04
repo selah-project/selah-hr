@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ti, Jahve, štit si oko mene, slava moja i onaj koji diže glavu moju.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "štit"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "oko mene"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slava moja"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "i koji diže"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:59.853473739Z",
+  "model": "glm-5.3"
+}

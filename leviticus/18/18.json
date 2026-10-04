@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ženu uz njezinu sestru ne uzimaj, za suparnicu, da otkrivaš njezinu golotinju s njom za njezina života.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "i ženu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "njezinu sestru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzimaj"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "za suparnicu"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "da otkrivaš"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "njezinu golotinju"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "za njezina života"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:59.527868914Z",
+  "model": "glm-5.3"
+}

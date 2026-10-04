@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Ne uzlazite, jer Jahve nije među vama, da ne budete poraženi pred svojim neprijateljima.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "uzlazite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "budete poraženi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "svojim neprijateljima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:13.052670375Z",
+  "model": "glm-5.3"
+}

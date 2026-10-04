@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I ⟨את⟩ lojeve od vola i od ovna — rep, i pokrovač, i bubrege, i režanj jetre —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lojeve"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lojeve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "rep"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "i pokrovač"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "i bubrege"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "i režanj"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jetre"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:08.009912202Z",
+  "model": "glm-5.3"
+}

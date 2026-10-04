@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Nikakvu udovicu ni siroče ne ćete tlačiti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nikakvu"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "udovicu"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ni siroče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ćete tlačiti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:26.192894836Z",
+  "model": "glm-5.3"
+}

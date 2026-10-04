@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Hvalite Jah, jer je dobar Jahve; svirajte slavu njegovu, jer je slatko ime njegovo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "svirajte"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "slavu njegovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "slatko"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:58.359848287Z",
+  "model": "glm-5.3"
+}

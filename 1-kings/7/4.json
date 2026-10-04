@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I prozora u tri reda, i pogled prema pogledu, tri puta.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "i prozora"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "reda"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "i pogled"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pogledu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:51.011820981Z",
+  "model": "glm-5.3"
+}

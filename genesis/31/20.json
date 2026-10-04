@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I Jaakov ukrade ⟨את⟩ srce Lavana Aramejca time što mu ne javi da bježi.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "i ukrade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce Lavana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejca"
+    },
+    {
+      "surface": "על",
+      "gloss": "time što"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bježi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:27.660914177Z",
+  "model": "glm-5.3"
+}

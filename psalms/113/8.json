@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 113,
+  "translation": "da ga posadi s velikašima, s velikašima svoga naroda.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "da posadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "velikašima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "velikašima"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoga naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:34.363455608Z",
+  "model": "glm-5.3"
+}

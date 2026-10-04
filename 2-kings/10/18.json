@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I skupi Jehu ⟨את⟩ sav narod pa im reče: Ahav je malo služio ⟨את⟩ Baalu, ali će Jehu njemu služiti vrlo.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "služio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "će njemu služiti"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "vrlo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:44.508086553Z",
+  "model": "glm-5.3"
+}

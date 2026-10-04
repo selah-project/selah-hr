@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Izrecit ću o odredbi Jahvinoj. Reče mi: Sin si moj, ja te danas rodih.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "izrecit ću"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odredbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "te rodih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:59.844636127Z",
+  "model": "glm-5.3"
+}

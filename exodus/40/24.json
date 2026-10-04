@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ svijećnjak u šator sastanka nasuprot stolu, uz bok Miškana sa južne strane.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svijećnjak"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svijećnjak"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stolu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bok"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sa južne strane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:29.603241490Z",
+  "model": "glm-5.3"
+}

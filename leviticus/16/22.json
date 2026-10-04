@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ponese jarac na sebi ⟨את⟩ sve njihove krivnje u zemlju odijeljenu, i pusti ⟨את⟩ jarca u pustinju.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "i ponese"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "jarac"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na sebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve njihove krivnje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "njihove krivnje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "odijeljenu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarca"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:29.250175084Z",
+  "model": "glm-5.3"
+}

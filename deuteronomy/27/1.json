@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I zapovjedi Moše sa starješinama Jisraela ⟨את⟩ narod rekavši: Čuvaj ⟨את⟩ svu zapovijed koju ja zapovijedam ⟨את⟩ vama danas.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "sa starješinama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zapovijed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vama"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:01.634583067Z",
+  "model": "glm-5.3"
+}

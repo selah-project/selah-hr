@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jahve, ne kor me u svojemu gnjevu, i ne kaznjavaj me u svojemu jaru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "u svojemu gnjevu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "kor me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "u svojemu jaru"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "kaznjavaj me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:15.546141235Z",
+  "model": "glm-5.3"
+}

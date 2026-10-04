@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Šabat — potpuni počinak — jest vama: i ponizavat ćete ⟨את⟩ svoje duše. Devetoga u mjesecu, uveče, od večeri do večeri slavit ćete svoj Šabat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "potpuni počinak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "i ponizavat ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "Devetoga"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "uveče"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "od večeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "slavit ćete"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "svoj Šabat"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:46.398754235Z",
+  "model": "glm-5.3"
+}

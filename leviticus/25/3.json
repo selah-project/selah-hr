@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Šest godina sijat ćeš svoje polje, i šest godina orezivat ćeš svoj vinograd, i sabrat ćeš ⟨את⟩ njezin plod.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sijat ćeš"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "svoje polje"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "orezivat ćeš"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "svoj vinograd"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i sabrat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin plod"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njezin plod"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:56.353525926Z",
+  "model": "glm-5.3"
+}

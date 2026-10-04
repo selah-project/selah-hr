@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I svećenik koji čisti postavi ⟨את⟩ čovjeka koji se čisti i ⟨את⟩ njih pred Jahvom, na ulazu Šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "koji čisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka koji se čisti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "koji se čisti"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "i ⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:52.573633799Z",
+  "model": "glm-5.3"
+}

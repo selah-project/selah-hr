@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "koji čini pravo potlačenima, daje kruh gladnima; Jahve oslobađa svezane.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "koji čini"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "potlačenima"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "gladnima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "oslobađa"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "svezane"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:13.966327837Z",
+  "model": "glm-5.3"
+}

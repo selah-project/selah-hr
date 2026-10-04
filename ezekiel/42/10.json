@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "U širini zida dvorišta prema istoku, pred odijeljenim prostorom i pred zgradom — sobe.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "u širini"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "zida"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "prema putu"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "istoku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "odijeljenoga prostora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i prema"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "zgrade"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "sobe"
+    }
+  ],
+  "timestamp": "2026-10-04T18:48:00.391738053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jahve, u tjeskobi tražili su te, izlijevali su šaptanje kad bijaše kazna tvoja na njima.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "u tjeskobi"
+    },
+    {
+      "surface": "пקדוך",
+      "gloss": "tražili su te"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "izlijevali su"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "šaptanje"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "kazna tvoja"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:09.871134975Z",
+  "model": "glm-5.3"
+}

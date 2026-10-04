@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I ojača kovač ⟨את⟩ ljevača, pravi glatkog onaj što udara čekićem ⟨את⟩ onoga što kuje udarcem, govoreći onomu što lemlji: Dobro je; i učvrsti ga čavlima da se ne pomakne.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i ojača"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kovač"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljevača"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "ljevač"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "pravi glatkog"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "čekićem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga što kuje"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "onoga što udara"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "udarcem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "onomu što lemlji"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "i učvrsti ga"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "čavlima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "da se pomakne"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:19.852257651Z",
+  "model": "glm-5.3"
+}

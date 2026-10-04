@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Samo se za Elohim smiri, dušo moja, jer je od njega nada moja.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "smiri se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušo moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "nada moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:54.530295431Z",
+  "model": "glm-5.3"
+}

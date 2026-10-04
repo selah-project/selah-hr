@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Sada otrči, molim te, u susret njoj i reci joj: Je li ti mir? Je li mir mužu tvojemu? Je li mir djetetu? A ona reče: Mir.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sada"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "otrči"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "u susret njoj"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je li mir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je li mir"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "mužu tvojemu"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je li mir"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "djetetu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ona reče"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:36.378609214Z",
+  "model": "glm-5.3"
+}

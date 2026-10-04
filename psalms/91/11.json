@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Jer anđelima svojim zapovjedit će ⟨za tebe⟩ da te čuvaju na svim putovima tvojim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "anđelima svojim"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "zapovjedit će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨za tebe⟩"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "da te čuvaju"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na svim"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "putovima tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.278234851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I otpustiše ⟨את⟩ Rivku, sestru svoju, i ⟨את⟩ dojilju njezinu, i ⟨את⟩ slugu Avrahamova i ⟨את⟩ ljude njegove.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "I otpustiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivku"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivku"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sestru svoju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dojilju njezinu"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "dojilju njezinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "slugu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slugu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ljude njegove"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ljude njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:49.549240530Z",
+  "model": "glm-5.3"
+}

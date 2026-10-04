@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Koji rekoše: Jezikom svojim nadvladat ćemo, usne su naše ⟨את⟩ ⟨s nama⟩ — tko nam je gospodar?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "jezikom svojim"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "nadvladat ćemo"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "usne su naše"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "s nama"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "gospodar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.119960870Z",
+  "model": "glm-5.3"
+}

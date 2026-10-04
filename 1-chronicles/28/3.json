@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Ali Elohim reče meni: Nećeš sagraditi kuću imenu mojemu, jer čovjek ratova ti si i krv si prolilio.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Ali Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ćeš sagraditi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "imenu mojemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ratova"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "i krv"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "si prolilio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:06:45.339987190Z",
+  "model": "glm-5.3"
+}

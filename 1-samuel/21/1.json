@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I ⟨David⟩ usta i ode, a Jonatan dođe u grad.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "a Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "u grad"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:09.075603108Z",
+  "model": "glm-5.3"
+}

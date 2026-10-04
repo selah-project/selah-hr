@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "i baciše ⟨את⟩ bogove njihove u oganj, jer nisu bogovi oni, nego djelo ruku čovječjih, drvo i kamen — i zatreše ih.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i baciše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogove njihove"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogove njihove"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego ⟨jer⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječjih"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamen"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "i zatreše ih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:15.045537057Z",
+  "model": "glm-5.3"
+}

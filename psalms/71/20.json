@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "Koji si nas poučio tjesnobama mnogim i zlim, vratit ćeš se, oživjet ćeš nas, i iz dubina zemlje opet ćeš se vratiti, izvest ćeš me.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "si nas poučio"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "tjesnobama"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnogim"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i zlim"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vratit ćeš se"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "oživjet ćeš nas"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "i iz dubina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "opet ćeš se vratiti"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "izvest ćeš me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:42.905407805Z",
+  "model": "glm-5.3"
+}

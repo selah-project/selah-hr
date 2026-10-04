@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I reče David Uriji: siđi kući svojoj i operi noge svoje. I iziđe Urija iz doma kraljeva, a iziđe za njim ⟨dar⟩ iz ⟨kraljeve⟩ kuhinje ⟨koji je poslao⟩ kralj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "Uriji"
+    },
+    {
+      "surface": "רד",
+      "gloss": "siđi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kući svojoj"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i operi"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "noge svoje"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "I iziđe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "a iziđe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "dar hrane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljev"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:11.129763688Z",
+  "model": "glm-5.3"
+}

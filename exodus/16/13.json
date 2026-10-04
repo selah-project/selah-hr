@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I dogodi se uvečer: popne se prepelica i pokri ⟨את⟩ tabor; a ujutro bijaše leglo rose unaokolo uz tabor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "uvečer"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "popne se"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "prepelica"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "pokri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a ujutro"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "leglo"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "uz tabor"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:50.753227136Z",
+  "model": "glm-5.3"
+}

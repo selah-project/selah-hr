@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Cedek će pred njim hoditi i postaviti ⟨ה⟩ stope svoje ⟨za⟩ put.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "hodit će"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavit će"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "za put"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "stope svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:59.751758192Z",
+  "model": "glm-5.3"
+}

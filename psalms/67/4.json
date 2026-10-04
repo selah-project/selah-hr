@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Neka te slave narodi, Elohime; neka te slave narodi svi zajedno.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "neka te slave"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "neka te slave"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:54.222634449Z",
+  "model": "glm-5.3"
+}

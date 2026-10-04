@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I bijaše, kad svrši Moše pisati ⟨את⟩ riječi ove Tore u knjigu, do posve njihova svršetka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kad svrši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "pisati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi ove Tore"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ove Tore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjigu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "posve svršetka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:23.093812121Z",
+  "model": "glm-5.3"
+}

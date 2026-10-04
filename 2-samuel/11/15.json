@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I napisa u pismo, govoreći: Postavite ⟨את⟩ Uriju nasuprot licu najžešće boji, i povucite se od njega, pa neka bude poražen i umre.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "napisa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "u pismo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Postavite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨prema⟩"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boji"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "najžešće"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "povucite se"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "poražen ⟨neka bude⟩"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "umre"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.348286554Z",
+  "model": "glm-5.3"
+}

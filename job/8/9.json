@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Jer jučer bijasmo ⟨i⟩ ne znamo, jer su dani naši ⟨kao⟩ sjena na zemlji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "jučer"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "bijasmo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "znamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צל",
+      "gloss": "sjena"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dani naši"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:51.196364785Z",
+  "model": "glm-5.3"
+}

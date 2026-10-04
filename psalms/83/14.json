@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Elohe moj, učini ih kao klipko pred ruah, kao pljevu pred vjetrom ⟨ruah⟩!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "učini ih"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kao klipko"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kao pljevu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:32.010283048Z",
+  "model": "glm-5.3"
+}

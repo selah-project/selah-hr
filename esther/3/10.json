@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I kralj skide ⟨את⟩ prsten svoj s ruke svoje i dade ga Hamanu, sinu Hamdate Agagejcu, neprijatelju Židova.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i skide"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prsten svoj"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "prsten svoj"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dade ga"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdate"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagejcu"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "neprijatelju"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Židova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:57.519228620Z",
+  "model": "glm-5.3"
+}

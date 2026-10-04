@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Mladiće su nosili ⟨את⟩ žrvanj, a dječaci pod drvetom posrću.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "žrvanj"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "su nosili"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "a dječaci"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "pod drvetom"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "posrću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:05.562483347Z",
+  "model": "glm-5.3"
+}

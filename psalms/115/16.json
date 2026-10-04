@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Neba, neba ⟨jesu⟩ Jahvina, a zemlju dao je sinovima ljudskim.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a zemlju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao je"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.272604368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "da zemlja ne povrati ⟨את⟩ vas kad je oskvrnjavate ⟨את⟩ nju, kao što je povratila ⟨את⟩ narod koji je bio pred vama.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "povrati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "kad je oskvrnjavate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nju",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "povratila je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je bio"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:50.296249925Z",
+  "model": "glm-5.3"
+}

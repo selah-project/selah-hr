@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I reče Lea: Blago meni, jer će me kćeri blaženom nazivati; i nade ⟨את⟩ ime njegovo Ašer.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "blago meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "blaženom me nazivati"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ašer"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:14.109230102Z",
+  "model": "glm-5.3"
+}

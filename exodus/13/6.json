@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Sedam dana jest ćeš beskvasni kruh, a u dan sedmi ⟨bit će⟩ blagdan Jahvi.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jest ćeš"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "beskvasni kruh"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a u dan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "blagdan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:01.932031156Z",
+  "model": "glm-5.3"
+}

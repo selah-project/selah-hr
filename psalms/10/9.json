@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Vreba u skrovištu kao lav u lovistu, vreba da uhvati siromašnoga; uhvaća siromašnoga privlačeći ga u mrežu svoju.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "vreba"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "u skrovištu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kao lav"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "u lovistu"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "vreba"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "da uhvati"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromašnoga"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "uhvaća"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromašnoga"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "privlačeći ga"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "u mrežu svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.240692527Z",
+  "model": "glm-5.3"
+}

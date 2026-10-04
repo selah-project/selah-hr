@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Samo je dah sinova Adamovih, laž sinovi covjekovi: na vagu stavljani, oni su od daha — zajedno laksi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamovi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laž"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "covjekovi"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "na vagu"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "stavljeni biti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni su"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "od daha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:46.874457212Z",
+  "model": "glm-5.3"
+}

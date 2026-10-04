@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Neka mi se vrate oni koji te se boje, i neka znaju tvoja svjedočanstva.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "neka se vrate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "oni koji te se boje"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "i neka znaju"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvoja svjedočanstva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.643118494Z",
+  "model": "glm-5.3"
+}

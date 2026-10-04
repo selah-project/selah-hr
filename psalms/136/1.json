@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "Zahvaljujte Jahvi, jer je dobar, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.069651426Z",
+  "model": "glm-5.3"
+}

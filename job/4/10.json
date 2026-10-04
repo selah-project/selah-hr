@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Rika lava i glas divljega lava, i zubi lavića izbijeni su.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "rika"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lava"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i glas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "divljega lava"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "i zubi"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "lavića"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "izbijeni su"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:42.219903482Z",
+  "model": "glm-5.3"
+}

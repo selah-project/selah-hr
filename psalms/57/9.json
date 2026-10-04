@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Probudi se, slavo moja, probudi se, nevelu i kinoru; ja ću probuditi zoru.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "probudi se"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "slavo moja"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "probudi se"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevelu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinoru"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ja ću probuditi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zoru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:53.703870288Z",
+  "model": "glm-5.3"
+}

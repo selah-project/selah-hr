@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Nije na nebesima ona, da bi rekao: Tko će nam uzći na nebo i uzeti je za nas, te nam je objaviti ⟨את⟩, da je izvršimo?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da bi rekao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "će uzći"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "na nebo"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "i uzeti je"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za nas"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "te nam objaviti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju — zapovijed"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "da je izvršimo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:34.852060398Z",
+  "model": "glm-5.3"
+}

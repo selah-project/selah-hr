@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Kao pas što se vraća na svoje bljuvotine, tako luđak ponavlja svoju ludost.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "kao pas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "što se vraća"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "svoje bljuvotine"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđak"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ponavlja"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "svoju ludost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:22.473533112Z",
+  "model": "glm-5.3"
+}

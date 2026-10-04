@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Pa uzeh ⟨את⟩ glave plemena vaših, ljude mudre i poznate, i postavih ih ⟨אתם⟩ glavama nad vama, knezove tisuća i knezove stotina i knezove pedesetica i knezove desetica i nadzornike plemenima vašim.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "pa uzeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glave plemena vaših"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "plemena vaših"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mudre"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "i poznate"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "i postavih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (אתם — suderžni kazalnik s privitkom 'ih')"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "glavama"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i knezove"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i knezove"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedesetica"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i knezove"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desetica"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "i nadzornike"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "plemenima vašim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:04.825771821Z",
+  "model": "glm-5.3"
+}

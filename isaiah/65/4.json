@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "koji sjede među grobovima i provode noći u skrovištima, koji jedu meso svinjsko i čiji su sudovi puni juhe od poganih stvari;",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "koji sjede"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "među grobovima"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "i u skrovištima"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "provode noći"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "koji jedu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinjsko"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "i komad"
+    },
+    {
+      "surface": "פגולים",
+      "gloss": "poganih stvari"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "njihovi sudovi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:31.245399229Z",
+  "model": "glm-5.3"
+}

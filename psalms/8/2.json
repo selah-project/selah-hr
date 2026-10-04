@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Jahve, gospodaru naš, kako li je silno ime tvoje po svoj zemlji, ti koji si dao sjaj svoj iznad nebesâ!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "gospodaru naš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako li"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "silno"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti koji"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "si dao"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sjaj svoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesâ"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:37.207534935Z",
+  "model": "glm-5.3"
+}

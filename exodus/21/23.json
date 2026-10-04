@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A ako bude nesreće, dat ćeš život za život.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "nesreće"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dat ćeš"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:22.901647363Z",
+  "model": "glm-5.3"
+}

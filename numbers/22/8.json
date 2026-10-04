@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 22:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče im: Noćite ovdje ovu noć, i vratit ću vam ⟨את⟩ riječ onako kako Jahve bude govorio meni. I ostadoše knezovi Moavovi s Bilamom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "noćite"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovdje"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ovu noć"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "i vratit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam",
+      "marks": "riječ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "onako kako"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bude govorio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i ostadoše"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezovi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavovi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:01.207064377Z",
+  "model": "glm-5.3"
+}

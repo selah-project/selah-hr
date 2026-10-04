@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "Spominjem Rahaba i Babilon onima koji me znaju; evo, Filisteje i Tira s Kušom: ovaj je ondje rođen.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "spominjam"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahaba"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "i Babilon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "onima koji znaju"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisteje"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "i Tira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kušom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rođen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:30.558444143Z",
+  "model": "glm-5.3"
+}

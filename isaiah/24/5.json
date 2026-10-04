@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A zemlja je oskvrnjena pod svojim stanovnicima, jer prekršiše Tore, izmijeniše odredbu, raskidaše vječni savez.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a zemlja"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "oskvrnjena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "svojim stanovnicima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prekršiše"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "izmijeniše"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odredbu"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "raskidaše"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:15.657223454Z",
+  "model": "glm-5.3"
+}

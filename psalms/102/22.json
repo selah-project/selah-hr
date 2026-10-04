@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Da se naviješta ime Jahvino na Cionu i slava njegova u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "da se naviješta"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cionu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "i slava njegova"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:48.251995529Z",
+  "model": "glm-5.3"
+}

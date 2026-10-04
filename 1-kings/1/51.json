@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 1:51",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I javiše Šelomu: Evo, Adonija boji se ⟨את⟩ kralja Šeloma; evo, uhvatio se za rogove oltara govoreći: Neka mi kralj Šelomo još danas prisegne da neće pogubiti ⟨את⟩ svoga slugu mačem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i javiše"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonija"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boji se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja Šeloma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "uhvatio se"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "za rogove"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "neka prisegne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "još danas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "neće pogubiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga slugu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svoga slugu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:57.031549923Z",
+  "model": "glm-5.3"
+}

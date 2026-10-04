@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I otiđoh te ga sakrih u Peratu, kako zapovjedi Jahve ⟨את⟩ mene.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "i otiđoh"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "te ga sakrih"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "u Peratu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:23.119004461Z",
+  "model": "glm-5.3"
+}

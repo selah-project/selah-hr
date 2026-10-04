@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I bilo je, kad se kraljevstvo učvrstilo nad njim, da pogubi ⟨את⟩ sluge svoje što su udarili ⟨את⟩ kralja, oca njegova.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "učvrstilo se"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "da pogubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "što su udarili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:53.124213018Z",
+  "model": "glm-5.3"
+}

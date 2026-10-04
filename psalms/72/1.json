@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Za Šoloma. Elohime, svoje sudove daj kralju, a svoj cedek sinu kraljevu.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Za Šoloma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "svoje sudove"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "תן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "a svoj cedek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:57.955499648Z",
+  "model": "glm-5.3"
+}

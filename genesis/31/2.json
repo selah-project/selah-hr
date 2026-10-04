@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I vidje Jaakov ⟨את⟩ lice Lavanovo, i gle, nije s njime kao jučer i prekjučer.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice Lavanovo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanovo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nije"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kao jučer"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "i prekjučer"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:27.587587604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče Jahve: Eno, mjesto ⟨uza⟩ ⟨את⟩ mene, i stajaću na stijeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ uza mene"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "i stajaću"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "stijeni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:55.312126882Z",
+  "model": "glm-5.3"
+}

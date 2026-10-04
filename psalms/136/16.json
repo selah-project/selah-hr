@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "Njemu koji vođaše svoj narod pustinjom, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Njemu koji vođaše"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pustinjom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:50.159298641Z",
+  "model": "glm-5.3"
+}

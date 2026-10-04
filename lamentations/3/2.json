@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "⟨את⟩ mene odvede i dade mi hoditi u tminu, a ne u svjetlo.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "odvede"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i dade mi hoditi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "u tminu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "u svjetlo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:45.144384864Z",
+  "model": "glm-5.3"
+}

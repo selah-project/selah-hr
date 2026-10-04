@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "„Ja sam Jahve, Elohim tvoj, koji sam te izveo iz zemlje micrajske, iz kuće robovske.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "sam te izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:42.308210143Z",
+  "model": "glm-5.3"
+}

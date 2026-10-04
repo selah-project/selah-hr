@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "i uz ⟨את⟩ nas stanujte, i zemlja neka bude pred vama; nastanite se, trgujte u njoj i zagospodarte njome.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩",
+      "marks": "uz nas (H854)"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "stanujte"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i zemlja"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nastanite se"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "trgujte u njoj"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "zagospodarte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njome"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:39.191199367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Jer kao što su nebesa viša od zemlje, tako su moji putovi viši od vaših putova i moje misli od vaših misli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "viša su"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "od zemlje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "viši su"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moji putovi"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "od vaših putova"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "i moje misli"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "od vaših misli"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:10.230857370Z",
+  "model": "glm-5.3"
+}

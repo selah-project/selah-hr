@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Neka ne da da se pokoleba noga tvoja, neka ne zadrijema čuvar tvoj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Neka ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "da se pokoleba"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "noga tvoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zadrijema"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "čuvar tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.186316063Z",
+  "model": "glm-5.3"
+}

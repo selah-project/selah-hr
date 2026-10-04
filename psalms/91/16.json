@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Dugim ću ga životom nasititi i pokazat ću mu spasenje svoje.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dugim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "životom (danâ)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ću ga nasititi"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "i pokazat ću mu"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "spasenje svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:21.977413557Z",
+  "model": "glm-5.3"
+}

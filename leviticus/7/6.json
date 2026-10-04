@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Svaki muškarac među svećenicima smije je jesti; na svetome mjestu neka se jede; svetinja nad svetinjama ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarac"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "među svećenicima"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "smije je jesti"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svetome"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se jede"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinja"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetinjama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:32.135004490Z",
+  "model": "glm-5.3"
+}

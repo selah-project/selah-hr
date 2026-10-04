@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Ovako reče Jahve: ako poništite ⟨את⟩ savez moj danju i ⟨את⟩ savez moj noću, da prestane biti dan i noć u svoje doba —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "poništite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez moj danju"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez moj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savez moj noću"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez moj"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "da prestane"
+    },
+    {
+      "surface": "היות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noć"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "u svoje doba"
+    }
+  ],
+  "timestamp": "2026-10-04T18:30:04.910859072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I reče Moše: Ovako govori Jahve: O ponoći izići ću usred Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "o ponoći"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "izlazim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:33.379013966Z",
+  "model": "glm-5.3"
+}

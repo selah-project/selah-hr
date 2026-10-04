@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Prestupi ga njegovi uhvate, ⟨את⟩ zlikovca, i u užad grijeha njegova bit će pridržan.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "prestupi njegovi"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "uhvate ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlikovca"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "zlikovca"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "i u užad"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeha njegova"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "bit će pridržan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:31.175323679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Jer se Jahve nagao iz visine svetosti svoje, s nebesa na zemlju pogleda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nagao se"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "iz visine"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetosti svoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s nebesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "pogleda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:04.748648734Z",
+  "model": "glm-5.3"
+}

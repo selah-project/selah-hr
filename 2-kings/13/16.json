@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče kralju Jisraela: Stavi svoju ruku na luk. I on stavi svoju ruku, a Eliša stavi svoje ruke na ruke kraljeve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "Stavi (doslovno: podigni na položaj)"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "i on stavi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a stavi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:22.761658891Z",
+  "model": "glm-5.3"
+}

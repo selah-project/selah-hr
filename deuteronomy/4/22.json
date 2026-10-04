@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer ja umirem u ovoj zemlji; ja neću prijeći ⟨את⟩ Jordan, a vi ćete prijeći i zaposjesti ⟨את⟩ ovu dobru zemlju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umirem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovoj"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "neću"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prijeći"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ćete prijeći"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "i zaposjest ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu dobru zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:03.099230932Z",
+  "model": "glm-5.3"
+}

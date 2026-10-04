@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Radovat ću se i klicat ću u tebi, pjevat ću imenu tvojemu, Svevišnji!",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Radovat ću se"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "i klicat ću"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imenu tvojemu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Svevišnji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:22.376360446Z",
+  "model": "glm-5.3"
+}

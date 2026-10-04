@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I čuvat ćeš ⟨את⟩ zapovijed i ⟨את⟩ uredbe i ⟨את⟩ pravne propise koje ti danas zapovijedam da ih vršiš.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "i čuvat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijed"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uredbe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pravne propise"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pravne propise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti zapovijedam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "da ih vršiš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:53.645650476Z",
+  "model": "glm-5.3"
+}

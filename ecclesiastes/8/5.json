@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Tko čuva zapovijed, neće iskusiti zla; a srce mudraca poznaje vrijeme i sud.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Tko čuva"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "će iskusiti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ništa⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i vrijeme"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i sud"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznaje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudraca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:54.467146924Z",
+  "model": "glm-5.3"
+}

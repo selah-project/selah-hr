@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Ovo ⟨je⟩ utjeha moja u nevolji mojoj: jer me ri ječ tvoja oživljava.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "utjeha moja"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "u nevolji mojoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "riječ tvoja"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "me oživljava"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:52.585932150Z",
+  "model": "glm-5.3"
+}

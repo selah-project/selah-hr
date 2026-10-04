@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "Na tebe se oslanjam od utrobe; iz krila majke moje ti si me izveo; u tebi je moja slava ⟨neprestano⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "oslanjam se"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od utrobe"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "iz krila"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majke moje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "izveo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "תהלatי",
+      "gloss": "moja slava"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:26.448088279Z",
+  "model": "glm-5.3"
+}

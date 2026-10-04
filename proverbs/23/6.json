@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne jedi ⟨את⟩ kruha zla oka, i ne žudi za njegovim slasticama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "jedí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "žudi"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "za njegovim slasticama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:59.945496632Z",
+  "model": "glm-5.3"
+}

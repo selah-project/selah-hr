@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Šaul posla ⟨את⟩ glasnike da vide ⟨את⟩ Davida, govoreći: podignite ⟨את⟩ njega u postelji k meni, da ga pogubim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasnike"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "podignite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega u postelji"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "u postelji"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "da ga pogubim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:49.038176480Z",
+  "model": "glm-5.3"
+}

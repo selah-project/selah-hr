@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Jer je velik iznad nebara tvoj hesed, i do oblaka tvoja istina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebara"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblaka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvoja istina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.171808463Z",
+  "model": "glm-5.3"
+}

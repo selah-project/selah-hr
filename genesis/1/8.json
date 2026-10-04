@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I nazva Elohim ⟨את⟩ svod nebo. I bi veče i bi jutro — dan drugi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "svod"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "veče"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:20.472131023Z",
+  "model": "glm-5.3"
+}

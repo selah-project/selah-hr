@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad bereš ⟨את⟩ svoj vinograd, ne smiješ poslije sebe pobrašati: za došljaka, za siroče i za udovicu neka bude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "bereš"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "svoj vinograd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "smiješ pobrašati"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "poslije sebe"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "za došljaka"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "za siroče"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "i za udovicu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:55.691623894Z",
+  "model": "glm-5.3"
+}

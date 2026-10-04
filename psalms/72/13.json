@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Smilovat će se slabašnome i siromahu, i duše siromašnih spasit će.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "smilovat će se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דל",
+      "gloss": "slabašnome"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i siromahu"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "i duše"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "siromašnih"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "spasit će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:11.296140132Z",
+  "model": "glm-5.3"
+}

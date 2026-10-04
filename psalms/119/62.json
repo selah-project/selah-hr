@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "O ponoći ustajem zahvaljivati Tebi radi sudova Tvojega cedeka.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "o ponoći"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ustajem"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "zahvaljivati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sudova"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Tvojega cedeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:08.101880261Z",
+  "model": "glm-5.3"
+}

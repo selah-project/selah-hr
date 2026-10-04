@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Koji pogleda zemlju i ona uzdrhti, dotakne brda i ona se dime.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "koji pogleda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "i ona uzdrhti"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dotakne"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "brda"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "i ona se dime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:39.248532427Z",
+  "model": "glm-5.3"
+}

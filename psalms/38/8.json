@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jer su moja bedra puna gorućine i nema zdravlja u mojem tijelu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "moja bedra"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "puna"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "gorućine"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdravlja"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "u mojem tijelu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.848111695Z",
+  "model": "glm-5.3"
+}

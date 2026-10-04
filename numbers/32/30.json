@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A ako ne pređu naoružani ⟨את⟩ s vama, neka prime baštinu među vama u zemlji kanaanskoj.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "pređu"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "naoružani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "vi"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "neka prime baštinu"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kanaanskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:11.455833382Z",
+  "model": "glm-5.3"
+}

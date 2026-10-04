@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Ali prođe, i gle — nema ga; i tražio sam ga, ali ga se ne nađe.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ali prođe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nema ga"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "i tražio sam ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nađe se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:43.506370497Z",
+  "model": "glm-5.3"
+}

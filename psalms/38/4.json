@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Nema zdravlja u tijelu mojem zbog gnjeva tvojega, nema mira u kostima mojim zbog grijeha mojega.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdravlja"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "u tijelu mojem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "gnjeva tvojega"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "u kostima mojim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grijeha mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:37.240375852Z",
+  "model": "glm-5.3"
+}

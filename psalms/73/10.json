@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Zato se njegov narod vraća ovamo, i vode punine iscijede se njima ⟨za njih⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "se vraća"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njegov narod"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ovamo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i vode"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "punine"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "iscijede se"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:20.848402431Z",
+  "model": "glm-5.3"
+}

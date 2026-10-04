@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "i stavit ćeš ih na jedan koš, i prinijet ćeš ih u košu, i ⟨את⟩ junca i ⟨את⟩ dva ovna.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i stavit ćeš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih (kruh i hljebove)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סל",
+      "gloss": "koš"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "i prinijet ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "u košu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dva ovna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ovna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:36.488095685Z",
+  "model": "glm-5.3"
+}

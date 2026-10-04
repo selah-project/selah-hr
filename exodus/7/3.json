@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A ja ću otvrdnuti ⟨את⟩ srce faraonovo i umnožit ću ⟨את⟩ znamenja svoja i ⟨את⟩ čudesa svoja u zemlji micrajimskoj.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ću otvrdnuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce faraonovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "i umnožit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "znamenja svoja"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "znamenja svoja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "čudesa svoja"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "čudesa svoja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:57.744659318Z",
+  "model": "glm-5.3"
+}

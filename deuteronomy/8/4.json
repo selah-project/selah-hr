@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Haljina ti se na tebi nije izlizala, ni ti noga otekla — ovih četrdeset godina.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "haljina ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "izlizala se"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "na tebi"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ni noga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "otekla"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovih"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:58.841157679Z",
+  "model": "glm-5.3"
+}

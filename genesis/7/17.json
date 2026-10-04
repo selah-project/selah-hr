@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bijaše potop četrdeset dana nad zemljom, i umnožiše se vode i podigoše ⟨את⟩ lađu, i ona se uzdizaše iznad zemlje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potop"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "i umnožiše se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i podigoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lađu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "lađu"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "i uzdizaše se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:20.187807303Z",
+  "model": "glm-5.3"
+}

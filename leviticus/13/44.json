@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "čovjek je carua on, nečist je on; neka ga svećenik proglasi nečistim — rana je njegova na glavi njegovoj.",
+  "tokens": [
+    {
+      "surface": "אישׁ",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "carua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je on"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistim"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "neka ga proglasi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na glavi njegovoj"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "rana njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:18.874835181Z",
+  "model": "glm-5.3"
+}

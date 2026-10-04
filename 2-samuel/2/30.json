@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A Joav se vrati iz potjere za Avnerom, i skupi ⟨את⟩ sav narod; od Davdovih ljudi izostade devetnaest ljudi i Asael.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "a Joav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "iz potjere za"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerom"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "izostade"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "od ljudi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovih"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devetnaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(naest)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i Asael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:33.504711873Z",
+  "model": "glm-5.3"
+}

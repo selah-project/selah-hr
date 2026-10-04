@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Svećenici njegovi padoše od mača, i udovice njegove ne plakaše.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "svećenici njegovi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "od mača"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "i udovice njegove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "plakaše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:16.887095562Z",
+  "model": "glm-5.3"
+}

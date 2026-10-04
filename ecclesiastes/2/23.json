@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Jer svi su dani njegovi bolovi, i briga mu je posao njegov; i noću mu srce ne leže ⟨na počinak⟩. I to je ispraznost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dani njegovi"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "bolovi"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "i briga"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "posao njegov"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leže"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ispraznost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:42.793979678Z",
+  "model": "glm-5.3"
+}

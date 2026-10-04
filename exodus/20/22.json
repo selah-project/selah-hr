@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče Jahve Mošeu: Ovako reci sinovima Jisraelovim: Vi ste vidjeli da sam s neba govorio s vama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ste vidjeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sam govorio"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:10.673760316Z",
+  "model": "glm-5.3"
+}

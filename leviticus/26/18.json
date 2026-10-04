@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Ako ni uz ovo ne poslušate mene, još ću dodati da vas kaznim sedam ⟨sedam puta⟩ zbog grijeha vaših.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ni uz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslušate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "dodat ću"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "kazniti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam ⟨sedam puta⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "grijeha vaših"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:02.790155742Z",
+  "model": "glm-5.3"
+}

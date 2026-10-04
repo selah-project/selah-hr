@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A otac vaš me prevari i promijeni ⟨את⟩ moju plaću deset puta, ali Elohim mu ne dade da mi naudi.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "a otac vaš"
+    },
+    {
+      "surface": "התל",
+      "gloss": "prevari"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "i promijeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju plaću"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "moju plaću"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "da naudi"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:44.081283945Z",
+  "model": "glm-5.3"
+}

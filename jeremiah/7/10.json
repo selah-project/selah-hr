@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 7:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "i da dolazite i stajete preda me u ovom domu над kojemu je zazvano ime moje, i da govorate: 'Spaseni smo!' — da biste činili ⟨את⟩ sve ove gnusobe?",
+  "tokens": [
+    {
+      "surface": "ובאתם",
+      "gloss": "i da dolazite"
+    },
+    {
+      "surface": "ועמדתם",
+      "gloss": "i stajate"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda me"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojemu"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "je zazvano"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "i da govorte"
+    },
+    {
+      "surface": "נצלנו",
+      "gloss": "Spaseni smo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da biste"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "činili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ove gnusobe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "gnusobe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:15.145066914Z",
+  "model": "glm-5.3"
+}

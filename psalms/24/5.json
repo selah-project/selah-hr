@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "On će primiti blagoslov od ⟨את⟩ Jahve i cedek od Elohim svoga spasenja.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "primiti će"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "i cedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "svoga spasenja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.751268612Z",
+  "model": "glm-5.3"
+}

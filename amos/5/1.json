@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Čujte ovu ⟨את⟩ riječ koju ja podižem nad vama — tužbalicu, dome Jisraelov.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Čujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "podižem"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vama"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "tužbalicu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:58.515017115Z",
+  "model": "glm-5.3"
+}

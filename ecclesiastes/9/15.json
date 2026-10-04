@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I nađe se u njemu čovjek siromašan i mudar, koji spasu ⟨את⟩ grad svojom mudrošću; ali nitko ne spomenute ⟨את⟩ toga čovjeka siromašnoga.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "i nađe se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "siromašan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "koji spasu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "svojom mudrošću"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "spomenute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka siromašnoga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "siromašnoga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:34.018667450Z",
+  "model": "glm-5.3"
+}

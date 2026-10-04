@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "I pravednici neka se raduju, neka klikću pred Elohimom, i neka se vesele u radosti.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "i pravednici"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "neka se raduju"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "neka klikću"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "i neka se vesele"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "u radosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:13.023182765Z",
+  "model": "glm-5.3"
+}

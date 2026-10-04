@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Srce mi luta, užas me obuze; ⟨את⟩ sumrak moje žudnje pretvori mi se u drhtanje.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "luta"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Srce mi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "užas"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "me obuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumrak moje žudnje"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "sumrak"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "moje žudnje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pretvori"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "u drhtanje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:12.287650287Z",
+  "model": "glm-5.3"
+}

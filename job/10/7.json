@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "premda znaš da nisam bezbožan, i nema tko da me izbavi iz ruke tvoje?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "premda"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "znaš ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "bezbožan sam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz ruke tvoje"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "tko da izbavi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:00.081265129Z",
+  "model": "glm-5.3"
+}

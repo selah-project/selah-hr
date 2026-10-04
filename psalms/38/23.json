@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Pohitaj k pomoći mojoj, Adonaj, spasenje moje!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "pohitaj"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "k pomoći mojoj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "spasenje moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:54.326017200Z",
+  "model": "glm-5.3"
+}

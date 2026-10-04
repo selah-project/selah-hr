@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Mikal spusti ⟨את⟩ Davida kroz prozor; i on ode, pobježe i spasi se.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "spusti"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kroz"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "prozor"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "spasi se"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:04.557817230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A kad kažete: Što ćemo jesti u sedmoj godini? Eto, nećemo sijati ni sabrati ⟨את⟩ prinosa svojih —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kažete"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ćemo jesti"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "sedmoj"
+    },
+    {
+      "surface": "הן",
+      "gloss": "eto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "ćemo sijati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "sabrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prinosa svojih"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "prinosa svojih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:56.258557404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 150,
+  "translation": "Hvalite ga u silnim djelima njegovim, hvalite ga po veličini obilja njegova!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "u silnim djelima njegovim"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "po obilju"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "veličine njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:34.380029559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 30:14",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Svi ljubavnici tvoji zaboraviše tebe, ⟨את⟩ tebe ne traže; jer ranom neprijatelja udario sam te, kaznom okrutnom, zbog množine bezakonja tvojih — silni su grijesi tvoji.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "ljubavnici tvoji"
+    },
+    {
+      "surface": "שכחוך",
+      "gloss": "zaboraviše tebe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרשו",
+      "gloss": "traže"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "ranom"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "udario sam te"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kaznom"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "okrutnom"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "množine"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bezakonja tvojih"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "silni su"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "grijesi tvoji"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:37.774181949Z",
+  "model": "glm-5.3"
+}

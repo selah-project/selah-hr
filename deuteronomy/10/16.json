@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I obrežite ⟨את⟩ neobrezanost svoga srca, i svoj vrat više ne ukrućujte.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "I obrežite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neobrezanost svoga srca"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "neobrezanost"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svoga srca"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "svoj vrat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ukrućujte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:55.173278364Z",
+  "model": "glm-5.3"
+}

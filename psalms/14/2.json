@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jahve se s nebesa nagnu pogledati na sinove ljudske, da vidi ima li razumnika koji traži ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s nebesa"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nagnu se pogledati"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "razumnika"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "koji traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:27.843476925Z",
+  "model": "glm-5.3"
+}

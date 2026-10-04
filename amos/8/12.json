@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I lutat će od mora do mora i od sjevera do istoka; jurišat će amo-tamo tražeći ⟨את⟩ riječ Jahvinu, ali je neće naći.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "i lutat će"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od mora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "i od sjevera"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "istoka"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "jurišat će amo-tamo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražeći"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ Jahvinu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali je ne"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "naći"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:32.469663044Z",
+  "model": "glm-5.3"
+}

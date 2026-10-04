@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Jer je prav ⟨je⟩ riječ Jahvina, i sve djelo njegovo ⟨jest⟩ u vjernosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prav"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "djelo njegovo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "u vjernosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:07.241871581Z",
+  "model": "glm-5.3"
+}

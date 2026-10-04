@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I skupi ⟨את⟩ sve knezove Jisraelove, i svećenike i levite.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve knezove Jisraelove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "i svećenike"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i levite"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:52.201892536Z",
+  "model": "glm-5.3"
+}

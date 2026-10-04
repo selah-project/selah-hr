@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Priljubila se moja duša za tobom ⟨u tebe⟩, jer me podupire desnica tvoja.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "Priljubila se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨u tebe⟩"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "podupire"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnica tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:38.831108569Z",
+  "model": "glm-5.3"
+}

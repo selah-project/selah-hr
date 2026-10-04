@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Jahve se svida ⟨את⟩ onima koji ga se boje, ⟨את⟩ onima koji čekaju njegov hesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "svida se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onima koji ga se boje"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "onima koji ga se boje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onima koji čekaju njegov hesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "onima koji čekaju"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.985106207Z",
+  "model": "glm-5.3"
+}

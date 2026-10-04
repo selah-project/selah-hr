@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Tora njegova Elohima ⟨je⟩ u srcu njegovu; koraci mu se neće pokolebati.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegova Elohima"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu njegovu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "će pokolebati"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "koraci njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:44.171342134Z",
+  "model": "glm-5.3"
+}

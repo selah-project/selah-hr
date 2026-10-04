@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Zlo proganja grešnike, a ⟨את⟩ pravednike ⟨Elohim⟩ ⟨nagrađuje⟩ dobrom.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "grešnike"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "proganja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pravednike"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednike"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nagrađuje"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:26.689370063Z",
+  "model": "glm-5.3"
+}

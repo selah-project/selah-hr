@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I čuše svi u Javešu Giladskom ⟨את⟩ sve što učiniše Plištejci Šaulu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "u Javešu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladskom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plištejci"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:59.294966256Z",
+  "model": "glm-5.3"
+}

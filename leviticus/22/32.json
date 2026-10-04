@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I ne skršnjavajte ⟨את⟩ moje sveto ime, nego neka se posvetim usred sinova Jisraelovih. Ja sam Jahve, koji vas posvećuje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "skršnjavajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje sveto ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "moje sveto"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "nego neka se posvetim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "koji vas posvećuje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:26.380157371Z",
+  "model": "glm-5.3"
+}

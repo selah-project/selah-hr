@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Sjediš i govoriš protiv brata svojega, i na sina majke svoje podižeš klevetu.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "sjediš"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "protiv brata svojega"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "govoriš"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "na sina"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "majke svoje"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "podižeš"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "klevetu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:02.353469535Z",
+  "model": "glm-5.3"
+}

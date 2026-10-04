@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I žena zače i rodi sina; i vidje ⟨את⟩ njega da je dobar, te ga je skrivala tri mjeseca.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i zače"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "te ga je skrivala"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mjeseca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:46.460041085Z",
+  "model": "glm-5.3"
+}

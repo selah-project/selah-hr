@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I dođoše sinovi Jisraelovi kupovati žito među onima koji dolaze, jer bijaše glad u zemlji kenaanskoj.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kupovati žito"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "među"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "onima koji dolaze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "glad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.534875305Z",
+  "model": "glm-5.3"
+}

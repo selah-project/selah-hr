@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I načiniše ⟨את⟩ kamenje šoha, okovano u zlatne umetke, urezano urezivanjem pečatnjaka, po imenima sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenje šoha"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "šoha"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "okovano"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "u umetke"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "urezano"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "urezivanjem"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pečatnjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imenima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:02.229328698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I uvede čovjek ⟨את⟩ ljude u dom Jožefov, te dade vode, i oprali su svoje noge, i dade staje njihovim magarcima.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i uvede"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožefov"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "te dade"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "i oprali su"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "svoje noge"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "staje"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "njihovim magarcima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:39.263883382Z",
+  "model": "glm-5.3"
+}

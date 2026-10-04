@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Da izvrše osvetu nad narodima, ukore nad plemenima.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "da izvrše"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "osvetu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nad narodima"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "plemenima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:45.211872827Z",
+  "model": "glm-5.3"
+}

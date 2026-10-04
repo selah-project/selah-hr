@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pomazani svećenik neka uzme od krvi junčeta i neka je unese ⟨את⟩ u šator sastanka.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i neka uzme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pomazani"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junčeta"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "i neka unese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "krv junčeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:25.811535312Z",
+  "model": "glm-5.3"
+}

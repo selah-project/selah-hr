@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "kao što oganj sažiže šumu i kao što plamen zapali brda,",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "kao što oganj"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sažiže"
+    },
+    {
+      "surface": "יער",
+      "gloss": "šumu"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "i kao što plamen"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "zapali"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "brda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:32.010458993Z",
+  "model": "glm-5.3"
+}

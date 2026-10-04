@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I rano ustade Hizkijahu, kralj, i sakupi ⟨את⟩ knezove grada, pa uzađe u dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "rano ustade"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "sakupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knežove grada"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "uzađe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:06.134108105Z",
+  "model": "glm-5.3"
+}

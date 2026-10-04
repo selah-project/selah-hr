@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "i ⟨את⟩ jedno more, i ⟨את⟩ dvanaest volova pod morem;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jedno more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dvanaest volova"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "volove"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:29.605711141Z",
+  "model": "glm-5.3"
+}

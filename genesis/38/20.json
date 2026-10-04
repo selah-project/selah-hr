@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "A Jehuda posla ⟨את⟩ kozlića između koza po ruci svoga prijatelja Adulamca, da uzme zalog iz ruke one žene — ali je ne nađe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kozlića"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kozlića"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "između koza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po ruci"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoga prijatelja"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adulamca"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "da uzme"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "zalog"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "one žene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "je nađe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:04.605126743Z",
+  "model": "glm-5.3"
+}

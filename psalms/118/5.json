@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Iz tjeskobe zazvah Jah, Jah me odgovori u prostranosti.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "tjeskobe"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zazvah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "me odgovori"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "u prostranosti"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.930910636Z",
+  "model": "glm-5.3"
+}

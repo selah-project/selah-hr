@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "i poslije potresa oganj — ne u ognju ⟨je⟩ Jahve; i poslije ognja glas tankoga šaptanja tišine.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "i poslije"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "potresa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "i poslije"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "šaptanja tišine"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "tankoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:57.765230286Z",
+  "model": "glm-5.3"
+}

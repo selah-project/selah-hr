@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "I riječi mržnje opkoliše me, i bez razloga se bijahu sa mnom.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "I riječi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "mržnje"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "opkoliše me"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "bijahu se sa mnom"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez razloga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:04.892991792Z",
+  "model": "glm-5.3"
+}

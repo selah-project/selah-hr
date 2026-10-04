@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I činjaše zlo, jer ne pripravi srca svojega da traži ⟨את⟩ Jahvu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i činjaše"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pripravi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srca svojega"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "da traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:37.444926380Z",
+  "model": "glm-5.3"
+}

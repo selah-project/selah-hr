@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jer ponižava stanovnike visine, grad uzvišeni; obara ga, obara ga do zemlje, obara ga sve do praha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ponižava"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnici"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "visine"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "grad"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "uzvišeni"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "obara ga"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "obara ga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "obara ga sve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praha"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:58.613830855Z",
+  "model": "glm-5.3"
+}

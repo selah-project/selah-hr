@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Posve smo izopačeno postupili prema tebi i ne čuvasmo ⟨את⟩ zapovijedi ni ⟨את⟩ uredaba ni ⟨את⟩ pravā koje si zapovjedio ⟨את⟩ Mošeu, sluzi svojemu.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "posve"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "izopačeno postupismo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "prema tebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "čuvasmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uredaba"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "uredaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pravā"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pravā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluzi svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:56:06.993352Z",
+  "model": "glm-5.3"
+}

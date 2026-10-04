@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Kad David svrši s prinošenjem paljenica i žrtava zadovoljnica, blagoslovi ⟨את⟩ narod u ime Jahve.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "svrši"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "s prinošenjem"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "i žrtava zadovoljnica"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:34.277268826Z",
+  "model": "glm-5.3"
+}

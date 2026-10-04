@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će prionuti uz tebe ⟨את⟩ kugu, dok ⟨את⟩ te potpuno ne istrijebi sa zemlje u koju ulaziš da je zaposjedneš.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "prionuti će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uz tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kugu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kugu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ne istrijebi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u koju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ulaziš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "da je zaposjedneš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:42.933826462Z",
+  "model": "glm-5.3"
+}

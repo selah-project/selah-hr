@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Gilad ⟨je⟩ moj, i Menaše ⟨je⟩ moj; Efrajim ⟨je⟩ utvrda glave moje; Jehuda ⟨je⟩ zakonodavac moj.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "i moj"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "i Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "utvrda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave moje"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "zakonodavac moj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:40.486557460Z",
+  "model": "glm-5.3"
+}

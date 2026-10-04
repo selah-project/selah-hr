@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Zahvaljivat ću ti dovijeka, jer si to učinio; čekat ću ime tvoje, jer je dobro pred tvojim hasidima.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Zahvaljivat ću ti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "čekat ću"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je dobro"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "tvojim hasidima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:43.218975437Z",
+  "model": "glm-5.3"
+}

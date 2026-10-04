@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Sladak je čovjeku kruh prijevare, ali poslije će mu se usta napuniti šljunkom.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "sladak"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "prijevare"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ali poslije"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "će se napuniti"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "usta mu"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "šljunkom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:24.516006435Z",
+  "model": "glm-5.3"
+}

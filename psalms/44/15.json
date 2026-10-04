@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Činiš nas poslovicom među narodima, mašanjem glave među plemenima.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Činiš nas"
+    },
+    {
+      "surface": "משל",
+      "gloss": "poslovicom"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "mašanjem"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "בל",
+      "gloss": "među"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "plemenima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:40.839231297Z",
+  "model": "glm-5.3"
+}

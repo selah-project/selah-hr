@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I pognuo se čovjek, i ponižen je smrtnik — i ⟨ne⟩ oprosti im!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "i pognuo se"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "i ponižen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "oprosti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:01.708963094Z",
+  "model": "glm-5.3"
+}

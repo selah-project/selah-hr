@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I dođe Urija k njemu, i David upita za dobro Joava, i za dobro puka, i za dobro rata.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I dođe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za dobro"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joava"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "i za dobro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "puka"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "i za dobro"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "rata"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:11.129595356Z",
+  "model": "glm-5.3"
+}

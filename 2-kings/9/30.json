@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I dođe Jehu u Jizreel, a Izebel ču ⟨za to⟩, pa namasti oči svoje pufom, uresi ⟨את⟩ glavu svoju i proviri kroz prozor.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "u Jizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "a Izebel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ču"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "pa namasti"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "pufom"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "uresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu svoju"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "glavu svoju"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "i proviri"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kroz"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "prozor"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:25.765750387Z",
+  "model": "glm-5.3"
+}

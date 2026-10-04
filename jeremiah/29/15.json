@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer rekoste: Podigao nam je Jahve proroke u Babelu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "rekoste"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "podigao je"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "u Babelu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:21.256621654Z",
+  "model": "glm-5.3"
+}

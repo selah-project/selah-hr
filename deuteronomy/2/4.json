@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I ⟨את⟩ narod zapovjedi govoreći: Vi prolazite preko međe braće svoje, sinova Esavovih, koji sjede u Seiru, i oni će se bojati vas; a vi čuvajte se veoma,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "צו",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "prolazite"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "preko međe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "braće svoje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovih"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "koji sjede"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "u Seiru"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i oni će se bojati"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "a vi čuvajte se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:43.856293879Z",
+  "model": "glm-5.3"
+}

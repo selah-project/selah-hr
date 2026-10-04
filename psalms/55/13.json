@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Jer ne neprijatelj me ruži, pa bih to podnio; ne onaj koji me mrzi na mnome se uzvisio, pa bih se sakrio od njega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "me ruži"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "pa bih podnio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "onaj koji me mrzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "uzvisio se"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "pa bih se sakrio"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:57.679679631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I zapovjedit ću ⟨את⟩ svoj blagoslov vama u godini šestoj, i učinit će ⟨את⟩ prihod za tri godine.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "i zapovjedit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj blagoslov"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "svoj blagoslov"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "šestoj"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "i učinit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prihod"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "prihod"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "za tri"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "godine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:10.208689373Z",
+  "model": "glm-5.3"
+}

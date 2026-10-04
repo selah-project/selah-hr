@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I zadrža ga njegov tast, otac djevojke, te ostade s ⟨את⟩ njim tri dana; jedoše i piše i noćiše ondje.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i zadrža"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "njegov tast"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "djevojke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "te ostade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "jedoše"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "i piše"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "i noćiše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:29:17.597453265Z",
+  "model": "glm-5.3"
+}

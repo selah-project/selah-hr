@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 4:11",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I sada se skupe protiv tebe narodi mnogi koji govore: 'Neka se oskvrne, i neka na Sion pogledaju oči naše!'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "i sada"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "skupe se"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "protiv tebe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "koji govore"
+    },
+    {
+      "surface": "תחנף",
+      "gloss": "neka se oskvrne"
+    },
+    {
+      "surface": "ותחז",
+      "gloss": "i neka pogledaju"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Sion"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "oči naše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:21.337286709Z",
+  "model": "glm-5.3"
+}

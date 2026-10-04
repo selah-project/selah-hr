@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče kralj njoj: Što ti je? A ona reče: Zaista, udovica sam ja, i muž moj umrije.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ona reče"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "udovica"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "muž moj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:04.133705140Z",
+  "model": "glm-5.3"
+}

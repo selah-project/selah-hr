@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Četvrtast će biti, dvostruk; dlan neka mu je dužina i dlan neka mu je širina.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "četvrtast"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dvostruk"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "dlan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "i dlan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "širina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:29.311563772Z",
+  "model": "glm-5.3"
+}

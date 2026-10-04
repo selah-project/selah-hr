@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Zemlja se potresla, i nebesa su kapala pred licem Elohim — to je Sinaj — pred licem Elohim, Elohim Jisraelova.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "potresla se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "kapala su"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to je"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:21.514407515Z",
+  "model": "glm-5.3"
+}

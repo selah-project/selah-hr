@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "Pjesma uzlazaka, Davidova. Da nije Jahve — koji bijaše s nama — neka sada Jisrael kaže:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Da nije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "koji bijaše"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "s nama"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "neka kaže"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:04.343067059Z",
+  "model": "glm-5.3"
+}

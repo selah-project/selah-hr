@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Prema svemu što je Jahve zapovjedio ⟨את⟩ Mošea, tako načiniše sinovi Jisraelovi ⟨את⟩ sav posao.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "prema svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav posao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "posao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:25.850026647Z",
+  "model": "glm-5.3"
+}

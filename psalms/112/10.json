@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Zlikovac će vidjeti i rasrdit će se; zube svoje škriput će i rastopit će se; požuda zlikovaca propast će.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Zlikovac"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "će vidjeti"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "i rasrdit će se"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zube svoje"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "škriput će"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "i rastopit će se"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "požuda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "propast će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:25.124202426Z",
+  "model": "glm-5.3"
+}

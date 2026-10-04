@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Kao sjena kad se nagne, otišao sam; protresen sam kao skakavac.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kao sjena"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "kad se nagne"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "otiao sam"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "protresen sam"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kao skakavac"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.556237086Z",
+  "model": "glm-5.3"
+}

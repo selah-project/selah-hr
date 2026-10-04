@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I reče mu Avraham: Čuvaj se da ne vratiš ⟨את⟩ sina mojega onamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sebe⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vratiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina mojega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:33.346501464Z",
+  "model": "glm-5.3"
+}

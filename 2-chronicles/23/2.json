@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I prođoše po Jehudi i skupiše ⟨את⟩ levite iz svih gradova Jehude i ⟨את⟩ glavare otaca po Jisraelu, pa dođoše u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "i prođoše"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "po Jehudi"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "i skupiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svih"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "i glavare"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "otaca"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "po Jisraelu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "pa dođoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:01.984026108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Jer ukraden bijah iz zemlje Hebreja, a i ovdje ništa nisam učinio ⟨da bi me⟩ stavili u jamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ukraden"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "bijah ukraden"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreja"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovdje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ništa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nisam učinio"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ništa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "stavili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "u jamu"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "u jamu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:16.747689625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I postavi kralj ⟨את⟩ Benajahu, sina Jehojadina, mjesto njega nad vojskom, a ⟨את⟩ Tsadoka svećenika postavi kralj mjesto Ebjathara.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu, sina Jehojadina"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojade"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojskom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoka svećenika"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:06.292382276Z",
+  "model": "glm-5.3"
+}

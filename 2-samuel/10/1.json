@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dogodi se poslije toga da umrije kralj sinova Amonovih, a zavlada Hanun, sin njegov, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a zavlada"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:49.182592388Z",
+  "model": "glm-5.3"
+}

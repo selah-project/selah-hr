@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 114,
+  "translation": "Kad iziđe Jisrael iz Micrajima, dom Jaakovljev iz naroda jezičnoga stranoga,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "kad iziđe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljev"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "iz naroda"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "jezičnoga stranoga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:50.113750064Z",
+  "model": "glm-5.3"
+}

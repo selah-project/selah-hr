@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I podiže Ahron ⟨את⟩ ⟨svoje⟩ ruke prema narodu i blagoslovi ih, te siđe s vršenja grješnice i paljenice i šelamima.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "blagoslovi ih"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "s vršenja"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "grješnice"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "šelamima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:18.864419560Z",
+  "model": "glm-5.3"
+}

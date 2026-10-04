@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Neka ne ostave ništa od njega do jutra, i nijednu kost neka ne lome na njemu; po svim propisima pashе neka ga obave.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "neka ne ostave"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "i kost"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "neka ne lome"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po svim"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "propisima"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pashе"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "neka obave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (pashu)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:59.107937169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I okrenuše se, te uziđoše u brdo, i dođoše do doline Eškol, i izviđahu ⟨את⟩ nju.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "okrenuše se"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "uziđoše"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "u brdo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "doline"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eškol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "izviđahu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:32.634178566Z",
+  "model": "glm-5.3"
+}

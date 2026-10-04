@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I doda Avram: Gle, meni nisi dao sjemena, i gle, sin <iz> kuće moje baštit će ⟨את⟩ mene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I doda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "si dao"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kuće moje"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "baštit će"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:03.115680084Z",
+  "model": "glm-5.3"
+}

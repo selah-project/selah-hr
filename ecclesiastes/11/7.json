@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I slatko je svjetlo, i dobro je očima vidjeti ⟨את⟩ sunce.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "i slatko je"
+    },
+    {
+      "surface": "האור",
+      "gloss": "svjetlo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i dobro je"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "očima"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunce"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:11.471646025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I ⟨את⟩ zlatni žrtvenik, i ⟨את⟩ ulje za pomazanje, i ⟨את⟩ kad od mirisa, i ⟨את⟩ zavjesu na ulazu u šator.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zlatni žrtvenik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ulje za pomazanje"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "za pomazanje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kad od mirisa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "od mirisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zavjesu na ulazu u šator"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šator"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:36.519147801Z",
+  "model": "glm-5.3"
+}

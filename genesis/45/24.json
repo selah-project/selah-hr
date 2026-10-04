@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Otpremi ⟨את⟩ svoju braću i odoše; a reče im: Ne svađajte se na putu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "otpremi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju braću"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoju braću"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "svađajte se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:54.769020103Z",
+  "model": "glm-5.3"
+}

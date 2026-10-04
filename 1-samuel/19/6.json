@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I posluša Šaul glas Jonatana, i zakle se Šaul: „Živ mi bio Jahve, neće biti ubijen.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i posluša"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako ⟨neće⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "biti ubijen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:46.142086979Z",
+  "model": "glm-5.3"
+}

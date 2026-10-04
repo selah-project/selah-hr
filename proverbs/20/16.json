@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Uzmi ⟨את⟩ njegovu odjeću kad je jamčio za tuđinca, i uzmi zalog od njega ⟨zbog⟩ tuđinaca.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "njegovu odjeću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jamčio"
+    },
+    {
+      "surface": "זר",
+      "gloss": "za tuđinca"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i ⟨zbog⟩"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "tuđinaca"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "uzmi zalog od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:14.598096587Z",
+  "model": "glm-5.3"
+}

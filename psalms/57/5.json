@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Duša je moja usred lavova, ležim među razjarjenima — sinovima ljudskim, čiji su zubi koplje i strijele, a jezik im mač oštar.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Duša je moja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lavova"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ležim"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "među razjarjenima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zubi su im"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "koplje"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "i strijele"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "a jezik im"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "oštar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:16.155099448Z",
+  "model": "glm-5.3"
+}

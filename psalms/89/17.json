@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "U tvom imenu kliču ⟨cijeli⟩ dan, i u tvom cedeku uzvišeni su.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "u tvom imenu"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "kliču"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "i u tvom cedeku"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "uzvišeni su"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.434431297Z",
+  "model": "glm-5.3"
+}

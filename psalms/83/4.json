@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Protiv naroda tvojega kuju tajni naum i dogovaraju se o tvojim čuvanim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "naroda tvojega"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "kuju"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "tajni naum"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "i dogovaraju se"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "tvojim čuvanim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:38.031868175Z",
+  "model": "glm-5.3"
+}

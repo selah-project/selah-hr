@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Jer sunce i štit jest Jahve Elohim; milost i čast daje Jahve, neće uskratiti dobra onima što hode u neporočnosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "i štit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "i čast"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "uskratiti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "onima što hode"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "u neporočnosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.177661338Z",
+  "model": "glm-5.3"
+}

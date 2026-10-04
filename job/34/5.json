@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Jer reče Ijov: Pravedan sam, a El ukloni moj pravo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "pravedan sam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ukloni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moje pravo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:38:37.328122327Z",
+  "model": "glm-5.3"
+}

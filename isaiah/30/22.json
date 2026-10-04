@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i oskvrnut ćeš ⟨את⟩ oblogu likova od srebra svojega i ⟨את⟩ oplatu lijevanoga lika od zlata svojega; rasut ćeš ih kao nečisto žensku, recit ćeš mu: Van!",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "oskvrnut ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblogu likova od srebra svojega"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "oblogu"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "likova"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "od srebra svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oplatu lijevanoga lika od zlata svojega"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "oplatu"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "lijevanoga lika"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "od zlata svojega"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "rasut ćeš ih"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "nečisto žensku"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Van!"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "recit ćeš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:52.182435694Z",
+  "model": "glm-5.3"
+}

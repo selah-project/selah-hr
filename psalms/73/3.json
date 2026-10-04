@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Jer zavidio sam oholima, mir bezbožnika gledah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "zavidio sam"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "oholima"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gledah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:13.818583372Z",
+  "model": "glm-5.3"
+}

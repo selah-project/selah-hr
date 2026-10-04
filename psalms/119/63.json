@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Drug sam svima koji Te se boje i svima koji čuvaju Tvoje zapovijedi.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Drug"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "Te se boje"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "i svima koji čuvaju"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tvoje zapovijedi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:08.102094133Z",
+  "model": "glm-5.3"
+}

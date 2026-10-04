@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče ujak Šaulov njemu i njegovu mladiću: Kamo ste otišli? A on reče: Tražiti ⟨את⟩ magarice; i vidjesmo da ih nema, pa dođosmo k Šemuelu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ujak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulov"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "njegovu mladiću"
+    },
+    {
+      "surface": "אן",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "ste otišli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magarice"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "magarice"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "i vidjesmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "pa dođosmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:26.687298465Z",
+  "model": "glm-5.3"
+}

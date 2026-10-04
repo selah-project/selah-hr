@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "A on će otkupiti ⟨את⟩ Jisrael od svih grijeha njegovih.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "A on"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "će otkupiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "grijeha njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.405368163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Tko čuva zapovijed, čuva dušu svoju; a tko prezire puteve svoje, umrijet će.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dušu svoju"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "prezire"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "puteve svoje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:02.108276736Z",
+  "model": "glm-5.3"
+}

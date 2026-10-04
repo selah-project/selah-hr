@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Ja ću ti odgovoriti riječima, i ⟨את⟩ prijatelje tvoje s tobom.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ću ti odgovoriti"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "riječima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prijatelje tvoje"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "prijatelje tvoje"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:46.327491100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Jer prije nego li dijete znade zvati: Oče moj! i: Majko moja! odnijet će se ⟨את⟩ imetak Damaska i ⟨את⟩ plijen Šomrona pred kralja Ašura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego li"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znade"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zvati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Oče moj"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i Majko moja"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "odnijet će se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imetak Damaska"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "imetak"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "plijen Šomrona"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:27.252364021Z",
+  "model": "glm-5.3"
+}

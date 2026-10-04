@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Pohodiš zemlju i natapaš je, obilno je obogaćuješ; potok Elohimov pun je vode; pripravljaš im žito, jer tako je pripravljaš.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "pohodiš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "i natapaš"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "obilno"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "obogaćuješ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "potok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "pripravljaš"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "žito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "pripravljaš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:49.088870189Z",
+  "model": "glm-5.3"
+}

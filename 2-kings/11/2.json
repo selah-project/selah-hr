@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Jehošeba, kći kralja Jorama, sestra Ahazjina, uze ⟨את⟩ Joaša, sina Ahazjina, i ukrade ga iz sredine sinova kraljevskih koji su pogubljivani — njega i njegovu dojilju — u odaji postelja, te ga sakriše od lica Atalije, i ne bijaše pogubljen.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehošeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jorama"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaša"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahazjina"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "i ukrade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (Joaša)"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevskih"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "koji su pogubljivani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (s dojiljom)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu dojilju"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "njegovu dojilju"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "u odaji"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "postelja"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "te sakriše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (Joaša)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od lica"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "bijaše pogubljen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:34.720143830Z",
+  "model": "glm-5.3"
+}

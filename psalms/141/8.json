@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Jer k tebi su oči moje, Jahve, Adonaju; u tebe se sklanjam — ne ogoli duše moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sklanjam se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ogoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:35.526269994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Žrtvuj Elohimu zahvalu i izvrši ⟨⟨svoje⟩⟩ zavjere Svevišnjemu!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "žrtvuj"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "zahvalu"
+    },
+    {
+      "surface": "וושלם",
+      "gloss": "i izvrši"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Svevišnjemu"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "svoje zavjere"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.517808488Z",
+  "model": "glm-5.3"
+}

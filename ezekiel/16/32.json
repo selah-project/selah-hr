@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Žena preljubnica! Mjesto muža svoga uzimaš ⟨את⟩ tuđince.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "preljubnica"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "muža svoga"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzimaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuđince"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuđince"
+    }
+  ],
+  "timestamp": "2026-10-04T18:40:09.017098839Z",
+  "model": "glm-5.3"
+}

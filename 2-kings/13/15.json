@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče mu Eliša: Uzmi luk i strijele. I uze k sebi luk i strijele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "i strijele"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "i strijele"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:22.761512072Z",
+  "model": "glm-5.3"
+}

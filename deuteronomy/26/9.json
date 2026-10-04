@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I dovede nas k ovome mjestu, i dade nam ⟨את⟩ ovu zemlju, zemlju koja teče mlijekom i medom.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "i dovede nas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ovome mjestu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ovu zemlju"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "koja teče"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mlijekom"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i medom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:18.926753863Z",
+  "model": "glm-5.3"
+}

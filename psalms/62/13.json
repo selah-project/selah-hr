@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "i u tebe je, Adonaje, hesed, jer ti uzvraćaš svakomu čovjeku po djelu njegovu.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "i u tebe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "uzvraćaš"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "svakomu čovjeku"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "po djelu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:17.532270574Z",
+  "model": "glm-5.3"
+}

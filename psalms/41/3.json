@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Jahve ga čuva i ostavlja ga na životu; sretan je na zemlji ⟨i⟩ ne daje ga u volju duši neprijatelja njegovih.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ga čuva"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "i ostavlja ga na životu"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "sretan je"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨i⟩ ne"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "daje ga"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "u volju duši"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "neprijatelja njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:16.922697322Z",
+  "model": "glm-5.3"
+}

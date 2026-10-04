@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "⟨את⟩ svakoga gavrana prema vrsti njegovoj,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svakoga gavrana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gavran"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "prema vrsti njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:54.800261951Z",
+  "model": "glm-5.3"
+}

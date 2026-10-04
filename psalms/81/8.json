@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "U tjesnoci zvao si, i izbavio sam te; odgovorih ti u skrovištu groma, iskušah te pri vodama Merive. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "u tjesnoci"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "zvao si"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "i izbavio sam te"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "odgovorih ti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u skrovištu"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "groma"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "iskušah te"
+    },
+    {
+      "surface": "על",
+      "gloss": "pri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodama"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merive"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.621124083Z",
+  "model": "glm-5.3"
+}

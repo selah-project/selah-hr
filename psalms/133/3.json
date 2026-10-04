@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 133,
+  "translation": "kao rosa Hermona, što silazi na gore Cijona, jer ondje je Jahve zapovjedio ⟨את⟩ blagoslov — život dovijeka.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "kao rosa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermona"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "što silazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blagoslov"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨vijeka⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:51.054260093Z",
+  "model": "glm-5.3"
+}

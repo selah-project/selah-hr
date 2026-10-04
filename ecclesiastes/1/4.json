@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Naraštaj odlazi i naraštaj dolazi, a zemlja zauvijek stoji.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odlazi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "i naraštaj"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a zemlja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:34.455328676Z",
+  "model": "glm-5.3"
+}

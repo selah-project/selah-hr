@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bilo je, kad se učvrstila kraljevstvo Rahavama i kad se on osilio, napusti ⟨את⟩ Toru Jahvinu, i sav Jisrael s njim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "kad se učvrstila"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "i kad se osilio"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "napusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toru"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:42.673198027Z",
+  "model": "glm-5.3"
+}

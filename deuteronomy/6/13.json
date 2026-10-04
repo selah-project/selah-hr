@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jahvu, Elohim svojega, boj se, i njega ⟨את⟩ služi, i u ime njegovo zaklinji se.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "i njega ⟨את⟩",
+      "marks": "njega (tj. Jahvu) — predmet glagola תעבד"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "služi"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "i u ime njegovo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "zaklinji se"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:47.882584400Z",
+  "model": "glm-5.3"
+}

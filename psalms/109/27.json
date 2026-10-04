@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "I neka znaju da je ruka tvoja ovo; ti si, Jahve, to učinio.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "I neka znaju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "to učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:37.208603720Z",
+  "model": "glm-5.3"
+}

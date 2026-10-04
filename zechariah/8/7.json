@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Ovako reče Jahve Cebaot: Evo, ja spašavam ⟨את⟩ svoj narod iz zemlje istoka i iz zemlje zalaska sunca.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "spašavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "istoka"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "i iz zemlje"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "zalaska"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:26.620699726Z",
+  "model": "glm-5.3"
+}

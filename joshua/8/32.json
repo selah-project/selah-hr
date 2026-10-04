@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I napiše ondje na kamenju ⟨את⟩ prijepis Tore Mošeove, koji napisa pred sinovima Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napiše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijepis Tore Mošeove"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "prijepis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:51.905041097Z",
+  "model": "glm-5.3"
+}

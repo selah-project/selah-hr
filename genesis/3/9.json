@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I zovnu Jahve Elohim čovjeka i reče mu: Gdje si?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zovnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "gdje si"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.559808483Z",
+  "model": "glm-5.3"
+}

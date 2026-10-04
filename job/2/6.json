@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče Jahve Sotoni: Eno ga u tvojoj ruci; samo ⟨את⟩ njegov život čuvaj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sotoni"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Eno ga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvojoj ruci"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov život"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegov život"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:20.108409639Z",
+  "model": "glm-5.3"
+}

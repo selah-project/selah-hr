@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ako se bojite ⟨את⟩ Jahvu, ⟨את⟩ njemu služite, njegovu glas slušate i ne buntujete se protiv ⟨את⟩ usta Jahvinih, i budete i vi i kralj koji kraljuje nad vama ⟨u slijeđenju⟩ iza Jahve, Elohim vašega —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "se bojite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ו עבדתם",
+      "gloss": "služite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njemu",
+      "marks": "služite"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "slušate"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "njegovu glas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "buntujete se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta Jahvina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "i budete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vama"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:12.958462166Z",
+  "model": "glm-5.3"
+}

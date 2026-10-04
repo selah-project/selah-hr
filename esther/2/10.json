@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ester ne otkri ⟨את⟩ svoj narod ni ⟨את⟩ svoje podrijetlo, jer joj Mordehai bijaše zapovjedio da ne kazuje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "otkri (nije kazala)"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje podrijetlo"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "svoje podrijetlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "kazuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:51.163492242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "i ⟨את⟩ podnožja dvorišta unaokolo, i ⟨את⟩ podnožja vrata dvorišta, i ⟨את⟩ sve kolce Miškana i ⟨את⟩ sve kolce dvorišta unaokolo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "podnožja dvorišta unaokolo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "podnožja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "podnožja vrata dvorišta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "podnožja"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kolce Miškana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolce"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kolce dvorišta unaokolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolce"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:52.861392263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 82,
+  "translation": "Psalam Asafov. Elohim stoji u zajednici ⟨El⟩; usred bogova sudi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalam"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "u zajednici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogova"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sudi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:27.764659300Z",
+  "model": "glm-5.3"
+}

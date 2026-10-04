@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "koji rekoše: Zaposjednimo za se ⟨את⟩ pašnjake Elohimove!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "zaposjednimo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pašnjake Elohimove"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pašnjake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:32.009981379Z",
+  "model": "glm-5.3"
+}

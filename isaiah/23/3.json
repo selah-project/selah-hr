@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I na velikim vodama sjeme Šihora, žetva Nila, dohodak njezin; i bijaše ⟨ona⟩ tržnica narodima.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "I na vodama"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Šihora"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetva"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Nila"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dohodak njezin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "tržnica"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:35.177273046Z",
+  "model": "glm-5.3"
+}

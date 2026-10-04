@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": " koji jedu tijelo mojega naroda, kožu s njih deru, ⟨את⟩ kosti im lome i komadaju kao ⟨u⟩ lonac, kao meso u kotlu.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega naroda"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "kožu"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "s njih"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "deru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kosti im"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "kosti im"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "lome"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "i komadaju"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "⟨u⟩ lonac"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "kao meso"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "u"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kotlu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:38.875623270Z",
+  "model": "glm-5.3"
+}

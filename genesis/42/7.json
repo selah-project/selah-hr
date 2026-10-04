@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I vidje Josef ⟨את⟩ svoju braću i prepozna ih, a učini se kao stranac prema njima i govoraše ⟨את⟩ s njima oštro, te im reče: Otkud dolazite? A oni rekoše: Iz zemlje kenaanske, da kupimo hrane.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju braću"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoju braću"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "i prepozna ih"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "a učini se kao stranac"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "prema njima"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ s njima"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "oštro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Otkud"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "dolazite"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rekoše"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Iz zemlje"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanske"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "da kupimo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.535373034Z",
+  "model": "glm-5.3"
+}

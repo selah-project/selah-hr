@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Jer pepeo kao kruh jedem, i piće svoje suzama miješam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "pepeo"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "kao kruh"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "jedem"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "i piće moje"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "suzama"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "miješam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.141577665Z",
+  "model": "glm-5.3"
+}

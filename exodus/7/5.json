@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I znat će Micrajimci da sam ja Jahve kad pružim ⟨את⟩ ruku svoju na Micrajim i izvedem ⟨את⟩ sinove Jisraela između njih.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "i znat će"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "kad pružim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "i izvedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "između njih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:22.562702745Z",
+  "model": "glm-5.3"
+}

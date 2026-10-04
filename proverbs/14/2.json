@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tko hodi u svojoj pravednosti, straši se Jahve, a krivudav u svojim putovima prezire ga.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "tko hodi"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "u svojoj pravednosti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "straši se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "a krivudav"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "u svojim putovima"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "prezire ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:53.138515794Z",
+  "model": "glm-5.3"
+}

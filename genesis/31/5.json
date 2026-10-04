@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I reče im: Vidim ⟨את⟩ lice oca vašega da nije prema meni kao jučer i prekjučer, a Elohim oca mojega bijaše sa mnom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להן",
+      "gloss": "im"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice oca vašega"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "oca vašega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nije"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "prema meni"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "kao jučer"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "i prekjučer"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:44.080761071Z",
+  "model": "glm-5.3"
+}

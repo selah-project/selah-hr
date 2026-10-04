@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Ako ogladnim, neću reći tebi, jer moja je zemlja i sve što je u njoj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ogladnim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reći"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moja je"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "sve što je u njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:42.266730232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I uzdržava Jošef ⟨את⟩ oca svojega i ⟨את⟩ braću svoju i ⟨את⟩ sav dom oca svojega, kruhom prema ustima djece.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "i uzdržava"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "braću svoju"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav dom oca svojega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "prema ustima"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "djece"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:17.282888551Z",
+  "model": "glm-5.3"
+}

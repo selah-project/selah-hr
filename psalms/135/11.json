@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Sihona, kralja Emoraca, i Oga, kralja Bašana, i sva kraljevstva Kenaana,",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoraca"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "i Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašana"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:02.588568344Z",
+  "model": "glm-5.3"
+}

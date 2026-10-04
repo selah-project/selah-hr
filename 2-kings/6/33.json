@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Dok on još razgovaraše s njima, gle, glasnik siđe k njemu i reče: Gle, ovo zlo ⟨je⟩ od ⟨את⟩ Jahve; što da još čekam na Jahvu?",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "još"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "razgovaraše"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "glasnik"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "da čekam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Jahvu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:42.478765178Z",
+  "model": "glm-5.3"
+}

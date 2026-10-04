@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "dok se ne pomrači sunce i svjetlost i mjesec i zvijezde, i obluci ne vrate se poslije kiše.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "pomrači"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "i svjetlost"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "i mjesec"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "i zvijezde"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i ne vrate se"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "obluci"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "kiše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:31.797847882Z",
+  "model": "glm-5.3"
+}

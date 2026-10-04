@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dođe dan, te Elkana žrtvova te dade Penini, ženi svojoj, i svoj njezinoj djeci — sinovima i kćerima njezinim — porcije.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "te žrtvova"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "te dade"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penini"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženi svojoj"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i svoj"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sinovima njezinim"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "i kćerima njezinim"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "porcije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:50.219361899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "A hesed Jahvina od vijeka dovijeka nad onima koji ga se boje, i cedek njegov ⟨je⟩ za sinove sinova,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "a hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od vijeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "onima koji ga se boje"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "i cedek njegov"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "za sinove"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:59.626096761Z",
+  "model": "glm-5.3"
+}

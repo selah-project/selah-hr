@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "i iz zemalja ih skupi, s istoka i sa zapada, sa sjevera i s mora.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "i iz zemalja"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "skupi ih"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "i sa zapada"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa sjevera"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i s mora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:13.006208384Z",
+  "model": "glm-5.3"
+}

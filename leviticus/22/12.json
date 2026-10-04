@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A kći svećenika, ako bude za tuđega čovjeka, ona od prinosa svetih stvari ne smije jesti.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "a kći"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "za čovjeka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "od prinosa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetih stvari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne smije"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:23.574956837Z",
+  "model": "glm-5.3"
+}

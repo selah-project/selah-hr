@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Ljubite dakle pridošlicu ⟨את⟩, jer ste bili pridošlice u zemlji micrajimskoj.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ljubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pridošlicu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "pridošlicu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pridošlice"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ste bili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:08.981694684Z",
+  "model": "glm-5.3"
+}

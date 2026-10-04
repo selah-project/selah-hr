@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Dođite, djeco, poslušajte me: strah Jahvin naučit ću vas.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Dođite"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djeco"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušajte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "strah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "naučit ću vas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:45.571108254Z",
+  "model": "glm-5.3"
+}

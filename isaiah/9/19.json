@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I grabe s desne strane, ali gladni su; i jedu s lijeve, ali nisu siti: svatko meso svoje ruke jede.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "i grabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desne strane"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ali gladni su"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i jedu"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "lijeve strane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali nisu"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "siti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jede"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:21.920451737Z",
+  "model": "glm-5.3"
+}

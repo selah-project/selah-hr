@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Dvanaestoro nas je, braće, sinova oca svojega; jednoga nema, a najmlađi je danas ⟨את⟩ kod oca svojega u zemlji kenaanskoj.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "braće"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nema"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "a najmlađi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kod oca svojega"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:26.760596024Z",
+  "model": "glm-5.3"
+}

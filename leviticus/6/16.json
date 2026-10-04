@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A svaka minha svećenikova potpuno će se sažegati; neće se jesti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A svaka"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenikova"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "potpuno"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "će se jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:43.150072169Z",
+  "model": "glm-5.3"
+}

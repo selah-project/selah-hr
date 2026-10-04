@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I uhvatiše ⟨את⟩ kralja, te ga digoše kralju babilonskom u Rivlu, i rekoše s njom ⟨את⟩ sud.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "i uhvatiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "te ga digoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskom"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "u Rivlu"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:45.374212560Z",
+  "model": "glm-5.3"
+}

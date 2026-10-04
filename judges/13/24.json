@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 13:24",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I rodi žena sina i nadjene mu ⟨את⟩ ime Šimšon; i dječak uzraste, i Jahve ga blagoslovi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nadjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Šimšon"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "i uzraste"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dječak"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "i blagoslovi ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:14.566555851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I urotili su se sluge Amonove protiv njega, i ubili su ⟨את⟩ kralja u njegovoj kući.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "i urotili su se"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonove"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "i ubili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "u njegovoj kući"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:48.636592154Z",
+  "model": "glm-5.3"
+}

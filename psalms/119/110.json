@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Postaviše bezbožnici zamku meni, ali od Tvojih odredaba nisam zastranio.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "postaviše"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "פח",
+      "gloss": "zamku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "a od Tvojih odredaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nisam zastranio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:37.066361124Z",
+  "model": "glm-5.3"
+}

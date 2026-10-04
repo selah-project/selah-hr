@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Jer nestajemo u gnjevu tvojem i u srdžbi tvojoj strahujemo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nestajemo"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "u gnjevu tvojem"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "i u srdžbi tvojoj"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "strahujemo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:19.701539497Z",
+  "model": "glm-5.3"
+}

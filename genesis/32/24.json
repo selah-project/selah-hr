@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I uze ih, i prevede ih preko ⟨את⟩ potoka, i prevede ⟨את⟩ sve što je imao.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "i uze ih"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "i prevede ih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i prevede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je imao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je imao"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:33.135878889Z",
+  "model": "glm-5.3"
+}

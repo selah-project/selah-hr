@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Uzi rodi ⟨את⟩ Zerahiju, a Zerahija rodi ⟨את⟩ Merajota.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahiju"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerahiju"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "a Zerahija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajota"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajota"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:30.397482621Z",
+  "model": "glm-5.3"
+}

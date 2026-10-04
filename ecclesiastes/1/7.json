@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Sve rijeke teku k moru, a more nije ⟨nikad⟩ puno; k mjestu kamo rijeke teku, tamo se one vraćaju da opet teku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moru"
+    },
+    {
+      "surface": "והים",
+      "gloss": "a more"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nije"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjestu"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "one"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "vraćaju se"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da teku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:52.505182485Z",
+  "model": "glm-5.3"
+}

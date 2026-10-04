@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Ne palite oganj ni u jednom od svojih stanova u dan Šabata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "palite"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni u jednom od"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "svojih stanova"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:53.445405920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Dobro mi je što sam bio ponižen, da naučim tvoje zakone.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "sam bio ponižen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "naučim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvoje zakone"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.404535054Z",
+  "model": "glm-5.3"
+}

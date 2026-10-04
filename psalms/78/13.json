@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Razdijeli more i provede ⟨את⟩ njih kroz njega, i učini da voda stane kao nasuta gomila.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "razdijeli"
+    },
+    {
+      "surface": "ים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "i provede njih"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "i učini da stane"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "נד",
+      "gloss": "nasuta gomila"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.048092001Z",
+  "model": "glm-5.3"
+}

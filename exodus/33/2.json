@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I poslat ću pred tobom ⟨את⟩ malaha, i protjerat ću ⟨את⟩ Kenaanca, Emorita, Hetita, Perižita, Hivijca i Jebusijca.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "I poslat ću"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaha"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "i protjerat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanca"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Hetita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Perižita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivijca"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusijca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:51.343483Z",
+  "model": "glm-5.3"
+}

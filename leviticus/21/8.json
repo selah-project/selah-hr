@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I drži ga svetim, jer ⟨את⟩ kruh Elohim tvojega on prinosi; svet neka ti bude, jer svet sam ja, Jahve, koji vas posvećujem.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "i drži ga svetim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruh Elohim tvojega"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvojega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "prinosi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "koji vas posvećujem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:37.608829876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Proliše krv njihovu kao vodu unaokolo Jerušalajima, i ne bijaše tko da ukopa ⟨mrtve⟩.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Proliše"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "krv njihovu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao vodu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i ne bijaše"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "tko da ukopa ⟨mrtve⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:09.515103574Z",
+  "model": "glm-5.3"
+}

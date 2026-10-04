@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A pšenica i spelty nisu bile udarene, jer su ⟨bile⟩ kasne.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "a pšenica"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "i spelty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "udarene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "kasne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:34.595086657Z",
+  "model": "glm-5.3"
+}

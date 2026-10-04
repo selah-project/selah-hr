@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Iskopali su mi bezobzirnici jame ⟨koje nisu⟩ po Tvojoj Tori.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "iskopali su"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "bezobzirnici"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "jame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "po Tvojoj Tori"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:24.284733778Z",
+  "model": "glm-5.3"
+}

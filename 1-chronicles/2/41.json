@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A Šalum rodi ⟨את⟩ Jekamju, a Jekamja rodi ⟨את⟩ Elišamu.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "A Šalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamju"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamju"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "a Jekamja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elišamu"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elišamu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:25.684742773Z",
+  "model": "glm-5.3"
+}

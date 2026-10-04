@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "I u hesedu svojem istrijebi neprijatelje moje, i uništi sve mrzitelje duše moje, jer ja sam sluga tvoj.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "I u hesedu svojem"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "istrijebi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelje moje"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "i uništi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mrzitelje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.793841762Z",
+  "model": "glm-5.3"
+}

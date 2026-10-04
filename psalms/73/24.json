@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Savjetom svojim vodiš me, i poslije ćeš me u slavu primiti.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "savjetom svojim"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vedeš me"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "i poslije"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "u slavu"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ćeš me primiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:16.507509052Z",
+  "model": "glm-5.3"
+}

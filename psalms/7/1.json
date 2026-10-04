@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Šigajon Davidov, koji pjevaše Jahvi, o riječima Kuša, sina Jeminijeva.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Šigajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pjevaše"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječima"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jeminijevu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:13.287805283Z",
+  "model": "glm-5.3"
+}

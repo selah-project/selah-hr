@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I mrzio sam ⟨את⟩ život, jer mi je zao posao koji se čini pod suncem, jer je sve ispraznost i proganjanje ruha.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "i mrzio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zao"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "koji se čini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ispraznost"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i proganjanje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:57.457545093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Zavjetujte i izvršite Jahvi, Elohim svojemu, svi koji ste oko njega; neka dovedu dare Onome strašnomu.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Zavjetujte"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "i izvršite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "koji ste oko njega"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "neka dovedu"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dare"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "Onome strašnomu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:22.853377288Z",
+  "model": "glm-5.3"
+}

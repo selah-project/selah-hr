@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I predat će kraljeve njihove u tvoju ruku, a ti ćeš istrijebiti ⟨את⟩ ime njihovo ispod neba; nitko se neće održati pred tobom dok ih ne uništiš ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "predat će"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kraljeve njihove"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvoju ruku"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "istrijebit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njihovo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ime njihovo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "održat će se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ne uništiš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:49.471979326Z",
+  "model": "glm-5.3"
+}

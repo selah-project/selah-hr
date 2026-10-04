@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I prinosit će svećenik ⟨את⟩ pred Jahvu, i izvršit će ⟨את⟩ njegovu okajnicu i ⟨את⟩ njegovu paljenicu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i prinosit će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i izvršit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu okajnicu"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "njegovu okajnicu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu paljenicu"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "njegovu paljenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:07.645081072Z",
+  "model": "glm-5.3"
+}

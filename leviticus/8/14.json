@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I privede ⟨את⟩ junca žrtve za grijeh, i Aharon i sinovi njegovi položiše ⟨את⟩ ruke svoje na glavu junca žrtve za grijeh.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i privede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "i položiše"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i sinovi njegovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke svoje"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:36.858322360Z",
+  "model": "glm-5.3"
+}

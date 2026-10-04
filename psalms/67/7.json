@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Zemlja dade rod svoj; blagoslovi nas Elohim, Elohim naš.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dade"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "rod svoj"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "blagoslovi nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:50.803950825Z",
+  "model": "glm-5.3"
+}

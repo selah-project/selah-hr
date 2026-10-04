@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne mrzi ⟨את⟩ svojega brata u svome srcu; pokaraj ⟨את⟩ svoga druga, i ne nosi zbog njega grijeh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "mrzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega brata"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "u svome srcu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "pokaraj"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "pokaraj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga druga"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "svoga druga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nosi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zbog njega"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:17.550634345Z",
+  "model": "glm-5.3"
+}

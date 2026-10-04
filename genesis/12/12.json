@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bit će, kad te vide Micrajci, pa reku: 'Žena je ovo njegova', da će mene ubiti, a tebe ⟨את⟩ će održati u životu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "pa reku"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žena njegova"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "da će ubiti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "a ⟨את⟩ tebe",
+      "marks": "tebe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "će održati u životu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:26.680673562Z",
+  "model": "glm-5.3"
+}

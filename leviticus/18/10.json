@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Erwat kćeri sina tvojega ili kćeri kćeri tvoje — ne otkrivaj njihovu ervu, jer su ⟨to⟩ erve tvoje.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "erva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "kćeri tvoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrivaj"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "njihovu ervu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "erve tvoje"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨to⟩ su"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:33.436916100Z",
+  "model": "glm-5.3"
+}

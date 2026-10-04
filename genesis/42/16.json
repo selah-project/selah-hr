@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Pošaljite jednoga od sebe neka dovede ⟨את⟩ brata vašega, a vi budite vezani, i neka se kušaju riječi vaše ⟨את⟩ — je li istina s vama; ako li nije, života faraonova! — špijuni ste.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "pošaljite"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od sebe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "neka dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata vašega"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brata vašega"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "budite vezani"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "neka se kušaju"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "riječi vaše"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "istina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "s vama"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "života"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "špijuni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:30.565884336Z",
+  "model": "glm-5.3"
+}

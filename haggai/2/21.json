@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Reci Zerubabelu, upravitelju Judin, <to say> : ja tresem ⟨heavens⟩ and ⟨earth⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "upravitelju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to say"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "tresem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heavens"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heavens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:00.426316020Z",
+  "model": "glm-5.3"
+}

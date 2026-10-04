@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "A ovo su imena knezova Esavovih po njihovim obiteljima, po njihovim mjestima, njihovim imenima: knez Timna, knez Alva, knez Jetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "su imena"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "knezova"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovih"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovim obiteljima"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "po njihovim mjestima"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "njihovim imenima"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetet"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:28.114143322Z",
+  "model": "glm-5.3"
+}

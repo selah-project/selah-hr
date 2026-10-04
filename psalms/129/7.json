@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "koju ne napuni ruku žetelca ni naruč onoga koji vezuje snopove.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "koju ne"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "žetelca"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ni naruč"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "onoga koji vezuje snopove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:09.143169875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 70,
+  "translation": "Elohim, ⟨da⟩ me izbaviš, Jahve, ⟨da⟩ mi pomogneš — pohiti!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "da me izbaviš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "da mi pomogneš"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pohiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:55.985774429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 2:32",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I podigoše ⟨את⟩ Asaela i pokopaše ga u grobu njegova oca, koji je u Beit Lehemu; i iđahu svu noć Joav i njegovi ljudi, i svanulo im je u Hevronu.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i podigoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaela"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaela"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "i pokopaše ga"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "u grobu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegova oca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i iđahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noć"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i njegovi ljudi"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "svanulo je"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:33.505209393Z",
+  "model": "glm-5.3"
+}

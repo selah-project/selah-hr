@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Kliju će pustinja i suha zemlja, i veselit će se Araba, i cvjetat će kao šafran.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "kliju će"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustinja"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "i suha zemlja"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "i veselit će se"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "i cvjetat će"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kao šafran"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:49.785207185Z",
+  "model": "glm-5.3"
+}

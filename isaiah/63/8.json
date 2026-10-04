@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "I reče: Zaista, moj su narod oni, sinovi koji neće lagati; i bi im ⟨za⟩ spasitelja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "lagati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "⟨za⟩ spasitelja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:13.983332931Z",
+  "model": "glm-5.3"
+}

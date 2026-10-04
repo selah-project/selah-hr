@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Otkupi, Elohime, ⟨את⟩ Jisrael iz svih tjeskoba njegovih.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "otkupi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svih"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "tjeskoba njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:38.792346825Z",
+  "model": "glm-5.3"
+}

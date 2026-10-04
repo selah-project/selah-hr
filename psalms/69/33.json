@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Neka vide ponizni pa neka se raduju; oni koji traže Elohim — i neka vam srce oživi.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "neka vide"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponizni"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "neka se raduju"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "oni koji traže"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "i neka oživi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srce vaše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:33.663759114Z",
+  "model": "glm-5.3"
+}

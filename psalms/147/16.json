@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Onaj koji daje snijeg kao runo, mraz kao pepeo razasipa.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snijeg"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "kao runo"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "mraz"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kao pepeo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "razasipa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.436761578Z",
+  "model": "glm-5.3"
+}

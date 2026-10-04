@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Kliknut ću i radovati ću se u tvom hesedu, jer si vidio ⟨את⟩ moju nevolju, znao si za tjeskobe duše moje.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "kliknut ću"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "i radovati ću se"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "u tvom hesedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "vidio si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju nevolju"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "moju nevolju"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znao si"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "za tjeskobe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.274003801Z",
+  "model": "glm-5.3"
+}

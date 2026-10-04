@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "I rekoše: »Neće vidjeti Jah, i neće razumjeti Elohim Jaakovljev.«",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "razumjeti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljev"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:00.678539386Z",
+  "model": "glm-5.3"
+}

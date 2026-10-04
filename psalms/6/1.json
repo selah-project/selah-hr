@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Zborovođi, uz gudaća glazbala, na šeminítu. Psalam Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "uz gudača glazbala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "šeminítu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:15.545886922Z",
+  "model": "glm-5.3"
+}

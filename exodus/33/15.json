@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče njemu: Ako lice tvoje ne ide, ne diži nas odavde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "diži nas"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odavde"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:51.458389966Z",
+  "model": "glm-5.3"
+}

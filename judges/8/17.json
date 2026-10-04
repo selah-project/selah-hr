@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I poruši ⟨את⟩ kulu Penuela, i pobi ⟨את⟩ ljude toga grada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kulu Penuela"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuela"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "poruši"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "i pobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude toga grada"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toga grada"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:21.382277205Z",
+  "model": "glm-5.3"
+}

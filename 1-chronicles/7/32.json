@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I Hever rodi ⟨את⟩ Jafleta i ⟨את⟩ Šomera i ⟨את⟩ Hotama i ⟨את⟩ Šuu, sestru njihovu.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "I Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jafleta"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jafleta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šomera"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Šomera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hotama"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šuu"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Šuu"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sestru njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:44.402073918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I zaklat će ⟨את⟩ pticu jednu u posudu glinenu, nad vodom živom.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zaklat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pticu jednu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "pticu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posudu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "glinenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:19.895008641Z",
+  "model": "glm-5.3"
+}

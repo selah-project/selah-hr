@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I žrtvovahu ⟨את⟩ svoje sinove i ⟨את⟩ svoje kćeri šedima.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "i žrtvovahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoje kćeri"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "svoje kćeri"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "šedima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.625371757Z",
+  "model": "glm-5.3"
+}

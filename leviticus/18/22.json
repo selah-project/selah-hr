@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ⟨s⟩ ⟨את⟩ muškarca ne liježi kako se liježe sa ženom — gadost je to.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "liježi"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kako se liježe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa ženom"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:48.998075547Z",
+  "model": "glm-5.3"
+}

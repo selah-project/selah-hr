@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i učini ga kraljem nad Giladom i nad Ašurijem i nad Jizreelom, i nad Efrajimom i nad Binjaminom i nad svim Jisraelom.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "učini ga kraljem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ašurijem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "svim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:38.480202590Z",
+  "model": "glm-5.3"
+}

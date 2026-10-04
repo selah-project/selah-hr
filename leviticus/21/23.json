@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Samo k zavjesi neće ući i k žrtveniku neće pristupiti, jer mana je u njemu, i neka ne oskvrnjuje ⟨את⟩ moja svetišta, jer ja sam Jahve koji ih posvećujem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "zavjesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "će ući"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "će pristupiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "oskvrnjuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moja svetišta"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "moja svetišta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "koji ih posvećujem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:11.000655766Z",
+  "model": "glm-5.3"
+}

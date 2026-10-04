@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I govoraše ⟨את⟩ njima ovako: »Ako je vaša duša ⟨את⟩ da pokopam ⟨את⟩ svoga mrtvaca izpred sebe, čujte me i zagovorite za mene kod Efrona, sina Cohara.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaša duša"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "vaša duša"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "da pokopam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga mrtvaca"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "svoga mrtvaca"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "izpred sebe"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "čujte me"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "i zagovorite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mene"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "kod Efrona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Cohara"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:08.077168696Z",
+  "model": "glm-5.3"
+}

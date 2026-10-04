@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Dok je kralj na svojem ⊕divanu, moj nard dao je miris svoj.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "je kralj"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "na svojem divanu"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "moj nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao je"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "miris svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:40:34.090609770Z",
+  "model": "glm-5.3"
+}

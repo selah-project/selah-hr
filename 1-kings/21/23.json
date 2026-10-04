@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A i o Izebel riječ je Jahvina, koja veli: Psi će pojesti ⟨את⟩ Izebel u helu Jizreelu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "o Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koja veli"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "će pojesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "u helu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:32.232638819Z",
+  "model": "glm-5.3"
+}

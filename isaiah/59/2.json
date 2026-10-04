@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Nego vaše su krivnje razdvojile između vas i između Elohiba vašega, a vaši grijesi sakrili lice ⟨njegovo⟩ od vas ⟨da ne čuje⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego (jer)"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "vaše krivnje"
+    },
+    {
+      "surface": "היו",
+      "gloss": "su bile"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "razdvojile"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "između vas"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "a vaši grijesi"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "sakrili"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lice ⟨njegovo⟩"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od vas"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "⟨da ne čuje⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:56.507049472Z",
+  "model": "glm-5.3"
+}

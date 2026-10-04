@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I napisа Мordaхaj ⟨את⟩ te riječi, i posla pisma svim Jehudijcima koji su u svim pokrajinama kralja Ahašveroša, bliskima i dalekima.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisа"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мordaхaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "pisma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudijcima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "pokrajinama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "bliskima"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "i dalekima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:02.807365520Z",
+  "model": "glm-5.3"
+}

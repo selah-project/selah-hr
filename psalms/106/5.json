@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Da vidim dobro tvojih izabranika, da se radujem radosti tvojega naroda, da se ponosim s tvojom baštinom.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "da vidim"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "tvojih izabranika"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "da se radujem"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "tvojega naroda"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "da se ponosim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "tvojom baštinom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.354930390Z",
+  "model": "glm-5.3"
+}

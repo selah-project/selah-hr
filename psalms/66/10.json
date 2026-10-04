@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Jer si nas iskušao, Elohime, rafinirao si nas kao rafiniranje srebra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "si nas iskušao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "rafinirao si nas"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "kao rafiniranje"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:33.363678543Z",
+  "model": "glm-5.3"
+}

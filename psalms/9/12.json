@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Pjevajte Jahvi, koji prijestolje ima na Cionu, naviještajte među narodima njegova djela.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "koji prijestolje ima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "na Cionu"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "naviještajte"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "njegova djela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.501203753Z",
+  "model": "glm-5.3"
+}

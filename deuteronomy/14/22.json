@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Desetinu odvajaj od svega prirasta sjemena svoga, onoga što izlazi iz polja, godinu za godinom.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "desetinu"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "odvajaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav prirastaj sjemena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "prirastaj"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sjemena svoga"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "što izlazi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "iz polja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godinu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "za godinom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:51.571587781Z",
+  "model": "glm-5.3"
+}

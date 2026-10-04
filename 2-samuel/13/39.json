@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I prestade kralj David izlaziti k Avšalomu, jer se bijaše utješio o Amnonu, jer bijaše mrtav.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "I prestade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "izlaziti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "utješio se"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מת",
+      "gloss": "bijaše mrtav"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:09.134725971Z",
+  "model": "glm-5.3"
+}

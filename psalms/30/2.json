@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Uzvisit ću te, Jahve, jer si me izvukao ⟨m⟩ ⟨iz⟩ jame i nisi dao da se nadamnom vesele moji neprijatelji.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Uzvisit ću te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "izvukao si me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisi"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "dopustio da se vesele"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moji neprijatelji"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nadamnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:10.134162068Z",
+  "model": "glm-5.3"
+}

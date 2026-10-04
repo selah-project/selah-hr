@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "i ponizi ⟨je⟩ u muci srca njihova; posrnuše, i nema ⟨tko da⟩ pomogne.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "i ponizi"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "u muci"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "srca njihova"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "posrnuše"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomagne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:41.074114625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I dođoše svi mudraci koji su izrađivali ⟨את⟩ sav rad Svetinje, svaki čovjek od svoga rada koji su radili.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "I dođoše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "mudraci"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "koji su izrađivali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav rad Svetinje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "rad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Svetinje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "od svoga rada"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "svoga rada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "radili"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:18.756051005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jer su svi stolovi puni bljuvotine i nečistoće, bez ijednog čista mjesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "stolovi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "puni su"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "bljuvotine"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "i nečistoće"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesta"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:40.001465969Z",
+  "model": "glm-5.3"
+}

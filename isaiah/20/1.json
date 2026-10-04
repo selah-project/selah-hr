@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Godine kad dođe Tartan u Ašdod, kad ga posla Sargon, kralj Ašura, i vojevaše protiv Ašdoda i osvoji ga,",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "godine"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "u Ašdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kad posla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "vojevaše"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "protiv Ašdoda"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "osvoji ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:06.606810416Z",
+  "model": "glm-5.3"
+}

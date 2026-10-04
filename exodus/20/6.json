@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "i čini hesed tisućama onih koji me ljube i čuvaju moje zapovijedi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i čini"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tisućama"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "onima koji me ljube"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "i onima koji čuvaju"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:07.063384045Z",
+  "model": "glm-5.3"
+}

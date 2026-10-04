@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Neka su pred Jahvom neprestano, i neka iskorijeni spomen njihov sa zemlje.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "neka su"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i neka iskorijeni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa zemlje"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "spomen njihov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:58.242920372Z",
+  "model": "glm-5.3"
+}

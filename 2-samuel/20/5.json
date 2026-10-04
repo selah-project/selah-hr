@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ode Amasa sazvati ⟨את⟩ Judu, ali zakasni mimo roka koji mu bijaše određen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "sazvati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "zakasni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mimo"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "bijаše mu određen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:02.118858607Z",
+  "model": "glm-5.3"
+}

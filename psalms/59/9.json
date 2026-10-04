@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "A ti, Jahve, smijat ćeš im se ⟨njima⟩; izrugivat ćeš se svim narodima.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "smijat ćeš se"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨njima⟩"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "izrugivat ćeš se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:30.939443372Z",
+  "model": "glm-5.3"
+}

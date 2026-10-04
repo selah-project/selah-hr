@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "koji čini nebesa i zemlju, ⟨את⟩ more i ⟨את⟩ sve što je u njima, koji čuva vjernost zauvijek:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "koji čini"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zemlju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što je u njima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "koji čuva"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "vjernost"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:13.966171589Z",
+  "model": "glm-5.3"
+}

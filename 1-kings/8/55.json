@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I stade i blagoslovi ⟨את⟩ sav zbor Jisraela, glasom velikim govoreći:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav zbor Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:17.524789108Z",
+  "model": "glm-5.3"
+}

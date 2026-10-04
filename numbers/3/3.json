@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "To su imena sinova Ahrona, pomazanih svećenika kojima je ispunio ruku ⟨za⟩ služenje svećeničko.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "pomazanih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ispunio"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za svećeničko služenje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:20.665073947Z",
+  "model": "glm-5.3"
+}

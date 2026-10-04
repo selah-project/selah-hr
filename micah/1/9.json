@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jer je njezina rana neizlječiva, jer je doprla do Jude, došla do vrata mojega naroda, do Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "neizlječiva"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "njezina rana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "באה",
+      "gloss": "doprla je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "došla je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega naroda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:04.867355931Z",
+  "model": "glm-5.3"
+}

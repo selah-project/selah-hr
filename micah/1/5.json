@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Zbog pobune Jaakova sve je ovo, i zbog grijeha doma Jisraelova. Tko je pobuna Jaakova? Nije li Šomeron? I tko su visine Jehudine? Nisu li Jerušalajim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "zbog pobune"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "i zbog grijeha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pobuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "במות",
+      "gloss": "visine"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudine"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nisu li"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:32.420506591Z",
+  "model": "glm-5.3"
+}

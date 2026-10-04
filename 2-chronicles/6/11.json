@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I postavih ondje ⟨את⟩ Kovčeg, ondje ⟨je⟩ savez Jahvin, koji sklopi sa sinovima Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "i postavih"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:32.648961423Z",
+  "model": "glm-5.3"
+}

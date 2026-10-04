@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dođoše do gumna Kidonovoga, pa pruži Uza ⟨את⟩ ruku svoju da pridrži ⟨את⟩ kovčeg, jer su volovi posrnuli.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gumno"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidonovoga"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "pa pruži"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "da pridrži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "posrnuli"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "volovi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:08.430621882Z",
+  "model": "glm-5.3"
+}

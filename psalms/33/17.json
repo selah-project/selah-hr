@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Laž je konj ⟨za⟩ spasenje, i mnoštvom sile svoje ne će pobjeći.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konj"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "za spasenje"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "i mnoštvom"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sile svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "će pobjeći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:53.945768087Z",
+  "model": "glm-5.3"
+}

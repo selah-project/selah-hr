@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I načini Elohim ⟨את⟩ svod, i rastavi vode koje su pod svodom od voda koje su nad svodom. I bi tako.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svod"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "svod"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "i rastavi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "svodom"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "od"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "svodom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:20.472005229Z",
+  "model": "glm-5.3"
+}

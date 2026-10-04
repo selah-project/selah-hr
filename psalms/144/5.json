@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Jahve, nagni ⟨את⟩ svoja nebesa i siđi; dotakni ⟨את⟩ planine i one će se dimiti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nagni"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "svoja nebesa"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "i siđi"
+    },
+    {
+      "surface": "גע",
+      "gloss": "dotakni"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "planine"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "i oni će se dimiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.354756161Z",
+  "model": "glm-5.3"
+}

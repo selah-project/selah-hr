@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Srce mudroga ⟨je⟩ njemu zdesna, a srce luđaka njemu s lijeva.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudroga"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "njemu zdesna"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "a srce"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "njemu s lijeva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:35.957290986Z",
+  "model": "glm-5.3"
+}

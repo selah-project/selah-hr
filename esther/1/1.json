@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dogodi se u dane Ahašveroša — to je Ahašveroš koji kraljuje od Hodua do Kuša, nad sedam i dvadeset i sto pokrajina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroš"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "od Hodua"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pokrajina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:20.020867018Z",
+  "model": "glm-5.3"
+}

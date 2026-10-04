@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "S kraja zemlje k tebi ću zvati; kad mi srce zastane, na stijenu višu od mene izvest ćeš me.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "s kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ću zvati"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "kad zastane"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mi srce"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na stijenu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "višu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "izvest ćeš me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:01.739797812Z",
+  "model": "glm-5.3"
+}

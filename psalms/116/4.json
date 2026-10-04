@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "I u ime Jahvino zazvah: ah, Jahve, izbavi dušu moju!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "I u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zazvah"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "izbavi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.759133127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Od staraca razumniji ⟨jesam⟩, jer sam Tvoje naredbe čuvao.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Od staraca"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "razumniji ⟨jesam⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tvoje naredbe"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "čuvao"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:20.970165144Z",
+  "model": "glm-5.3"
+}

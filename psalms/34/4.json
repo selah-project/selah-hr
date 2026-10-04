@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Proslavite Jahvu ⟨את⟩ sa mnom, i uzvisimo njegovo ime zajedno!",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Proslavite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "i uzvisimo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:03.416197284Z",
+  "model": "glm-5.3"
+}

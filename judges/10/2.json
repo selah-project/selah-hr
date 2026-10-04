@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I sudio je ⟨את⟩ Jisrael dvadeset i tri godine; pa umrije i bi pokopan u Šamiru.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i sudio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "pa umrije"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i bi pokopan"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "u Šamiru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:36.776678966Z",
+  "model": "glm-5.3"
+}

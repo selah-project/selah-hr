@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Ne govorite: urota! — o svemu što ovaj narod kaže: urota! ⟨את⟩ njegova straha ne bojte se niti se plašite.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "urota"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "o svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kaže"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "urota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegova straha"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "njegova straha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "plašite"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:52.734202692Z",
+  "model": "glm-5.3"
+}

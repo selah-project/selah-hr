@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer od najmanjega do najvećega među njima svi se dadose nepoštenoj dobiti, i od proroka do svećenika svatko čini prijevaru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "od najmanjega među njima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "najvećega"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "svi"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "dadose nepoštenoj dobiti"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nepoštenu dobit"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "i od proroka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "prijevaru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:52.083358918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "⟨את⟩ mjeseca i ⟨את⟩ zvijezde da vladaju noću, jer dovijeka je hesed njegov.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjeseca"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "i zvijezde"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "da vladaju"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:52.001669026Z",
+  "model": "glm-5.3"
+}

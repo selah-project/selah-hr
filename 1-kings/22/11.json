@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I napravi sebi Cidkija, sin Kenaanin, rogove od željeza, pa reče: Ovako reče Jahve: Ovima ćeš nabosti ⟨את⟩ Aram, dok ih sasvim ne potrošiš.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Cidkija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaane"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "od željeza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Ovima"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "ćeš nabosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "ih ne potrošiš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:07.098794271Z",
+  "model": "glm-5.3"
+}

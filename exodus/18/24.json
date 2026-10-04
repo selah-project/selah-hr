@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I posluša Moše glas svojega tasta, i učini sve što je rekao.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i posluša"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "svoga tasta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:39.798245517Z",
+  "model": "glm-5.3"
+}

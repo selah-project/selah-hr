@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Sunce i mjesec stadoše u stanu ⟨svome⟩; svjetlu strijela tvojih kroče, sjaju munje koplja tvojega.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mjesec"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stadoše"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "u stanu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "svjetlu"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "strijela tvojih"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "kroče"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sjaju"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "munje"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "koplja tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:45.478026849Z",
+  "model": "glm-5.3"
+}

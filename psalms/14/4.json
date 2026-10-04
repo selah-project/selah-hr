@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Zar ne znaju svi djelatnici ništavila, koji jedu narod moj kao što jedu kruh? Jahvu ne prizivlju.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "djelatnici"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavila"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "koji jedu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "prizivlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:27.843743811Z",
+  "model": "glm-5.3"
+}

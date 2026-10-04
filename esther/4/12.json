@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I javiše Mordechaju ⟨את⟩ riječi Esterine.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "i javiše"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi Esterine"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:04.948141169Z",
+  "model": "glm-5.3"
+}

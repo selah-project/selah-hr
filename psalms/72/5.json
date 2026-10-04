@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka te se boje dok ⟨je⟩ sunce, i pred mjesecom, naraštaj naraštaja.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "neka te se boje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dok"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "i pred"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mjesecom"
+    },
+    {
+      "surface": "דור",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "naraštaja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:56.798675472Z",
+  "model": "glm-5.3"
+}

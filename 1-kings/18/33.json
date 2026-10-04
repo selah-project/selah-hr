@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I namjesti ⟨את⟩ drva, i rasiječe ⟨את⟩ bika, i položi ⟨ga⟩ na drva.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "I namjesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drva"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drva"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "i rasiječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bika"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drva"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:01.535485783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ne predaj me na volju nevolja mojih, jer ustadoše na me svjedoci lažni i izdahivači nasilja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "predaj me"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "na volju"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "nevolja mojih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ustadoše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "svjedoci"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažni"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "i izdahivači"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:00.651172881Z",
+  "model": "glm-5.3"
+}

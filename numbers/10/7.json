@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A pri skupljanju ⟨את⟩ zbora neka trube, ali neka ne trube svečano.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "pri skupljanju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbor"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbora"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "neka trube"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "trube svečano"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:37.140758462Z",
+  "model": "glm-5.3"
+}

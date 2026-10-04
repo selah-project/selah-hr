@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Pjevajte Elohimu, pjevajte; pjevajte našemu kralju, pjevajte!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "našemu kralju"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pjevajte"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:20.428390751Z",
+  "model": "glm-5.3"
+}

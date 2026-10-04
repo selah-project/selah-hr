@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Jer nisam ih poslao — riječ Jahvina — a oni prorokuju lažno u moje ime, da ⟨את⟩ vas odbacim, te da propadnete vi i proroci koji vam prorokuju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "nisam ih poslao"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prorokuju"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "u moje ime"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "lažno"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "vas odbacim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "te da propadnete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "i proroci"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "koji prorokuju"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-04T18:27:55.683815830Z",
+  "model": "glm-5.3"
+}

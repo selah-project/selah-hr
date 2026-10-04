@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I donje⟨će⟩ ⟨את⟩ svoju krivnju Jahvi, na ulaz Šatora sastanka, ovna kao žrtvu za krivnju.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "I donese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju krivnju"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svoju krivnju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "za krivnju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:51.646908984Z",
+  "model": "glm-5.3"
+}

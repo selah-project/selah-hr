@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ujutro ćete vidjeti ⟨את⟩ slavu Jahvinu, kad čuje ⟨את⟩ tužbe vaše na Jahvu; a tko smo mi, da tužite na nas?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "i ujutro"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "ćete vidjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slavu Jahvinu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kad čuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tužbe vaše"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "tužbe vaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tko smo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "tužite"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:01.828514800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I znat ćete da sam ja Jahve kad otvorim ⟨את⟩ vaše grobove i kad ⟨את⟩ vas podignem iz vaših grobova, narode moj.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "i znat ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "kad otvorim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše grobove"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "vaše grobove"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "i kad podignem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "iz vaših grobova"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narode moj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:47:18.366659129Z",
+  "model": "glm-5.3"
+}

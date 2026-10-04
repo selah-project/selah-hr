@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Blagoslovite Jahve, sva djela njegova, na svim mjestima vlasti njegove! Blagoslovi, dušo moja, ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Blagoslovite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "djela njegova"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na svim"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "mjestima"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "vlasti njegove"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Blagoslovi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.369739453Z",
+  "model": "glm-5.3"
+}

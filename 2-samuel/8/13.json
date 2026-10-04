@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I steče David ime kad se vrati porazivši ⟨את⟩ Aram u dolini soli — osamnaest tisuća.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i steče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "kad se vrati"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "porazivši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "u dolini"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osam"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-naest"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:58.584346095Z",
+  "model": "glm-5.3"
+}

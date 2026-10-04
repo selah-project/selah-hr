@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ako kažu: Hajde s nama ⟨את⟩, zasjednit ćemo za krv, čekat ćemo skriveni na nevine bez razloga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kažu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hajde"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "s nama ⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "zasjednit ćemo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "za krv"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "čekat ćemo skriveni"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "na nevine"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez razloga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.984048149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče mu kralj: Gdje je on? A Civa reče kralju: Eno ga u kući Mahira, sina Amielova, u Lo-Debaru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je on"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Civa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Mahira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielova"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "u"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debaru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:41.250768561Z",
+  "model": "glm-5.3"
+}

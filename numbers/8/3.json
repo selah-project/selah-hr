@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I Aharon učini tako: prema licu Menore podiže ⟨את⟩ njezine svjetiljke, kako je Jahve zapovjedio ⟨את⟩ Mošea.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מול",
+      "gloss": "spram"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "Menore"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "njezine svjetiljke"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:10.369426499Z",
+  "model": "glm-5.3"
+}

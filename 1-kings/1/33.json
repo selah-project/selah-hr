@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče kralj njima: Uzmite sa sobom ⟨את⟩ sluge gospodara svojega i posadite Šaloma, sina mojega, na moju mazgu, te ga odvedite dolje k Gihonu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "uzmite"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sa sobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge gospodara svojega"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "והרכבתם",
+      "gloss": "i posadite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaloma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šaloma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "mazgu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je moja"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "i odvedite dolje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "Gihton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Gihonu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:01.882013854Z",
+  "model": "glm-5.3"
+}

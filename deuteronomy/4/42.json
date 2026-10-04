@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "da onamo pobjegne ubojica koji ubije ⟨את⟩ svoga bližnjega nenamjerno, a nije ga mrzio ni jučer ni prekjučer, i pobjegne u jedan od tih gradova — i ostane živ.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "da pobjegne"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "ubojica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga bližnjega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoga bližnjega"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "mrzio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "jučer"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ni prekjučer"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "i pobjegne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tih"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i ostane živ"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:51.257103341Z",
+  "model": "glm-5.3"
+}

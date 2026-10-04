@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I načini od nje kadionicu ⟨את⟩: mješavinu, djelo mješača, posoljenu, čistu, svetu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kadionicu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadionicu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mješavinu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "mješača"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "posoljenu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:58.359043001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Pogledaj na savez ⟨את⟩, jer se napuniše mračni krajevi zemlje, nastambe nasilja.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "na savez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuniše se"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "mračni krajevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "nastambe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:48.700766515Z",
+  "model": "glm-5.3"
+}

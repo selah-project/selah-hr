@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I iziđe Moše i reče narodu riječi Jahvine, i skupi sedamdeset ljudi od starješina naroda i postavi ⟨את⟩ ih oko Šatora.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨narod⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi Jahvine"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedamdeset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "od starješina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "oko"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Šatora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:35.393380573Z",
+  "model": "glm-5.3"
+}

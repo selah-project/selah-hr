@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Blagoslovljen ti u gradu, i blagoslovljen ti u polju.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "i blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:43.696726739Z",
+  "model": "glm-5.3"
+}

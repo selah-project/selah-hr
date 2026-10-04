@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Jer tvoji sluge ljube ⟨את⟩ kamenje njezino, i ⟨את⟩ prah njezin miluju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ljube"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvoji sluge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenje njezino"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "kamenje njezino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prah njezin"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "prah njezin"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "miluju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:57.822617187Z",
+  "model": "glm-5.3"
+}

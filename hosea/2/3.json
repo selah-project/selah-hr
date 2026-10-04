@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Recite vašoj braći: Ami, i vašim sestrama: Ruhamah.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Recite"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "vašoj braći"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "i vašim sestrama"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:30.380579355Z",
+  "model": "glm-5.3"
+}

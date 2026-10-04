@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reći će faraon o sinovima Jisraelovim: zbunjeni su u zemlji, zatvorilo ih pustinja.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i reći će"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "o sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "zbunjeni"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni su"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zatvorilo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:35.594975376Z",
+  "model": "glm-5.3"
+}

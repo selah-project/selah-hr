@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I privede Moše ⟨את⟩ Aharona i ⟨את⟩ sinove njegove, te ⟨את⟩ ih opra vodom.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i privede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "te ih opra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:43.282848012Z",
+  "model": "glm-5.3"
+}

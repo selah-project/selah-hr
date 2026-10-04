@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Postupno, malo po malo, otjerat ću ih ispred tebe, dok ne rodiš plodom ⟨i⟩ zaposjedneš ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "po malo"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "otjerat ću ih"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ispred tebe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "rodiš plodom"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "i zaposjedneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:04.065526500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Po svemu što ⟨את⟩ ti ja pokazujem — ⟨את⟩ oblik Miškana i ⟨את⟩ oblik svega njegova posuđa — tako ćete učiniti.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "po svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "pokazujem"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblik Miškana"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "oblik"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "ו�את",
+      "gloss": "i ⟨את⟩",
+      "marks": "oblik svega posuđa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "oblik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "njegova posuđa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ćete učiniti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:42.517583130Z",
+  "model": "glm-5.3"
+}

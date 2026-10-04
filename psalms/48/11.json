@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Kao ime tvoje, Elohime, tako i hvala tvoja nad krajevima zemlje — cedekom puna desnica tvoja.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Kao ime tvoje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "hvala tvoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "krajevima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedekom"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puna"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnica tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:53.581443514Z",
+  "model": "glm-5.3"
+}

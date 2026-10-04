@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer Jahve ljubi pravo i neće napustiti ⟨את⟩ svoje haside; dovijeka su čuvani, a sjeme zlikovaca bit će zatrtо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "napustiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje haside"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "svoje haside"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "su čuvani"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "a sjeme"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "bit će zatrto"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:44.637933979Z",
+  "model": "glm-5.3"
+}

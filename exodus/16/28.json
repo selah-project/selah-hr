@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče Jahve Mošeu: Dokle ćete odbijati držati moje zapovijedi i moje Tore?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu, k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "ćete odbijati"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "držati"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "i moja Tora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:58.922739819Z",
+  "model": "glm-5.3"
+}

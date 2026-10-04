@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Samo glede, ovo sam našao: da je Elohim načinio ⟨את⟩ čovjeka ravnim ⟨je⟩, ali oni tražiše mnoge smicalice.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "samo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "glede"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "našao sam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načinio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ravna"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ali oni"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tražiše"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "smicalice"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoge"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:59.204958856Z",
+  "model": "glm-5.3"
+}

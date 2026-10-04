@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Zaista, vi ste ⟨the⟩ narod, i s vama će umrijeti mudrost!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jer⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "i s vama"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "će umrijeti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:15.005299182Z",
+  "model": "glm-5.3"
+}

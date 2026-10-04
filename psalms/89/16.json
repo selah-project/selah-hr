@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Blago narodu koji zna poklik, Jahve; u svjetlu lica tvojega hode.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blago"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "koji zna"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "poklik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "u svjetlu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lica tvojega"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "hode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:24.103017514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I poslah ⟨את⟩ Mošea i ⟨את⟩ Ahrona, i udarih ⟨את⟩ Micrajim kako učinih usred njega, a potom izvedoh ⟨את⟩ vas.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "i poslah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "i udarih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "učinih"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "usred njega"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "izvedoh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:33.167140795Z",
+  "model": "glm-5.3"
+}

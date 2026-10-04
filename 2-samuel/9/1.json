@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče David: Ima li još tko ostao od doma Šaulova, da mu učinim hesed poradi Jonatana?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ostao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "od doma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "da učinim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "poradi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:41.250163546Z",
+  "model": "glm-5.3"
+}

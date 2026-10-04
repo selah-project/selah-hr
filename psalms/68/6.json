@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Otac siročadi i branitelj udovica — Elohim ⟨je⟩ u svome svetom prebivalištu.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Otac"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "siročadi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "i sudac"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "udovica"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "u prebivalištu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svom svetom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:19.286793567Z",
+  "model": "glm-5.3"
+}

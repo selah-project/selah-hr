@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "I izvede svoj narod u radosti, u klicanju ⟨את⟩ svoje izabrane.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "u radosti"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "u klicanju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje izabrane"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "svoje izabrane"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:44.916816143Z",
+  "model": "glm-5.3"
+}

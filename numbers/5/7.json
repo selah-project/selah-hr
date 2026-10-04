@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "i priznaju ⟨את⟩ svoj grijeh koji su počinili, i vrati ⟨את⟩ svoju krivnju u punom iznosu, i petinu njezinu doda na nju, i dade onome prema kome je zgriješio.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "i priznaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj grijeh"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "svoj grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "su počinili"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "i vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju krivnju"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svoju krivnju"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "u punom iznosu"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "i petinu njezinu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "doda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "onome prema kome"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "zgriješio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "prema kome"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:28.035494932Z",
+  "model": "glm-5.3"
+}

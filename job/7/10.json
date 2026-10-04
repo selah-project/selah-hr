@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Neće se više vratiti u svoj dom, ni mjesto ga njegovo više prepoznati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "u svoj dom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "prepoznat će ga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "mjesto njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:55.828049130Z",
+  "model": "glm-5.3"
+}

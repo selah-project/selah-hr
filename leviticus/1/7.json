@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I metnu sinovi Aharonovi, svećenik, oganj na žrtvenik, i nanizaju drva na oganj.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "i metnu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "i nanizaju"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drva"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.627150182Z",
+  "model": "glm-5.3"
+}

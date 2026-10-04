@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I javiše Davidu govoreći: Eno Filistejaca kako ratuju protiv Keile i plijene ⟨את⟩ gumna.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "javiše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ratuju"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "protiv Keile"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plijene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumna"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "gumna"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:27.161838073Z",
+  "model": "glm-5.3"
+}

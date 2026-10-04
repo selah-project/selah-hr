@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Podigao si krivicu svoga naroda, pokrio si sav njihov grijeh. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "podigao si"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivicu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoga naroda"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "pokrio si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "njihov grijeh"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.230532255Z",
+  "model": "glm-5.3"
+}

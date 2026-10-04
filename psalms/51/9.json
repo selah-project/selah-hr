@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Očisti me grijeha izopom i bit ću čist; operi me i bit ću bjelji od snijega.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "očisti me od grijeha"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "izopom"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "i bit ću čist"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "operi me"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "i od snijega"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "bit ću bjelji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:39.739691767Z",
+  "model": "glm-5.3"
+}

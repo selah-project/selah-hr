@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I dogodi se u prvom mjesecu, u drugoj godini, prvoga dana mjeseca, da bi podignut Miškan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I dogodi se"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvom"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugoj"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvoga <dana>"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "bi podignut"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.429098954Z",
+  "model": "glm-5.3"
+}

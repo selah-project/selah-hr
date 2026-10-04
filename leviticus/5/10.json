@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A ⟨את⟩ drugu neka prinese kao paljenicu, po pravilu; i neka svećenik za njega izvrši pomir zbog njegova grijeha kojim je zgriješio, i bit će mu oprošteno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drugu (pticu)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "neka prinese"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kao paljenicu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "po pravilu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i neka izvrši pomir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "zbog njegova grijeha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zgriješio"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i bit će oprošteno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:08.019279052Z",
+  "model": "glm-5.3"
+}

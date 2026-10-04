@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 13:5",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i zemlja Gebalaca, i sav Libanon prema izlasku sunca, od Baal-Gada pod gorom Hermonom do ulaza u Hamat",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "i zemlja"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "Gebalaca"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "prema izlasku"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunca"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "od Baal-Gada"
+    },
+    {
+      "surface": "גד",
+      "gloss": "⟨Baal-Gad⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gorom"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "u Hamat"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:59.987218741Z",
+  "model": "glm-5.3"
+}

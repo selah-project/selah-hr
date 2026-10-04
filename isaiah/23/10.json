@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Prijeđi preko svoje zemlje kao rijeka, kćeri Taršiša; nema više pojasa.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "prijeđi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kao rijeka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiša"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "pojasa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:55.369771165Z",
+  "model": "glm-5.3"
+}

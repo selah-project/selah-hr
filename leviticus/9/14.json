@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I oprao je ⟨את⟩ utrobu i ⟨את⟩ noge, i iskadio ih je uz paljenicu na žrtveniku.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "oprao je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utrobu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noge"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "noge"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "iskadio ih je"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtvenik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:55.043781833Z",
+  "model": "glm-5.3"
+}

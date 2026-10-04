@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče joj kralj: Što ti je? A ona odgovori: Ova žena reče mi: Daj ⟨את⟩ svoga sina pa da ga danas pojedemo, a ⟨את⟩ mog sina sutra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A ona reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "Ova"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "pa da ga pojedemo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mog sina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mog sina"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "sutra pojedemo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutra"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:15.086691212Z",
+  "model": "glm-5.3"
+}

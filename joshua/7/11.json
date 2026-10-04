@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jisrael je sagriješio; prekršili su ⟨את⟩ moj savez koji sam ⟨את⟩ im zapovjedio — uzeli su od ⟨החרם⟩ posvećenoga na uništenje, i ukrali su, i slagali su, i stavili su ⟨את⟩ u svoje posude.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "je sagriješio"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prekršili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj savez"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moj savez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "sam zapovjedio"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ im"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeli su"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "posvećenoga na uništenje"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ukrali su"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "lagali su"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "stavili su"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "u svoje posude"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:30.054699008Z",
+  "model": "glm-5.3"
+}

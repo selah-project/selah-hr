@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I sagradio je žrtvenike u domu Jahvinu, za koje je Jahve rekao: U Jerušalajimu postavit ću ⟨את⟩ ime svoje.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "i sagradio je"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "U Jerušalajimu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "postavit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime svoje"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:04.786795809Z",
+  "model": "glm-5.3"
+}

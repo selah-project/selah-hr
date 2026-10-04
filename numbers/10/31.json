@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A on reče: Nemoj nas, molim, ostaviti, jer ti znaš kako taborimo u pustinji i bit ćeš nam za oči.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nemoj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ostaviti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "što"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "taborimo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "i bit ćeš"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "za oči"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:57.470555091Z",
+  "model": "glm-5.3"
+}

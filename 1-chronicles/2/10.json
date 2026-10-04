@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ram rodi ⟨את⟩ Aminadaba, a Aminadab rodi ⟨את⟩ Nahšona, kneza sinova Judinih.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "a Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaba"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "a Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahšona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahšona"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:22.014128222Z",
+  "model": "glm-5.3"
+}

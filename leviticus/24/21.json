@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A tko ubije blagu, nadoknadit će je; a tko ubije čovjeka, bit će pogubljen.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "a tko ubije"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "blagu"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "nadoknadit će je"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "a tko ubije"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bit će pogubljen"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:20.924920323Z",
+  "model": "glm-5.3"
+}

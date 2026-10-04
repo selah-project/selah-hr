@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Kad bi oni stajali, stajala su ⟨i kola⟩; i kad bi se uzdigli, uzdigla su se ⟨zajedno⟩ ⟨את⟩ njih; jer ruah živoga bića bijaše u njima.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "kad bi oni stajali"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stajala su"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "i kad bi se uzdigli"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "uzdigla su se"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živoga bića"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:45.529765949Z",
+  "model": "glm-5.3"
+}

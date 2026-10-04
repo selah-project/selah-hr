@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Neka bude slava Jahvina zauvijek; neka se Jahve raduje svojim djelima!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "svojim djelima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:39.248394480Z",
+  "model": "glm-5.3"
+}

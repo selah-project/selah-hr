@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I vidio sav narod ⟨את⟩ stup od oblaka gdje stoji na ulazu šatora, pa bi ustao sav narod i poklonio bi se, svaki čovjek na ulazu svoga šatora.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stup od oblaka"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "stup"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "od oblaka"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gdje stoji"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "pa bi ustao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "i poklonio bi se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svoga šatora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:47.879296785Z",
+  "model": "glm-5.3"
+}

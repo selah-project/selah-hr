@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I rodi od Hodeša, žene svoje: ⟨את⟩ Jovava i ⟨את⟩ Civju i ⟨את⟩ Mešu i ⟨את⟩ Malkama.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeša"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žene svoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovava"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Civju"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Civju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Mešu"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mešu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Malkama"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:02.548287514Z",
+  "model": "glm-5.3"
+}

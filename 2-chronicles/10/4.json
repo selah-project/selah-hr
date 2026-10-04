@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Otac tvoj učini teškim ⟨את⟩ jaram naš; a sada olakšaj od sluge oca svojega teške i od jarama teškoga što ga nama stavi, pa ćemo tebi služiti.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "otac tvoj"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "učini teškim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram naš"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jaram naš"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "olakšaj"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "od slube"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "teške"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "i od jarama"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "teškoga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "pa ćemo tebi služiti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:43.182932272Z",
+  "model": "glm-5.3"
+}

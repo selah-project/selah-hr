@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I poslat ću ⟨את⟩ stršljenja pred tebe, i on će otjerati ⟨את⟩ Hivejca, ⟨את⟩ Kenaanca i ⟨את⟩ Hetita ispred tebe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "i poslat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stršljenja"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "stršljenja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tebe"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "i on će otjerati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivejca"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivejca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hetita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ispred tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:54.609466828Z",
+  "model": "glm-5.3"
+}

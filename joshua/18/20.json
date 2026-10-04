@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A Jordan ga je ograničavao ⟨את⟩ s istočne strane. To je baština sinova Binjamina, po svojim međama unaokolo, za svoje porodice.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "a Jordan"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "ograničavao je"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (Binjamina baština)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "s strane"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "istočne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "baština"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "po svojim međama"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "za svoje porodice"
+    }
+  ],
+  "timestamp": "2026-10-04T17:21:09.072051901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I postavih ondje mjesto za ⟨את⟩ kovčeg, ⟨את⟩ saveza Jahvina, koji sklopi s ocima našim kad ih izvede iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "i postavih"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "za kovčeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje ⟨je⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ocima našim"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "kad izvede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (oce naše)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:08.793621926Z",
+  "model": "glm-5.3"
+}

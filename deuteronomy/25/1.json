@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Kad bude spor među ljudima te se približe sudu i im ih osude, opravdat će ⟨את⟩ pravednika a osuditi ⟨את⟩ bezbožnika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spor"
+    },
+    {
+      "surface": "בין",
+      "gloss": "među"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "te se približe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sudu ⟨k⟩"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sudu"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "i im osude"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "opravdat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pravednika"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "a osuditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bezbožnika"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožnika"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:24.798704511Z",
+  "model": "glm-5.3"
+}

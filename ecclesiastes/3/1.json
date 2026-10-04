@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Za sve je vrijeme, i trenutak za svaku želju pod nebesima.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "za sve"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i trenutak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svaku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "želju"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.035452436Z",
+  "model": "glm-5.3"
+}

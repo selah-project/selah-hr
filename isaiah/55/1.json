@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "O, svi koji ste žedni, dođite k vodi, i onaj koji nema srebra — dođite, kupite i jedite; da, dođite, kupite bez srebra i bez plaćanja vino i mlijeko!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "O"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "žedni"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "dođite"
+    },
+    {
+      "surface": "למים",
+      "gloss": "k vodi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i koji"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "dođite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupite"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i jedite"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "da, dođite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupite"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "plaćanja"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "i mlijeko"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:15.216475173Z",
+  "model": "glm-5.3"
+}

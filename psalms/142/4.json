@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 142,
+  "translation": "Kad se nada mnom ovija moja ruah, a ti poznaješ moju stazu; na putu ovom što ga kročim, sakrili su mi zamku.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kad se ovija"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada mnom"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznaješ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "moju stazu"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ovom"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "što ga kročim"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "sakrili su"
+    },
+    {
+      "surface": "פח",
+      "gloss": "zamku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:15.837960094Z",
+  "model": "glm-5.3"
+}

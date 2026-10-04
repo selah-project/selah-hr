@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I reče im Jicak: Zašto ste došli k meni, a vi me zamrziste ⟨את⟩ mene i otpraviste me od sebe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ste došli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "zamrziste"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "i otpraviste me"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "od sebe ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:14.644334089Z",
+  "model": "glm-5.3"
+}

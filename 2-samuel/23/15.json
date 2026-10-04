@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I zaželi David, pa reče: Tko bi me napojio vodom iz bunara Bet Lehema, onoga uz vrata?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "I zaželi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "bi me napojio"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "iz bunara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "uz vrata"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:07.469748797Z",
+  "model": "glm-5.3"
+}

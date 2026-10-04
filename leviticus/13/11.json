@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "guba je stara to na koži njegova mesa, i svećenik će ga proglasiti nečistim; neće ga zatvoriti, jer je nečist.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "guba"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "stara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na koži"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegova mesa"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "i proglasit će ga nečistim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "će ga zatvoriti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:25.016695377Z",
+  "model": "glm-5.3"
+}

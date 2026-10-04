@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A kad se s vama ⟨אתך⟩ nastani došljak u vašoj zemlji, ne tlačite ga ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nastani se"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "s vama"
+    },
+    {
+      "surface": "גר",
+      "gloss": "došljak"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "u vašoj zemlji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tlačite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga (došljaka)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:57.498517989Z",
+  "model": "glm-5.3"
+}

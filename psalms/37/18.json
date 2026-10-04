@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jahve poznaje dane čestitih, i baština njihova bit će ⟨u⟩ vijeke.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "poznaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "čestitih"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "i baština njihova"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vijeke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:46.815048814Z",
+  "model": "glm-5.3"
+}

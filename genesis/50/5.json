@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Otac moj zakletvom me obvezao rekavši: evo, umirem; u grobu svojem koji sam iskopao sebi u zemlji kenaanskoj ondje me pokopaj. A sada pusti me da uziđem, molim, i pokopam ⟨את⟩ oca svojega, pa ću se vratiti.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Otac moj"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "zakletvom me obvezao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umirem"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "u grobu svojem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "sam iskopao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanskoj"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "me pokopaj"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "da uziđem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "i pokopam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "pa ću se vratiti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:42.696008559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Dokle ćeš se, Jahve, skrivati — zauvijek? Zar će poput vatre gorjeti jarost tvoja?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ćeš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrivati se"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gorjeti"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "poput"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vatre"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "jarost tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:35.798552327Z",
+  "model": "glm-5.3"
+}

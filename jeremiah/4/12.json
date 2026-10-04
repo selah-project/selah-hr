@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Ruah preplavit će od tih ⟨mjesta⟩ k meni; sada ću i ja izreći svoje sudove ⟨את⟩ nad njima.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "preplavit će"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od tih"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "doći"
+    },
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "izreći ću"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "sudove"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih — sudovi protiv njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:14.497861148Z",
+  "model": "glm-5.3"
+}

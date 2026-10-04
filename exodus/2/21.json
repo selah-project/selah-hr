@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I Moše pristade ostati ⟨את⟩ ⟨u⟩ čovjeka, i dade ⟨את⟩ Ciporu, kćer svoju, Mošeu.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "pristade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ostati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporu"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kćer svoju"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:49.502117033Z",
+  "model": "glm-5.3"
+}

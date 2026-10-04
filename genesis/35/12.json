@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "A ⟨את⟩ zemlju koju dadoh Avrahamu i Jicaku — tebi je dajem, i tvome sjemenu poslije tebe dat ću ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dadoh"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "i Jicaku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "je dajem"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i tvome sjemenu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "poslije tebe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:57.608997718Z",
+  "model": "glm-5.3"
+}

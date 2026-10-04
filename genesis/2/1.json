@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I tako biše dovršeni nebo i zemlja i sva vojska njihova.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "i tako biše dovršeni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i zemlja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "צבאאם",
+      "gloss": "vojska njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:36.023808282Z",
+  "model": "glm-5.3"
+}

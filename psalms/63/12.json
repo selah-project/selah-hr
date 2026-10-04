@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "A kralj radovat će se u Elohimu, hvalit će se svaki koji se zaklinje u njega, jer usta onih koji govore laži bit će zatvorena.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A kralj"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohimu"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "hvalit će se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "koji se zaklinje"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "bit će zatvorena"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "koji govore"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:38.831764013Z",
+  "model": "glm-5.3"
+}

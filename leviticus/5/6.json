@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I neka dovede ⟨את⟩ svoju žrtvu za krivnju Jahvi za grijeh svoj koji je počinio: ženku iz stada, ovcu ili kozu, za žrtvu grijeha; i neka svećenik nad njim izvrši okajanje zbog grijeha njegova.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "i neka dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju žrtvu za krivnju"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svoju žrtvu za krivnju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeh svoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "počinio"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ženku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "ovcu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "kozu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozju"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za žrtvu grijeha"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i neka izvrši okajanje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "zbog grijeha njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:26.671646396Z",
+  "model": "glm-5.3"
+}

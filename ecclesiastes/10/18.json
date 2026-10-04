@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "U lijenosti proničuje krov, a u klonulosti ruku kuća propada ⟨kroz prokišnjavanje⟩.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "U lijenosti"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "proniče"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "krov"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "a u klonulosti"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "kuća prokišnjava"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuća"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:31.420355430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I veseli se sav narod zemlje, a grad bijaše miran; a ⟨את⟩ Ataliju ubiše mačem.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "i veseli se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a grad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bijaše miran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataliju"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliju"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ubiše"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:41.870945546Z",
+  "model": "glm-5.3"
+}

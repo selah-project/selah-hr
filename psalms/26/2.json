@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Ispitaj me, Jahve, i kušaj me, rafiniraj ⟨את⟩ bubrege moje i ⟨את⟩ srce moje.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ispitaj me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "i kušaj me"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "rafiniraj"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "bubrege moje"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "i srce moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:14.633273687Z",
+  "model": "glm-5.3"
+}

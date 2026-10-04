@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Pjevajte mu pjesmu novu, dobro svirajte uz glasnu radost.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "svirajte"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "uz glasnu radost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:07.241727346Z",
+  "model": "glm-5.3"
+}

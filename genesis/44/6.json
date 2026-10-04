@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I sustiže ih, i reče k njima ⟨את⟩ ove riječi.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "I sustiže ih"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ove riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:11.230243576Z",
+  "model": "glm-5.3"
+}

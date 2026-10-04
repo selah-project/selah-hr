@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I bit će u onaj dan: odgovorit ću, riječ Jahvina; odgovorit ću ⟨את⟩ nebesima, a ona će odgovoriti ⟨את⟩ zemlji.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odgovorit ću"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odgovorit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesima"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesima"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "će odgovoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:24.630083925Z",
+  "model": "glm-5.3"
+}

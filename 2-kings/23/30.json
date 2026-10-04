@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I dopremiše ga njegovi sluge, mrtva, iz Megida, i doneseše ga u Jerušalajim, i pokopaše ga u njegovu grobu; i uze narod zemlje ⟨את⟩ Jehoahaža, sina Jošijina, i pomazaše ga ⟨את⟩ i postaviše ga za kralja ⟨את⟩ na mjesto njegova oca.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "dopremiše ga (na kolima)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "njegovi sluge"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtva"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "iz Megida"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "doneseše ga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "pokopaše ga"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "u njegovu grobu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahaža, sina Jošijina"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahaža"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijina"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "pomazaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Jehoahaža)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "postaviše za kralja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Jehoahaža)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na mjesto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegova oca"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:33.578758206Z",
+  "model": "glm-5.3"
+}

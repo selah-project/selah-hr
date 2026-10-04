@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I ne htjede poslušati njezina glasa, nego je svladao, jer bijaše jači od nje, i silovao ju je i legao s ⟨את⟩ njom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "htjede"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "poslušati"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "njezina glasa"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "svladao je"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nje"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "silovao ju je"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "legao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "njom (nju)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:36.197069920Z",
+  "model": "glm-5.3"
+}

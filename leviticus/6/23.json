@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I svaki prijedg za grijeh čija se krv unese u šator sastanka da se pomiri u svetome ne smije se jesti; u oggnu treba sažeći.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "prijedg za grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čija"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "unese"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "krv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomiri"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smije se jesti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oggnu"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "treba sažeći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.269608014Z",
+  "model": "glm-5.3"
+}

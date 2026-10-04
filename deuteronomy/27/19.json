@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet koji krivi pravo stranca, siročeta i udovice; i reče sav narod: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "krivi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "stranca"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "siročeta"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "i udovice"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:10.097927032Z",
+  "model": "glm-5.3"
+}

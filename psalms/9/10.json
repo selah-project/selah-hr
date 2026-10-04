@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I neka bude Jahve zaklon potlačenomu, zaklon u vremenima tjeskobe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i neka bude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "zaklon"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "potlačenomu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "zaklon"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "u vremenima"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tjeskobe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.500902572Z",
+  "model": "glm-5.3"
+}

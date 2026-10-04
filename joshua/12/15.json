@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "kralj Libne, jedan; kralj Adulama, jedan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:31.437873068Z",
+  "model": "glm-5.3"
+}

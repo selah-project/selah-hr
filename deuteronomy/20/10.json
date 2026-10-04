@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Kad se približiš gradu da se boriš protiv njega, pozovi ga na mir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "se približiš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gradu ⟨k⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gradu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "da se boriš"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "pozovi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ga ⟨k⟩"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na mir"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:49.384372887Z",
+  "model": "glm-5.3"
+}

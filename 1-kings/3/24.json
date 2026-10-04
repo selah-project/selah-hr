@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče kralj: Donesite mi mač. I donesoše mač pred kralja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "donesite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i donesoše"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:18.141605850Z",
+  "model": "glm-5.3"
+}

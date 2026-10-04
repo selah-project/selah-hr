@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I tko god dotakne bilo što što bude pod njim, nečist je do večeri; a onaj koji ih ponese oprat će odijelo svoje i okupat se u vodi i nečist je do večeri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i tko god"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dotakne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bilo što"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pod njim"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nečist je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "a onaj koji ponese"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "oprat će"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "odijelo svoje"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i okupat se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "i nečist je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:56.855482825Z",
+  "model": "glm-5.3"
+}

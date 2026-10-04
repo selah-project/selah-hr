@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Molimo, Jahve, spasi sad; molimo, Jahve, daj uspjeh sad.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sad"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "daj uspjeh"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sad"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:05.795700155Z",
+  "model": "glm-5.3"
+}

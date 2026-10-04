@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Samo kao što se jede gazela i jelen, tako i ti jedi ⟨את⟩ toga; nečist i čist zajedno jedu ⟨את⟩ toga.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se jede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazela"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jelen"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "jelen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "i ti jedi toga"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "i čist"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "jedu toga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:29.132567223Z",
+  "model": "glm-5.3"
+}

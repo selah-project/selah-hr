@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Zborovodji, na gitskitu, Asafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitskitu"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:39.670706974Z",
+  "model": "glm-5.3"
+}

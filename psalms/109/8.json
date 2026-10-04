@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Neka dani njegovi budu malobrojni, a nadleštvo njegovo neka uzme drugi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dani njegovi"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "malobrojni"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "nadleštvo njegovo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neka uzme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.772970822Z",
+  "model": "glm-5.3"
+}

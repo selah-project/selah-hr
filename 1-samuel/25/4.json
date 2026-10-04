@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I ču David u pustinji da Naval striže ⟨את⟩ svoja stada.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "striže"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja stada"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "svoja stada"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:46.560007314Z",
+  "model": "glm-5.3"
+}

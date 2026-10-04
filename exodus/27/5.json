@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I stavit ćeš ⟨את⟩ ⟨nju⟩ pod obod žrtvenika, s donje strane, i mreža će biti do polovice žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i stavit ćeš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨nju⟩",
+      "marks": "mrežu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "obod"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "s donje strane"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "mreža"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovice"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.792852815Z",
+  "model": "glm-5.3"
+}

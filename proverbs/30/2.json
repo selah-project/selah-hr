@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Jer sam odvratno-glup od čovjeka, i nemam razumijevanja čovječjega u sebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בער",
+      "gloss": "glup"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nemam"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "razumijevanje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "u sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:33.325602160Z",
+  "model": "glm-5.3"
+}

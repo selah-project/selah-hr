@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Dokle će, Elohime, dušmanin pogrđivati? Hoće li neprijatelj huliti ime tvoje dovijeka?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "će"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "pogrđivati"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dušmanin"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "huliti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:41.981537633Z",
+  "model": "glm-5.3"
+}

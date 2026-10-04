@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče Jahve Avramu: Idi ⟨za tebe⟩ iz svoje zemlje, iz svoga rođenja i iz kuće oca svojega, u zemlju koju ću ti pokazati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨za tebe⟩"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "iz svoje zemlje"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "i iz svoga rođenja"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "i iz kuće"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ću ti pokazati"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:29.359659256Z",
+  "model": "glm-5.3"
+}

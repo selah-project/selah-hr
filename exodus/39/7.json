@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I postavi ⟨את⟩ ih na ramena efoda, kao kamenje spomena za sinove Jisraelove, kako je zapovjedio Jahve ⟨את⟩ Mošea.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "na ramena efoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ramena"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "spomena"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "za sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:02.229540405Z",
+  "model": "glm-5.3"
+}

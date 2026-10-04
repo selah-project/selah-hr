@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I odgovori Elija i reče zapovjedniku pedesetorice: Ako sam ja čovjek Elohimov, neka siđe oganj s neba i neka proguta ⟨את⟩ tebe i ⟨את⟩ tvojih pedeset; i siđe oganj s neba i proguta ⟨את⟩ njega i ⟨את⟩ njegovih pedeset.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "I odgovori"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zapovjedniku"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjedniku"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "pedesetorice"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "neka siđe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i neka proguta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tvojih pedeset"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "tvojih pedeset"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i proguta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovih pedeset"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "njegovih pedeset"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:33.631804972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zvuk biča i zvuk tutnjave kola, i konj što galopira, i bojna kola što poskakuju.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "biča"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i zvuk"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "tutnjave"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "kola"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "i konj"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "što galopira"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "i bojna kola"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "što poskakuju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:57:59.187145285Z",
+  "model": "glm-5.3"
+}

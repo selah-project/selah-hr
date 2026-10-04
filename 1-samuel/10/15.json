@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče stric Šaulov: Ispričaj mi, molim te, što vam je rekao Šemuel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "stric"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulov"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ispričaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:44.985400843Z",
+  "model": "glm-5.3"
+}

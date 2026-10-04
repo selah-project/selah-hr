@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Ne ubij ih, da ne zaboravi narod moj; daj im da lutaju snagom svojom i obori ih, štit nas Adonaj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ubij ih"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "zaboravi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "daj im da lutaju"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "snagom svojom"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "i obori ih"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "štit nas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:30.940053695Z",
+  "model": "glm-5.3"
+}

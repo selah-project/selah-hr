@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "dok se ne prekine srebrno uže i ne razbije zlatna posuda, i ne slomi se krčag na izvoru i ne zdrobi kolo nad zdencem —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "se ne prekine"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "uže"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebrno"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "i ne razbije se"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "posuda"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatna"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "i ne slomi se"
+    },
+    {
+      "surface": "כד",
+      "gloss": "krčag"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "izvoru"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "i ne zdrobi se"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "zdencem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:36.879267297Z",
+  "model": "glm-5.3"
+}

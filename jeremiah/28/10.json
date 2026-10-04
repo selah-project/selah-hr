@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I uze Hananja prorok ⟨את⟩ jaram s vrata Jirmijahu proroka i slomi ga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmijahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "иישברהו",
+      "gloss": "i slomi ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:25.282996446Z",
+  "model": "glm-5.3"
+}

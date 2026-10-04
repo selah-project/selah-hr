@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I zapovjedi Paroh toga dana ⟨את⟩ nadzornicima nad narodom i ⟨את⟩ njihovim predstojnicima govoreći:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I zapovjedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "toga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nadzornicima"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "nadzornicima"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nad narodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "predstojnicima"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "njihovim predstojnicima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:01.468612061Z",
+  "model": "glm-5.3"
+}

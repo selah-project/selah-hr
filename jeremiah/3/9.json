@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I zbog lakoće njezina bludništva oskvrnula je ⟨את⟩ zemlju i učinila preljub sa ⟨את⟩ kamenom i sa ⟨את⟩ drvom.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i zbog toga"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "zbog lakoće"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "njezina bludništva"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "oskvrnula je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "učinila preljub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenom"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kamenom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "drvom"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drvom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:08.906671577Z",
+  "model": "glm-5.3"
+}

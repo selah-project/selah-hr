@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Moja vjernost i moj hesed bit će s njim, i po mojem Imenu uzvisit će se njegov rog.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "moja vjernost"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "moj hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "po mojem Imenu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "uzvisit će se"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "njegov rog"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:13.326119812Z",
+  "model": "glm-5.3"
+}

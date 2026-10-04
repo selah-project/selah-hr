@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I blagoslovit ću one koji te blagoslivljaju, a onoga koji te proklinje proklet ću; i u tebi će se blagoslivljati sva plemena zemlje.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "i blagoslovit ću"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "one koji te blagoslivljaju"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "a onoga koji te proklinje"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "proklet ću"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "i blagoslivljat će se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:29.360061225Z",
+  "model": "glm-5.3"
+}

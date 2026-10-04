@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Terah sedamdeset godina, i rodi ⟨את⟩ Avrama, ⟨את⟩ Nahora i ⟨את⟩ Harana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "življaše"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedamdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:08.193865731Z",
+  "model": "glm-5.3"
+}

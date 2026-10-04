@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "na deset žica i na nevel, uz zamišljeni zvuk na kinori.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "deset žica"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "zamišljeni zvuk"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinori"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:27.481084629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče: Neka se da ⟨את⟩ Abišag Šunamka Adonijahu, bratu tvomu, za ženu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "neka se da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abišag Šunamka"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abišag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Šunamka"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:29.141913272Z",
+  "model": "glm-5.3"
+}

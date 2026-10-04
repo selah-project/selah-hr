@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ one koji se klanjaju na krovovima vojsci neba, i ⟨את⟩ one koji se klanjaju i kunu Jahvi, a kunu se i svojim kraljem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "one koji se klanjaju"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "koji se klanjaju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "krovovima"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "vojsci"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "one koji se klanjaju"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "koji se klanjaju"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "koji se kunu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "a kunu se"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "svojim kraljem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:20.185023184Z",
+  "model": "glm-5.3"
+}

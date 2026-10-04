@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Neće biti koja pobacuje ni nerotkinje u zemlji tvojoj; ⟨את⟩ broj dana tvojih napunit ću.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "koja pobacuje"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ni nerotkinje"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "u zemlji tvojoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "broj dana tvojih"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "broj"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dana tvojih"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "napunit ću"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:54.609068211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Po gradu naviru, po zidu trče, na kuće ulaze, kroz prozore ulaze poput lopova.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "po gradu"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "naviru"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "po zidu"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "trče"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "na kuće"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ulaze"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kroz"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "prozore"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ulaze"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "poput lopova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:32.433531608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I svaka duša koja bude činila kakav posao upravo toga dana, uništit ću ⟨את⟩ tu dušu iz sredine njezina naroda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "I svaka"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bude činila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kakav"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "upravo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toga"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "uništit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu dušu"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "tu dušu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "njezina naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:46.398444882Z",
+  "model": "glm-5.3"
+}

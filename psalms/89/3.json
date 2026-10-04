@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jer rekoh: dovijeka je hesed utemeljen; nebesa — tvoju ćeš vjernost utvrditi u njima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "je utemeljen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ćeš utvrditi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvoju vjernost"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:37.702505392Z",
+  "model": "glm-5.3"
+}

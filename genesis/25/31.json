@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A Jaakov reče: Prodaj mi danas ⟨את⟩ svoje prvorodstvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יעעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "prodaj"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje prvorodstvo"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "svoje prvorodstvo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:15.546449653Z",
+  "model": "glm-5.3"
+}

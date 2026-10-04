@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Pašnjake zelene ⟨on⟩ me potiče da legnem, uz vode mirne vodi me.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "pašnjake"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zelene"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "me potiče da legnem"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "mirne"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "vodi me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:30.293712700Z",
+  "model": "glm-5.3"
+}

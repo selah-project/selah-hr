@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Put tvojih zapovijedi trčat ću, jer mi srce širiš.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvojih zapovijedi"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "trčat ću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "širiš"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:51.879741400Z",
+  "model": "glm-5.3"
+}

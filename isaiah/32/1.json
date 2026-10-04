@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Evo, kralj će kraljevati za cedek, i knezovi će vladati za sud.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Evo"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "za cedek"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "će kraljevati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "i knezovi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "za sud"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "će vladati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:12.309221742Z",
+  "model": "glm-5.3"
+}

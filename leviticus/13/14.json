@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ali u dan kad se na njemu pokaže živo tijelo, nečist je.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "pokaže se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nečist je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:16.647485286Z",
+  "model": "glm-5.3"
+}

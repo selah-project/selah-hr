@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I završi govoreći ⟨את⟩ s njim, i uzđe se Elohim od Avrahama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i završi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i uzđe se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:44.866040734Z",
+  "model": "glm-5.3"
+}

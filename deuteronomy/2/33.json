@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I predade ga Jahve, Elohim naš, pred nas, i pobismo ga ⟨את⟩ i ⟨את⟩ sinove njegove i ⟨את⟩ sav narod njegov.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "i predade ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pred nas"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "i pobismo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (njega)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod njegov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:16.256522795Z",
+  "model": "glm-5.3"
+}

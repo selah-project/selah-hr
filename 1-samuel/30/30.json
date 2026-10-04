@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i onima u Hormi, i onima u Bor-Ašanu, i onima u Ataku",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "i onima"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "u Hormi"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "i onima"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "u Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ašanu"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "i onima"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "u Ataku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:14.782508104Z",
+  "model": "glm-5.3"
+}

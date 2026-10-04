@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Kao prvinu prinosite ⟨את⟩ ih Jahvi, ali na žrtvenik neka ne uzlaze za miris dahka.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "prinos"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvina"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "prinosite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih — prvine"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ali na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "neka ne uzlaze"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "za miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "dahka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:45.368772821Z",
+  "model": "glm-5.3"
+}

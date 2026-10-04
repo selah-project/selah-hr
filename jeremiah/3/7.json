@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I rekoh: Nakon što učini ⟨את⟩ sve ovo, vratit će se k meni. Ali ⟨se⟩ nije vratila; i vidje izdajnička sestra njezina, Jisraelova ⟨suparnica⟩ Jehuda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon što"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali nije"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "vratila se"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "izdajnička"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "sestra njezina"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:47.695197527Z",
+  "model": "glm-5.3"
+}

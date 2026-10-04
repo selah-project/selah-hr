@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Tko prokune svoga oca i svoju majku, smrću neka umre.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "tko prokune"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svoga oca"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i svoju majku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka umre"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:18.571071410Z",
+  "model": "glm-5.3"
+}

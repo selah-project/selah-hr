@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "i klanjat će mu se svi kraljevi, služit će mu svi narodi.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "i klanjat će se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "služit će mu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:25.874283093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I pokopaše ga ⟨את⟩ u grobu njegovu u vrtu Uze, i zavlada Jošija, sin njegov, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "i pokopaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (ga)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "u grobu njegovu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "u vrtu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uze"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i zavlada"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošija"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:43.417479789Z",
+  "model": "glm-5.3"
+}

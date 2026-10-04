@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jer ti si sjaj sile njihove, i u svojoj milosti uzdižeš naš rog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sjaj"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "sile njihove"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "i u svojoj milosti"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "uzdižeš"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "naš rog"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.434666053Z",
+  "model": "glm-5.3"
+}

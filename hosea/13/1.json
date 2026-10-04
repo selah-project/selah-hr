@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Kad je Efrajim govorio, bilo je drhtanje; on se uzvisio u Jisraelu, ali se ogriješio o Baala i umro.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "kad je govorio"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "drhtanje"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "uzvisio se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ogriješio se"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "o Baala"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umro"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:39.982314287Z",
+  "model": "glm-5.3"
+}

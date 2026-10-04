@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Narod koji me srdi ⟨את⟩ prema licu mojemu neprestano, žrtvujući u vrtovima i kadeci na opekama —",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "koji srdi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu mojemu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "žrtvujući"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "u vrtovima"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "i kadeci"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "opekama"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:31.245203657Z",
+  "model": "glm-5.3"
+}

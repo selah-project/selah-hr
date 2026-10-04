@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Šaul pokuša ubosti kopljem Davida ⟨u⟩ zid; ali se David izmakne ispred Šaula, i on zabode ⟨את⟩ koplje u zid; a David pobježe i spasi se te noći.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "pokuša"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ubosti"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "kopljem"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "⟨u⟩ zid"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "izmakne se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "zabode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koplje"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "koplje"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "u zid"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "spasi se"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "te noći"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:04.557338149Z",
+  "model": "glm-5.3"
+}

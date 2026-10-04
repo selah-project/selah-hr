@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učvrsti ⟨את⟩ lice svoje i zatre stiđenju ⟨dok⟩ se ne postidi, i zaplaka čovjek Elohimov.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i učvrsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i zatre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "stiđenju"
+    },
+    {
+      "surface": "בש",
+      "gloss": "⟨dok⟩ se ne postidi"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zaplaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:05.755356632Z",
+  "model": "glm-5.3"
+}

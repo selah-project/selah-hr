@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I napisa Moše ⟨את⟩ njihova izlazišta prema njihovim putovanjima na zapovijed Jahvinu, a ovo su njihova putovanja prema njihovim izlazištima.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova izlazišta"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "njihova izlazišta"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "prema njihovim putovanjima"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "zapovijest (doslovno: usta)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "مסעיהם",
+      "gloss": "njihova putovanja"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "prema njihovim izlazištima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:47.044830961Z",
+  "model": "glm-5.3"
+}

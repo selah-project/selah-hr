@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Postoji zlo bolno koje sam vidio pod suncem: bogatstvo čuvano vlasniku na njegovu nesreću.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "postoji"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolno"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koje sam vidio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogatstvo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "čuvano"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "vlasniku"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "na njegovu nesreću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:30.535121438Z",
+  "model": "glm-5.3"
+}

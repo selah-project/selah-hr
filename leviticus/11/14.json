@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ lunju i ⟨את⟩ jastreba prema vrsti njegovoj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lunja"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "lunja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jastreb"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "jastreb"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "prema vrsti svojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:54.800114434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer oni ne spavaju ako zlo ne učine, i san im je otet ako nekoga ne obore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "spavaju"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "zlo učine"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "i otet je"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "san njihov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "obore nekoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:51.608927986Z",
+  "model": "glm-5.3"
+}

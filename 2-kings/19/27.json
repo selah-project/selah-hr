@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Sjedenje tvoje i izlazak tvoj i dolazak tvoj znam, i ⟨את⟩ bjesnjenje tvoje protiv mene.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "sjedenje tvoje"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i izlazak tvoj"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "i dolazak tvoj"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bjesnjenje tvoje"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "bjesnjenje tvoje"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:51.629939302Z",
+  "model": "glm-5.3"
+}

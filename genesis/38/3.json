@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I zatrudni, i rodi sina, i nadjene ⟨את⟩ ime njegovo Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i zatrudni"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i nadjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:58.003395645Z",
+  "model": "glm-5.3"
+}

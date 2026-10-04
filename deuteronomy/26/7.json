@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I vapijasmo k Jahvi, Elohimu otaca naših, i Jahve ču ⟨את⟩ glas naš, i vidje ⟨את⟩ bijedu našu i ⟨את⟩ trud naš i ⟨את⟩ nevolju našu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "i vapijasmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otaca naših"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas naš"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "glas naš"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijedu našu"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "bijedu našu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "trud naš"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "trud naš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nevolju našu"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "nevolju našu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:26.798183780Z",
+  "model": "glm-5.3"
+}

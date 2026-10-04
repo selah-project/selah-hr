@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Ali poslije toga vratit ću ⟨את⟩ sužanjstvo sinova Amona, riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ali poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vratit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužanjstvo sinova Amona"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sužanjstvo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:34:43.002023309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Neka se ne onečisti kao glavar među svojim narodom, da se ne oskvrne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "neka se ne onečisti"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kao glavar"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "među svojim narodom"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "da se ne oskvrne"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:13.911171394Z",
+  "model": "glm-5.3"
+}

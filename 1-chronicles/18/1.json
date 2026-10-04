@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I nakon toga David udari ⟨את⟩ Filišćane i pokori ih, i uze ⟨את⟩ Gat i njegova sela iz ruke Filišćana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i nakon toga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "udari"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filišćane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćane"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "pokori ih"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "njegova sela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:59.335494918Z",
+  "model": "glm-5.3"
+}

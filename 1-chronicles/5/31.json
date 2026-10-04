@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Avišua rodi ⟨את⟩ Bukija, a Buki rodi ⟨את⟩ Uzija.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Avišua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukija"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukija"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "a Buki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzija"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzija"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:30.397300529Z",
+  "model": "glm-5.3"
+}

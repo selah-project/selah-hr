@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Zahvaljujući ⟨tebi⟩ oni su kao poplava odneseni, kao san ⟨jesu⟩; ujutro kao travu prolaze.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "poplava odneseni"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨jesu⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kao travu"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "prolaze"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:19.701223160Z",
+  "model": "glm-5.3"
+}

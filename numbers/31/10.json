@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A ⟨את⟩ sve gradove njihove u prebivalištima njihovim i ⟨את⟩ sve naseobine njihove spališe ognjem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "sve gradove njihove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "gradove njihove"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "u prebivalištima njihovim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve naseobine njihove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "naseobine njihove"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spališe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:53.385783206Z",
+  "model": "glm-5.3"
+}

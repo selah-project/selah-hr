@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Davidov ⟨psalam⟩. Sud mi, Jahve, jer u svojoj nevinosti hodih, i u Jahve se uzdah, neću se pokolebati.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Sud mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "u svojoj nevinosti"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "hodih"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "i u Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ću se pokolebati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:14.632992762Z",
+  "model": "glm-5.3"
+}

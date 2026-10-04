@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I nadjene mu ime Josen govoreći: neka Jahve dodade meni još sina drugoga.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "i nadjene ime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "neka dodade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:10.463075369Z",
+  "model": "glm-5.3"
+}

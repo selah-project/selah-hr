@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I reče Samuel: i zašto me ispituješ, kad se Jahve okrenuo od tebe i postao tvoj protivnik?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "me ispituješ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "סר",
+      "gloss": "okrenuo se"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i postao je"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "tvoj protivnik"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:08.289755783Z",
+  "model": "glm-5.3"
+}

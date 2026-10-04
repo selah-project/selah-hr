@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I posla Hadadezer i izvede ⟨את⟩ Arama koji je s onu stranu rijeke, te dođoše u Helam; a Šovah, zapovjednik vojske Hadadezerove, bijaše pred njima.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "te dođoše"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "u Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "a Šovah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjednik"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerove"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:23.758609197Z",
+  "model": "glm-5.3"
+}

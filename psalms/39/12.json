@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Prijekorima za krivnju kažnjavaš čovjeka, i rastače poput moljca što mu je drago; samo dah je svaki čovjek. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Prijekorima"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "kažnjavaš"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "i rastače"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "poput moljca"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "što mu je drago"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:00.415825627Z",
+  "model": "glm-5.3"
+}

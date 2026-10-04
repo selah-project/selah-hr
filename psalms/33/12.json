@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Blago narodu kojemu je Jahve Elohim, puku što ga izabra ⟨את⟩ sebi za baštinu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blago"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "puku"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izabra"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "za baštinu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:40.788126582Z",
+  "model": "glm-5.3"
+}

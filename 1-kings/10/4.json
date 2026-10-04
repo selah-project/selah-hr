@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I vidje kraljica Šebe ⟨את⟩ svu mudrost Šalomovu i kuću koju sagradi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "I vidje"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kraljica"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu mudrost Šalomovu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomovu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "i kuću"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:53.366804957Z",
+  "model": "glm-5.3"
+}

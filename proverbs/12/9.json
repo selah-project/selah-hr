@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Bolji je onaj koji je u malo cijenjen a sluga je njegov, nego onaj koji se sam uzdiže a nema kruha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bolji je"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "onaj koji je u malo cijenjen"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a sluga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je njegov"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "nego onaj koji se sam uzdiže"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:21.130036890Z",
+  "model": "glm-5.3"
+}

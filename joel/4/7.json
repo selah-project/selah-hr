@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "evo me, pobudit ću ih iz mjesta u koji ste ih prodali onamo, i vratit ću vašu plaću na vašu glavu —",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "evo me"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "pobudit ću ih"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u koji"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ste ih prodali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "i vratit ću"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "vašu plaću"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "na vašu glavu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:34.794965751Z",
+  "model": "glm-5.3"
+}

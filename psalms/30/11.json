@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Čuj, Jahve, i smiluj mi se; Jahve, budi mi ⟨ti⟩ pomoćnik!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i smiluj mi se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "budi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomoćnik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:51.786843571Z",
+  "model": "glm-5.3"
+}

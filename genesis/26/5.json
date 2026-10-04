@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "jer Avraham posluša moj glas i čuvaše moju stražu, moje zapovijedi, moje ustanove i moje Tore.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "moj glas"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "i čuvaše"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "moju stražu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "moje ustanove"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "i moje Tore"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:25.818419512Z",
+  "model": "glm-5.3"
+}

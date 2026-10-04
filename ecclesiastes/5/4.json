@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Bolje je da ne zavjetuješ, nego da zavjetuješ i ne ispuniš.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bolje je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zavjetuješ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "nego da zavjetuješ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ispuniš"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:38.972372949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I iziđe Hamor, otac Šekemov, k Jaakovu da govori ⟨את⟩ s njim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I iziđe"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "da govori"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.800628927Z",
+  "model": "glm-5.3"
+}

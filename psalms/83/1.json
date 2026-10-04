@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Pjesma, psalam Asafovom.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:38.031309399Z",
+  "model": "glm-5.3"
+}

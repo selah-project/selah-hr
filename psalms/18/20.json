@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I izvede me u prostranstvo, izbavi me, jer mi ⟨je⟩ naklonjen bio.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "i izvede me"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "u prostranstvo"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "naklonjen bio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:57.845483312Z",
+  "model": "glm-5.3"
+}

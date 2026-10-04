@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Elohim: Neka bude svjetlost — i bi svjetlost.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:01.579945938Z",
+  "model": "glm-5.3"
+}

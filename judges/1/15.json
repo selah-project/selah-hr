@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A ona mu reče: Daj mi dar, jer zemlju Negeva dao si mi; daj mi i izvore vode. I dade joj Kaleb ⟨את⟩ izvore gornje i ⟨את⟩ izvore donje.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negeva"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "dao si mi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvore"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvore gornje"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvore"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "gornje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "izvore donje"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "izvore"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "donje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:21.185893636Z",
+  "model": "glm-5.3"
+}

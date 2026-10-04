@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I reče mu Elohim: Ime je tvoje Jaakov; neće se ime tvoje više zvati Jaakov, nego Jisrael bit će ime tvoje. I prozva ⟨את⟩ ime njegovo Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "će se zvati"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:57.608633396Z",
+  "model": "glm-5.3"
+}

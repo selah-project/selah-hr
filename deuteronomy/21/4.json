@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "i starješine toga grada spustit će ⟨את⟩ kravu u nenaplavnu dolinu u kojoj se ne obrađuje i ne sije, i tamo će ondje zaklati ⟨את⟩ kravu u dolini,",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "spustit će"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kravu"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kravu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "dolinu"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nenaplavnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "obrađuje"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sije"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "zaklat će"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kravu"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kravu"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "u dolini"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:27.541706079Z",
+  "model": "glm-5.3"
+}

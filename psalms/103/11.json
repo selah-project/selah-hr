@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Jer kao što je visoko nebo nad zemljom, tako je silan njegov hesed nad onima koji ga se boje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kao što je visoko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "silan je"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "onima koji ga se boje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.978570529Z",
+  "model": "glm-5.3"
+}

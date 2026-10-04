@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I izvede potoke iz stijene, i dade da voda teče niz brdo kao rijeke.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "potoke"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "iz stijene"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "i dade da teče niz"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "kao rijeke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.048743254Z",
+  "model": "glm-5.3"
+}

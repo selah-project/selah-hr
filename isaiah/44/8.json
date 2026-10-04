@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Ne bojte se i ne plašite se: nisam li vam odavna dao čuti i objavio? Vi ste moji svjedoci. Ima li Eloah osim mene? I nema Stijene — ne poznam ⟨nijednu⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "plašite se"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nisam li"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "odavna"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "dao sam ti čuti"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "i objavio sam"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "moji svjedoci"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "osim mene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Stijene"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨nijednu⟩"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznam"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:54.575869738Z",
+  "model": "glm-5.3"
+}

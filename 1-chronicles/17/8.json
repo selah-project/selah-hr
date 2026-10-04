@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I bio sam s tobom svugdje kamo si išao, i istrijebio sam ⟨את⟩ sve tvoje neprijatelje ispred tebe, i načinit ću ti ime kao ime velikana koji su na zemlji.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "i bio sam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svugdje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "si išao"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "i istrijebio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svi tvoji neprijatelji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tvoje neprijatelje"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ispred tebe"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "i načinit ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kao ime"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "velikana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "su na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:36.177703579Z",
+  "model": "glm-5.3"
+}

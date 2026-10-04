@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "Čovjek nerazuman ne znade, i luđak ne razumije ⟨את⟩ ovo:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nerazuman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znade"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "i luđak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "razumije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:28.147747324Z",
+  "model": "glm-5.3"
+}

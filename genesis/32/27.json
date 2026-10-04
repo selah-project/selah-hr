@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I reče: Pusti me, jer je zora izišla. A on reče: Neću te pustiti ako me ne blagosloviš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Pusti me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je izišla"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zora"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "ću te pustiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "me blagosloviš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:41.749015126Z",
+  "model": "glm-5.3"
+}

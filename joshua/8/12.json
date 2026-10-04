@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uze oko pet tisuća ljudi i postavi ⟨את⟩ ih u zasjedu između Bet-El-a i Aj-a, zapadno od grada.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "oko pet"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "u zasjedu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "u zasjedu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet(-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aj-a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "zapadno"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "od grada"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:23.459321756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "A El Šadaj neka te blagoslovi ⟨את⟩, i neka te učini plodnim, i neka te umnoži, i postat ćeš zborom naroda.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "A El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaj"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "neka blagoslovi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "i neka te učini plodnim"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "i neka te umnoži"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "i postat ćeš"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "zborom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:55.075595831Z",
+  "model": "glm-5.3"
+}

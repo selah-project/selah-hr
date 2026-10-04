@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Slušajte i prisluškujte, ne uzoholjujte se, jer Jahve je govorio.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slušajte"
+    },
+    {
+      "surface": "והאזינu",
+      "gloss": "i prisluškujte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "uzoholjujte se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govorio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:29.345340929Z",
+  "model": "glm-5.3"
+}

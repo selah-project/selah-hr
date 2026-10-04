@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Vrati mi radost svojega spasa i ruah velikodušna neka me podupire.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radost"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "svojega spasa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i ruah"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "velikodušna"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "neka me podupire"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:38.308445904Z",
+  "model": "glm-5.3"
+}

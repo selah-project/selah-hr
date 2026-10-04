@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "i upita za njega Jahvu, i dade mu hranu, i ⟨את⟩ mač Golijata Filistejca dade mu.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "i hranu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mač Golijata Filistejca"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golijata"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejca"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:05.858885346Z",
+  "model": "glm-5.3"
+}

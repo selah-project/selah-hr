@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Kad je Jisrael bio dijete, ljubio sam ga, i iz Micrajima pozvah sina svojega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ljubio sam ga"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "pozvah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sina svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:35.506293699Z",
+  "model": "glm-5.3"
+}

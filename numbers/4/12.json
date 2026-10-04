@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uzmu ⟨את⟩ sve posude službe kojima se služi u Svetištu, i stave u pokrov od tekeleta, i pokriju ⟨את⟩ ih pokrovom od kože tahša, i stave na nosilo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "i uzmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve posude službe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posude"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "službe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "služi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u Svetištu"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i stave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "pokrov"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "i pokriju"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "pokrovom"
+    },
+    {
+      "surface": "עור",
+      "gloss": "od kože"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahš"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i stave"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "nosilo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:41.737760702Z",
+  "model": "glm-5.3"
+}

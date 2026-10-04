@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "A Jaakov ču da je oskvrnuo ⟨את⟩ Dinu, kćer njegovu; a sinovi njegovi bijahu ⟨את⟩ stada njegova u polju, te Jaakov šutijaše dokle ne dođoše.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "A Jaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ču"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oskvrnuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinu"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kćer njegovu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a sinovi njegovi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stada njegova"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "stada njegova"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "te šutijaše"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ne dođoše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.800416033Z",
+  "model": "glm-5.3"
+}

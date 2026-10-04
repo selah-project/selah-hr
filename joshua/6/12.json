@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I ustade Jehošua rano ujutro, i svećenici podigoše ⟨את⟩ kovčeg Jahvin.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i ustade rano"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i podigoše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Jahvin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:05.583523663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I vidješe ⟨את⟩ Elohim Jisraelov, a pod nogama mu ⟨bijede⟩ kao djelo od pavinga safirova, i kao samo nebo čistoći.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Jisraelov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "a pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nogama mu"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kao djelo"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "od bijelog kamena"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safira"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "i kao samo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "čistoći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:01.606129788Z",
+  "model": "glm-5.3"
+}

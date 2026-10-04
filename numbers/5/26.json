@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I svećenik uzme iz mine punu šaku, ⟨את⟩ njezina spomen-dijela, i zapali na žrtveniku, a nakon toga napoji ⟨את⟩ ženu ⟨את⟩ vodom.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "i uzme punu šaku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezina spomen-dio"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "njezin spomen-dio"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i zapali"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtvenik"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a nakon toga"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "napoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:05.672496872Z",
+  "model": "glm-5.3"
+}

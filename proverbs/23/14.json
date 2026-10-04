@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ti ga štapom udari, i dušu ⟨את⟩ njegovu izbavit ćeš iz Šeola.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "štapom"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušu njegovu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "i dušu njegovu"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "iz Šeola"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "izbavit ćeš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:53.735233760Z",
+  "model": "glm-5.3"
+}

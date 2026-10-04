@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A sada, kad ovo pismo dođe k vama, i ⟨את⟩ sinovi gospodara vašega s vama, i ⟨את⟩ bojna kola i konji, i utvrđen grad i oružje —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A sada"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kad dođe"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ovo pismo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vama"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sinovi gospodara vašega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gospodara vašega"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bojna kola i konji"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojna kola"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "i konji"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "i grad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "utvrđen"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "i oružje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:43.193977041Z",
+  "model": "glm-5.3"
+}

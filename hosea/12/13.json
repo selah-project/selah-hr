@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pobježe Jaakov u polje Arama, i Jisrael služiše za ženu, i za ženu čuvaše ⟨stada⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "i pobježe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "i služiše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "i za ženu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:43.047847505Z",
+  "model": "glm-5.3"
+}

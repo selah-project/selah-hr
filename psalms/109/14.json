@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Neka se spomne bezakonje otaca njegovih pred Jahvom, i grijeh majke njegove neka se ne izbriše.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "neka se spomne"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bezakonje"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otaca njegovih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "i grijeh"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke njegove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka se ne"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "izbriše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:58.242784660Z",
+  "model": "glm-5.3"
+}

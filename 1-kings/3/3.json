@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ljubljaše Šelomoh ⟨את⟩ Jahvu, hodeći po urebama Davida, oca svojega; samo na uzvišicama prinosi ⟨žrtve⟩ i kadi.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ljubljaše"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hodeći"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "po urebama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na uzvišicama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "prinosi ⟨žrtve⟩"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "kadi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:41.317204401Z",
+  "model": "glm-5.3"
+}

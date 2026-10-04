@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 125,
+  "translation": "A one koji krive svoje krivudave putove — Jahve će ih odvesti ⟨את⟩ s počiniteljima bezakonja. Mir ⟨neka bude⟩ nad Jisraelom!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "a koji krive"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "svoje krivudave putove"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "odvesti će ih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "počinitelje bezakonja"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "počiniteljima"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bezakonja"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:43.817994939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Dovršio je Jahve ⟨את⟩ srdžbu svoju, izlio je žar gnjeva svojega, i zapalio je oganj na Cionu, i on je proždro temelje njezine.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "dovršio je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdžbu svoju"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "srdžbu svoju"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "izlio je"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "žar"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gnjeva svojega"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "i zapalio je"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cionu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i on je proždro"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "temelje njezine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:43:16.132275118Z",
+  "model": "glm-5.3"
+}

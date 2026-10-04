@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Ovo mi je bilo ⟨moj dio⟩, jer sam čuvao tvoje naredbe.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "sam čuvao"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:52.591015755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Kad čovjek popasi polje ili vinograd i pošalje ⟨את⟩ stoku te ona pase na tuđem polju, od najboljega polja svojega i od najboljega vinograda svojega naknadit će.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "popasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinograd"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "i pošalje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "te ona pase"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polju"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tuđem"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "od najboljega"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "polja svojega"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "i od najboljega"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "vinograda svojega"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "naknadit će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.898020740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ostaviše ondje ⟨את⟩ bogove svoje, i zapovjedi David, i biše spaljeni u ognju.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "i ostaviše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogove svoje"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogove svoje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "i biše spaljeni"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:05.137461014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Meša, kralj Moava, bio je stočar ⟨ovaca⟩, i plaćao je kralju Jisraela sto tisuća janjadi i sto tisuća ovnova, s vunom.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "A Meša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moava"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bio je"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "stočar"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "plaćao je"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "janjadi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "s vunom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:01.431231562Z",
+  "model": "glm-5.3"
+}

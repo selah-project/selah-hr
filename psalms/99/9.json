@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 99,
+  "translation": "Uzvisite Jahve, Elohim našega, i poklonite se ⟨pred⟩ gori svetosti njegove, jer svet ⟨je⟩ Jahve, Elohim naš.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Uzvisite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "i poklonite se"
+    },
+    {
+      "surface": "להר",
+      "gloss": "⟨pred⟩ gori"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetosti njegove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:40.783054737Z",
+  "model": "glm-5.3"
+}

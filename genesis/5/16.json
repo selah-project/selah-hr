@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I življaše Mahalalel po rođenju ⟨את⟩ Jareda trideset godina i osam stotina godina, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "rođenju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jareda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jareda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "i osam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:16.668399670Z",
+  "model": "glm-5.3"
+}

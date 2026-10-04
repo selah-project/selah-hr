@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I razruši ⟨את⟩ kuće kedeša što su bile u domu Jahvinu, gdje žene ondje ispredahu kuće za Ašeru.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "i razruši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuće kedeša"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kedeša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ispredahu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "za Ašeru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:07.629105042Z",
+  "model": "glm-5.3"
+}

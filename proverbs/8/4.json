@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Vama, ljudi, zovem, i glas moj ⟨je⟩ prema sinovima ljudskim.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zovem"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "i glas moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:41.533232393Z",
+  "model": "glm-5.3"
+}

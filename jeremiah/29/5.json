@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Gradite kuće i nastanite se, i posadite vrtove i jedite ⟨את⟩ plod njihov!",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Gradite"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i nastanite se"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "i posadite"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "vrtove"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i jedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plod njihov"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "plod njihov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:45.259638290Z",
+  "model": "glm-5.3"
+}

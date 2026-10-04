@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I skupe David ⟨את⟩ svega Jisraela, od Šihora Micrajima do dolaska u Hamat, da dovedu ⟨את⟩ kovčeg Elohimov iz Kirjat-Jearima.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i skupe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svega Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Šihora"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "dolaska"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "u Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "da dovedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "iz Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:33.559112190Z",
+  "model": "glm-5.3"
+}

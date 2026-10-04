@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I tražiše djevicu lijepu po svoj granici Jisraelovoj, i nađoše ⟨את⟩ Avišag Šunamku, i dovedoše ⟨את⟩ nju kralju.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "I tražiše"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "djevicu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lijepu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "granici"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovoj"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i nađoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avišag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avišag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Šunamka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i dovedoše"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju — kralju"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.716256891Z",
+  "model": "glm-5.3"
+}

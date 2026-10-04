@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I iziđe Joab od Davida te posla glasnike za Avnerom, i vratiše ga iz bunara Siraha — a David nije znao.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "I iziđe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerom"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i vratiše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega (Avnera)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "iz bunara"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Siraha"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:27.725315829Z",
+  "model": "glm-5.3"
+}

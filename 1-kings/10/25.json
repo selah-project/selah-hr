@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I oni su donosili, svaki svoj dar: posuđe srebrno i posuđe zlatno, odijela i oružje i mirise, konje i mule — stvar ⟨jedne⟩ godine u godini.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "donosili su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "svoj dar"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posuđe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrno"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "i posuđe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatno"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "i odijela"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "i oružje"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "i mirise"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "konje"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "i mule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:34.466554338Z",
+  "model": "glm-5.3"
+}

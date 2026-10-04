@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Jer na taj dan pomirit će se za vas, da vas očisti; od svih grijeha vaših bit ćete čisti pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taj"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pomirit će se"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "da očisti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "grijeha vaših"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "bit ćete čisti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:37.915541970Z",
+  "model": "glm-5.3"
+}

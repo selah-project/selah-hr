@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Gradit će zidine tvoje sinovi tuđinaca, i kraljevi njihovi služit će tebi, jer u srdžbi svojoj udario sam te, a u naklonosti svojoj smilovao sam se tebi.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "gradit će"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđinaca"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "zidine tvoje"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "i kraljevi njihovi"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "služit će tebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "u srdžbi svojoj"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "udario sam te"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "a u naklonosti svojoj"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "smilovao sam se tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:39.219409041Z",
+  "model": "glm-5.3"
+}

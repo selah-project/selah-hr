@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Zar ćeš ih suditi, sine čovječji, zar ćeš ih suditi? Gizdavosti otaca njihovih objavi njima.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "zar ćeš suditi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "zar ćeš suditi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gizdavosti otaca njihovih"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gizdavosti"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "otaca njihovih"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "objavi njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:41:57.533240154Z",
+  "model": "glm-5.3"
+}

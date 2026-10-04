@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 14:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I učini tako žena Jeroboamova: ustade i ode u Šilo i dođe u kuću Ahijahovu; a Ahijah nije mogao vidjeti, jer su mu oči oslabile od starosti.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamova"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ustade"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "u Šilo"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahijahovu"
+    },
+    {
+      "surface": "ואחיהו",
+      "gloss": "a Ahijah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mogao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "oslabile"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mu oči"
+    },
+    {
+      "surface": "משיבו",
+      "gloss": "od starosti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:58.284585387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato ću, evo, zagraditi ⟨את⟩ tvoj put trnjem i podići ⟨את⟩ ogradu njezinu, i staze njezine neće naći ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "שך",
+      "gloss": "zagraditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj put"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvoj put"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "trnjem"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "i podići ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogradu njezinu"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ogradu njezinu"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "i staze njezine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "naći"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:59.344909143Z",
+  "model": "glm-5.3"
+}

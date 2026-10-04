@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Sa mnom ⟨את⟩ s Libanona, nevjesto, sa mnom ⟨את⟩ s Libanona dođi, pogledaj s vrha Amane, s vrha Šenira i Hermona, iz jatih lavova, s gora pantera.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom",
+      "marks": "s Libanona"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "s Libanona"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevjesto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom",
+      "marks": "s Libanona"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "s Libanona"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "s vrha"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amane"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "s vrha"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Šenira"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "i Hermona"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "iz jatih"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lavova"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "s gora"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "pantera"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:25.651949638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Kojega makar bio pravedan, ne bih odgovorio; za svoj sud bio bih <za> milost <molio>.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "אם",
+      "gloss": "makar"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "bio pravedan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "bih odgovorio"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "za svoj sud"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "<molio> za milost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:35.274948748Z",
+  "model": "glm-5.3"
+}

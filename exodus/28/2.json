@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I napravi odjeću svetu za Aharona, brata svojega, na čast i na ukras.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "napravi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "odjeću"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "za Aharona"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "na čast"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "i na ukras"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:30.592628904Z",
+  "model": "glm-5.3"
+}

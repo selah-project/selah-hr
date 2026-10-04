@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Svi smo mi sinovi jednoga čovjeka, pošteni smo mi; nisu sluge tvoje špijuni.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "svi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "pošteni"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jesu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sluge tvoje"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "špijuni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:49.086489570Z",
+  "model": "glm-5.3"
+}

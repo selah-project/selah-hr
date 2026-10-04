@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad čovjek uzme novu ženu, neće izići u vojsku i neće mu se nametnuti ni za što; neka je slobodan za svoj dom jednu godinu i neka razveseli ⟨את⟩ ženu koju je uzeo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "novu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izići"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "u vojsku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "nametnuti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mu se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ni za"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "što"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "slobodan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka je"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "za svoj dom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godinu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "i neka razveseli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "je uzeo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:22.477326215Z",
+  "model": "glm-5.3"
+}

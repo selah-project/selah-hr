@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka sudi narod tvoj u cedeku, a siromahe tvoje po pravu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Neka sudi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "narod tvoj"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "a siromahe tvoje"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "po pravu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:57.955766742Z",
+  "model": "glm-5.3"
+}

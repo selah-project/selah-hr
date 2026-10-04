@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jer tko je Eloah osim Jahve, i tko je hrid osim Elohim našega?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko je"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko je"
+    },
+    {
+      "surface": "צור",
+      "gloss": "hrid"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:08.569081500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I uzeše ⟨את⟩ Lota i ⟨את⟩ njegovu imovinu, sina brata Avramova, i otiđoše; a on življaše u Sodomi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu imovinu"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "imovinu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramova"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i otiđoše"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "življaše"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "u Sodomi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:11.665704120Z",
+  "model": "glm-5.3"
+}

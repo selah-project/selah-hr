@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I iziđe k njemu Eljakim, sin Hilkijahua, koji je bio nad kućom, i Ševna pisar, i Joah, sin Asafa, kroničar.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkijahua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kućom"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "i Ševna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pisar"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "i Joah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "kroničar"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:51.924291418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I rekli smo gospodaru svojemu: Imamo oca staroga i dijete starosti, malo, a brat mu je umro, te on ostade sam, od majke svoje; i otac njegov ljubi ga.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "i rekli smo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru svojemu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "imamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אב",
+      "gloss": "oca"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "staroga"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "i dijete"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starosti"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "a brat mu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "je umro"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "te ostade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "od majke svoje"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "i otac njegov"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ljubi ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:45.891655020Z",
+  "model": "glm-5.3"
+}

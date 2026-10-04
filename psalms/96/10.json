@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 96,
+  "translation": "Kažite među narodima: Jahve kraljuje! Da, svijet je utvrđen, neće se pokolebati; sudi narode u pravosti.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Kažite"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Da"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "je utvrđen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijet"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "će se pokolebati"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "u pravosti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:13.186582254Z",
+  "model": "glm-5.3"
+}

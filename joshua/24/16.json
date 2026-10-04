@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Narod odgovori i reče: Daleko bilo od nas ostaviti ⟨את⟩ Jahva, da služimo drugim bogovima!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "daleko bilo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ostaviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahva"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "služiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:14.380551162Z",
+  "model": "glm-5.3"
+}

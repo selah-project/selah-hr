@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ne boj se, jer s tobom ⟨את⟩ sam ja; s istoka dovedem tvoje sjeme, a sa zapada te saberem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s tobom ⟨את⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "dovedem"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "a sa zapada"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "te saberem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:31.258820700Z",
+  "model": "glm-5.3"
+}

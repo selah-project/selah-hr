@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Neka se postide i neka se uznemire dovijeka, i neka se osramote i propadnu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Neka se postide"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "i neka se uznemire"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "i neka se osramote"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "i propadnu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:28.119935003Z",
+  "model": "glm-5.3"
+}

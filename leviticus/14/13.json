@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I zakolje ⟨את⟩ janje na mjestu gdje se kolje ⟨את⟩ žrtva za grijeh i ⟨את⟩ paljenica, na mjestu svetome; jer kao žrtva za grijeh, tako je žrtva za krivnju svećeniku — svetost svetosti jest ona.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "janje"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtva za grijeh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtva za grijeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "paljenica"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kao žrtva za grijeh"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "žrtva za krivnju"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:05.094279323Z",
+  "model": "glm-5.3"
+}

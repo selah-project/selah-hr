@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I kralj David ču ⟨את⟩ sve ove stvari, i to mu bijaše vrlo mrsko.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ove stvari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "bijaše mrsko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:13.468068978Z",
+  "model": "glm-5.3"
+}

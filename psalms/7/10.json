@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Neka se ⟨molim⟩ svrši zlo zlih, a pravednik neka bude utvrđen; ⟨On⟩ ispituje ⟨את⟩ srca i ⟨את⟩ bubrege — Elohim pravedni.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "neka se svrši"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨molim⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "a neka bude utvrđen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "i ispituje"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "srca"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "i bubrege"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:54.675324051Z",
+  "model": "glm-5.3"
+}

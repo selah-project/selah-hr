@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "i metnuše ⟨את⟩ lojeve na prsa, i on kadî ⟨את⟩ lojeve na žrtveniku.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i metnuše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lojeve"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lojeve"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "prsa"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "i kadî"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lojeve"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:08.010086331Z",
+  "model": "glm-5.3"
+}

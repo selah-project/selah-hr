@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Dižu se svjedoci nasilja, ono što nisam znao ispituju od mene.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "dižu se"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "svjedoci"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ispituju od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:53.348123874Z",
+  "model": "glm-5.3"
+}

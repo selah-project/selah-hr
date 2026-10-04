@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Ne odvratiše se od želje svoje — još im ⟨bijaše⟩ hrana u ustima.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "odvratiše se"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "od želje svoje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hrana im"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "u ustima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:16.894515826Z",
+  "model": "glm-5.3"
+}

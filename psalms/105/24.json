@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "I umnoži ⟨Elohim⟩ ⟨את⟩ svoj narod veoma, i učini ga moćnijim od njegovih protivnika.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "i umnoži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "i učini ga moćnijim"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "od njegovih protivnika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.676166978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Jehošafat leže s otcima svojim, i bi pokopan s otcima svojim u gradu Davidovu; a Jehoram, sin njegov, zakralji se mjesto njega.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i leže"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i bi pokopan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i zakralji se"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:35.584645802Z",
+  "model": "glm-5.3"
+}

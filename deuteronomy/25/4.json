@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Nećeš zaždrljiviti vola dok vrše žito.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nećeš"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "zaždrljiviti"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "dok vrši žito"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:24.799317Z",
+  "model": "glm-5.3"
+}

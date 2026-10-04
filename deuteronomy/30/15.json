@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Gledaj, postavih danas pred tebe ⟨את⟩ život i ⟨את⟩ dobro, i ⟨את⟩ smrt i ⟨את⟩ zlo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gledaj"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "postavih"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tebe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dobro"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "smrt"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zlo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:02.089367380Z",
+  "model": "glm-5.3"
+}

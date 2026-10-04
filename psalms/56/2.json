@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Smiluj mi se, Elohime, jer me čovjek ⟨gubi⟩; sav dan boreći me pritišće.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj mi se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "guta me"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boreći se"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "pritišće me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:28.523466440Z",
+  "model": "glm-5.3"
+}

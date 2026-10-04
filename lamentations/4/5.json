@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Oni što su jeli ⟨za⟩ slasna jela opustjeli su na ulicama; oni što su odrasli u grimizu grle smetišta.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Oni što su jeli"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "slasna jela"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "opustjeli su"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "na ulicama"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "oni što su odrasli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "grimizu"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "grle"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "smetišta"
+    }
+  ],
+  "timestamp": "2026-10-04T19:43:24.511654274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Jer tamo stoje prijestolja za sud, prijestolja domu Davidova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "prijestolja"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "za sud"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "prijestolja"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:15.378229292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Nije vidio čovjek ⟨את⟩ brata svojega, i nije ustao čovjek s mjesta svojega tri dana; a svim sinovima Jisraelovim bijaše svjetlost u stanovima njihovim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ustao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "s mjesta svojega"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a svim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "u stanovima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:51.705112596Z",
+  "model": "glm-5.3"
+}

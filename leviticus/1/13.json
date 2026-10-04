@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I nutrinu i noge neka opere u vodi, i neka prinese svećenik ⟨את⟩ svega i neka ukađe ⟨na⟩ žrtveniku: paljenica ⟨to jest⟩ ⟨je⟩, išša, miris koji umiruje Jahvi.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "i nutrinu"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "i noge"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "neka opere"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i neka prinese"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i neka ukađe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "išša, žrtva ognjena"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "koji umiruje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.865962720Z",
+  "model": "glm-5.3"
+}

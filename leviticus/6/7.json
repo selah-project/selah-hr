@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A ovo je Tora ⟨את⟩ minhe: neka prinesu sinovi Aharonovi ⟨את⟩ nju pred Jahvom, pred žrtvenikom.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "neka prinesu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minha — sinovi Aharonovi prinosnici"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenikom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:43.827215685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A reče: Tko ti je kazao da si go? Jesi li možda jeo s onoga stabla s kojega sam ti zabranio jesti?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "je kazao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti ⟨je⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "go"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המן",
+      "gloss": "možda li"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "s onoga stabla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "sam ti zabranio"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedeš"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "s njega"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "si jeo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.560383184Z",
+  "model": "glm-5.3"
+}

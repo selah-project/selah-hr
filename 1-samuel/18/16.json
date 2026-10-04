@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A sav Jisrael i Jehuda ljubljahu ⟨את⟩ Davida, jer je izlazio i ulazio pred njima.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubljahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "izlazio je"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i ulazio"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:26.517341855Z",
+  "model": "glm-5.3"
+}

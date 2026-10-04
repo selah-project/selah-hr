@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I obuci ⟨את⟩ Aharona ⟨את⟩ ⟨s⟩ haljinama svetosti, i pomaži ga, i posveti ga, da mi svećeniči.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "i obuci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s⟩",
+      "marks": "haljinama svetosti"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "haljinama"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomaži"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "da svećeniči"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:40.468404661Z",
+  "model": "glm-5.3"
+}

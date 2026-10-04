@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "i ode pa služi bogovima drugima i klanja im se, i suncu, ili mjesecu, ili svoj vojsci neba koje ja nisam zapovjedio —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "pa služi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugima"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i klanja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "i suncu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "mjesecu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svoj"
+    },
+    {
+      "surface": "čבא",
+      "gloss": "vojsci"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ja nisam zapovjedio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:06.376114010Z",
+  "model": "glm-5.3"
+}

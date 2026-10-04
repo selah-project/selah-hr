@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Tko rađa luđaka, tomu je na žalost; i ne veseli se otac nitkova.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "rađa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "na žalost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "veseli se"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nitkova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:13.622393030Z",
+  "model": "glm-5.3"
+}

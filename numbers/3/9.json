@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I predat ćeš ⟨את⟩ levite Aharonu i sinovima njegovim; predani, predani oni su njemu ⟨od⟩ ⟨את⟩ sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i predat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "i sinovima njegovim"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "predani"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "predani"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sinova Jisraelovih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:56.549893607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer iz kuće sužanja iziđe da kraljuje, jer i u kraljevstvu svojem rodi se kao siromah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "sužanja"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "da kraljuje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "u kraljevstvu svojem"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "rodi se"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kao siromah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:36.881882458Z",
+  "model": "glm-5.3"
+}

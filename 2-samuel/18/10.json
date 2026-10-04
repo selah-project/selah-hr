@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I vidje jedan čovjek te javi Joavu, i reče: Evo, vidjeh ⟨את⟩ Avšaloma obješena u ili.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "te javi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidjeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "obješena"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "u ili"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:41.457746835Z",
+  "model": "glm-5.3"
+}

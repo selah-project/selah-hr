@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I dat će je Jahve, Elohim tvoj, u ruku tvoju, i pobit ćeš ⟨את⟩ sve muško u njoj oštricom mača.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "i dat će je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u ruku tvoju"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "i pobit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve muško"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "muško u njoj"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:04.426481082Z",
+  "model": "glm-5.3"
+}

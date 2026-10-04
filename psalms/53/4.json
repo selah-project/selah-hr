@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Svi zajedno odstupiše, pokvariše se; nema tko čini dobro, nema ni jednoga.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Svi"
+    },
+    {
+      "surface": "סג",
+      "gloss": "odstupiše"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "pokvariše se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:02.089391127Z",
+  "model": "glm-5.3"
+}

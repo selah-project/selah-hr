@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "priprema ljeti svoj kruh, sabire u žetvi svoju hranu.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "priprema"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ljeti"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "sabire"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "u žetvi"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "svoju hranu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:16.145747824Z",
+  "model": "glm-5.3"
+}

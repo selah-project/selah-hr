@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Sjetite se Tore Moše, sluge mojega, kojoj zapovjedi ⟨את⟩ ⟨njemu⟩ na Horebu za sav Jisrael, uredbe i sudove.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Sjetite se"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge mojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojoj"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeu, sluzi svome"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horebu"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "i sudove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:25.379229381Z",
+  "model": "glm-5.3"
+}

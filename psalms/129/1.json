@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "Pjesma uzlazaka. Mnogo su me tlačili od mladosti moje — neka sada kaže Jisrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Mnogo"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "su me tlačili"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mladosti moje"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "neka kaže"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.910497699Z",
+  "model": "glm-5.3"
+}

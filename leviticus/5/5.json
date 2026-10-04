@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I bude, kad bude kriv za jednu od ovih ⟨stvari⟩, da prizna ono u čemu je sagriješio.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "bude kriv"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "za jednu"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od ovih"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "da prizna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono u čemu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sagriješio"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "u tome"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:26.671395017Z",
+  "model": "glm-5.3"
+}

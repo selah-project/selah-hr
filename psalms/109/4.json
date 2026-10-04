@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Umjesto ljubavi moje tužili su me — a ja ⟨sam⟩ molitva.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Umjesto"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubavi moje"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "tužili su me"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:04.893094257Z",
+  "model": "glm-5.3"
+}

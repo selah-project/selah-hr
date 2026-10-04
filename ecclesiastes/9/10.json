@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Sve što nađe ruka tvoja da čini, čini po snazi svojoj, jer nema djela ni računa ni znanja ni mudrosti u Šeolu, kamo ti ideš.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da čini"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "po snazi svojoj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djela"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ni računa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ni znanja"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ni mudrosti"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "u Šeolu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ideš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tamo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:11.697530921Z",
+  "model": "glm-5.3"
+}

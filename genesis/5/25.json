@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I življaše Metušelah sto osamdeset i sedam godina, i rodi ⟨את⟩ Lemeka.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metušelah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "i osamdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemeka"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:49.795494542Z",
+  "model": "glm-5.3"
+}

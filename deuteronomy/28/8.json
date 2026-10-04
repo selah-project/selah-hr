@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će zapovjediti blagoslov ⟨את⟩ s tobom ⟨u⟩ tvojem žitnicama i u svemu što pošalje ruka tvoja, i blagoslovit će te u zemlji koju ti Jahve, Elohim tvoj, daje.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "će zapovjediti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blagoslov"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "u tvojim žitnicama"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i u svemu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "što pošalje"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "i blagoslovit će te"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:14.756160023Z",
+  "model": "glm-5.3"
+}

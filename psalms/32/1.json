@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Davidov, poučni. Blažen onaj komu je prijestup oprošten, komu je grijeh pokriven.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučni"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Blažen"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "oprošten"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestup"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "pokriven"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:23.152784939Z",
+  "model": "glm-5.3"
+}

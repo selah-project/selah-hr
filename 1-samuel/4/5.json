@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I bi, kad kovčeg saveza Jahve dođe u tabor, sav Jisrael poklika velik poklik, i zatrese se zemlja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kad dođe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "i poklikaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "poklik"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velik"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "i zatrese se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:02.232144690Z",
+  "model": "glm-5.3"
+}

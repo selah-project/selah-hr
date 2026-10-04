@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Izjeda je vepar iz šume, i zvijer polja na njoj pase.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "izjeda je"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "vepar"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "iz šume"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "i zvijer"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polja"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "na njoj pase"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:43.626612922Z",
+  "model": "glm-5.3"
+}

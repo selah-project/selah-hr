@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I vidje ⟨את⟩ Šekem, sin Hamora Hivijca, kneza zemlje, te je uze, liježe s njom i poniži je.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (Dinu)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamora"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivijca"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "knez"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze je"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (Dinu)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "liježe s njom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (Dinu)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "poniži je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:06.458950053Z",
+  "model": "glm-5.3"
+}

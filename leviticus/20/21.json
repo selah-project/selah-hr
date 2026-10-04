@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I čovjek koji uzme ⟨את⟩ ženu brata svojega — nečist je to; nagost brata svojega razotkrio je; bezdjedni bit će.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu brata svojega"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagost"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "razotkrio je"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdjedni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:53.754746382Z",
+  "model": "glm-5.3"
+}

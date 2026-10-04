@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Hoće li se s tobom udružiti prijestolje propasti, koje oblikuje muku ⟨את⟩ zakonom?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "hoće li se s tobom udružiti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "propasti"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "oblikuje"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "muku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "zakon ⟨odredba⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:09.815449100Z",
+  "model": "glm-5.3"
+}

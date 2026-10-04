@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A Eli bješe vrlo star i ču ⟨את⟩ sve što sinovi njegovi činjahvu svemu Jisraelu, i ⟨את⟩ što ležahu sa ⟨את⟩ ženama koje služahu na ulazu Šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "A Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bješe star"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "činjahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "što ležahu..."
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ležahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "sa ⟨את⟩",
+      "marks": "ženama"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženama"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "koje služahu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:43.709793674Z",
+  "model": "glm-5.3"
+}

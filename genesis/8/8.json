@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A on posla ⟨את⟩ golubicu od sebe, da vidi je li se voda ublažila s lica tla.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golubicu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "golubicu"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ njega — od sebe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "je li se ublažila"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tla"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:29.483504390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ Patrušane i ⟨את⟩ Kasluhane, iz kojih izađoše Peleštejci — i ⟨את⟩ Kaftorjce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Patrušane"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrušane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kasluhane"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iz kojih"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izađoše"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštejci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kaftorjce"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorjce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:42.045409934Z",
+  "model": "glm-5.3"
+}

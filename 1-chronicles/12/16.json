@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ovi su oni koji prijeđoše ⟨את⟩ Jordan u prvome mjesecu, kad je bio pun preko svih svojih obala, i raspršiše ⟨את⟩ sve stanovnike dolina na istok i na zapad.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prijeđoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvome"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "pun"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "svojih obala"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "i raspršiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve stanovnike dolina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "doline"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "na istok"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "i na zapad"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:13.480006807Z",
+  "model": "glm-5.3"
+}

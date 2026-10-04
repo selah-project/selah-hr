@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življeše Šem pošto rodi ⟨את⟩ Arpakšada pet stotina godina, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "I življeše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pošto"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakšada"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšada"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.278178820Z",
+  "model": "glm-5.3"
+}

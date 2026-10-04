@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Tko motri ruah, ne sije; i tko gleda u oblake, ne žanje.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "motri"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sije"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i tko gleda"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "u oblake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "žanje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:52.639518070Z",
+  "model": "glm-5.3"
+}

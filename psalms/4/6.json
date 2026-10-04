@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Žrtvujte žrtve cedeka i uzdajte se u Jahvu.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Žrtvujte"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "i uzdajte se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:55.868836004Z",
+  "model": "glm-5.3"
+}

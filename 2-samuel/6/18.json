@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I svrši David sa prinošenjem paljenice i žrtava mira, i blagoslovi ⟨את⟩ narod u ime Jahve Cebaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i svrši"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מ העלות",
+      "gloss": "sa prinošenjem"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "וה שלמים",
+      "gloss": "i žrtava mira"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:50.069231239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I podiže Moše žrtvenik i prozva ime njegovo Jahve Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "I podiže"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:01.042721252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče kralj Barzilaju: Prijeđi ⟨את⟩ sa mnom, ⟨את⟩ i ja ću uzdržavati ⟨את⟩ tebe sa sobom u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(upravno) k"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilaju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prijeđi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "⟨את⟩ i ja ću uzdržavati"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa sobom"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:07.543375861Z",
+  "model": "glm-5.3"
+}

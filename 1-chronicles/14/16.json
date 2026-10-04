@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I učini David kako mu je Elohim zapovjedio, i udariše ⟨את⟩ tabor Filisteja od Gibeona do Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "učini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Filisteja"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisteja"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "od Gibeona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezera"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:59.877903677Z",
+  "model": "glm-5.3"
+}

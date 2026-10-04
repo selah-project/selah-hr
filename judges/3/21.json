@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I Ehud ispruži lijevu ⟨את⟩ ruku svoju, i uze ⟨את⟩ mač s bedra desnoga svojega, i zari ga u trbuh njegov.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i ispruži"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "lijevu svoju"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mač"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bedra"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "desnoga svojega"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "i zari ga"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "u trbuh njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:12.952839426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I sletje grabljivice na mrtvine, a Avram ⟨את⟩ ih otjera.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i sletje"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "grabljivice"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "mrtvine"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a otjera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih — grabljivice"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:08.908083734Z",
+  "model": "glm-5.3"
+}

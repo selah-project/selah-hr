@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Dobra mi je Tora iz tvojih usta više nego tisuće zlata i srebra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi je"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "iz tvojih usta"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "više nego tisuće"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "i srebra"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.404652397Z",
+  "model": "glm-5.3"
+}

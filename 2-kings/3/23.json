@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I rekoše: Krv je to! Kraljevi su se do uništenja uništili, svaki je udario ⟨את⟩ druga svojega; a sada, Moabe, k plijenu!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je to"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "do uništenja"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "uništili su se"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "udario je"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "druga svojega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "druga svojega"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "k plijenu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:04.691309561Z",
+  "model": "glm-5.3"
+}

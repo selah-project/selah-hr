@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A on reče: Ne boj se, jer više onih koji su ⟨את⟩ s nama negoli onih koji su ⟨את⟩ s njima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A on reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "više onih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s nama"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "negoli onih koji"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ s njima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:37.536918179Z",
+  "model": "glm-5.3"
+}

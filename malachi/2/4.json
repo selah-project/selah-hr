@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I znat ćete da sam poslao k vama ⟨את⟩ ovu zapovijed, da moj savez bude s Levijem, riječ Jahve Cebaot.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "znat ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "poslao sam"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu zapovijed"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da bude"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moj savez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:20.812851675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jahve, hrid moja i utvrda moja i izbavitelj moj; El moj, stijena moja, u nju se sklanjam; štit moj i rog spasenja mojega, visina⟨je⟩ moja!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "hrid moja"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i utvrda moja"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i izbavitelj moj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El moj"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijena moja"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sklanjam se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u nj"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "štit moj"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "i rog"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "spasenja mojega"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "visina moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.497008073Z",
+  "model": "glm-5.3"
+}

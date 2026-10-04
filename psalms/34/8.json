@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Sib Jahveov tabori oko onih koji ga se boje, i izbavlja ih.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "tabori"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Sib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "onih koji ga se boje"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "i izbavlja ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:49.022078593Z",
+  "model": "glm-5.3"
+}

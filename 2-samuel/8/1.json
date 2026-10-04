@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dogodi se poslije toga da David udari ⟨את⟩ Filišćane i pokori ih; i uze David ⟨את⟩ uzde-meteg-haamma iz ruke Filišćana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "udari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filišćane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćane"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i pokori ih"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzde-meteg-haamma"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "uzde (meteg)"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "haamma"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:35.226545140Z",
+  "model": "glm-5.3"
+}

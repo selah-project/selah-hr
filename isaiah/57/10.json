@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Umorila si se mnoštvom svojega puta, ali nisi rekla: 'Nema nade'; našla si život svoje ruke, zato nisi oboljela.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "mnoštvom"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "svojega puta"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "umorila si se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "rekla"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "nema nade"
+    },
+    {
+      "surface": "חית",
+      "gloss": "život"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "našla si"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zbog toga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "oboljela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:31.987103866Z",
+  "model": "glm-5.3"
+}

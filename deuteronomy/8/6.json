@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I čuvat ćeš ⟨את⟩ zapovijedi Jahve, svoga Elohim, da hodiš njegovim putovima i da ⟨את⟩ njega štuješ.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "čuvat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svoga Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da hodiš"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "njegovim putovima"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "i da štuješ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:06.276980485Z",
+  "model": "glm-5.3"
+}

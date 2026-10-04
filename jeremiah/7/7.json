@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "i dat ću vam ⟨את⟩ da prebivate na ovome mjestu, u zemlji koju dadoh ocima vašim, od vjekovâ i dovijeka.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "i dat ću da prebivate"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dadoh"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ocima vašim"
+    },
+    {
+      "surface": "למן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vjekovâ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:24.454359118Z",
+  "model": "glm-5.3"
+}

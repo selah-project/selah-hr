@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "S kojim će moja ruka stajati čvrsto, da, moja će mičina njega ojačati.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "S kojim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja ruka"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "će stajati čvrsto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "moja mičina"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "će njega ojačati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:43.676667318Z",
+  "model": "glm-5.3"
+}

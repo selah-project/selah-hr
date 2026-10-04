@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "U onaj dan čovjek će baciti ⟨את⟩ kumire svojega srebra i ⟨את⟩ kumire svojega zlata, koje su mu načinili za klanjanje, krticama i šišmišima.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "bacit će"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumire svojega srebra"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "kumire"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "svojega srebra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kumire svojega zlata"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "kumire"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "svojega zlata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "su načinili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "za klanjanje"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "krticama"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "u rupama"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "i šišmišima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:18.308050819Z",
+  "model": "glm-5.3"
+}

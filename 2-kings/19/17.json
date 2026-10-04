@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Uistinu, Jahve, opustošiše kraljevi Ašura ⟨את⟩ narode i ⟨את⟩ zemlju njihovu.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Uistinu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "opustošiše"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narode"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju njihovu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "zemlju njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:54.708687309Z",
+  "model": "glm-5.3"
+}

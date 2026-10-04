@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jer su me opkolili valovi smrti, bujice Belijala prepale su me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "opkolili su me"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "valovi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "bujice"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belijala"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "prepale su me"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:51.845460383Z",
+  "model": "glm-5.3"
+}

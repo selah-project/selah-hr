@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Ti znaš sramotu moju i stid moj i sramotnost moju; pred tobom su svi protivnici moji.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "sramotu moju"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "i stid moj"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "i sramotnost moju"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "protivnici moji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.189514775Z",
+  "model": "glm-5.3"
+}

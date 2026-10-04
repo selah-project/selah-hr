@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I nastat će poslije njih sedam godina gladi, i zaboravit će se sve obilje u zemlji micrakoj… u zemlji Micrajima, i glad će uništiti ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "nastat će"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "שני",
+      "gloss": "godina"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gladi"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "poslije njih"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "zaboravit će se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "obilje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "uništiti"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "glad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:16.136216818Z",
+  "model": "glm-5.3"
+}

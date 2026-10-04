@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše sva zemlja usna jednih, i riječi jedne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "usna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednih"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "i riječi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "jedne"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:27.010705266Z",
+  "model": "glm-5.3"
+}

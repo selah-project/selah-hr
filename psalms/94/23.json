@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "I vrati ⟨je⟩ na njih ⟨את⟩ zloću njihovu, i u zloći njihovoj istrijebit će ih — istrijebit će ih Jahve, Elohim naš.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zloću njihovu"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "zloću njihovu"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "i u zloći njihovoj"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "istrijebit će ih"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "istrijebit će ih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.111429643Z",
+  "model": "glm-5.3"
+}

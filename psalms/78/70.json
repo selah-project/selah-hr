@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I izabra Davida, slugu svojega, i uze ga iz torova ovčjih.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i izabra"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "i uze ga"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "iz torova"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovčjih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:13.389348149Z",
+  "model": "glm-5.3"
+}

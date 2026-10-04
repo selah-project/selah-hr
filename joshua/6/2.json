@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče Jahve Jehošui: Vidi, dao sam u tvoju ruku ⟨את⟩ Jeriho i ⟨את⟩ kralja njezina, junake snažne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vidi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvoju ruku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kralja njezina"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "kralja njezina"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "junake"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "snažne"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:53.861848940Z",
+  "model": "glm-5.3"
+}

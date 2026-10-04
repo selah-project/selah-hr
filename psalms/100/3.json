@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 100,
+  "translation": "Znajte da je Jahve ⟨on⟩ Elohim; ⟨on⟩ nas načini, a ne mi sami ⟨sebe⟩; narod smo njegov i stado paše njegove.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Znajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nas načini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi sami"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i stado"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "paše njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:18.060169009Z",
+  "model": "glm-5.3"
+}

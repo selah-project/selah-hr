@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Čuvaj ⟨את⟩ mjesec aviva i priredi Pesah Jahvi, Elohimu svomu, jer u mjesecu aviva izveo te Jahve, Elohim tvoj, iz Micrajima noću.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Čuvaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjesec aviva"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mjesec"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "aviva"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i priredi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "aviva"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "izveo te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:22.227173901Z",
+  "model": "glm-5.3"
+}

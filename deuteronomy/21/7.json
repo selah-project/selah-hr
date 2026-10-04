@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I odgovore i reknu: Naše ruke nisu prolile ⟨את⟩ ovu krv, i naše oči nisu vidjele ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "i odgovore"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i reknu"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Naše ruke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "prolile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ovu krv"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "i naše oči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidjele"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:56.031648713Z",
+  "model": "glm-5.3"
+}

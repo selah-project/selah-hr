@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Sakrij lice svoje od grijeha mojih i sve krivnje moje izbriši.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "sakrij"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "od grijeha mojih"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "krivnje moje"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "izbriši"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:39.740029826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I vrati se Ravšake, i nađe ⟨את⟩ kralja ašurskoga kako ratuje protiv Livne, jer je čuo da je krenuo iz Lakiša.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "šake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "i nađe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ašurskoga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ratuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "je čuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "je krenuo"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "iz Lakiša"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:21.412890447Z",
+  "model": "glm-5.3"
+}

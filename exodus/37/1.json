@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načini Becalel ⟨את⟩ Kovčeg od drva šitim: dva i pol lakta bijaše njegova dužina, lakat i pol njegova širina, i lakat i pol njegova visina.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "načini"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dva lakta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova dužina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pol"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "njegova visina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:35.405678741Z",
+  "model": "glm-5.3"
+}

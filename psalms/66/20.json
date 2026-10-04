@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Blagoslovljen Elohim, koji nije odvratio molitve moje ni heseda svojega ⟨את⟩ od mene.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odvratio"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitve moje"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ni heseda svojega"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:35.861341459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Doista, ljubio je narode; svi njegovi sveti u tvojoj su ruci, i oni se skupiše pred tvojim nogama, svatko prima tvoje riječi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "doista"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "ljubio je"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "njegovi sveti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvojoj ruci"
+    },
+    {
+      "surface": "והם",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "skupiše se"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "pred tvojim nogama"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "svatko prima"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "tvoje riječi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:04.773350366Z",
+  "model": "glm-5.3"
+}

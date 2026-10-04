@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Tko će izreći silna djela Jahvina, tko će objaviti svu njegovu hvalu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "će izreći"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "silna djela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "će objaviti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "njegovu hvalu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:04.408817776Z",
+  "model": "glm-5.3"
+}

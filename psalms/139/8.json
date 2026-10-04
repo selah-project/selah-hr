@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Ako se popnem u nebo — ti si ondje; ako postelju postavim u Šeolu — evo te ondje.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "se popnem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "u nebo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ako postelju postavim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "u Šeol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "evo te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.654910039Z",
+  "model": "glm-5.3"
+}

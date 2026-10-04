@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Jahve je izveo ⟨את⟩ naš cedek; dođite, i pripovjedajmo na Cionu ⟨את⟩ djelo Jahve, Elohim našega.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "izveo je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naš cedek"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "naš cedek"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođite"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "i pripovjedajmo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cionu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djelo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:36:43.082096527Z",
+  "model": "glm-5.3"
+}

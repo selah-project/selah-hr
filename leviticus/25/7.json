@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "i tvome blagu i zvijeri koja je u tvojoj zemlji: sav njezin urod bit će za jelo.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "i tvome blagu"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "i zvijeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "u tvojoj zemlji"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njezin urod"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "za jelo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:46.317177687Z",
+  "model": "glm-5.3"
+}

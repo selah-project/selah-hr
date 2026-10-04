@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče kralj Ahashveroš Esteri, kraljici, i Mordechaju, Judejcu: Eno, dom Hamanov dao sam Esteri, ⟨את⟩ a njega su objesili na drvo što pruži ruku svoju na Judejce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Ahashveroš"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljici"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "i Mordechaju"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Judejcu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanov"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a njega ⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "su objesili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "što"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pruži"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "na Judejce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:20.119431413Z",
+  "model": "glm-5.3"
+}

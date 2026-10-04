@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Ne spominji nam krivnja prijašnjih; brzo neka nas predhitre milosrđa tvoja, jer se veoma iznemogli smo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "spominji"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "krivnja"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "prijašnjih"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "neka nas predhitre"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "milosrđa tvoja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "iznemogli smo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.600365Z",
+  "model": "glm-5.3"
+}

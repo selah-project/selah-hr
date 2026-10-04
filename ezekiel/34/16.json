@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 34:16",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Izgubljenu ću tražiti ⟨את⟩, i raspršenu vratit ću ⟨את⟩, slomljenu ću poviti, i bolesnu ojačat ću ⟨את⟩; a debelu i jaku istrijebit ću ⟨את⟩ ⟨את⟩ — past ću ih po pravu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izgubljenu"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "izgubljenu"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "tražiti ću"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "raspršenu"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "raspršenu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vratit ću"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "a slomljenoj"
+    },
+    {
+      "surface": "אחבש",
+      "gloss": "povit ću"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bolesnu"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "bolesnu"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "ojačat ću"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "debelu"
+    },
+    {
+      "surface": "השמנה",
+      "gloss": "debelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jaku"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "jaku"
+    },
+    {
+      "surface": "אשמיד",
+      "gloss": "istrijebit ću"
+    },
+    {
+      "surface": "ארענה",
+      "gloss": "past ću ih"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "po pravu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:45:47.012345700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "⟨את⟩ samonikli urod svoje žetve nećeš požeti, i ⟨את⟩ grožđe svoje nedirane loze nećeš brati: godina šabatskog odmora bit će zemlji.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samonikli urod"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "samonikli urod"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "svoje žetve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ćeš požeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "grožđe"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "grožđe"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "svoje nedirane loze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ćeš brati"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "godina"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabatskog odmora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:46.316780747Z",
+  "model": "glm-5.3"
+}

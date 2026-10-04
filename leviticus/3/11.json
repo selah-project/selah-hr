@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I neka svećenik zapali ⟨to⟩ na žrtveniku: kruh ⟨to je⟩ žrtva ognjena Jahvi.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "i neka zapali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žrtva ognjena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:34.259288827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 110,
+  "translation": "Sudit ⟨će⟩ narodima, napunit ⟨će ih⟩ truplima, satirat ⟨će⟩ glavu nad velikom zemljom.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "sudit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napunit"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "truplima"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "satirat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velikom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.495733468Z",
+  "model": "glm-5.3"
+}

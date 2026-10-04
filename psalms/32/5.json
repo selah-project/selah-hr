@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Grijeh svoj dajem ti na znanje, i krivnju svoju nisam sakrio. Rekoh: priznat ću prijestupe svoje Jahvi; a ti si oprostio krivnju grijeha mojega. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "grijeh svoj"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "dajem ti na znanje"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "i krivnju svoju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "sakrio"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "priznat ću"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "prijestupima svojim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "si nosio — oprostio"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grijeha mojega"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:24.719021142Z",
+  "model": "glm-5.3"
+}

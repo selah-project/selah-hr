@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Elohim, pjesmu novu pjevat ću tebi, na nevelu od deset žica svirat ću tebi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevelu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "od deset žica"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "svirat ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.015768861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ako otac tvoj za mene upita, reci: 'David me vrlo zamoli da otrči u Bet-Lehem, svoj grad, jer je tamo žrtva današnja za svu obitelj.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "upita"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "za mene"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otac tvoj"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "reci"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "zamoli"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "vrlo zamoli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "da otrči"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "svoj grad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtva"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "današnja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svu"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "obitelj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:31.881861651Z",
+  "model": "glm-5.3"
+}

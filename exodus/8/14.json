@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učiniše tako čarobnjaci svojim tajnim umijećima da izvedu ⟨את⟩ komarce, ali ne mogoše; i bijaše komarac na čovjeku i na stoci.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "čarobnjaci"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "svojim tajnim umijećima"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da izvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komarce"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "komarce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogoše"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "komarac"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na čovjeku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na stoci"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:57.547176333Z",
+  "model": "glm-5.3"
+}

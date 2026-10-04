@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče mužu svojemu: Eno, molim te, znam da je čovjek Elohimov, svet, prolazi k nama stalno.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mužu svojemu → k"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mužu svojemu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prolazi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "k nama"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:56.820110416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Tko bi dao da znam ⟨gdje⟩ i nađem ga, da dođem do njegova ⟨stola⟩!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bi dao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "da znam"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "i nađem ga"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "da dođem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "njegova mjesta"
+    }
+  ],
+  "timestamp": "2026-10-04T19:36:21.025133242Z",
+  "model": "glm-5.3"
+}

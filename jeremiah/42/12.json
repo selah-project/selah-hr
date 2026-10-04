@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "i dat ću vam smilovanje, i on će ⟨se⟩ vam smilovati, i vratit će ⟨את⟩ vas na vaše tlo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "smilovanje"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "i smilovat će se"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "i vratit će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "vaše tlo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:54.960619219Z",
+  "model": "glm-5.3"
+}

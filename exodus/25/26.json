@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I napravi mu četiri zlatne kolca, i stavi ⟨את⟩ kolce na četiri ⟨ה⟩ vrha koja su na njegovim četirima nogama.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "kolca"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolce"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "kolce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "vrha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja su"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "na njegovim četirima"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nogama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:36.601428888Z",
+  "model": "glm-5.3"
+}

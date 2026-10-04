@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I sluga stavi ⟨את⟩ svoju ruku pod bedro Avrahama, gospodara svojega, i zakle se na tu riječ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bedro"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "zakle se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:18.814411366Z",
+  "model": "glm-5.3"
+}

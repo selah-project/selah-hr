@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Hranu kupujte od njih ⟨את⟩ za srebro i jedite; i vodu kupite od njih ⟨את⟩ za srebro i pijte.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kupujte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od njih ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "i jedite"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "kupite"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od njih ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "i pijte"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:47.572492339Z",
+  "model": "glm-5.3"
+}

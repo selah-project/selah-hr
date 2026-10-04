@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Govori sada ⟨na⟩ uši naroda: neka zatraži svaki čovjek od ⟨את⟩ svoga druga, i svaka žena od ⟨את⟩ svoje drugarice, posuđe srebrno i posuđe zlatno.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na uši"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "neka zatraže"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoga druga"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "i svaka žena"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "svoje drugarice"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posuđe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrno"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "i posuđe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:33.378687082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "Jer si me razveselio, Jahve, djelom svojim; o djelima ruku tvojih kličem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "razveselio si me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "djelom svojim"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "o djelima"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ruku tvojih"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "kličem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:28.147399556Z",
+  "model": "glm-5.3"
+}

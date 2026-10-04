@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I odredi Jahve veliku ribu da proguta ⟨את⟩ Jonu, i bijaše Jona u utrobi ribe tri dana i tri noći.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "i odredi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "da proguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "u utrobi"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ribe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "noći"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:05.839402928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I uplaši se Jaakov veoma i bi mu tjeskobno; te razdijeli ⟨את⟩ narod koji bijaše ⟨את⟩ s njime, i ⟨את⟩ sitnu stoku, i ⟨את⟩ goveda, i deve, u dva tabora.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "i uplaši se"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "i bi mu tjeskobno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "te razdijeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sitnu stoku"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sitnu stoku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goveda"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "i deve"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "u dva"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "tabora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:51.125555857Z",
+  "model": "glm-5.3"
+}

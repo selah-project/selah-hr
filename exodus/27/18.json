@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Dužina dvorišta sto lakata, a širina pedeset na pedeset, i visina pet lakata, od lana upredena šeststrukog, a njihova podnožja od bakra.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a širina"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "na pedeset"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "i visina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šeststrukog"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "upredena lana"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "a njihova podnožja"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bakar"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:57.353173661Z",
+  "model": "glm-5.3"
+}

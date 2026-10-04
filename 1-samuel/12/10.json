@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I povikaše k Jahvi i rekoše: Sagriješili smo, jer smo ostavili ⟨את⟩ Jahvea i služili ⟨את⟩ Baalima i ⟨את⟩ Aštartama; a sada izbavi nas iz ruke neprijatelja naših, i služit ćemo tebi.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "i povikaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Sagriješili smo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ostavili smo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "i služili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalima"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aštartama"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Aštartama"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "izbavi nas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "neprijatelja naših"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "i služit ćemo tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:01.858557203Z",
+  "model": "glm-5.3"
+}

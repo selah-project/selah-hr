@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I dat ću tebi i tvom sjemenu poslije tebe ⟨את⟩ zemlju svojih boravišta, ⟨את⟩ svu zemlju Kenáan, u vječni posjed, i bit ću im Elohim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i tvom sjemenu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "poslije tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju svojih boravišta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "svojih boravišta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju Kenáan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenáan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "u posjed"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "i bit ću"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:54.704516154Z",
+  "model": "glm-5.3"
+}

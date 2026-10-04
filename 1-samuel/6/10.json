@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I učiniše ljudi tako, i uzeše dvije krave što sišu, i svezaše ih na kola, a ⟨את⟩ sinove njihove zatvoriše u kući.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "krave"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "što sišu"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "i svezaše ih"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "na kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinove njihove"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sinovi njihovi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zatvoriše"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:09.055028464Z",
+  "model": "glm-5.3"
+}

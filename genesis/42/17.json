@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I sabra ih ⟨את⟩ u tamnicu tri dana.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i sabra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tamnicu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:05.712356966Z",
+  "model": "glm-5.3"
+}

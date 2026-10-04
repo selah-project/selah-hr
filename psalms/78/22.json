@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Jer ne vjerovaše u Elohim i ne uzdajući se u spasenje njegovo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "vjerovaše"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "uzdahu se"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "u spasenje njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:58.310947007Z",
+  "model": "glm-5.3"
+}

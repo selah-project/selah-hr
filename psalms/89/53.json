@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Blagoslovljen neka je Jahve zauvijek. Amin i amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amin"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:52.724900517Z",
+  "model": "glm-5.3"
+}

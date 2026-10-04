@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "A Jirmijahu je dolazio i izlazio među narodom, jer ⟨את⟩ ga još nisu bacili u tamnicu.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "A Jirmijahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazio"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i izlazio"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "među"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jer još ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nisu bacili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "Jirmijahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u tamnicu"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "tamnicu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:31:29.730503598Z",
+  "model": "glm-5.3"
+}

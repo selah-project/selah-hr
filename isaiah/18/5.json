@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jer prije žetve, kad procvijet ode, a cvijet postane sazrijevajuće grožđe, odsjeći će se mladice rezalicama, a ⟨את⟩ grane odstranit će se i otresti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prije"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetve"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ode"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "procvijet"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "i sazrijevajuće grožđe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "postane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "cvijet"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "odsjeći će se"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "mladice"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "rezalicama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "grane"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "grane"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odstranit će se"
+    },
+    {
+      "surface": "התז",
+      "gloss": "i otresti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:08.719059565Z",
+  "model": "glm-5.3"
+}

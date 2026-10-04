@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I Jaakov ustade i podigne ⟨את⟩ svoje sinove i ⟨את⟩ svoje žene na deve.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i ustade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoje žene"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "svoje žene"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "deve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:27.660255101Z",
+  "model": "glm-5.3"
+}

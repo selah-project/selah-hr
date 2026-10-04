@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Srce moje lupa ⟨u meni⟩, snaga me napustila, i svjetlost očiju mojih — i nje nema ⟨את⟩ sa mnom.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "napustila me"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "snaga"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "i svjetlost"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "očiju mojih"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "sa mnom ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:04.222346503Z",
+  "model": "glm-5.3"
+}

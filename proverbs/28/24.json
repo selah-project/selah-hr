@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Tko otima oca svojega i majku svoju pa kaže: »Nema prijestupa«, drug je čovjeku koji upropašćuje.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "Tko otima"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i majku svoju"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "pa kaže"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestupa"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "drug je"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "koji upropašćuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:13.429221022Z",
+  "model": "glm-5.3"
+}

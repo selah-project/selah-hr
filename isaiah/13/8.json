@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 13:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I zaplašit će se; grdne bolove i muke obuzet će ih; kao porodilja patit će; čovjek će se svome bližnjemu čuditi užasnuto — lica plamena lica su njihova.",
+  "tokens": [
+    {
+      "surface": "ונבהלו",
+      "gloss": "i zaplašit će se"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "grdne bolove"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "i muke"
+    },
+    {
+      "surface": "יאחזון",
+      "gloss": "obuzet će ih"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kao porodilja"
+    },
+    {
+      "surface": "יחילון",
+      "gloss": "patit će"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svome"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjemu"
+    },
+    {
+      "surface": "יתמהו",
+      "gloss": "čuditi će se užasnuto"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "plamena"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "lica su njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:13.963679559Z",
+  "model": "glm-5.3"
+}

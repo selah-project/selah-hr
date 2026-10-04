@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Svaki lukavac radi sa znanjem, a luđak razotkriva ludost.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "lukavac"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "radi"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "sa znanjem"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a luđak"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "razotkriva"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ludost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:41.789392529Z",
+  "model": "glm-5.3"
+}

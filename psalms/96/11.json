@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 96,
+  "translation": "Neka se raduju nebesa i neka klikće zemlja, nek huči more i sve što je u njemu.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "neka se raduju"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "i neka klikće"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "nek huči"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i sve što je u njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:27.167645617Z",
+  "model": "glm-5.3"
+}

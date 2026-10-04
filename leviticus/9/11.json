@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ meso i ⟨את⟩ kožu sažge u ognju izvan tabora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kožu"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kožu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sažge"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.366941818Z",
+  "model": "glm-5.3"
+}

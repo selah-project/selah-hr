@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Uči moje ruke za boj, i mišice moje savijaju luk od nehrđajućeg — luk od tuča.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "uči"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ruke"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za boj"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "i savija se"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "od tuča"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "moje mišice"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:45.610709432Z",
+  "model": "glm-5.3"
+}

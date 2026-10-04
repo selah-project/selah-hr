@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I Moše izabra ljude čestite iz svega Jisraela i postavi ⟨את⟩ ih za poglavare nad narodom: knezove tisuća, knezove stotina, knezove pedesetica i knezove desetica.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i izabra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "čestite"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (za poglavare)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "za poglavare"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedesetica"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i knezove"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desetica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:03.057887089Z",
+  "model": "glm-5.3"
+}

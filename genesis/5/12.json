@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I Kenan poživi sedamdeset godina i rodi ⟨את⟩ Mahalalela.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "poživi"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedamdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalela"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalela"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:55.285859789Z",
+  "model": "glm-5.3"
+}

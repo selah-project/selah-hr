@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Sve što nema peraja i ljusaka u vodama — gnusoba je to vama.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ima"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "peraja"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "i ljuske"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodama"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:46.956100800Z",
+  "model": "glm-5.3"
+}

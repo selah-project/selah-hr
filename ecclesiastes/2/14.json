@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Mudracu su oči u glavi, a lud hodi u tami; i spoznah i ja da jedan isti događaj pogađa ⟨את⟩ sve njih.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "mudracu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "u glavi"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "a lud"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "u tami"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "i spoznah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "da događaj"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan isti"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "pogađa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve njih"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sve njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:01.185754123Z",
+  "model": "glm-5.3"
+}

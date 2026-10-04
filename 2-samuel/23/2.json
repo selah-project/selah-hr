@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ruah Jahve progovorila je u meni, i riječ njegova ⟨je⟩ na jeziku mojemu.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "progovorila je"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "i riječ njegova"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "jeziku mojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:13.898389625Z",
+  "model": "glm-5.3"
+}

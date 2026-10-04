@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Oni mrze dobro i ljube zlo, deru kožu s njih i meso s njihovih kostiju,",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "mrze"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "i ljube"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "deru"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "kožu"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "s njih"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "i meso"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "njihovih kostiju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:38.875430492Z",
+  "model": "glm-5.3"
+}

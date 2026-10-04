@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Samo je ⟨u⟩ Elohimu tišina duše moje; od njega je spasenje moje.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u⟩ Elohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tišina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "spasenje moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.482989460Z",
+  "model": "glm-5.3"
+}

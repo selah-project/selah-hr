@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Stanovnici tame i sjenke smrti, sužnji bijede i željeza,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnici"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tame"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "i sjenke smrti"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "sužnji"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bijede"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "i željeza"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:41.073860731Z",
+  "model": "glm-5.3"
+}

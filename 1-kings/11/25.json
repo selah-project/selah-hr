@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše protivnik Jisraelu sve dane Šelomohove; a ⟨את⟩ zlo koje je učinio Hadad — i digao se ⟨je⟩ protiv Jisraela, i kraljevao nad Aramom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "protivnik"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomohove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "הרעה — zlo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "i digao se"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "protiv Jisraela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i kraljevao"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:37.295687403Z",
+  "model": "glm-5.3"
+}

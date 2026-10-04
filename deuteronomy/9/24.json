@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Buntovni bijaste s Jahvom od dana kad sam ⟨את⟩ vas upoznao.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Buntovni"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bijaste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "kad sam upoznao"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:04.111171298Z",
+  "model": "glm-5.3"
+}

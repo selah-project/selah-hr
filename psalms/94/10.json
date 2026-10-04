@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Onaj koji kara narode — zar ne će pokoriti? Onaj koji poučava ⟨את⟩ čovjeka znanju ⟨…⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "onaj koji kara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "će pokoriti"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "onaj koji poučava"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:05.479001357Z",
+  "model": "glm-5.3"
+}

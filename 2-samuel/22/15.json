@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I posla strije te ih rasprši, munju te ih zbuni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "strije"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "te ih rasprši"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "munju"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "te ih zbuni"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:41.639138574Z",
+  "model": "glm-5.3"
+}

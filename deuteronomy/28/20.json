@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će poslati na tebe ⟨את⟩ kletvu, ⟨את⟩ zabunu i ⟨את⟩ prijekor u svega što pošalješ ruka svoja da činiš, dok te se ne uništi i dok ne propadneš brzo, zbog zloće djela tvojih kojima si me ostavio.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "će poslati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kletvu"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "kletvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabunu"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "zabunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prijekor"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "prijekor"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svega"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "što pošalješ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka svoja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "činiš"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "te se ne uništi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dok"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "ne propadneš"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zloće"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "djela tvojih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "si me ostavio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:57.425478534Z",
+  "model": "glm-5.3"
+}

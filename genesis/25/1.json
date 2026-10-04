@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I Avraham dodade te uze ženu, a njezino ime ⟨bilo je⟩ Ketura.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dodade"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a njezino ime"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:22.146141961Z",
+  "model": "glm-5.3"
+}

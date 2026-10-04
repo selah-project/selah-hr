@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Ali ostavi savjet starješina što su mu ga savjetovale, i savjetova se s mladićima koji su odrasli s njime, ⟨את⟩ onima što stoje pred njim.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ali ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savjet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "savjet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starješina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "su mu savjetovale"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "i savjetova se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladići"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mladići"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "su odrasli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njime"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "što stoje"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:58.135723197Z",
+  "model": "glm-5.3"
+}

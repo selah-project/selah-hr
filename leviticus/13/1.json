@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I Jahve reče Mošeu i Aharonu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i prema"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "riječ: ⟨reče⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:07.799418818Z",
+  "model": "glm-5.3"
+}

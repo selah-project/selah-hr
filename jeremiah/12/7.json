@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ostavio sam ⟨את⟩ svoj dom, odbacio sam ⟨את⟩ svoju baštinu, predao sam ⟨את⟩ drago svoje duše u ruku njezinih neprijatelja.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Ostavio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svoj dom"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "odbacio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju baštinu"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "svoju baštinu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "predao sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drago svoje duše"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "drago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "njezinih neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:57.474254959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Neka mu sinovi ostanu siročad, a žena mu neka bude udovica.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "siročad"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "a žena njegova"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "udovica"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:36.637529898Z",
+  "model": "glm-5.3"
+}

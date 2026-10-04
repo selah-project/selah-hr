@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Ne odvuci me s opakima ni s činiteljima ništavila, koji govore mir svojim bližnjima, a zlo ⟨je⟩ u njihovu srcu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "odvuci me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "opakima"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni s"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "činiteljima"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "koji govore"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "bližnjima"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a zlo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "u njihovu srcu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:39.460887535Z",
+  "model": "glm-5.3"
+}

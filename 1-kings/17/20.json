@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I zazva Jahvu i reče: Jahve, Elohim moj, zar i na udovicu s kojom ja boravim učinio si zlo, usmrtiti ⟨את⟩ sina njezina?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zazva"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "zar i"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "udovicu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s kojom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "boravim"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "učinio si zlo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "usmrtiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina njezina"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sina njezina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:02.750179193Z",
+  "model": "glm-5.3"
+}

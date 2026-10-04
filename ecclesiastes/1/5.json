@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I izlazi sunce i zalazi sunce, i prema mjestu svome dahće — ono što izlazi, tamo ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "i izlazi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i zalazi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i prema"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "mjestu svome"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "dahće"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "što izlazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:52.504762774Z",
+  "model": "glm-5.3"
+}

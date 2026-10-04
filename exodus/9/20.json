@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Tko se od slugu faraonovih bojao riječi Jahvine, natjerao je ⟨את⟩ sluge svoje i ⟨את⟩ stoku svoju u kuće.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "tko se bojao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ Jahvinu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "od slugu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovih"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "natjerao je (u bijeg)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoku svoju"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "stoku svoju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kuće"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:36.094801866Z",
+  "model": "glm-5.3"
+}

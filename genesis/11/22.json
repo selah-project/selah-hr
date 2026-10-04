@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Serug trideset godina, i rodi ⟨את⟩ Nahora.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:53.175377004Z",
+  "model": "glm-5.3"
+}

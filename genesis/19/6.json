@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I iziđe Lot k njima na dovratku, i zatvori vrata za sobom.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k njima"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "na dovratku"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "i vrata"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zatvori"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za sobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:29.330837870Z",
+  "model": "glm-5.3"
+}

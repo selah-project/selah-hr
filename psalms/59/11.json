@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Elohim heseda mojega umaknut ce mi, Elohim ce mi pokazati ⟨את⟩ neprijatelje moje.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heseda mojega"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "umaknut ce mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "pokazati ce mi"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "neprijatelje moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:30.939877332Z",
+  "model": "glm-5.3"
+}

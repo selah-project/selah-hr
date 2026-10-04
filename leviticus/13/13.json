@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I vidjet će svećenik, i gle, ako je caraat pokrio sve njegovo tijelo, očistit će ranu — sve se promijenilo u bijelo: čist je on.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidjet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "pokrio je"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "caraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve njegovo tijelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegovo tijelo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "očistit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "promijenilo se"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "u bijelo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:16.646998383Z",
+  "model": "glm-5.3"
+}

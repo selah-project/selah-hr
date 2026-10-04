@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer ⟨את⟩ onoga koga Jahve ljubi, on pokorava, i kao otac ⟨את⟩ sina kojemu je naklonjen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga koga Jahve ljubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koga"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "pokorava"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "i kao otac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kojemu je naklonjen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:38.824095797Z",
+  "model": "glm-5.3"
+}

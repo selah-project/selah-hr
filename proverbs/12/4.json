@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Žena junačka kruna je mužu svomu, a kao trulež u kostima njegovim ona koja sramoti.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "junačka"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kruna"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "mužu svomu"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "a kao trulež"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "u kostima njegovim"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ona koja sramoti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:36.162145579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Glas se čuje na golistim visovima, plač i molitve sinova Jisraelovih, jer su iskrivili ⟨את⟩ svoj put, zaboravili su ⟨את⟩ Jahvu, Elohim svojega.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "golistim visovima"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "čuje se"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plač"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "molitve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "iskrivili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj put"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "svoj put"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zaboravili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:08.760856851Z",
+  "model": "glm-5.3"
+}

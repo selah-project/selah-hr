@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I posrnut ćeš danju, a prorok će posrnuti s tobom noću; i uništit ću majku tvoju.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "i posrnut ćeš"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danju"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "a posrnuti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "prorok će — i"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "i uništit ću"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "majku tvoju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:03.764593192Z",
+  "model": "glm-5.3"
+}

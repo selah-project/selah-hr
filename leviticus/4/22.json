@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 4:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kad pogreši koji knez te učini jednu od svih zapovijedi Jahve, Elohim svojega, koje se ne smije činiti, nehotice, i postane kriv:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "knez"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "pogreši"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "smije činiti"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "nehotice"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "i postane kriv"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:51.956582572Z",
+  "model": "glm-5.3"
+}

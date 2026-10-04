@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A ovo će biti pravo svećenika od ⟨את⟩ naroda, od ⟨את⟩ onih koji kolju žrtvu, bilo vola bilo janjeta: dat će svećeniku ramena i obje vilice i želudac.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "naroda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "od naroda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "onih koji kolju žrtvu"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "onih koji kolju"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "janjeta"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dat će"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ramena"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "i obje vilice"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "i želudac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:45.600886952Z",
+  "model": "glm-5.3"
+}

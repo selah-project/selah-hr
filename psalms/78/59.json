@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Elohim ču i razgnjevi se, i veoma zgnuđe Jisraela.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ču"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "i razgnjevi se"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "i zgnuđe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:09.491665258Z",
+  "model": "glm-5.3"
+}

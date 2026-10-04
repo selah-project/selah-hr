@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Zaista, Elohim je uslišio, pripazio je na glas molitve moje.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Zaista"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "je uslišio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "pripazio je"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na glas"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitve moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:35.861177458Z",
+  "model": "glm-5.3"
+}

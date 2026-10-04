@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I okrenu se Paro i uđe u dom svoj, i ne uzvrati pažnju ni na ovo.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "i okrenu se"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i uđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dom svoj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שת",
+      "gloss": "uzvrati"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pažnju"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "na ovo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:24.427912842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I posla David k Tamaru kući, rekavši: Idi, molim, u kuću Amnona, brata svojega, i pripremi mu jelo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kući"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "i pripremi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "jelo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:43.048570565Z",
+  "model": "glm-5.3"
+}

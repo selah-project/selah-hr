@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Kao što se otac smiluje djeci, tako se Jahve smiluje onima koji ga se boje.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "kao što se smiluje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otac"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djeci"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "smiluje se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "one koji ga se boje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:09.311364611Z",
+  "model": "glm-5.3"
+}

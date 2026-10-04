@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I nazva ⟨את⟩ njome Šiba; zato se grad zove Beer-Šiba, do dana današnjega.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Šiba"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Šiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šiba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:03.680761144Z",
+  "model": "glm-5.3"
+}

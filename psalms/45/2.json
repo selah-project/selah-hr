@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Uzbiblo mi je srce riječ dobru; govorim: djela svoja ⟨pred⟩ kraljem; jezik moj ⟨je⟩ pero brzoga pisara.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "uzbiblo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "djela svoja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "jezik moj"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pero"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "pisara"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "brzoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:14.421810082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I pohita te skide ⟨את⟩ pepeo s očiju svojih, i prepozna ⟨את⟩ ga kralj Jisraelov — ⟨jer⟩ od proroka je on.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "i pohita"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "te skide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pepeo"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "pepeo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "očiju svojih"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "i prepozna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jer⟩"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "od proroka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je on"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:31.695467552Z",
+  "model": "glm-5.3"
+}

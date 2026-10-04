@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Obratite se k meni i budite spašeni, svi krajevi zemlje, jer ja sam El i nema drugoga.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Obratite se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "i budite spašeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krajevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "drugoga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:27.027057296Z",
+  "model": "glm-5.3"
+}

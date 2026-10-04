@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I načiniši ⟨את⟩ motke od drveta šitim, i obložiši ⟨את⟩ njih zlatom.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drveta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:47.285574970Z",
+  "model": "glm-5.3"
+}

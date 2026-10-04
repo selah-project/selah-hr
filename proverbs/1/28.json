@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Tada će me zvati, ali neću odgovoriti; rano će me tražiti, ali me neće naći.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "zvat će me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odgovorit ću"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "tražit će me rano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "naći će me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:27.652443009Z",
+  "model": "glm-5.3"
+}

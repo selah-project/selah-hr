@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I otpusti Jicak ⟨את⟩ Jaakova, te on ode u Padan Aram, k Lavanu, sinu Betuela Aramejca, bratu Rivkinu, majke Jaakovljeve i Esavljeve.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i otpusti"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "te ode"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuela"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejca"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratu"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkinu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljeve"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "i Esavljeve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:16.305007262Z",
+  "model": "glm-5.3"
+}

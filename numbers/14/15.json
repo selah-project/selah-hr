@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A ako ubiješ ⟨את⟩ ovaj narod kao jednoga čovjeka, reći će narodi koji su čuli ⟨את⟩ tvoju slavu, govoreći:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "A ako ubiješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovaj narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kao jednoga čovjeka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "reći će"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "su čuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoju slavu"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "tvoju slavu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:29.802616408Z",
+  "model": "glm-5.3"
+}

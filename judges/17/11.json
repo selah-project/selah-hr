@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I pristade Levit ostati ⟨את⟩ kod toga čovjeka, i bi mladić njemu kao jedan od njegovih sinova.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "pristade"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ostati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kod toga čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kao jedan"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "od njegovih sinova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:28:31.451968004Z",
+  "model": "glm-5.3"
+}

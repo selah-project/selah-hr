@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 133,
+  "translation": "Kao dobro ulje na glavu, što silazi na bradu, bradu Aharonovu, što silazi na rub njegovih haljina,",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Kao ulje"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "silazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "bradu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bradu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovu"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "što silazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "rub"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "njegovih haljina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:51.054016187Z",
+  "model": "glm-5.3"
+}

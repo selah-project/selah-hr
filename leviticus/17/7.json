@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I neka više ne kolju ⟨את⟩ svojih žrtava jarčićima za koje se bludno odaju; ovo neka im bude vječna naredba za naraštaje njihove.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "kolju"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih žrtava"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "svojih žrtava"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "jarčićima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "bludno se odaju"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za njima"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "naredba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "za naraštaje njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:33.300693410Z",
+  "model": "glm-5.3"
+}

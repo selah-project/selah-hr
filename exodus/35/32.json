@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "i da smišlja umotvore, da radi u zlatu i u srebru i u mjedi.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "i da smišlja"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "umotvore"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "da radi"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "u zlatu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "i u srebru"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "i u mjedi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:22.792777828Z",
+  "model": "glm-5.3"
+}

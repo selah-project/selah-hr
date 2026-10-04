@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Tko udari oca svojega ili majku svoju, smrću neka umre.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "tko udari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ili majku svoju"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka umre"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:44.481868912Z",
+  "model": "glm-5.3"
+}

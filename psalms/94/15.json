@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Jer će se sud vratiti cedeku, i za njim svi iskreni srcem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "će se vratiti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "i za njim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "iskreni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:37.308112450Z",
+  "model": "glm-5.3"
+}

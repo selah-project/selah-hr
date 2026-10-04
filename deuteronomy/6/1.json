@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A ovo je zapovijed, uredbe i pravda, koje zapovjedi Jahve, Elohim vaš, da ⟨את⟩ vas pouči ⟨da ih činite⟩ u zemlji u koju prelazite onamo da je zaposjednete.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "i pravda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "da pouči"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u koju"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "prelazite"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "da je zaposjednete"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:34.664105825Z",
+  "model": "glm-5.3"
+}

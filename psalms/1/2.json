@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Nego mu je slast u Tori Jahvinoj, i o Tori njegovoj razmišlja dan i noć.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "u Tori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "mu je slast"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "i o Tori njegovoj"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "razmišlja"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noć"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:27.708438034Z",
+  "model": "glm-5.3"
+}

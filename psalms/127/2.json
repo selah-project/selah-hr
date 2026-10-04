@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 127,
+  "translation": "Uzalud vam je ustajati rano, lijezati kasno, jesti kruh bolova: ⟨tako⟩ on daje svojem ljubljenome san.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Uzalud"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam je"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ustajati rano"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustajati"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "lijezati kasno"
+    },
+    {
+      "surface": "šבת",
+      "gloss": "lijezati"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bolova"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tako⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "svojem ljubljenome"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:16.043404458Z",
+  "model": "glm-5.3"
+}

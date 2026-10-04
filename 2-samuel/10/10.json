@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A ⟨את⟩ ostatak naroda predade u ruku Avišaju, bratu svomu, da se poreda nasuprot sinovima Amonovim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ostatak naroda"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predade"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avišaju"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratu svomu"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "da se poreda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:12.151236167Z",
+  "model": "glm-5.3"
+}

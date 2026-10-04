@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "osim za svoga krvnika koji mu je blizak: za majku i za oca i za sina i za kćer i za brata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "osim ako"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "za svoga krvnika"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "koji je blizak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "za majku"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "i za oca"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "i za sina"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "i za kćer"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "i za brata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:13.910883695Z",
+  "model": "glm-5.3"
+}

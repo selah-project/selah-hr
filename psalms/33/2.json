@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Zahvaljujte Jahvi uz kinnor, uz nevel od deset žica svirajte mu.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uz kinnor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "uz nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "od deset žica"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "svirajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:07.241551262Z",
+  "model": "glm-5.3"
+}

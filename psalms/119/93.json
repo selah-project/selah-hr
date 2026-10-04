@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Zauvijek neću zaboraviti tvoje pikudim, jer njima si me oživio.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ću zaboraviti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvoje pikudim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "si me oživio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:02.517226422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Podučit ću vas ⟨את⟩ rukom Ela; ono što je kod Šadaja neću sakriti.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "podučit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kod"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "sakriti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:06.965977062Z",
+  "model": "glm-5.3"
+}

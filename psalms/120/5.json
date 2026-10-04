@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Jao meni što sam boravio u Mešeku, što sam prebivao s šatorima Qedara!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "jao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "boravio sam"
+    },
+    {
+      "surface": "משך",
+      "gloss": "u Mešeku"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "prebivao sam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "šatorima"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedara"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:49.514366809Z",
+  "model": "glm-5.3"
+}

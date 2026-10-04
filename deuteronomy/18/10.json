@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Neka se ne nađe u tebi tko provodi svojega sina ili svoju kćer kroz oganj, ni gatar [-kosem kossamim-], ni tumač znamenja, ni vračar, ni čarobnjak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "provodi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svojega sina"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ili svoju kćer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kroz oganj"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "gatar"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "kossamim"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "tumač znamenja"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "vračar"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "čarobnjak"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:50.779314848Z",
+  "model": "glm-5.3"
+}

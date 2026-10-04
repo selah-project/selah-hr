@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Jahve kraljuje zauvijek, Elohim tvoj, Cione, naraštaju za naraštajem. Haleluja!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cione"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "za naraštajem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:30.347355506Z",
+  "model": "glm-5.3"
+}

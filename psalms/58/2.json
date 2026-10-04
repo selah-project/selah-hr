@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Zaista li ⟨u⟩ šutniji cedek govorite? Pravo sudite, sinovi ljudski?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Zaista li"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "⟨u⟩ šutniji"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "Pravo"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "sudite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudski"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:18.319176972Z",
+  "model": "glm-5.3"
+}

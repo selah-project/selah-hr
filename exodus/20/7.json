@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ne uzimaj uzalud ⟨את⟩ imena Jahve, Elohima svojega, jer Jahve neće očistiti onoga ⟨את⟩ tko uzme ⟨את⟩ ime njegovo uzalud.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uzimaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahve, Elohima svojega"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "uzalud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "će očistiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga tko uzme ime njegovo uzalud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uzme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "uzalud"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:07.063621175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I svećenici uniješe ⟨את⟩ kovčeg saveza Jahvina na njegovo mjesto, u dvir doma, u svetost svetosti, pod krila kerubima.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "i uniješe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg saveza Jahvina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "njegovo mjesto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "dvir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krila"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:45.570165703Z",
+  "model": "glm-5.3"
+}

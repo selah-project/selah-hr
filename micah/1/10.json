@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "U Gatu ne kazujte, ne plačite; u Bet-Leafri valjajte se u prahu.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "u Gatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kazujte"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "plačite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "plačite"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Bet-Leafri"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "u prahu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "valjajte se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:04.867627287Z",
+  "model": "glm-5.3"
+}

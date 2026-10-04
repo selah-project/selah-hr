@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "i služahu kumirima, za koje reče Jahve njima: ne činite ⟨את⟩ ovo djelo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "služahu"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "kumirima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "činite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo djelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ovo djelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(ovo)"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:25.256502514Z",
+  "model": "glm-5.3"
+}

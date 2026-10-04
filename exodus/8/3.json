@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učiniše tako čarobnjaci tajnostima svojim, i izvedoše ⟨את⟩ žabe na zemlju Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "čarobnjaci"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "tajnostima svojim"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i izvedoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žabe"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:55.690632301Z",
+  "model": "glm-5.3"
+}

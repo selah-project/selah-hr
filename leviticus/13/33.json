@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I neka se obrije, ali ⟨את⟩ netek neka ne brije; i neka svećenik izolira ⟨את⟩ netek sedam dana drugi put.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "i neka se obrije"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "neka brije"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i neka izolira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi put"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:23.505454698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "A ako ih pobije nakon što ih je čuo, on će nositi ⟨את⟩ njezinu krivnju.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pobije"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "pobije"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "što ih je čuo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "on će nositi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezinu krivnju"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "njezinu krivnju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:07.404062585Z",
+  "model": "glm-5.3"
+}

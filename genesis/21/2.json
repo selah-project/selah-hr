@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Sara zače i rodi Avrahamu sina u njegovoj starosti, u određeno vrijeme o kojemu je govorio Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "I zače"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "u njegovoj starosti"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "u određeno vrijeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kojemu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govorio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim... njemu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:48.123956033Z",
+  "model": "glm-5.3"
+}

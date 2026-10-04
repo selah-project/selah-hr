@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer ako padnu, jedan će podignuti ⟨את⟩ druga svojega; a jao ⟨njemu⟩ samomu ako padne — nema drugoga da ga podigne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padnu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "podignuti će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "druga svojega"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "drugа svojega"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "a jao njemu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "samomu"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ako padne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "da ga podigne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:28.180164497Z",
+  "model": "glm-5.3"
+}

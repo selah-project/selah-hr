@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Čuvaj me kao zjenicu oka svojega, u sjenilu krila svojih sakrij me.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "čuvaj me"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kao zjenicu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨kćer⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oka svojega"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "u sjenilu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "krila svojih"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sakrij me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:25.715243026Z",
+  "model": "glm-5.3"
+}

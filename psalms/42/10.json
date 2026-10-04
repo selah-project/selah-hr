@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Kažem Elu, stijeni svojoj: Zašto si me zaboravio? Zašto idem crn ⟨od žalosti⟩ pod tlačom neprijatelja?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Kažem"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "stijeni svojoj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "si me zaboravio"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "crn ⟨od žalosti⟩"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "idem"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "pod tlačom"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:23.463837330Z",
+  "model": "glm-5.3"
+}

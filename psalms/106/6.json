@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Sagriješili smo kao oci naši, krivo činili, zlo počinili.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Sagriješili smo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kao"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "oci naši"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "krivo činili"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "zlo počinili"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.355142306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I baci Šaul ⟨את⟩ koplje i reče: Udrit ću Davida ⟨i⟩ u zid; ali se David okrenu izbjegavši ispred njega dvaput.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "i baci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koplje"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "koplje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "udrit ću"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "i u zid"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i okrenu se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ispred njega"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dvaput"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:49.577572852Z",
+  "model": "glm-5.3"
+}

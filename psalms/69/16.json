@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Ne preplavi me bujica voda, i ne proguta me dubina, i ne zatvori nad mnom zdenac ⟨את⟩ usta svojih!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "preplavi me"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "bujica"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "proguta me"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "dubina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "zatvori"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad mnom"
+    },
+    {
+      "surface": "באר",
+      "gloss": "zdenac"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "usta svojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:42.431640638Z",
+  "model": "glm-5.3"
+}

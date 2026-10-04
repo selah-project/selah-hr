@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "S čistim si čist, a s iskrivljenim si krivudav.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "čistim"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "si čist"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "iskrivljenim"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "si krivudav"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:19.546202033Z",
+  "model": "glm-5.3"
+}

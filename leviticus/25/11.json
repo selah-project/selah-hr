@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Jovel je ona — pedeseta godina bit će vam: nećete sijati niti žeti ⟨את⟩ njezina samonikla uroda, i nećete brati ⟨את⟩ njezina neobrana grožđa.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Jovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "godina"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "pedeseta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nećete"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "sijati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "žeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezina samonikla uroda"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "samonikli urod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nećete"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "brati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezina neobrana grožđa"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "neobrano grožđe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:05.833707790Z",
+  "model": "glm-5.3"
+}

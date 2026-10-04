@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I nađoše čovjeka, Micrajca, u polju, i uzeše ⟨את⟩-njega k Davidu, i dadoše mu kruha te jede, i napojiše ga vodom.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "i nađoše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Micrajca"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-njega",
+      "marks": "nađoše ga i dovedoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i dadoše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "te jede"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "i napojiše ga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:17.593854716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Tvoja ruka naći će sve tvoje neprijatelje, tvoja desnica naći će one koji te mrze.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "naći će"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoja ruka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvoje neprijatelje"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoja desnica"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "naći će"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "one koji te mrze"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:58.706668968Z",
+  "model": "glm-5.3"
+}

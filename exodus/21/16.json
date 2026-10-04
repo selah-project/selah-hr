@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Tko ukrade čovjeka i proda ga, i bude nađen u ruci njegovoj, smrću neka umre.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "tko ukrade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "i proda ga"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "i bude nađen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka umre"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:44.481989957Z",
+  "model": "glm-5.3"
+}

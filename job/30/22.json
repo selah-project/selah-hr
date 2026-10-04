@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 30:22",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Dizneš me na ruah, daješ mi da jašem ⟨na njoj⟩, i rastapaš me, satireš me.",
+  "tokens": [
+    {
+      "surface": "תשאני",
+      "gloss": "dizneš me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "תרכיבני",
+      "gloss": "daješ mi da jašem"
+    },
+    {
+      "surface": "ותמגגני",
+      "gloss": "i rastapaš me"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "satireš me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:36.046423576Z",
+  "model": "glm-5.3"
+}

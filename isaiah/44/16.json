@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Polovicu njegova spali u vatri, na polovicu njegovu jede meso, peče pečenje i nasiti se; da, grije se i kaže: Ha! Zagrijao sam se, vidio sam plamen.",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "polovicu njegova"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spali"
+    },
+    {
+      "surface": "במו",
+      "gloss": "u"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vatri"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "polovicu njegovu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "peče"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "pečenje"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i nasiti se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "grije se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i kaže"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "zagrijao sam se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio sam"
+    },
+    {
+      "surface": "אור",
+      "gloss": "plamen"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:23.551152780Z",
+  "model": "glm-5.3"
+}

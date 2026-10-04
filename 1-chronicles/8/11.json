@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A od Hušima rodi ⟨את⟩ Avituba i ⟨את⟩ Elpaala.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "od Hušima"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituba"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Elpaala"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaala"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:02.550645061Z",
+  "model": "glm-5.3"
+}

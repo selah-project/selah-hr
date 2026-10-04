@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jer srdžba ubija ludaka, a zavist usmrćuje naivna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ludaka"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ubija"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "srdžba"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "a naivna"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "usmrćuje"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "zavist"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:32.316074429Z",
+  "model": "glm-5.3"
+}

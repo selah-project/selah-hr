@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Vratit će se stanovnici u sjeni njegovoj; oživjet će žito i procvjetat će kao loza, spomen njegov kao vino libanonsko.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnici"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "u sjeni njegovoj"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "oživjet će"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "žito"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "i procvjetat će"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "kao loza"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "spomen njegov"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "kao vino"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "libanonsko"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:19.497633900Z",
+  "model": "glm-5.3"
+}

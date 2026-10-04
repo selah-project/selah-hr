@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I zaželje se David pa reče: Tko bi mi dao piti vode iz zdenca Bet-Lehema, onoga ⟨kod⟩ vrata!",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "zaželje se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "dao mi piti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "iz zdenca"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga koji je"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kod vrata"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:01.586581206Z",
+  "model": "glm-5.3"
+}

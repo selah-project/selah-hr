@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I prinese ⟨את⟩ paljenicu i izvrši je po pravilu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "izvrši je"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "po pravilu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:55.044054516Z",
+  "model": "glm-5.3"
+}

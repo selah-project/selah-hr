@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A žena reče zmiji: Plod drveta ⟨koja su⟩ u vrtu jedemo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zmiji ⟨to⟩"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "zmiji"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "u vrtu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "jedemo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.949967698Z",
+  "model": "glm-5.3"
+}

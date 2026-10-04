@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Jer pred mačevima pobjegoše, pred mačem isukanim i pred lukom zategnutim i pred težinom rata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mačevima"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "pobjegoše"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "isukanim"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "i pred"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lukom"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "zategnutim"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "i pred"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "težinom"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rata"
+    }
+  ],
+  "timestamp": "2026-10-04T18:08:41.792389284Z",
+  "model": "glm-5.3"
+}

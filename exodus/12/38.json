@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I mnijetina velika uziđe ⟨s njima⟩ ⟨את⟩, i ovce i goveda, stada vrlo brojna.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mnijetina"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velika"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uziđe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i ovce"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i goveda"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stada"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "vrlo brojna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:40.689604782Z",
+  "model": "glm-5.3"
+}

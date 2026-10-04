@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Sjeti me se, Jahve, u dobru svoga naroda, pohodi me u svojem izbavljenju.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Sjeti me se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "u dobru"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoga naroda"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "pohodi me"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "u svojem izbavljenju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:04.409099260Z",
+  "model": "glm-5.3"
+}

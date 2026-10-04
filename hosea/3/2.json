@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I kupih je sebi za petnaest ⟨srebrnika⟩ i homer ječma i leteh ječma.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "I kupih je"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "za pet"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨srebrnika⟩"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "i homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječma"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "i leteh"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječma"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:10.498928096Z",
+  "model": "glm-5.3"
+}

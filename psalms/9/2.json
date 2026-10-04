@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Zahvalit ću Jahvi svim srcem svojim, pripovjedit ću sva čudesa tvoja.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Zahvalit ću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "pripovjedit ću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "čudesa tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:22.376178075Z",
+  "model": "glm-5.3"
+}

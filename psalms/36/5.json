@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Zlo smišlja na postelji svojoj, staje na put što nije dobar, zla se ne odriče.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "smišlja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "postelji svojoj"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "staje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "odriče"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:02.215624533Z",
+  "model": "glm-5.3"
+}

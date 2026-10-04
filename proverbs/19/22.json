@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Čežnja je čovjekov hesed, i bolji je siromah nego lažljivac.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "čežnja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjekov"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i bolji je"
+    },
+    {
+      "surface": "רש",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nego čovjek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lažljivac"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:04.817648628Z",
+  "model": "glm-5.3"
+}

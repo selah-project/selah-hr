@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Joktan rodi ⟨את⟩ Almodada, i ⟨את⟩ Šelefa, i ⟨את⟩ Ḥacarmaveta, i ⟨את]] Jeraha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "a Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Šelefa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ḥacarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Ḥacarmaveta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jeraha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:36.885093219Z",
+  "model": "glm-5.3"
+}

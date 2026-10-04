@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Zborovođi, na „Smrt Labenovu“, psalam Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "na „Smrt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labenovu“"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:22.375938919Z",
+  "model": "glm-5.3"
+}

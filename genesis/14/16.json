@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I vrati ⟨את⟩ sav imutak, i također ⟨את⟩ Lota, brata njegova — i njegov imutak vrati — i također ⟨את⟩ žene i ⟨את⟩ narod.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav imutak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "imutak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "i njegov imutak"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žene"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:35.130506208Z",
+  "model": "glm-5.3"
+}

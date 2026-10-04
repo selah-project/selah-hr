@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "polje koje kupi Avraham od ⟨את⟩ sinova Hetovih — tamo bijaše pokopan Avraham i Sara, žena njegova.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "od — sinovi Hetovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetovih"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pokopan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וושרה",
+      "gloss": "i Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žena njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:01.562271818Z",
+  "model": "glm-5.3"
+}

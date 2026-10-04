@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I vidje faraon da je bilo olakšanje, i otvrdnu ⟨את⟩ srce svoje, i ne posluša ih, kao što je rekao Jahve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bilo je"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "olakšanje"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "i otvrdnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svoje"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce svoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:31.677676433Z",
+  "model": "glm-5.3"
+}

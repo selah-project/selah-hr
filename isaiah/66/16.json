@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Jer u ognju Jahve sudi, i mačem svojim ⟨את⟩ sve tijelo ⟨sve⟩; i mnogi bit će pobijeni Jahvini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "i mačem svojim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve tijelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i mnogi bit će"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "pobijeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvini"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:16.798921627Z",
+  "model": "glm-5.3"
+}

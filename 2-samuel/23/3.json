@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Reče Elohim Jisraelov, meni je progovorila Stijena Jisraelova: pravedan vladar nad čovjekom, vlada u strahu Elohimovu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reče"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "progovorila"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Stijena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "vladar"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nad čovjekom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedan"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "vlada"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "u strahu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:13.898538958Z",
+  "model": "glm-5.3"
+}

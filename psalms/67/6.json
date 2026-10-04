@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Neka te hvale puci, Elohime, neka te hvale puici svi.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "neka te hvale"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "puci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "neka te hvale"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "puici"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:50.803752320Z",
+  "model": "glm-5.3"
+}

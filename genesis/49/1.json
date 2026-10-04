@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "I pozva Jaakov svoje sinove i reče: Saberite se, i objavit ću vam ⟨את⟩ ono što će ⟨את⟩ vas zadesiti u posljednjim danima.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svojim sinovima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "saberite se"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "i objavit ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što će vas zadesiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "će zadesiti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "u posljednjim"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "danima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:30.863802851Z",
+  "model": "glm-5.3"
+}

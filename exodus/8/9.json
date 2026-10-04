@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učini Jahve prema riječi Mošeovoj, i pomriješe ⟨את⟩ žabe iz kuća, iz dvorišta i iz polja.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "prema riječi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovoj"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "i pomriješe"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kuća"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i iz"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "polja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:31.677267129Z",
+  "model": "glm-5.3"
+}

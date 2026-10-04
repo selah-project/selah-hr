@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Da, Jahve će dati ⟨את⟩ dobro, i zemlja će naša dati plod svoj.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "će dati"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨את⟩ dobro",
+      "marks": "dobro"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "i zemlja će naša"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dati"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "plod svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:59.751458478Z",
+  "model": "glm-5.3"
+}

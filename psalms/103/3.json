@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "⟨Onaj⟩ koji prašta sva tvoja bezakonja, ⟨onaj⟩ koji liječi sve tvoje bolesti.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "koji prašta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "tvoja bezakonja"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "koji liječi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "tvoje bolesti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:04.223039718Z",
+  "model": "glm-5.3"
+}

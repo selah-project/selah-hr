@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Spomeni se, Jahve, što nam se dogodilo; pogledaj i vidi ⟨את⟩ sramotu našu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Spomeni se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dogodilo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam se"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sramotu našu"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "sramotu našu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:07.371109479Z",
+  "model": "glm-5.3"
+}

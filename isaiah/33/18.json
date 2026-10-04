@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Srce će tvoje razmišljati o užasu: gdje je pisar? gdje je onaj koji vagá? gdje je onaj koji broji ⟨את⟩ kule?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "Srce će tvoje"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "razmišljati"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "o užasu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje je"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pisar"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje je"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "onaj koji vagá"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje je"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "onaj koji broji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kule"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "kule"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:25.172735521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I govoraх vama, i ne poslusaste, nego se pobuniste protiv ⟨את⟩ usta Jahvinih, i drzavo postadoste, i popuste se na goru.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "i govoraх"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "poslusaste"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "nego se pobuniste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta Jahvinih"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "i drzavo postadoste"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "i popuste se"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na goru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:32.631050671Z",
+  "model": "glm-5.3"
+}

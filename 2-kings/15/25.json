@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 15:25",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I uroti se protiv njega Pekah, sin Remaljahov, njegov časnik, i udari ga u Samariji, u dvoru kraljeve kuće, ⟨את⟩ Argob i ⟨את⟩ Arijeha; i s njim bijaše pedeset ljudi od sinova Giladaca; i ubi ga, i zavlada mjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "uroti se"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahov"
+    },
+    {
+      "surface": "שלישו",
+      "gloss": "njegov časnik"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "udari ga"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "u Samariji"
+    },
+    {
+      "surface": "בארמון",
+      "gloss": "u dvoru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Argob"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Arijeh"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "Arijeha"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "i s njim"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "גלעדים",
+      "gloss": "Giladaca"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ubi ga"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "zavlada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:44.612942731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ne idite po uredbama naroda kojega ja otpremam ispred vas, jer oni učiniše ⟨את⟩ sve ovo, i omrznu mi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "po uredbama"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "otpremam"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ispred vas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "i omrznu mi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prema njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:53.755227488Z",
+  "model": "glm-5.3"
+}

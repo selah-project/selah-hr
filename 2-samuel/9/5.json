@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I kralj David posla te ga dovede iz kuće Makira, sina Amielova, iz Lo-Debara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "i dovede ga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielova"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "iz Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:38.982539434Z",
+  "model": "glm-5.3"
+}

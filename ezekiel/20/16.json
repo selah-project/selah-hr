@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Jer moje sudove odbaciše, i ⟨את⟩ moje naredbe — ne hodiše po njima, i ⟨את⟩ moje Šabate oskvrnuše, jer njihovo je srce išlo za njihovim kumirima.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "moje sudove"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "odbaciše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje naredbe"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "moje naredbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodiše"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "po njima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje Šabate"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "moje Šabate"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "oskvrnuše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "njihovim kumirima"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovo srce"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "išlo je"
+    }
+  ],
+  "timestamp": "2026-10-04T18:42:07.427058335Z",
+  "model": "glm-5.3"
+}

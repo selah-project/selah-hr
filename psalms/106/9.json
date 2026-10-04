@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I ukori ⟨את⟩ more Suf, i osuši se, i povede ih kroz dubine kao kroz pustinju.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "i ukori"
+    },
+    {
+      "surface": "בים",
+      "gloss": "more"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "i osuši se"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "i povede ih"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "kroz dubine"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kao kroz pustinju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:50.617266260Z",
+  "model": "glm-5.3"
+}

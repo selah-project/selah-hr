@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Nemoj imati drugih elohima uz mene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nemoj imati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugih"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mene"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:38.089768120Z",
+  "model": "glm-5.3"
+}

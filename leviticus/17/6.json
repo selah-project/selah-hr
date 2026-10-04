@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I poškropi svećenik ⟨את⟩ krv na žrtvenik Jahve na ulazu šatora sastanka, i udimi ⟨את⟩ lojem kao miris Jahvi ugodan.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "i poškropi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i udimi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lojem"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kao miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ugodan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:33.300526895Z",
+  "model": "glm-5.3"
+}

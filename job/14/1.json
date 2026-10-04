@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Čovjek rođen od žene, kratka vijeka i sit <nevolje>.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Čovjek"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "rođen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kratkih"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i sit je"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "nemira"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:12.028054218Z",
+  "model": "glm-5.3"
+}

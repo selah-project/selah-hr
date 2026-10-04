@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Nek se postide i nek se smiju ⟨u⟩ sramoti zajedno oni koji traže dušu moju da je progutaju; neka se povuku natrag i nek se osramote oni koji žele zlo moje.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "nek se postide"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "i nek se smiju ⟨u⟩ sramoti"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "oni koji traže"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "da je progutaju"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "neka se povuku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "i nek se osramote"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "oni koji žele"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "zlo moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:11.160453627Z",
+  "model": "glm-5.3"
+}

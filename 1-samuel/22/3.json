@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I ode David odande u Micpu moapsku, i reče kralju moapskomu: neka izađu, molim, otac moj i majka moja ⟨את⟩ s vama, dok ne spoznam što će učiniti Elohim meni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "u Micpu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapsku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapskomu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "neka izađu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i majka moja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "s vama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "spoznam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "će učiniti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:42.009085687Z",
+  "model": "glm-5.3"
+}

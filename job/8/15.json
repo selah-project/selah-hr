@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Oslanja se na svoj dom, ali se ⟨ne⟩ održi; uhvati se čvrsto za nj, ali se ne uspravi.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "oslanja se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali se ne"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "održi"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "uhvati se čvrsto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "za nj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali se ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "uspravi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:00.798528163Z",
+  "model": "glm-5.3"
+}

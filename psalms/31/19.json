@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Neka se ušute usne laži što govore protiv pravednika, drsko, u oholosti i prijeziru.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "neka se ušute"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "što govore"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "drsko"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "u oholosti"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "i prijeziru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:03.437176223Z",
+  "model": "glm-5.3"
+}

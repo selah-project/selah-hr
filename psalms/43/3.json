@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Pošalji svoju svjetlost i svoju vjernost — one neka me vode, neka me dovedu na svetu goru tvoju i k tvojim Miškanima.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pošalji"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "svoju svjetlost"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i svoju vjernost"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "neka me vode"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "neka me dovedu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svetu tvoju"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tvojim Miškanima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:10.121377542Z",
+  "model": "glm-5.3"
+}

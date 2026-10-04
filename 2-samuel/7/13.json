@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "On će sagraditi dom ⟨את⟩ mome imenu, a ja ću utvrditi prijestolje njegova kraljevstva dovijeka.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "će sagraditi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "mome imenu"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "a ja ću utvrditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijestolje"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "njegova kraljevstva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:06.012078854Z",
+  "model": "glm-5.3"
+}

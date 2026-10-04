@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": " Blažen ⟨je⟩ čovjek koji nije hodio na vijeći zločestih, i na putu grješnika nije stao, i u zboru podrugljivaca nije sjedio.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blažen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodio"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "na vijeći"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zločestih"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "i na putu"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grješnika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stao"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "i u zboru"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "podrugljivaca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjedio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:27.708081604Z",
+  "model": "glm-5.3"
+}

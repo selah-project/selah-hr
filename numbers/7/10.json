@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I prineseše glavari ⟨את⟩ posvetu žrtvenika na dan kad ⟨את⟩ ga se pomazalo, i prineseše glavari ⟨את⟩ svoj prinos pred žrtvenikom.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "i prineseše"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "glavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posvetu žrtvenika"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "posvetu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "kad se pomazalo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "i prineseše"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "glavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj prinos"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "svoj prinos"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenikom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:33.704527252Z",
+  "model": "glm-5.3"
+}

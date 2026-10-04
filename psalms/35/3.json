@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I izvuci koplje ⟨את⟩ ⟨i⟩ zatvori put pred progoniteljima mojim; reci duši mojoj: »Spasitelj sam tvoj ⟨את ja sam tvoja⟩.«",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "i izvuci"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "koplje"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "i zatvori"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pred"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "progonitelji moji"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "duši mojoj"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "spas tvoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:08.882032814Z",
+  "model": "glm-5.3"
+}

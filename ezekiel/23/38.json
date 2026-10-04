@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Još i ovo učiniše meni: oskrnavile su ⟨את⟩ svetinju moju toga dana i ⟨את⟩ moje Šabate oskvrnule.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "i ovo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "oskrnavile su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "מקדשי — svetinju moju"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svetinju moju"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "שבתותי — moje Šabate"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "moje Šabate"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "oskvrnule"
+    }
+  ],
+  "timestamp": "2026-10-04T18:42:58.299346564Z",
+  "model": "glm-5.3"
+}

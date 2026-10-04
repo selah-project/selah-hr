@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ zlatni žrtvenik za kad ⟨ispred⟩ kovčega Svjedočanstva, i objesi ⟨את⟩ zavjesu na ulazu u Miškan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatni žrtvenik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatni"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "za kad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstva"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i objesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavjesu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "u Miškan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:48.652895602Z",
+  "model": "glm-5.3"
+}

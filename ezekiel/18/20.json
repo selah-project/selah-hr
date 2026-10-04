@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Duša koja griješi — ona će umrijeti; sin neće nositi krivnju oca, ni otac neće nositi krivnju sina; cedek pravednika bit će na njemu, a bezakonje bezbožnika na njemu.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "koja griješi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "će umrijeti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nositi"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "האב",
+      "gloss": "oca"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "ni otac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nositi"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "a bezakonje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:41:40.476111948Z",
+  "model": "glm-5.3"
+}

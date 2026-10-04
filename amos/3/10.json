@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer ne znaju činiti što je upravno — riječ Jahvina — ⟨oni⟩ koji gomilaju nasilje i pljačku u svojim tvrđavama.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jer ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "što je upravno"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "koji gomilaju"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "i pljačku"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "u svojim tvrđavama"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:50.281312886Z",
+  "model": "glm-5.3"
+}

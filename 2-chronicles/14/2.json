@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ukloni ⟨את⟩ tuđe žrtvenike i uzvišja, i poruši ⟨את⟩ stupove, i posiječe ⟨את⟩ ašere.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuđe žrtvenike"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuđe"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "i uzvišja"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "i poruši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stupove"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "i posiječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:50.855943890Z",
+  "model": "glm-5.3"
+}

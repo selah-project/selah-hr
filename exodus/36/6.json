@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I zapovjedi Moše, i pustiše glas po taboru govoreći: Čovjek i žena neka više ne rade rad za prinos svetosti; i narod bijaše zadržan od donošenja.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "i pustiše"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "po taboru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "i žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "rade"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "za prinos"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "i bijaše zadržan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "od donošenja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:57.852563978Z",
+  "model": "glm-5.3"
+}

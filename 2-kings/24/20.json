@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Jer zbog gnjeva Jahvina to bi u Jerušalajimu i u Judeji, dok ⟨את⟩ ih ne baci s lica svojega; i pobuni se Sidkija protiv kralja babilonskoga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjeva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "to bi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "i u Judeji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "ne baci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "Jerušalajim i Judeju"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "i pobuni se"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "protiv kralja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskoga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:26.340348311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Ćelavost ne će činiti na glavi svojoj, ni rub brade svoje ne će obrijati, i na tijelu svome ne će zarezivati zarez.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "činiti ćelavost"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ćelavost"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "na glavi svojoj"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ni rub"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "brade svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "obrijati"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "i na tijelu svome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "zarezivati"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "zarez"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:37.608228563Z",
+  "model": "glm-5.3"
+}

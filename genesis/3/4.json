@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Tada zmija reče ženi: Nećete ⟨sigurno⟩ umrijeti — umrijeti, nećete umrijeti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tada reče"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "zmija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ženi ⟨to⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nećete"
+    },
+    {
+      "surface": "מות",
+      "gloss": "umrijeti"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nećete umrijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.950222500Z",
+  "model": "glm-5.3"
+}

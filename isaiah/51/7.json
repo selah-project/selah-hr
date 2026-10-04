@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Slušajte me, vi znatelji cedeka, narode čija je moja Tora u srcu: ne bojte se sramote ljudske i njihovih pogrda ne plašite se.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "znatelji"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narode"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "moja Tora"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "u srcu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sramote"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "i njihovih pogrda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "plašite se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:37.904673918Z",
+  "model": "glm-5.3"
+}

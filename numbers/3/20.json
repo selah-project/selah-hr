@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 3:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sinovi Merarijevi po svojim obiteljima: Mahli i Muši. To su obitelji levitske po domu svojih otaca.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "i sinovi"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarijevi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Mahli"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "i Muši"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelji"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levitske"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "svojih otaca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:13.811764511Z",
+  "model": "glm-5.3"
+}

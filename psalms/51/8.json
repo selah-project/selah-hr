@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Gle, istinu želiš u dubinama ⟨srca⟩, i u skrivenome mudrost mi daješ spoznati.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istinu"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "želiš"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "u dubinama ⟨srca⟩"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "i u skrivenome"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mi daješ spoznati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.108228232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I dogodi se, kad David i njegovi ljudi dođoše u Ciklag trećega dana, da su Amalečani izvršili navalu na Negev i na Ciklag, i udariše ⟨את⟩ Ciklag i spališe je ognjem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "kad dođoše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i njegovi ljudi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "u Ciklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "treći"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "a Amalečani"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "izvršili navalu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "i spališe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nju",
+      "marks": "je (Ciklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:10.164442970Z",
+  "model": "glm-5.3"
+}

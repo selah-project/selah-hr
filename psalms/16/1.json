@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Mihtam Davidov. Čuvaj me, Ele, jer se tebi utekoh.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mihtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Čuvaj me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "utekoh se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:16.784456146Z",
+  "model": "glm-5.3"
+}

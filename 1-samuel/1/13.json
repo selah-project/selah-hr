@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Hana je govorila u svom srcu — samo su joj se usne micale, a glas joj se nije čuo; pa je Eli nju držao za pijanicu.",
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "A Hana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "govorila"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "svom srcu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "usne njezine"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "micale"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "a glas njezin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "čuo"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "držao je nju"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "za pijanicu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:09.454070920Z",
+  "model": "glm-5.3"
+}

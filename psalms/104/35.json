@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Nestali bi grešnici sa zemlje i zli ih više ne bilo. Blagoslivljaj, dušo moja, ⟨את⟩ Jahve! Haleluja!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "nestali bi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grešnici"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "i zli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne bilo ih"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "blagoslivljaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušo moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.155892572Z",
+  "model": "glm-5.3"
+}

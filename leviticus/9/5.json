@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I uzeše ⟨את⟩ ono što je zapovjedio Moše, pred Šator sastanka, i približi se sav zbor, i stadoše pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je zapovjedio Moše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice\/pred"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "i približi se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stadoše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:04.007492726Z",
+  "model": "glm-5.3"
+}

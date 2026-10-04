@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I dogodi se, dok je Jehu vršio sud nad kućom Ahavovom, da nađe ⟨את⟩ knezove Jude i sinove braće Ahazjahove, služitelje Ahazjahove, i pobije ih.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "dok je vršio sud"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kućom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavovom"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "da nađe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knezove Jude"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i sinove"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braće"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjahove"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "služitelje"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "Ahazjahove"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "i pobije ih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:47.602118975Z",
+  "model": "glm-5.3"
+}

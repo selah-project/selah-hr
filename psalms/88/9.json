@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Udaljio si znance moje od mene, postavio si me za odvratnost njima; zatvoren sam i ne mogu izaći.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "udaljio si"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "znance moje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "postavio si me"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "za odvratnost"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njima"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zatvoren sam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "mogu izaći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.147006153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I izreče tri tisuće prireka, i bijaše pjesama njegovih tisuću i pet.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i izreče"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "משל",
+      "gloss": "prireka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "pjesama njegovih"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tisuću i pet"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:02.816147191Z",
+  "model": "glm-5.3"
+}

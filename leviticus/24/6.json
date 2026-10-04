@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "i postavit ćeš ⟨את⟩ njih u dva reda, šest u redu, na čisti stol pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "postavit ćeš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (kruhovi)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "reda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "u redu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "čisti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:19.777860958Z",
+  "model": "glm-5.3"
+}

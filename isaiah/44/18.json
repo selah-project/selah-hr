@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Ne znaju i ne razumiju, jer su im premazane oči ⟨da ne vide⟩, a srca njihova ⟨da ne shvate⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "razumiju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טח",
+      "gloss": "premazane su"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "⟨da ne vide⟩ od"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "oči njihove"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "⟨da ne shvate⟩ od"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "srca njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:08.580425375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "i riba koja je u Rijeci uginut će, a Rijeka će se smrdjeti, i Micrajci će se odmoriti ⟨od⟩ pijenja vode iz Rijeke.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "i riba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja je"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "u Rijeci"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "uginut će"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "i smrdjet će"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Rijeka"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "i bit će prezasićeni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "pijenja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Rijeke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:17.563663011Z",
+  "model": "glm-5.3"
+}

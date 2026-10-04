@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "prenijeti kraljevstvo iz doma Šaulova i utvrditi ⟨את⟩ prijestolje Davidovo nad Jisraelom i nad Judom, od Dana do Beer-Šave.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "prenijeti"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "i utvrditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijestolje Davidovo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Dana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šave"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:00.434115Z",
+  "model": "glm-5.3"
+}

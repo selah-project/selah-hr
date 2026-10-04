@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "A ja rekoh u svojem miru: Neću se nikad pokolebati.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "u svojem miru"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Neću"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "pokolebati"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nikad"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:11.671587296Z",
+  "model": "glm-5.3"
+}

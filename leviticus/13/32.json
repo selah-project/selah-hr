@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i svećenik vidi ⟨את⟩ ranu sedmoga dana, a gle, netek se nije raširio i nije bilo u njemu žute dlake, i izgled neteka nije dublji od kože —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmoga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "se raširio"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dlake"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "žute"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "i izgled"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dublji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kože"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:02.430610018Z",
+  "model": "glm-5.3"
+}

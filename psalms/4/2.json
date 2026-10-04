@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kad zazovem, odgovori mi, Elohim cedeka mojega; u tjeskobi dao si mi prostora; budi mi milostiv i usliši moju molitvu.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "kad zazovem"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "cedeka mojega"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "u tjeskobi"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "dao si <širinu>"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "budi mi milostiv"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "i usliši"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moju molitvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:14.768500331Z",
+  "model": "glm-5.3"
+}

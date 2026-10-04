@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Otkupi me od nasilja čovjeka, i čuvat ću tvoje zapovijedi.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "otkupi me"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "od nasilja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "i čuvat ću"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvoje zapovijedi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:25.431586930Z",
+  "model": "glm-5.3"
+}

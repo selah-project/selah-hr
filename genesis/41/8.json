@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I bude ujutro, i duh mu ⟨bi⟩ uznemiren, pa posla i dade zvati sve magare Micrajima i sve mudrace njezine; i faraon im kaza ⟨את⟩ svoj san, ali nitko nije tumačio ⟨את⟩ faraonu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "uznemiren"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duh mu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dade zvati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve magare Micrajima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "magare"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve mudrace njezine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "mudrace njezine"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "kaza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj san"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "svoj san"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nitko nije"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "tumačio"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "faraonu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:23.187436923Z",
+  "model": "glm-5.3"
+}

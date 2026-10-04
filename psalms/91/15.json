@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Zazvat će me i ja ću mu odgovoriti; ja sam s njim u tjesnacu, izbavit ću ga i proslaviti ga.",
+  "tokens": [
+    {
+      "surface": "יקקאני",
+      "gloss": "zazvat će me"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "i ja ću mu odgovoriti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "u tjesnacu"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "izbavit ću ga"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "i proslaviti ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:21.977268625Z",
+  "model": "glm-5.3"
+}

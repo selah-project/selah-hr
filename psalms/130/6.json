@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "Duša moja ⟨ čeka ⟩ Adonaja više nego što čuvari ⟨ čekaju ⟩ jutro, čuvari jutru.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "nego što čuvari"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "čuvari"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "jutru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.405051965Z",
+  "model": "glm-5.3"
+}

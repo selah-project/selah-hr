@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Progonit ćete ⟨את⟩ svoje neprijatelje, i past će pred vama ⟨u⟩ mač.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "progonit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje neprijatelje"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "svoje neprijatelje"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i past će"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "⟨u⟩ mač"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:40.850698937Z",
+  "model": "glm-5.3"
+}

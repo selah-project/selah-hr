@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tri godine kraljevao ⟨on⟩ u Jerušalajimu; ime majke njegove ⟨bilo je⟩ Maaha, kći Avišalomova.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljevao"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke njegove"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avišalomova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:00.579095165Z",
+  "model": "glm-5.3"
+}

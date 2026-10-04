@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče Jonatan: Dalje od tebe! Jer doista doznat ću — ako saznam da je zlo odlučeno od strane oca mojega da dođe na tebe, zar da tebi ne javim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "dalje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "doznati"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "doznat ću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "odlučeno je"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od strane"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da dođe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to (što je doznao, predmet glagola javim)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "javim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:34.921299524Z",
+  "model": "glm-5.3"
+}

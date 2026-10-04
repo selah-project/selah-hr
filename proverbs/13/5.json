@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Lažnu riječ pravednik mrzi, a zlikovac smrdi i sramoti se.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažnu"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "mrzi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "a zlikovac"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "smrdi"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "i sramoti se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:27.280435334Z",
+  "model": "glm-5.3"
+}

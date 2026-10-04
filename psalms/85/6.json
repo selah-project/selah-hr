@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Zar ćeš se u vijeke srditi na nas, zar ćeš gnjev svoj vući naraštaju za naraštajem?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Zar ćeš se u vijeke"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "srditi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "zar ćeš… vući"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gnjev svoj"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "za naraštajem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.998478069Z",
+  "model": "glm-5.3"
+}

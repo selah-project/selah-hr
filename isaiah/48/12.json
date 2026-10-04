@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Slušaj me, Jaakove, i Jisraele, koga sam zazvao: ja sam ⟨on⟩; ja prvi, i ja posljednji.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "slušaj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakove"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "i Jisraele"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "koga sam zazvao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "posljednji"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:33.187313469Z",
+  "model": "glm-5.3"
+}

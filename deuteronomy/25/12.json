@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "odsiječi ⟨את⟩ ruku njezinu; neka ti se oko ne smiluje.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "odsiječi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku njezinu"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ruku njezinu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "neka se ne smiluje"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "oko tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:07.899448783Z",
+  "model": "glm-5.3"
+}

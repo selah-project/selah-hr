@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ustani, idi u Ninivu, ⟨taj⟩ veliki grad, i propovijedi joj ⟨את⟩ objavu koju ja govorim tebi.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨taj⟩ grad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "i propovijedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "objavu"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "objavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:53.342437052Z",
+  "model": "glm-5.3"
+}

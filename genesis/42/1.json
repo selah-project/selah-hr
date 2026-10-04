@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I vidje Jaakov da ima žita u Micrajimu, pa reče Jaakov svojim sinovima: zašto se gledate jedan u drugoga?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "žita"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "svojim sinovima"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "se gledate jedan u drugoga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:37.278253548Z",
+  "model": "glm-5.3"
+}

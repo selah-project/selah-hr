@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jahve, ti nam određuješ šalom, jer si upravo sva naša djela za nas učinio.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "određuješ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "upravo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "naša djela"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "učinio si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za nas"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:59.476641350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I poslaše ⟨poruku⟩ Izabeli: Navot je kamenovan i umro.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i poslaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨poruku⟩ Izabeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "je kamenovan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umro"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:57.916050800Z",
+  "model": "glm-5.3"
+}

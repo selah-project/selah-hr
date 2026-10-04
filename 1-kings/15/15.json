@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I unese ⟨את⟩ svete stvari oca svojega i svoje svete stvari u dom Jahvin: srebro i zlato i posuđe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i unese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svete stvari oca svojega"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svete stvari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "i svoje svete stvari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "i posuđe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:29.051796937Z",
+  "model": "glm-5.3"
+}

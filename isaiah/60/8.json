@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Tko su ovi što lete kao oblak, kao golubovi k svojim otvorima?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kao oblak"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "lete"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "kao golubovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "svojim otvorima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:35.472464442Z",
+  "model": "glm-5.3"
+}

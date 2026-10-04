@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ne daj ⟨את⟩ svojih usta da sagriješi ⟨את⟩ svoje tijelo, i ne reci pred glasnikom da je to zabuda — zašto bi se Elohim rasrdio na tvoj glas i upropastio ⟨את⟩ djelo tvojih ruku?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih usta"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "svojih usta"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "da sagriješi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje tijelo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "svoje tijelo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "glasnikom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "zabuda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "rasrdio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tvoj glas"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "i upropastio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djelo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tvojih ruku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:57.018275475Z",
+  "model": "glm-5.3"
+}

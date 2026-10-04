@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "te posla Jahve čovjeka, proroka, sinovima Jisraelovim, i reče im: Ovako reče Jahve, Elohim Jisraelov: Ja sam vas izveo ⟨את⟩ iz Micrajima i izveo ⟨את⟩ vas iz kuće robovske.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "sam izveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "i izveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:32.351508058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Siti su stabla Jahvina, cedrovi Libanona koje je ⟨on⟩ zasadio.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "siti su"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "stabla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrovi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "zasadio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:25.177216370Z",
+  "model": "glm-5.3"
+}

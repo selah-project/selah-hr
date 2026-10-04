@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "On podlaže narode pod nas i plemena pod naše noge.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "On podlaže"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "pod nas"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i plemena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "naše noge"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:19.627426886Z",
+  "model": "glm-5.3"
+}

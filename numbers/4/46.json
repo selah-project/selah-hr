@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 4:46",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Svi popisani koje su popisali Moše i Aharon i knezovi Jisraela, ⟨את⟩ Levite, po njihovim obiteljima i po domovima otaca njihovih,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Svi"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "popisani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "su popisali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "i knezovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levite"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovim obiteljima"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "i po domovima"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca njihovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:34.363394988Z",
+  "model": "glm-5.3"
+}

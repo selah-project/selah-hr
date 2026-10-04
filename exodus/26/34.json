@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I stavi ⟨את⟩ kaporet na ⟨את⟩ Kovčeg Svjedočanstva, u Svetom nad svetima.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i staviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstva"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u Svetom"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nad svetima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:18.671003731Z",
+  "model": "glm-5.3"
+}

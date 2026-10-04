@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I uze David ⟨את⟩ zlatne štitove koji bijahu na slugama Hadadezerovim, i donese ih u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatne štitove"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "štitove"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "na slugama"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerovim"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i donese ih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:58.714601574Z",
+  "model": "glm-5.3"
+}

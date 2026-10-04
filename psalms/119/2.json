@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Blago onima koji čuvaju njegova svjedočanstva, svim srcem traže ga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "koji čuvaju"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "njegova svjedočanstva"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "ידרשוהuה",
+      "gloss": "traže ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:43.274199004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Štoviše, prije nego što bi zapalili ⟨את⟩ salo, dođe mladić svećenikov i reče čovjeku koji kolje: 'Daj mesa za pečenje svećeniku, jer on neće uzeti od tebe kuhanoga mesa, nego sirovo.'",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "štoviše"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "zapale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenikov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "koji kolje"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "za pečenje"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jer neće"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzeti"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "kuhanoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨samo⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sirovo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:15.930478729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Podigni ⟨את⟩ glave sinova Kehata između sinova Levija, po njihovim obiteljima, po domovima njihovih otaca:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "podigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glave sinova Kehata"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "između"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levija"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovim obiteljima"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domovima"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "njihovih otaca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:08.839648147Z",
+  "model": "glm-5.3"
+}

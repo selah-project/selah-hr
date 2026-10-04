@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A Abšaj, sin Cerujin, porazi ⟨את⟩ Edom u dolini soli — osamnaest tisuća.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "a Abšaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerujin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "u dolini"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osamnaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "osamnaest"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:10.977313570Z",
+  "model": "glm-5.3"
+}

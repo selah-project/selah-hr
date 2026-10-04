@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "A svećenike ⟨njezine⟩ odjenut ću u spasenje, i hasidi ⟨njezini⟩ klicat će od radosti.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "A svećenike ⟨njezine⟩"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "odjenut ću"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "u spasenje"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "i hasidi ⟨njezini⟩"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "klicanje"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "klicat će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.681615146Z",
+  "model": "glm-5.3"
+}

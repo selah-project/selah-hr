@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I dogodi se: kad Baša to ču, prestade graditi ⟨את⟩ Ramu, i prebivaše u Tirsi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "prestade"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "prebivaše"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "u Tirsi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:00.865423204Z",
+  "model": "glm-5.3"
+}

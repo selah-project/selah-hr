@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i njegova vojska i njihovi popisani: dva i šezdeset tisuća i sedam stotina.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i njegova vojska"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i njihovi popisani"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i šezdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i sedam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:38.521834332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "da se razlikuje između nečistoga i čistoga, i između životinje koja se smije jesti i životinje koja se ne smije jesti.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "da se razlikuje"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nečistoga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "čistoga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "životinje"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "koja se smije jesti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "životinje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smije jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:46.161630245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dvanaest lavova stoji tamo na šest stuba, s jedne i s druge strane; nije bilo takvo djelo načinjeno ni za jednu kraljevstvo.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "i dvanaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dio broja dvanaest)"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "lavova"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stuba"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s jedne"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "i s druge strane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "načinjeno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takvo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ni za jednu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:29.665530848Z",
+  "model": "glm-5.3"
+}

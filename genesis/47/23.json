@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I reče Jošef narodu: Evo, kupih danas ⟨את⟩ vas i ⟨את⟩ zemlju vašu za Paroa; evo vam sjeme, i sijte ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הן",
+      "gloss": "evo"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "kupih"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju vašu"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "zemlju vašu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "za Paroa"
+    },
+    {
+      "surface": "הא",
+      "gloss": "evo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "i sijte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:53.758053696Z",
+  "model": "glm-5.3"
+}

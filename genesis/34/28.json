@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "⟨את⟩ stada njihova i ⟨את⟩ goveda njihova i ⟨את⟩ magarce njihove i ⟨את⟩ sve što bijaše u gradu i ⟨את⟩ sve što bijaše u polju uzeše.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stada njihova"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "stada njihova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goveda njihova"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "goveda njihova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magarce njihove"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "magarce njihove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve što bijaše u gradu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve što bijaše u polju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:52.553343360Z",
+  "model": "glm-5.3"
+}

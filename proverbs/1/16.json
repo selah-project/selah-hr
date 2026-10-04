@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jer njihove noge trče k zlu i žure proliti krv.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "njihove noge"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "k zlu"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "trče"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "i žure"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "proliti"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:16.429570847Z",
+  "model": "glm-5.3"
+}

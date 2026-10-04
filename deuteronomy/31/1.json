@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I ode Moše te progovori ⟨את⟩ ove riječi svemu Jisraelu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I ode"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "te progovori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ove riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:23.815169726Z",
+  "model": "glm-5.3"
+}

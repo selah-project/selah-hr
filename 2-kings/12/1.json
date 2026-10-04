@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Sedam godina ⟨star⟩ bio je Jehoaš kad je ⟨počeo⟩ kraljevati.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoaš"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kad je kraljevao"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:24.737858338Z",
+  "model": "glm-5.3"
+}

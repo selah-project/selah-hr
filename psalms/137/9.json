@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Blago onome koji zgrabi i razbije ⟨את⟩ dojenčad tvoju o stijenu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "koji zgrabi"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "i razbije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dojenčad tvoju"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "dojenčad tvoju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stijenu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:41.738971909Z",
+  "model": "glm-5.3"
+}

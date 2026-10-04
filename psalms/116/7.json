@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Vrati se, dušo moja, počinku svome, jer Jahve ti uzvrati dobro.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Vrati se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušo moja"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "počinku svome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "uzvrati dobro"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.979864843Z",
+  "model": "glm-5.3"
+}

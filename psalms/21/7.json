@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Jer blagoslovima ga zaogćneš navijeke; obraduješ ga radošću ⟨את⟩ lica svojega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "zaogćneš ga"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "blagoslovima"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "navijeke"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "obraduješ ga"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "radošću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lica svojega"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lica svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:13.098829399Z",
+  "model": "glm-5.3"
+}

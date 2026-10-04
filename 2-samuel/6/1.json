@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I opet skupi David ⟨את⟩ sve izabrane u Jisraelu, trideset tisuća.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "i opet skupi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve izabrane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "izabrane"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:54.565469643Z",
+  "model": "glm-5.3"
+}

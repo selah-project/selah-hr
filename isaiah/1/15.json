@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I kad širite dlanove svoje, sakrivam oči svoje od vas; i kad umnožavate molitvu, ja ne slušam; ruke vaše krvi su pune.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "i kad širite"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "dlanove svoje"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "sakrivam"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od vas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "umnožavate"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitvu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slušam"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ruke vaše"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "pune"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:26.204163064Z",
+  "model": "glm-5.3"
+}

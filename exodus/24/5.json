@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I posla ⟨את⟩ mladiće sinova Jisraelovih, i oni prineseše ⟨את⟩ žrtve paljenice, i zaklaše ⟨את⟩ žrtve shelamim Jahvi, junice.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladiće sinova Jisraelovih"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i prineseše"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "i zaklaše"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "junice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:19.231780065Z",
+  "model": "glm-5.3"
+}

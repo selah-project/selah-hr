@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Podigni korake svoje k vječnim ruševinama: sve je zlo nanio neprijatelj u svetištu.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Podigni"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "korake svoje"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "k ruševinama"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "vječnim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo nanio"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetištu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:52.599460355Z",
+  "model": "glm-5.3"
+}

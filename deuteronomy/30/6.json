@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I obrezat će Jahve, Elohim tvoj, ⟨את⟩ srce tvoje i ⟨את⟩ srce sjemena tvojega, da ljubiš ⟨את⟩ Jahvu, Elohim tvojega, svim srcem svojim i svom dušom svojom, radi života tvojega.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "i obrezat će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce tvoje"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "srce tvoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "srce sjemena tvojega"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sjemena tvojega"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "da ljubiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim tvojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvojega"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dušom svojom"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "života tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:04.260840369Z",
+  "model": "glm-5.3"
+}

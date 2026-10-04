@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načini ⟨את⟩ motke od drva šitim i obloži ⟨את⟩ ih zlatom.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "⟨את⟩ njih"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:37.407045969Z",
+  "model": "glm-5.3"
+}

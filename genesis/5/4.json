@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I bijaše dana Adama, nakon što rodi ⟨את⟩ Šeta, osam stotina godina; i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "I bijaše"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "što rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šeta"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šeta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:33.067416993Z",
+  "model": "glm-5.3"
+}

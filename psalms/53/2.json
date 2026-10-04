@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Reče luđak u srcu svojemu: »Nema Elohima.« Pokvariše se i gnusno čine bezakonje; nema tko čini dobro.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reče"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "luđak"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu svojemu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pokvariše se"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "i gnusno čine"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bezakonje"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:02.088925457Z",
+  "model": "glm-5.3"
+}

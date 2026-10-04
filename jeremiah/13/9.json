@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ovako reče Jahve: isto ću tako pokvariti ⟨את⟩ oholost Judinu i ⟨את⟩ veliku oholost Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "isto tako"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ću pokvariti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oholost Judinu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "oholost"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "veliku oholost Jerušalajima"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "oholost"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "veliku"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:57.478960481Z",
+  "model": "glm-5.3"
+}

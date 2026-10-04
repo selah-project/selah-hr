@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 19:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Možda će Jahve, tvoj Elohim, čuti ⟨את⟩ sve riječi Rabsakeja, kojega je poslao kralj ašurski, gospodar njegov, da bi grdio Elohim živoga, i ukorit će riječi koje je čuo Jahve, tvoj Elohim; ti pak podigni molitvu za ostatak koji se nalazi.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "možda"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "će čuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi Rabsakeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabsake-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-v"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "je poslao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ašurski"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodar njegov"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "da bi grdio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živoga"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "i ukorit će"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "je čuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "ti pak podigni"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitvu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "הנמצאה",
+      "gloss": "koji se nalazi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:32.311505993Z",
+  "model": "glm-5.3"
+}

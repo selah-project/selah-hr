@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Na dlanovima nosit će te, da ne bi nogom svojom udario o kamen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "dlanovima"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "nosit će te"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "udario"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "o kamen"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "nogom svojom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.278423788Z",
+  "model": "glm-5.3"
+}

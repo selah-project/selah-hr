@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "A ovo je riječ otpusta: neka otpusti svaki vjerovnik dug svoje ruke što ga je zajmio bližnjemu svome; ne smije naplaćivati ⟨את⟩ bližnjega svojega ni ⟨את⟩ brata svojega, jer je otpust proglašen Jahvi.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "otpusta"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "neka otpusti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "vjerovnik"
+    },
+    {
+      "surface": "משה",
+      "gloss": "dug"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "zajmio"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "bližnjemu svome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "naplaćivati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bližnjega svojega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "proglašen"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "otpust"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:20.275031858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I obradovaše se svi knezovi i sav narod, te donošahu i bacahu ⟨u kovčeg⟩ dok <ne> svršiše.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "i obradovaše se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knezovi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "te donošahu"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "i bacahu"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "u kovčeg"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "svršiše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:00.337499581Z",
+  "model": "glm-5.3"
+}

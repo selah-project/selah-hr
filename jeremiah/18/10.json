@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "a ono učini zlo u mojim očima, ne poslušavši mojega glasa, pokajat ću se na dobro koje sam rekao da ću mu učiniti ⟨את⟩ njega.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a ono učini"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u mojim očima"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušavši"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mojega glasa"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "pokajat ću se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sam rekao"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "da učinim dobro"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:25:49.817912285Z",
+  "model": "glm-5.3"
+}

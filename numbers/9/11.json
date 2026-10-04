@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "U drugom mjesecu, četrnaestoga dana, između večeri neka ga priprave; s beskvasnim kruhom i gorkim travama neka ga jedu.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "U mjesecu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugom"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četr"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naestoga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "neka priprave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (pashu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "beskvasnim kruhom"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "i gorkim travama"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "neka ga jedu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:59.107760526Z",
+  "model": "glm-5.3"
+}

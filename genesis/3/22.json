@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 3:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Jahve Elohim: Eno, čovjek postade kao jedan od nas, znati dobro i zlo. A sada, da ne bi pružio ruku svoju i uzeo i s drveta života, i jeo, i živio navijeke —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "eno"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "היה",
+      "gloss": "postade"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kao jedan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "znati"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "i zlo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pružio"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "i uzeo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "s drveta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i jeo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i živio"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "navijeke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:31.657472506Z",
+  "model": "glm-5.3"
+}

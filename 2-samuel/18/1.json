@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I prebroja David ⟨את⟩ narod koji bijaše ⟨את⟩ njime, i postavi nad njih zapovjednike tisuća i zapovjednike stotina.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i prebroja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njime"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njih"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zapovjednike"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i zapovjednike"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:41.684441608Z",
+  "model": "glm-5.3"
+}

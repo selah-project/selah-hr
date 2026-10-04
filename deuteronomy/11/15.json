@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I dat ću travu na polju tvome za stoku tvoju, i jeo si i nasitio se.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travu"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "na polju tvome"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "za stoku tvoju"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "i jeo si"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "i nasitio se"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:03.122139703Z",
+  "model": "glm-5.3"
+}

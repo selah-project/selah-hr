@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Ako doista ostanete stanovati u ovoj zemlji, izgradit ću ⟨את⟩ vas i neću razoriti; posadit ću ⟨את⟩ vas i neću iščupati, jer se sažalijeh nad zlom koje sam vam učinio.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "doista"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ostanete stanovati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovoj"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "izgradit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "razoriti"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "posadit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "iščupati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "sažalijeh se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:54.960092922Z",
+  "model": "glm-5.3"
+}

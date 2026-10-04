@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Tada će se neprijatelji moji vratiti natrag u dan kad zazovem — ovo znam: Elohim je za me.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "neprijatelji moji"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kad zazovem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.498820926Z",
+  "model": "glm-5.3"
+}

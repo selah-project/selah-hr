@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ču narod koji bijaše utaboren da se govori: Zimri je spletkario te i ubio ⟨את⟩ kralja — pa učiniše da tog dana sav Jisrael zakralji ⟨את⟩ Omrija, zapovjednika vojske, nad Jisraelom, u taboru.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "koji bijaše utaboren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da se govori"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "spletkario"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ubio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "učiniše da zakralji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrija"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrija"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjednika"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tog dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "u taboru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:46.324752335Z",
+  "model": "glm-5.3"
+}

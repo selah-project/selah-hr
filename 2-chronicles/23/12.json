@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A kad čula Atalja ⟨את⟩ glas naroda što trči i slavi ⟨את⟩ kralja, uđe k narodu u kuću Jahvinu.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "a čula"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas naroda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "što trči"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "i slavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:01.020407867Z",
+  "model": "glm-5.3"
+}

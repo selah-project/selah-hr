@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Na trinaesti dan mjeseca Adara ⟨su počinuli⟩, a na četrnaesti u njemu su otpočinuli i načinili su ga danom gozbe i radosti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trinaesti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "trinaesti"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adara"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "i otpočinuli su"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na četrnaesti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "četrnaesti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "ו עשה",
+      "gloss": "i načinili su"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (dan)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gozbe"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "i radosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:02.806616271Z",
+  "model": "glm-5.3"
+}

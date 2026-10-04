@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Prije nego što su se rodile gore, prije nego što si oblikovao zemlju i svijet, od vječnosti do vječnosti ⟨jesi⟩ ti El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego što"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "su se rodile gore"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "rodile"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "prije nego što si oblikovao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "i svijet"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "od vječnosti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječnosti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:25.610954548Z",
+  "model": "glm-5.3"
+}

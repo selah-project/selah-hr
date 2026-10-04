@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kad Adonaj opere ⟨את⟩ nečistoću kćeri Cijonovih i ⟨את⟩ krvlju Jerušalajima očisti sredinu njegovu, ruah suda i ruah žeđa ognjenoga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kad"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "opere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nečistoću kćeri Cijonovih"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "nečistoću"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonovih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krv Jerušalajima"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krvlju"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "očisti"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "iz sredine njegove"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "i ruah"
+    },
+    {
+      "surface": "בער",
+      "gloss": "žeža ognjena"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:03.911732069Z",
+  "model": "glm-5.3"
+}

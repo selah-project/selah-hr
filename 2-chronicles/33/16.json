@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I utvrdi ⟨את⟩ žrtvenik Jahvin, i prinese na njemu žrtve mirotvorne i zahvalne, i reče Judi neka služe ⟨את⟩ Jahvu, Elohim Jisraelov.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "i utvrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik Jahvin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "i prinese žrtve"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "mirotvorne"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "i zahvalne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judi"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "neka služe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim Jisraelov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:16.943010111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Jahve ⟨je⟩ u svojem svetom hramu, Jahvovo je prijestolje na nebesima; oči njegove promatraju, vjeđe njegove iskušavaju sinove ljudske.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "u svetom hramu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svojem svetom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesima"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči njegove"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "promatraju"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "vjeđe njegove"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "iskušavaju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:31.030939350Z",
+  "model": "glm-5.3"
+}

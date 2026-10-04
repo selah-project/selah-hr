@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "i prodavat ću ⟨את⟩ vaše sinove i ⟨את⟩ vaše kćeri u ruku sinova Jehudinih, i oni će ih prodati Ševijcima, narodu dalekom; jer Jahve zbori.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "i prodavat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše sinove"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vaše sinove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaše kćeri"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vaše kćeri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudinih"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "i oni će ih prodati"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "Ševijcima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dalekom"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "daleku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zbori"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:34.795172288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I poslaše glasnike stanovnicima Kirjat-Jearima ⟨s porukom⟩: Vratili su Plštim ⟨את⟩ Kovčeg Jahvin; siđite, odnesite ⟨את⟩ ga k sebi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i poslaše"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "stanovnicima"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnici"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨s porukom⟩"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "Vratili su"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plštim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "siđite"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "odnesite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga (Kovčeg)"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:09.310633781Z",
+  "model": "glm-5.3"
+}

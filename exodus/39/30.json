@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I načiniše ⟨את⟩ ploču ⟨od⟩ svete dijademe od čistoga zlatа, i napisaše na nju pisano kao urez pečata: »Svetost Jahvi«.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ploču"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ploču"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "dijademe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistoga"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "i napisaše"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "pisano"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kao urez"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pečata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Svetost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:00.099463190Z",
+  "model": "glm-5.3"
+}

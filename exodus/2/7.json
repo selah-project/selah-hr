@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče sestra njegova kćeri Paroovoj: Da odem i dozovem ti ženu dojilju između Ivrija, neka ti doji ⟨את⟩ dijete?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sestra njegova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroovoj"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Da odem"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "dozovem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "dojilju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "između"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Ivrija"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "neka doji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.982870146Z",
+  "model": "glm-5.3"
+}

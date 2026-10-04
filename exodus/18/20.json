@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I upozoravaj ⟨את⟩ ih ⟨את⟩ naredbe i ⟨את⟩ Tore, i daj im znati ⟨את⟩ put kojim će ići i ⟨את⟩ djelo koje će činiti.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "i upozoravaj"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naredbe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "naredbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Tore"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "i daj znati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "put"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "će ići"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "djelo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "će činiti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:38.143510346Z",
+  "model": "glm-5.3"
+}

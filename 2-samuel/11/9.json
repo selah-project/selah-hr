@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I legne Urija pred vratâ kraljeve kuće sa ⟨את⟩ svim slugama gospodara svojega, i ne siđe u kuću svoju.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i legne"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pred vratâ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve sluge gospodara njegova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kuću svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:13.843886665Z",
+  "model": "glm-5.3"
+}

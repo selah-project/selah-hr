@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 31:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "neka žena moja melje drugomu, i neka se drugi nad njju saginju!",
+  "tokens": [
+    {
+      "surface": "תטחן",
+      "gloss": "neka melje"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "drugomu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "žena moja"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "i nad njju"
+    },
+    {
+      "surface": "יכרעון",
+      "gloss": "neka se saginju"
+    },
+    {
+      "surface": "אחרין",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:33.795429751Z",
+  "model": "glm-5.3"
+}

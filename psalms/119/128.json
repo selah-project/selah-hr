@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Zato držim sve tvoje naredbe pravednima u svemu, a svaki lažni put mrzim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "držim pravednima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "put"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažni"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mrzim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:12.098061572Z",
+  "model": "glm-5.3"
+}

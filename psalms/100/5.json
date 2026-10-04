@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 100,
+  "translation": "Jer dobar je Jahve, dovijeka je hesed njegov, i od naraštaja do naraštaja vjernost njegova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed njegov"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "דר",
+      "gloss": "naraštaja"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "do naraštaja"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "vjernost njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:36.938318696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Duša je naša čekala Jahvu: pomoć je naš i štit naš — on.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "duša naša"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "čekala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "pomoć naš"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "i štit naš"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:53.946365908Z",
+  "model": "glm-5.3"
+}

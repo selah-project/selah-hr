@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Nauči me, Jahve, putu svojih uredbi, i čuvat ću ga ⟨do kraja⟩.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Nauči me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svojih uredbi"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "i čuvat ću ga"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨do kraja⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:45.092895308Z",
+  "model": "glm-5.3"
+}

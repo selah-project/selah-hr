@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ne izlazi u polje i putem ne hodi, jer mač ⟨je⟩ neprijateljev — strah sa svih strana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "i putem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "neprijateljev"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "strah"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa svih strana"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:27.776567784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I reče: Ti li si moj sin Esav? A on reče: Ja sam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "li si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "moj sin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:00.841050449Z",
+  "model": "glm-5.3"
+}

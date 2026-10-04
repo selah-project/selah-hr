@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Mizmor, pjesma o posveti ⟨ה⟩ doma, Davidova.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "posveti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ה⟩ doma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:10.133922632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Kao što se dim razgoni, ⟨nek' se razgone⟩; kao što se vosak topi pred ognjem, neka izgine zloća iz pred lica Elohimova.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "kao što se razgoni"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dim"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨nek' se razgone⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kao što se topi"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "vosak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "neka izgine"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zloća"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iz pred lica"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:13.023064025Z",
+  "model": "glm-5.3"
+}

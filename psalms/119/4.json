@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Ti si zapovjedio ⟨da se⟩ tvoje naredbe vrlo brižno čuvaju.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "si zapovjedio"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "čuvaju"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo brižno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:43.274461978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Čije su ruke zloćudni naum, a desnica im ⟨je⟩ puna mita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "čije"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "su ruke"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zloćudni naum"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a desnica im"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puna"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mita"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:46.553749393Z",
+  "model": "glm-5.3"
+}

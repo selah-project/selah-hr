@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I činjaše ⟨את⟩ zlo u očima Jahve; ne odstupi od svih grijeha Jarovama, sina Nevatova, kojima je zaveo ⟨את⟩ Jisrael — u njima je hodio.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "i činjaše"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstupi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "grijeha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "zaveo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:05.640108654Z",
+  "model": "glm-5.3"
+}

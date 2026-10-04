@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I prolivahu nevinu krv, krv svojih sinova i svojih kćeri, koje žrtvovahu likovima Kenaana, i oskvrnu se zemlja krvlju.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "I prolivahu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "svojih sinova"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "i svojih kćeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "žrtvovahu"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "likovima"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "i oskvrnu se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "krvlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.625620273Z",
+  "model": "glm-5.3"
+}

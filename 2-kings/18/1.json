@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I dogodi se u trećoj godini Hošeje, sina Ele, kralja Jisraela, da zakralji Hizkijah, sin Ahazov, kralj Jude.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trećoj"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hošeje"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "zakralji"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:12.805820736Z",
+  "model": "glm-5.3"
+}

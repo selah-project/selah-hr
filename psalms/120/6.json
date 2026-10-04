@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Predugo je prebivala moja duša s onim koji mrzi mir.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "predugo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "prebivala je"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "koji mrzi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:49.514602123Z",
+  "model": "glm-5.3"
+}

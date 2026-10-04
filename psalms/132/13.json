@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Jer Jahve izabra Cion, zaželi ga ⟨za⟩ prebivalište ⟨sebi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "zaželi"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "prebivalište"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sebi⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.681085427Z",
+  "model": "glm-5.3"
+}

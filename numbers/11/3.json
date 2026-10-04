@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I prozva ime onoga mjesta Tabera, jer je planeo među njima oganj Jahvov.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoga"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "planeo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "među njima"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:12.787879279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Obasjaj lice svoje na slugu svojega i pouči me ⟨את⟩ svojih propisa.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "האר",
+      "gloss": "obasjaj"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "na slugu svojega"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "i pouči me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih propisa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svojih propisa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:25.431765808Z",
+  "model": "glm-5.3"
+}

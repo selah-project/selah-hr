@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "i dizat će protiv tebe skupštinu, i kamenovali te ⟨את⟩ kamenjem, i probosit će te svojim mačevima.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "i dizat će"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "protiv tebe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "skupštinu"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "i kamenovali"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te kamenjem"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kamenjem"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "i probosit će te"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "svojim mačevima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:40:04.014316251Z",
+  "model": "glm-5.3"
+}

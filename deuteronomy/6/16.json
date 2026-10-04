@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ne iskušavajte Jahvu, Elohim svojega, kao što ste iskušavali ⟨את⟩ u Masi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "iskušavajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ste iskušavali"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "u Masi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:47.883288459Z",
+  "model": "glm-5.3"
+}

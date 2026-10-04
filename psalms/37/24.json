@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Padne li — neće biti oboren, jer Jahve pridržava ruku njegovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "padne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "biti oboren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "pridržava"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:43.073411274Z",
+  "model": "glm-5.3"
+}

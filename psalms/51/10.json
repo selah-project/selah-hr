@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Daj mi čuti radost i veselje; neka se raduju kosti koje si slomio.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "daj mi čuti"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radost"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "i veselje"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "neka se raduju"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "koje si slomio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:39.739896349Z",
+  "model": "glm-5.3"
+}

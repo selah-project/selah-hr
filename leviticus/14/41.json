@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I neka ostruže ⟨את⟩ kuću iznutra unaokolo, i neka prosuju ⟨את⟩ prah koji su ostrugali izvan grada, na nečisto mjesto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "neka ostruže"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "i neka prosuju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prah"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "su ostrugali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:05.946687841Z",
+  "model": "glm-5.3"
+}

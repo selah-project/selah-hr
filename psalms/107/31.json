@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Neka zahvaljuju Jahvi za hesed njegov i čudesa njegova sinovima Adama.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "neka zahvaljuju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed njegov"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i čudesa njegova"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:23.521627657Z",
+  "model": "glm-5.3"
+}

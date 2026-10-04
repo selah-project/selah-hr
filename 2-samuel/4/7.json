@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uđoše u dom dok je on ležao na svojoj postelji u spavaćoj odaji svojoj, i udariše ga i ubiše ga, i odrezaše ⟨את⟩ glavu njegovu, i uzeše ⟨את⟩ glavu njegovu, i odoše putem Arave svu noć.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i uđoše"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dok je on"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ležao"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "postelji svojoj"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "u odaji"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "spavaćoj svojoj"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i udariše ga"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "i ubiše ga"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "i odrezaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu njegovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu njegovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noć"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:51.021008986Z",
+  "model": "glm-5.3"
+}

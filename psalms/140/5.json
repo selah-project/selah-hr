@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Čuvaj me, Jahve, od ruku zloga, od čovjeka nasilnika me čuvaj — oni što smisliše da obore korake moje.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Čuvaj me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "od ruku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zloga"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nasilnika"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "me čuvaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "smisliše"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "da obore"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "korake moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.691752498Z",
+  "model": "glm-5.3"
+}

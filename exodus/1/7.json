@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A sinovi Jisraelovi rodiše, i razmnožiše se, i umnožiše se, i ojačaše veoma veoma; i napuni se zemlja ⟨את⟩ njima.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "rodiše"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "i razmnožiše se"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "i umnožiše se"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "i ojačaše"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napuni se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:12.231807280Z",
+  "model": "glm-5.3"
+}

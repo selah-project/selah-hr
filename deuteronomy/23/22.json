@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Kad zavjetuješ zavjet Jahvi, Elohimu svome, nećeš oklijevati da ga ispuniš, jer će ga Jahve, Elohim tvoj, svakako zatražiti od tebe, i bit će u tebi grijeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zavjetuješ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zavjet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ćeš oklijevati"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "da ga ispuniš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "svakako"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "će ga zatražiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:07.636349699Z",
+  "model": "glm-5.3"
+}

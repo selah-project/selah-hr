@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I neka svećenik zamahuje ⟨את⟩ njih uz kruh prvinâ, mahovinu pred Jahvom, uz dva janjeta; svetost neka budu Jahvi, za svećenika.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "i neka zamahuje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (janjad i kruh)"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "prvinâ"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mahovinu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "janjeta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za svećenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:19.773491539Z",
+  "model": "glm-5.3"
+}

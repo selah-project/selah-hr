@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Četvrtast bio je, dvostruk načiniše ⟨את⟩ ha-hošen; pedalj njegova dužina i pedalj njegova širina, dvostruk.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "četvrtast"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bio je"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dvostruk"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-hošen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ha-hošen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "pedalj"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova dužina"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "i pedalj"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dvostruk"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:45.233041781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Pjevajte Jahvi pjesmu novu, hvala njegova s kraja zemlje: vi koji silazite na more i sve što je u njemu, otoci i stanovnici njihovi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hvala njegova"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "s kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "vi koji silazite"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na more"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i sve što je u njemu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "otoci"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "i stanovnici njihovi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:19.237016195Z",
+  "model": "glm-5.3"
+}

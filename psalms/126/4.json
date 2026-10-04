@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 126,
+  "translation": "Vrati, Jahve, ⟨את⟩ sužanjstvo naše kao bujice u Negivu!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vrati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužanjstvo naše"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "sužanjstvo naše"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kao bujice"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "u Negivu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:10.438269668Z",
+  "model": "glm-5.3"
+}

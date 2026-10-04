@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Zar da se za njih zakolju ovce i goveda, i bi li im dosta? Ako bi se skupila ⟨את⟩ sva riba mora, bi li im dosta?",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i goveda"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zakolju"
+    },
+    {
+      "surface": "להם",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "bi dosta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva riba mora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "riba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "skupila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "bi dosta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:35.392970151Z",
+  "model": "glm-5.3"
+}

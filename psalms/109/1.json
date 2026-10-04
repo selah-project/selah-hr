@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Zborovođi, Davidov, mizmor. Elohim hvala mojih, ne šuti!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "hvala mojih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "šuti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:04.892643534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 1:17",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jer će riječ kraljice izaći pred sve žene da preziru svoje muževe u svojim očima, kad budu govorile: Kralj Ahašveroš zapovjedi da se dovede ⟨את⟩ Vašti kraljica pred njega, ali ona ne dođe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izaći će"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljice"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "להבזות",
+      "gloss": "da preziru"
+    },
+    {
+      "surface": "בעליהן",
+      "gloss": "svoje muževe"
+    },
+    {
+      "surface": "בעיניהן",
+      "gloss": "u svojim očima"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "kad budu govorile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kralj"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroš"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "da se dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vašti kraljica"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljica"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dođe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:56.508897933Z",
+  "model": "glm-5.3"
+}

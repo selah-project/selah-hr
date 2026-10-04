@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Jer onima koji rade rad davaše se ono, i njime utvrdiše ⟨את⟩ dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "onima koji rade"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "davaše se ono"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "i utvrdiše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:01.738763275Z",
+  "model": "glm-5.3"
+}

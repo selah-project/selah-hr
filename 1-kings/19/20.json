@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I ostavi ⟨את⟩ goveda, i otrča za Elijahuom, i reče: Neka poljubim, molim, oca svoga i majku svoju, pa ću ići za tobom. A on mu reče: Idi, vrati se, jer što sam ti učinio?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "i ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goveda"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "i otrča"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahuom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "neka poljubim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "oca svoga"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "i majku svoju"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "pa ću ići"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:21.362924994Z",
+  "model": "glm-5.3"
+}

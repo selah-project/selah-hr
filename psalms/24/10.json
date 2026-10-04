@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Tko je on, kralj slave? Jahve Cebaot, on je kralj slave. Sela.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ovaj⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:42.909783627Z",
+  "model": "glm-5.3"
+}

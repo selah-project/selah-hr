@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I Moše otpusti ⟨את⟩ svoga tasta, i on ode k sebi u svoju zemlju.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i otpusti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga tasta"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "svoga tasta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "לו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "svoju zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:03.058695847Z",
+  "model": "glm-5.3"
+}

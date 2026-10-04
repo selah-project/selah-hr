@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "prijelom za prijelom, oko za oko, zub za zub; kakvu je manu nanio čovjeku, takva neka mu se nanese.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "prijelom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "prijelom"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zub"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zub"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakvu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "je nanio"
+    },
+    {
+      "surface": "מום",
+      "gloss": "manu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takva"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "neka mu se nanese"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:07.172621441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Njemu usta svoja zazvah, i hvala mi je pod jezikom.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Njemu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta svoja"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zazvah"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "hvala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "jezikom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:35.860876907Z",
+  "model": "glm-5.3"
+}

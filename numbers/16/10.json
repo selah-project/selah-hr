@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I tebe je približio, i ⟨את⟩ svu tvoju braću, sinove Levijeve, ⟨את⟩ s tobom — a vi tražite i svećeništvo?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i približio je"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu tvoju braću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvoju braću"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijeve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "a vi tražite"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "svećeništvo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:07.862111701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Usta pravednika izgovaraju mudrost, i jezik njegov govori pravo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "izgovaraju"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "i jezik njegov"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:44.171217038Z",
+  "model": "glm-5.3"
+}

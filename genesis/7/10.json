@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bi nakon sedam dana, i vode potopa biše na zemlji.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "nakon sedam"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i vode"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "biše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:49.595097499Z",
+  "model": "glm-5.3"
+}

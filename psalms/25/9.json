@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "On vodi ponizne u pravu, i poučava ponizne svome putu.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "vodit će"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponizne"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "u pravu"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "i poučit"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponizne"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svome putu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:51.905316222Z",
+  "model": "glm-5.3"
+}

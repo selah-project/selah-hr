@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Doći će do naraštaja otaca svojih; do vijeka neće vidjeti svjetlost.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "doći će"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "דור",
+      "gloss": "naraštaja"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:58.256314881Z",
+  "model": "glm-5.3"
+}

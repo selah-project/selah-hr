@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I zakla ga, i Moše poškropi ⟨את⟩ krvlju žrtvenik unaokolo.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zakla"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "i poškropi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:06.339588159Z",
+  "model": "glm-5.3"
+}

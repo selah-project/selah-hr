@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "„Uzdignite se iz sredine ove zajednice, da ih uništim u trenutku.” I padoše na lica svoja.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Uzdignite se"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "da ih uništim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "u trenutku"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "i padoše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "lica svoja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:34.381102921Z",
+  "model": "glm-5.3"
+}

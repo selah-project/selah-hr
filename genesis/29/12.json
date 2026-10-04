@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I kaza Jaakov Raheli da je on brat njezina oca i da je sin Rivke; a ona otrča i javi svome ocu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kaza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brat"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "njezina oca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i da"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "otrča"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "svome ocu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:00.993142899Z",
+  "model": "glm-5.3"
+}

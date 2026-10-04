@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I poslaše ⟨את⟩ tuniku šarenu, i donesoše je ocu svojemu, i rekoše: Ovo nađosmo; prepoznaj molim, je li tunika sina tvojega ili nije.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "i poslaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuniku šarenu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tuniku"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "šarenu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i donesoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ocu svojemu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nađosmo"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "prepoznaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tuniku"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:42.291736022Z",
+  "model": "glm-5.3"
+}

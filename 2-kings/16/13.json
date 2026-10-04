@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I kadioni ⟨את⟩ svoju paljenicu i ⟨את⟩ svoju minhу — ispravak: ⟨את⟩ svoju minhу, te izli ⟨את⟩ svoj naljev, i poškropi ⟨את⟩ krv žrtava zadovoljnice koje su njegove, na žrtvenik.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "i kadioni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju paljenicu"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "svoju paljenicu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju minhу"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "svoju minhу"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "i izli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj naljev"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "svoj naljev"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "i poškropi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "žrtava zadovoljnice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "su njegove"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:50.433289868Z",
+  "model": "glm-5.3"
+}

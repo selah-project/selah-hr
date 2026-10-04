@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Ja sam Jahve i nema drugoga; osim mene nema Elohim. Opasah te, a ti me nisi poznavao.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "osim mene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "opasah te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nisi"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "me poznavao"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:08.818880912Z",
+  "model": "glm-5.3"
+}

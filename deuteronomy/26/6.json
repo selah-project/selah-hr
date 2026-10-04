@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I Micrajci nam činiše zlo, i tlačiše nas, i nametnuše na nas tlaku tešku.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "činiše zlo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nam"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "i tlačiše nas"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i nametnuše"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nas"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "tlaku"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tešku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:26.797913262Z",
+  "model": "glm-5.3"
+}

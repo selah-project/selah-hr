@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Jao onomu tko govori ocu: Što rađaš? i ženi: Što rođuješ?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ocu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "rađaš"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "i ženi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "rođuješ"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:47.665131076Z",
+  "model": "glm-5.3"
+}

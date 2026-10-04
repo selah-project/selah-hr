@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I čuvat ćete činiti ⟨את⟩ sve uredbe i ⟨את⟩ pravde koje ja stavljam pred vas danas.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvat ćete"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve uredbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pravde"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pravde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stavljam"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:36.742616172Z",
+  "model": "glm-5.3"
+}

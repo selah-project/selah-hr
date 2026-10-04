@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Vidiš li čovjeka mudra u svojim očima? Više nade ima za luđaka negoli za njega.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Vidiš li"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudra"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u svojim očima"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "nade"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "za luđaka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "negoli za njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:22.473662399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ali što su ⟨את⟩ ga više tlačili, to se više množio i širio, pa im dojadiše sinovi Jisraelovi.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "što su ga više"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "tlačili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to se više"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "množio"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "i to se više"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "širio"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "pa im dojadiše"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:20.046910718Z",
+  "model": "glm-5.3"
+}

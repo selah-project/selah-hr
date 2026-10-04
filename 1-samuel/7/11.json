@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I iziđoše ljudi Jisraelovi iz Micpe i prognaše ⟨את⟩ Filištijce, i potekoše ih sve do ispod Bet-Kara.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i iziđoše"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpe"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i prognaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filištijce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištijce"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "i potekoše ih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:36.676046503Z",
+  "model": "glm-5.3"
+}

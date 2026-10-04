@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Jer jovel je ona — sveta će vam biti; sa polja jest ćete ⟨את⟩ njezin urod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jest ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin urod"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "urod"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:05.833847414Z",
+  "model": "glm-5.3"
+}

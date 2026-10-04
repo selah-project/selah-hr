@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Vaši oci — gdje su ⟨oni⟩? I proroci — zar će živjeti dovijeka?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaši oci"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje su"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨oni⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "i proroci"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "zar će dovijeka"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "živjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:43.851006597Z",
+  "model": "glm-5.3"
+}

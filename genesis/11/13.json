@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Arpakšad nakon što rodi ⟨את⟩ Šelaha tristo i tri godine, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "što rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šelaha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šelaha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godine"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "i"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:04.532827109Z",
+  "model": "glm-5.3"
+}

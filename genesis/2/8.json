@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I posadi Jahve Elohim vrt u Edenu, na istoku, i postavi ondje ⟨את⟩ čovjeka kojega je oblikovao.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "i posadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "vrt"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "u Edenu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na istoku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "je oblikovao"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:54.065997479Z",
+  "model": "glm-5.3"
+}

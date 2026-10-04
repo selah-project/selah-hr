@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "I blagoslovljen ime slave njegove dovijeka, i neka se slava njegova napuni ⟨את⟩ svu zemlju. Amein i amein.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "i blagoslovljen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slave njegove"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i neka se napuni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava njegova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amein"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amein"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:46.715628812Z",
+  "model": "glm-5.3"
+}

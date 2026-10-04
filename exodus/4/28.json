@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I kaza Moše Aharonu ⟨את⟩ sve riječi Jahvine koje ga posla i ⟨את⟩ sve znakove koje mu naredi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i kaza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi Jahvine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "posla ga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve znakove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znakove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "naredi mu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.111810824Z",
+  "model": "glm-5.3"
+}

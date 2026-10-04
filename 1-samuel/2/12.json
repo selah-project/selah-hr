@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A sinovi Elijevi bijahu sinovi Belijalovi; nisu poznavali ⟨את⟩ Jahvu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A sinovi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijevi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bijahu sinovi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belijalovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznavali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:03.301703977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "A radnja bijaše dovoljna za svu radnju da se izvrši ⟨את⟩ nju, i još je preteklo.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "a radnja"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "דים",
+      "gloss": "dovoljna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svu"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "radnju"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da se izvrši"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (radnju)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "i još preteklo ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:57.852724067Z",
+  "model": "glm-5.3"
+}

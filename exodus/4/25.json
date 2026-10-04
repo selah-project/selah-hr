@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uze Cipora kamen nož, odsiječe ⟨את⟩ prepuce sina svojega i dotače nogu njegovih, pa reče: Zaista, zete krvâ ti si meni.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kamen nož"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "odsiječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prepuce sina svojega"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "prepuce"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "i dotače"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "nogu njegovih"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "zete"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvâ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.111270418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Čovjek ⟨את⟩ druga svojega pomaže, i bratu svojemu govori: Budi jak!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "druga svojega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "druga svojega"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "pomaže"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "i bratu svojemu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "budi jak"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:19.852052511Z",
+  "model": "glm-5.3"
+}

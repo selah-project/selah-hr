@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I sazva Šaul ⟨את⟩ sav narod na boj, da siđe u Keilu, da opsjeda Davida i ljude njegove.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i sazva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na boj"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "da siđe"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "u Keilu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "da opsjeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ljude njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:47.903975440Z",
+  "model": "glm-5.3"
+}

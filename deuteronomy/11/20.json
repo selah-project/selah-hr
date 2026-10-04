@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i napišeš ih na dovratnike doma svojega i na vrata svoja.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "i napišeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "dovratnike"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "doma svojega"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "i na vrata svoja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:37.064634042Z",
+  "model": "glm-5.3"
+}

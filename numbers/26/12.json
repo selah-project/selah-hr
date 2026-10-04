@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Sinovi Šimonovi po svojim obiteljima: od Nemuela obitelj Nemuelaca; od Jamina obitelj Jaminaca; od Jahina obitelj Jahinaca.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimonovi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "od Nemuela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Nemuelaca"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "od Jamina"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Jaminaca"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "od Jahina"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Jahinaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:00.530085120Z",
+  "model": "glm-5.3"
+}

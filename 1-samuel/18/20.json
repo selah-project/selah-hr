@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A Mikal, kći Šaulova, ljubila je ⟨את⟩ Davida; i javiše Šaulu, i stvar bila je prava u očima njegovim.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "ljubila je"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "i javiše"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "bila prava"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:28.305511330Z",
+  "model": "glm-5.3"
+}

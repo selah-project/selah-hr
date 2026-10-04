@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Jer on reče — i ⟨jesu⟩ ⟨את⟩ dogodilo se; on zapovjedi — i stade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stade"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:40.787684101Z",
+  "model": "glm-5.3"
+}

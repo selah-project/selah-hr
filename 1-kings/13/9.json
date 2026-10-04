@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Jer tako mi je naređeno riječju Jahve: Ne smiješ jesti kruha ni piti vodu, ni vratiti se putem kojim si došao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "naređeno"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "riječju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smiješ jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "piti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vratiti se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "si došao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.831240126Z",
+  "model": "glm-5.3"
+}

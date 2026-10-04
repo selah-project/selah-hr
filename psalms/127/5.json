@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 127,
+  "translation": "Blago muškarcu koji napuni ⟨את⟩ svoj tobolac njima — neće se postidjeti, jer će govoriti ⟨את⟩ neprijateljima na vratima.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "muškarcu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj tobolac"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "svoj tobolac"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se postidjeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "će govoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neprijateljima"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "neprijateljima"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na vratima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:44.443519613Z",
+  "model": "glm-5.3"
+}

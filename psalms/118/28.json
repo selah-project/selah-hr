@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "El si moj, i zahvaljivat ću ti, Elohim moj, uzvisivat ću te.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El si moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "i zahvaljivat ću ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "uzvisivat ću te"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:00.139910373Z",
+  "model": "glm-5.3"
+}

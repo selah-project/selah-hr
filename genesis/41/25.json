@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I reče Josef Parou: San Paroov — jedan je ⟨je⟩; ⟨את⟩ što Elohim čini, objavio je Parou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parou"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "San"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroov"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što Elohim čini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "objavio je"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parou"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:06.882407178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Jahve meni ⟨radi govora⟩: Vidio sam ⟨את⟩ ovaj narod, i gle, narod tvrde šije ⟨je on⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨radi govora⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Vidio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrde"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "šije"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je on⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:34.604553459Z",
+  "model": "glm-5.3"
+}

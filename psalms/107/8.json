@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Neka zahvaljuju Jahvi za hesed njegov i za čudesa njegova sinovima ljudskim!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "neka zahvaljuju"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "za hesed njegov"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i za čudesa njegova"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:10.857297826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Kako su sretni oni koji stanuju u tvojoj kući, zauvijek te hvale. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kako su sretni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "oni koji stanuju"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "u tvojoj kući"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "te hvale"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.970137666Z",
+  "model": "glm-5.3"
+}

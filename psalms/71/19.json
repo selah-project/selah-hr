@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "I pravednost tvoja, Elohim, do visine, ko si učinio velika djela; Elohim, tko je kao ti?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "i pravednost tvoja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "visine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velika djela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "je kao ti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:42.905213630Z",
+  "model": "glm-5.3"
+}

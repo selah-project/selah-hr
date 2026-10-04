@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Pusti me, da ih uništim, i pobrišem ⟨את⟩ ime njihovo ispod neba, i načinim ⟨את⟩ od tebe narod silan i brojan od njega.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Pusti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "da ih uništim"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "i pobrišem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njihovo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ime njihovo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "i načinim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ od tebe"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "silan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i brojan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:34.604887887Z",
+  "model": "glm-5.3"
+}

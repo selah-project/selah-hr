@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pobuni se Jisrael protiv doma Davidova do današnjega dana.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "pobuni se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "protiv doma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "današnjega dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:53.707440978Z",
+  "model": "glm-5.3"
+}

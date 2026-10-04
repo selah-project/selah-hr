@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A ovo su imena sinova Jisraelovih koji su došli u Micrajim: s ⟨את⟩ Jaakovom, svaki čovjek i njegov dom, dođoše.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "koji su došli"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakovom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "i njegov dom"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:54.195400688Z",
+  "model": "glm-5.3"
+}

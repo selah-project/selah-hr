@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Jer u njemu se raduje srce naše, jer u ime tvoje sveto uzdajemo se.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "srce naše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tvoje sveto"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "uzdajemo se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:37.542591562Z",
+  "model": "glm-5.3"
+}

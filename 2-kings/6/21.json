@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče kralj Jisraelov Elišau kad ugleda ⟨את⟩ njih: Zar da pobijem, pobijem ⟨את⟩ njih, oče moj?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elišau"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "kad ugleda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "zar da pobijem"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "pobijem"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče moj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:23.915735538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče joj kći Paroova: Idi. I djevojka ode te dozva ⟨את⟩ majku djeteta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroova"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "djevojka"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majku djeteta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majku"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "djeteta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.983000410Z",
+  "model": "glm-5.3"
+}

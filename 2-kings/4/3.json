@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: „Idi, iskaj za se posuđe izvana, od ⟨את⟩ svih susjeda svojih — praznu posudu; ne umanji!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "iskaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za se"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "posuđe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "vana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "svih susjeda svojih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "susjeda svojih"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "posudu"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "praznu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "umanji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:45.214400289Z",
+  "model": "glm-5.3"
+}

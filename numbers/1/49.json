@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Samo ⟨את⟩ pleme Levijevo ne popisuj, i ⟨את⟩ njihove glave ne uzimaj usred sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleme Levijevo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijevo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "popisuj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihove glave"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "njihove glave"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uzimaj"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:03.621856978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Prve stvari, gle, dođoše, a nove ja objavljujem; prije nego izniknu, dajem vam ⟨את⟩ ⟨da čujete⟩.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "prve stvari"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "a nove"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "objavljujem"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "izniknu"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "dajem vam da čujete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi (objekt: vama dajem čuti)"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:19.236714526Z",
+  "model": "glm-5.3"
+}

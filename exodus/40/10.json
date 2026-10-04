@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I pomazat ćeš ⟨את⟩ žrtvenik žrtve paljenice i ⟨את⟩ sve posuđe njegovo, i posvetit ćeš ⟨את⟩ žrtvenik, i bit će žrtvenik svet nad svetima.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomazat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve posuđe njegovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "posuđe njegovo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i posvetit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:33.515290430Z",
+  "model": "glm-5.3"
+}

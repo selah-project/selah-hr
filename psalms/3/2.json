@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jahve, kako se umnožiše tlačitelji moji! Mnogi ustaju protiv mene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "umnožiše se"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "tlačitelji moji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Mnogi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ustaju"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:59.853075331Z",
+  "model": "glm-5.3"
+}

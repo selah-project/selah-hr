@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jer stanovnica Marota čezne za dobrom, jer je zlo sišlo od ⟨את⟩ Jahve do vrata Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "za dobrom"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "stanovnica"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sišlo je"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "do vrata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:04.867978897Z",
+  "model": "glm-5.3"
+}

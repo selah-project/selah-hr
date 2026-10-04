@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 4:22",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer lud je narod moj, ⟨את⟩ mene ⟨אותי⟩ ne poznaju; sinovi su bezumni, oni, i nerazumni nisu, oni; mudri su činiti zlo, a dobro činiti ne znaju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "lud"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mene",
+      "marks": "לא"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznaju"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "סכלים",
+      "gloss": "bezumni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נבונים",
+      "gloss": "razumni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mudri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "činiti zlo"
+    },
+    {
+      "surface": "ולהיטיב",
+      "gloss": "a dobro činiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:09.268996836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Tako reče kralj: Neka vas ne zavede Hizkijahu, jer neće moći izbaviti ⟨את⟩ vas iz ruke njegove.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "zavede"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "će moći"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "izbaviti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iz ruke njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:30.849560400Z",
+  "model": "glm-5.3"
+}

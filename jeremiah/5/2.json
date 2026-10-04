@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I premda govore: »Živ je Jahve!« — zaista se kunu krivo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "i premda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "krivo"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kunu se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:18.801381444Z",
+  "model": "glm-5.3"
+}

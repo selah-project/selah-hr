@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Od tvojih naredaba nisam odstupio, jer si me ti poučio.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "od tvojih naredaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "odstupio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "si me poučio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:58.467283132Z",
+  "model": "glm-5.3"
+}

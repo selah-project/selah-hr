@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Tko prolije krv čovjeka, po čovjeku krv će se njegova proliti, jer u slici Elohimovoj učini ⟨את⟩ čovjeka.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "prolije"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "po čovjeku"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv će se njegova"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "proliti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "u slici"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovoj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:20.244013199Z",
+  "model": "glm-5.3"
+}

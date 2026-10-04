@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Jahve: Jer su ostavili ⟨את⟩ Toru moju koju sam stavio pred njih, i nisu slušali glas moj, i nisu hodili u njoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "su ostavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toru moju"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Toru moju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sam stavio"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slušali"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "glas moj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:00.378158203Z",
+  "model": "glm-5.3"
+}

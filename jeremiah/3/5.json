@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Hoće li ⟨se⟩ dovijeka srditi, hoće li čuvati ⟨srdžbu⟩ zasvagda? Gle, govorila si i činila zla — i mogla si.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "srditi ⟨se⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hoće li"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "čuvati"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zasvagda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govorila si"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "i činila si"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "i mogla si"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:47.694680171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče: Mirno; došao sam ⟨את⟩ žrtvovati Jahvi. Posvetite se i dođite sa mnom k žrtvi. I posveti Ješaja i njegove sinove te ih pozva k žrtvi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mirno"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "žrtvovati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "došao sam"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "posvetite se"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "i dođite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "k žrtvi"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ješaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ješaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "k žrtvi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:30.288869336Z",
+  "model": "glm-5.3"
+}

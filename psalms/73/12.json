@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Gle, takvi su bezbožnici, i dovijeka spokojni — silu steći mogu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "takvi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "i spokojni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "steći mogu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "silu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:20.848692505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I sazvaše ⟨את⟩ svu zajednicu prvoga dana drugoga mjeseca, i kazivaše ⟨rođenja svoja⟩ po svojim obiteljima, po domovima otaca svojih, u broju imena, od dvadeset godina i više, po svojim glavama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu zajednicu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednicu"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "sazvaše"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvoga dana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "kazivaše ⟨rođenja svoja⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "svojim obiteljima"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domovima"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "u broju"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od ⟨sina⟩ dvadeset godina"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i više"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "po svojim glavama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:21.108608826Z",
+  "model": "glm-5.3"
+}

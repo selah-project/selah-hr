@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I spasi David ⟨את⟩ sve što je uzeo Amalek, i ⟨את⟩ svoje dvije žene spasi David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "i spasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je uzeo Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoje dvije žene"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "svoje žene"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:53.642646540Z",
+  "model": "glm-5.3"
+}

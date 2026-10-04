@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Neka jedu ⟨את⟩ one stvari kojima je po njima izvršeno pomirenje, da napune ⟨את⟩ svoje ruke i da ih posvete; a tuđinac neka ne jede, jer svete su.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "neka jedu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "one stvari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "izvršeno pomirenje"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "po njima"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "da napune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ruke"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "da posvete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tuđinac"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "a tuđinac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svete"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:26.914792552Z",
+  "model": "glm-5.3"
+}

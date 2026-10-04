@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Moše bijaše pastir ⟨את⟩ stada Jitra, svekra svojega, svećenika midjanskoga; i povede ⟨את⟩ stado iza pustinje te dođe k brdu Elohimovu, Horivu.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "A Moše"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stada"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitra"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "svekra svojega"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midjanskoga"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "i povede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stado"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stado"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iza"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "te dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הר",
+      "gloss": "brdu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horivu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:07.759357232Z",
+  "model": "glm-5.3"
+}

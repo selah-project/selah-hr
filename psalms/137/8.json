@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Kćeri Babilonska, opustošena, blago onomu koji ti uzvrati ⟨את⟩ uzvratom tvojim što si nam učinila!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonska"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "opustošena"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blago onomu"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "koji ti uzvrati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzvratom tvojim"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "uzvratom tvojim"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "što si učinila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:18.775230930Z",
+  "model": "glm-5.3"
+}

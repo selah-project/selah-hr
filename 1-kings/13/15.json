@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče mu: Dođi ⟨את⟩ sa mnom kući, i jedi kruh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Dođi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kući"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i jedi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:19.400658247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Jer tko će jesti, i tko će uživati, izvan mene?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "će jesti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "će uživati"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:19.926025866Z",
+  "model": "glm-5.3"
+}

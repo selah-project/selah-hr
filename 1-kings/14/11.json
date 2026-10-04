@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tko od Jeroboama umre u gradu, psy će ga pojesti; a tko umre u polju, pojest će ga ptice nebeske; jer Jahve progovori.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "tko umre"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "od Jeroboama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pojest će"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a tko umre"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pojest će"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "progovori"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:18.802575220Z",
+  "model": "glm-5.3"
+}

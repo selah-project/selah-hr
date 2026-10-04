@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Sjetite se čudesa njegovih koja je učinio, znakova njegovih i sudova usta njegovih.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Sjetite se"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "čudesa njegovih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "znakova njegovih"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "i sudova"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "usta njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.159320872Z",
+  "model": "glm-5.3"
+}

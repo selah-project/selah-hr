@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I uze Moše ⟨את⟩ srebro otkupnine od ⟨את⟩ onih koji su bili u višku nad otkupljenicima levijevcima.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "otkupnine"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "onih koji su bili u višku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "otkupljenicima"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levijevcima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:31.557938449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Ali riječ kralja nadvlada Joaba i zapovjednike vojske, te iziđe Joab i zapovjednici vojske ispred kralja da prebroje ⟨את⟩ narod, ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nadvlada"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zapovjednike"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "te iziđe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i zapovjednici"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "da prebroje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.595990417Z",
+  "model": "glm-5.3"
+}

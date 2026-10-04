@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I rodi mu sinove: ⟨את⟩ Jeuša i ⟨את⟩ Šemarju i ⟨את⟩ Zahama.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeuša"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeuša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šemarju"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Šemarju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zahama"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:36.796247925Z",
+  "model": "glm-5.3"
+}

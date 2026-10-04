@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Dvije su grudi tvoje kao dva mladunčeta od gazele, blizanke te gazelle, koje pasu među ljiljanima.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "grudi tvoje"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "kao dva"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "mladunčeta"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "blizanke"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gazelle"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "koje pasu"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "među ljiljanima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:33.859936377Z",
+  "model": "glm-5.3"
+}

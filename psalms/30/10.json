@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Kakva korist u krvi mojoj, kad siđem u ⟨raz⟩valju? Hoće li prah zahvaljivati tebi, hoće li javljati tvoju vjernost?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kakva"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "korist"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "u krvi mojoj"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "kad siđem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jamu ⟨razvalju⟩"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Hoće li zahvaljivati tebi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "hoće li javljati"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvoju vjernost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:51.786727276Z",
+  "model": "glm-5.3"
+}

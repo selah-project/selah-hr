@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I izli od ulja pomazanja na glavu Aharonovu, i pomaza ⟨את⟩ ga ⟨da ga posveti⟩.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "i izli"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od ulja"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovu"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i pomaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ga posveti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.449955394Z",
+  "model": "glm-5.3"
+}

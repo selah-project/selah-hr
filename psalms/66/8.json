@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Blagoslivljajte, narodi, Elohim našega, i dajte čuti glas hvale njegove.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Blagoslivljajte"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "i dajte čuti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hvale njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:54.112130830Z",
+  "model": "glm-5.3"
+}

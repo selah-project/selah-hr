@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jedino se protiv mene okreće, okreće ruku svoju sav dan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jedino"
+    },
+    {
+      "surface": "בי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se okreće"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "okreće"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:52.945755353Z",
+  "model": "glm-5.3"
+}

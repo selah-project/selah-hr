@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I pripovjedi im Haman o slavi svoga bogatstva i o mnoštvu svojih sinova, i o svemu kako ga je kralj uzvisio i ⟨את⟩ ono kako ga je podigao nad knezove i sluge kraljeve.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "pripovjedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slavi bogatstva"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavu"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "svoga bogatstva"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mnoštvo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svojih sinova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "uzvisio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "podigao"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knebove"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "i sluge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:51.702644594Z",
+  "model": "glm-5.3"
+}

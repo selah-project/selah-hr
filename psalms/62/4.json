@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Dokle ćete napadati ⟨na⟩ čovjeka, ubijati ga svevi, kao zid nagnut, ogradu srušenu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ćete"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "napadati"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "ubijati"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "svevi"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "kao zid"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nagnut"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ogradu"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "srušenu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.483254878Z",
+  "model": "glm-5.3"
+}

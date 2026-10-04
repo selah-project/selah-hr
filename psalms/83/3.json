@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Jer gle, neprijatelji tvoji buče, i koji te mrze podigoše glavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "neprijatelji tvoji"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "buče"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "i koji te mrze"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "podigoše"
+    },
+    {
+      "surface": "rאש",
+      "gloss": "glavu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:38.031720239Z",
+  "model": "glm-5.3"
+}

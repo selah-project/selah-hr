@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A Noa bijaše star šest stotina godina, i potop bijaše ⟨da je⟩ voda na zemlji.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "a Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨star⟩ (doslovno: sin)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "i potop"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:14.817831580Z",
+  "model": "glm-5.3"
+}

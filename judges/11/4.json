@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bi poslije dana, pa zaviše se sinovi Amonovi na Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "poslije dana"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "zaviše se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:33.062852738Z",
+  "model": "glm-5.3"
+}

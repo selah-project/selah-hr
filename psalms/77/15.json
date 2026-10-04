@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Ti si El koji čini čudesa; objavio si narodima moć svoju.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "čudesa"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "objavio si"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "moć svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:37.663981407Z",
+  "model": "glm-5.3"
+}

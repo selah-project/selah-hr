@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A i Lot, koji je išao ⟨את⟩ Avramom, imaše stoku i goveda i šatore.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "A i"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "koji je išao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s Avramom"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramom"
+    },
+    {
+      "surface": "היה",
+      "gloss": "imaše"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stoku (ovaca)"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i goveda"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "i šatore"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:49.917235653Z",
+  "model": "glm-5.3"
+}

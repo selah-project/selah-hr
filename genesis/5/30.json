@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I življeše Lemek po rođenju ⟨את⟩ Noe pet devedeset godina i pet stotina godina, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "življeše"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "rođenja njegova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nou"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "i devedeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:01.869133977Z",
+  "model": "glm-5.3"
+}

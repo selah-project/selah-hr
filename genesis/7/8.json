@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Od životinja čistih i od životinja koje nisu čiste, i od ptica, i svega što puza po zemlji.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "životinja"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "čistih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "životinja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "čiste"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "puza"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:14.818178928Z",
+  "model": "glm-5.3"
+}

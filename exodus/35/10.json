@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I neka dođe svaki mudra srca među vama i neka načini ⟨את⟩ sve što je zapovjedio Jahve.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "neka dođe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i neka načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:00.856867922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I jaše na kerubu i leti, i poleti na krilima ruaha.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "i jaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "i leti"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "i poleti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krilima"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:00.113721247Z",
+  "model": "glm-5.3"
+}

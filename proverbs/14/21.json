@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tko prezire svojega bližnjega, čini grijeh; a tko je milosrdan prema siromasima, sretan je on.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "prezire"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "čini grijeh"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "a tko je milosrdan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "prema siromasima"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "sretan je on"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:59.164435749Z",
+  "model": "glm-5.3"
+}

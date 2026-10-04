@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Zašto se sakri da pobjegneš i prevari ⟨את⟩ me, i ne javi mi — da te otpustim s radošću i pjesmama, s bubnjem i harfom?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "sakri se"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "da pobjegneš"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "i prevari"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "mene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "da te otpustim"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radošću"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "i pjesmama"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "s bubnjem"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "i harfom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:08.480492445Z",
+  "model": "glm-5.3"
+}

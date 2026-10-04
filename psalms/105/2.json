@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Pjevajte mu, svirajte mu, govorte o svim čudesima njegovim!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "svirajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "govorte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o svim"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "čudesima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.212430257Z",
+  "model": "glm-5.3"
+}

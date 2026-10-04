@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I posvetiše se svećenici i leviti da donesu gore ⟨את⟩ kovčeg Jahve, Elohim Jisraelova.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "posvetiše se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "da donesu gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:41.983494073Z",
+  "model": "glm-5.3"
+}

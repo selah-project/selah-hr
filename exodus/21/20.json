@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I kad čovjek udari ⟨את⟩ svoga slugu ili ⟨את⟩ svoju sluškinju štapom pa umre pod njegovom rukom, osvećen neka biti osvećen.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga slugu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svoga slugu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju sluškinju"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "svoju sluškinju"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "štapom"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "pa umre"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovom rukom"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "osvećen"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "neka biti osvećen"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:18.571836793Z",
+  "model": "glm-5.3"
+}

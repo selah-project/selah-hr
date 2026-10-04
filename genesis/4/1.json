@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I čovjek upozna ⟨את⟩ Havu, ženu svoju; i ona zače i rodi ⟨את⟩ Kajina, i reče: Stekoh muža ⟨את⟩ ⟨s Jahvom⟩.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "upozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Havu"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu svoju"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "i zače"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajina"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "stekoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muža"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s Jahvom⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:33.545467962Z",
+  "model": "glm-5.3"
+}

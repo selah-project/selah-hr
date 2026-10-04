@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I tučeni su narod ⟨od⟩ naroda i grad ⟨od⟩ grada, jer ih je Elohim pomutio svakom tjeskobom.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "i tučeni su"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "⟨od⟩ naroda"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "i grad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨od⟩ grada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "pomutio ih je"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svakom"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskobom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:08.841095683Z",
+  "model": "glm-5.3"
+}

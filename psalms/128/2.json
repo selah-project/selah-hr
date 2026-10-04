@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 128,
+  "translation": "Plod ruku svojih ti ćeš jesti; blažen si, i dobro će ti biti.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Plod ⟨svoga truda⟩"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jer⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ti ćeš jesti"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "blažen si"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i dobro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "će ti biti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:49.909516155Z",
+  "model": "glm-5.3"
+}

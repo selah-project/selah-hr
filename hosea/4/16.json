@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer kao raspržena junica odbacio se Jisrael; sada će ih Jahve pasti kao janjad u prostranstvu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "kao junica"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "raspržena"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "odbacio se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "kao janjad"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "u prostranstvu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:06.730384543Z",
+  "model": "glm-5.3"
+}

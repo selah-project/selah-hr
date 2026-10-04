@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer uzađe smrt u prozore naše, uđe u dvorce naše, da istrijebi dijete s ulice, mladiće s trgova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uzađe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "u prozore naše"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "u dvorce naše"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "da istrijebi"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "s ulice"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "s trgova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:17.122576758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Razumijte, bezumni među narodom, i luđaci, dokle ćete biti bez razuma?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "razumijte"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "bezumni"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "među narodom"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "i luđaci"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "biti bez razuma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:00.678764573Z",
+  "model": "glm-5.3"
+}

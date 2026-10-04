@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I zaklat ćeš ⟨את⟩ ovna, i uzet ćeš ⟨את⟩ krv njegovu, i škropit ćeš po žrtveniku unaokolo.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "i zaklat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovna"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv njegovu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv njegovu"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "i škropit ćeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:51.622310422Z",
+  "model": "glm-5.3"
+}

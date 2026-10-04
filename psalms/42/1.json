@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Zborovođi, poučna ⟨pjesma⟩ sinova Korahovih.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna ⟨pjesma⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:22.991845263Z",
+  "model": "glm-5.3"
+}

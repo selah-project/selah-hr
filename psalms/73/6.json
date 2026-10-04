@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Zato im je oholost ogrlica, nasilje ih obavija kao odijelo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ogrlica"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "oholost"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "obavija"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kao odijelo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:24.932101128Z",
+  "model": "glm-5.3"
+}

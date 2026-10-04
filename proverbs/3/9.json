@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Počasti Jahvu ⟨את⟩ iz svojega imutka i od prvine svega svojega prihoda.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Počasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "iz svojega imutka"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "i od prvine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "svojega prihoda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:38.823592410Z",
+  "model": "glm-5.3"
+}

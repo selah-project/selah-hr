@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Ne zove li mudrost, i razboritost ne daje li svoj glas?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zove"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "i razboritost"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "svoj glas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:41.532713150Z",
+  "model": "glm-5.3"
+}

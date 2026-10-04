@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "On će vas doista ukoriti, ako u tajnosti podižete lice ⟨u nečiju korist⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ukorit"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "će ukoriti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u tajnosti"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lice"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "podižete"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:02.029140953Z",
+  "model": "glm-5.3"
+}

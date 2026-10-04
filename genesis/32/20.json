@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I zapovjedi također ⟨את⟩ drugomu, također ⟨את⟩ trećemu, također ⟨את⟩ svima koji idu za stadima govoreći: Ovako govorite Esavu kad ⟨את⟩ ga nađete.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drugomu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugomu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trećemu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trećemu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "koji idu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "stadima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "po ovome"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "kad nađete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:00.726124314Z",
+  "model": "glm-5.3"
+}

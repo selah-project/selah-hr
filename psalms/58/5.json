@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Žuč im je poput žuči zmije, poput gluhe otrovnice koja zatvara uho svoje.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "žuč"
+    },
+    {
+      "surface": "למו",
+      "gloss": "im"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "poput"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "žuči"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmije"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "poput"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "otrovnice"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gluhe"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "koja zatvara"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "uho svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:19.031356629Z",
+  "model": "glm-5.3"
+}

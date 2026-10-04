@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I dade ⟨את⟩ jelaocaljno i ⟨את⟩ kruh koji je pripremila, u ruku Jaakovu, sinu svojemu.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jela"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "jela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kruh"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "pripremila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sinu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:16.076427182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I nadzornici neka progovore narodu rekavši: Tko je čovjek koji je sagradio novu kuću i nije je posvetio? Neka ide i neka se vrati svojoj kući, da ne bi umro u boju i drugi je čovjek posvetio.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "i neka progovore"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "nadzornici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "posvetio"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "neka ide"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i neka se vrati"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "svojoj kući"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umro"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boju"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i drugi čovjek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "posvetio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:32.785372847Z",
+  "model": "glm-5.3"
+}

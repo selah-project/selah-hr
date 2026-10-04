@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Uđi u stijenu i sakrij se u prahu, od lica straha Jahvinoga i od sjaja njegova veličanstva!",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "u stijenu"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "i sakrij se"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "u prahu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od lica"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "straha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoga"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "i od sjaja"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "njegova veličanstva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:01.709397611Z",
+  "model": "glm-5.3"
+}

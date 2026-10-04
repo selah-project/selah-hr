@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Učvrsti korake moje u tvojim stazama, neka se ne pokolebaju stopala moja.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "učvrsti"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "korake moje"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "u tvojim stazama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "neka se ne pokolebaju"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "stopala moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:25.714756191Z",
+  "model": "glm-5.3"
+}

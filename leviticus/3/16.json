@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I svećenik ih sažega na žrtveniku: kruh je to ognjene žrtve, u miris koji umiruje — sve salo pripada Jahvi.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "i sažega ih"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ognjene žrtve"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "u miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "koji umiruje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:50.037246164Z",
+  "model": "glm-5.3"
+}

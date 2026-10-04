@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Evo, postadoše kao slama; oganj ih spalio je — ne će izbaviti ⟨את⟩ duše svoje iz ruke plamena. Nema žara da se ⟨njime⟩ griju, ni svjetla da se uz nj sjedi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "postadoše"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kao slama"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "ih spalio je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "će izbaviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duše svoje"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "duše svoje"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "plamena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "žara"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "da se griju"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetla"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da se sjedi"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "uz nj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:36.306988964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I opustošit će ⟨את⟩ zemlju Ašura mačem i ⟨את⟩ zemlju Nimroda na njezinim ulazima; i on će ⟨nas⟩ izbaviti od Ašura kad uđe u našu zemlju i kad počne gaziti naše međe.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "i opustošit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju Ašura"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju Nimroda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "na njezinim ulazima"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "i izbavit će"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "od Ašura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "u našu zemlju"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "bude gazio"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "naše međe"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:36.880611366Z",
+  "model": "glm-5.3"
+}

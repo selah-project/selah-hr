@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Elohim Cevaot, vrati se, molimo! Pogledaj s neba i vidi, i pohodi ovaj trs,",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s neba"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "i pohodi"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "trs"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:43.626831543Z",
+  "model": "glm-5.3"
+}

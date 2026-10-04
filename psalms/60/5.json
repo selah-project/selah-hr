@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Pokazao si svome narodu tešku stvar; napojio si nas vinom vrtoglavice.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "pokazao si"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svome narodu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tešku stvar"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "napojio si nas"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "vrtoglavice"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:56.732767484Z",
+  "model": "glm-5.3"
+}

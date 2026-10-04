@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Kad zavjetuješ zavjet Elohimu, ne odgađaj da ga ispuniš, jer nema veselja u lude ⟨את⟩ — ono što zavjetuješ, ispuni.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zavjetuješ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zavjet"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "odgađaj"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "da ga ispuniš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "veselja"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "u lude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što zavjetuješ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zavjetuješ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ispuni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:38.972112001Z",
+  "model": "glm-5.3"
+}

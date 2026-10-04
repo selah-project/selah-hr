@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Sav zbor kao jedan ⟨bijaše⟩ četrdeset dvije tisuće tristo šezdeset.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sav"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kao jedan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četrdeset ⟨dvije⟩"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tristo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šezdeset"
+    }
+  ],
+  "timestamp": "2026-10-04T19:53:54.561772489Z",
+  "model": "glm-5.3"
+}

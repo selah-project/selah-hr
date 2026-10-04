@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "A zlo bijaše u očima Jahve što učini, pa i njega usmrti.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "a zlo bijaše"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "pa usmrti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:07.957445214Z",
+  "model": "glm-5.3"
+}

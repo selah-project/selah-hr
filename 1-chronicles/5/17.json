@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Svi se oni upisaše po rodoslovlju u dane Jotama, kralja Judina, i u dane Jarobama, kralja Jisraelova.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "svi oni"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "upisaše po rodoslovlju"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judina"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "i u dane"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:53.707586501Z",
+  "model": "glm-5.3"
+}

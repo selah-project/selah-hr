@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jednom sam se zakleo u svojoj svetosti: Davidu neću slagati.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "sam se zakleo"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "u svojoj svetosti"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "slagati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:28.909742597Z",
+  "model": "glm-5.3"
+}

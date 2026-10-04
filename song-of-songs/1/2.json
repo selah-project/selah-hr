@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Neka me ljubi ljubavlju iz usta njegovih, jer su tvoje ljubavi bolje od vina!",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "neka me ljubi"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ljubavlju"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iz usta njegovih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bolje su"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tvoje ljubavi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "od vina"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:25.211346927Z",
+  "model": "glm-5.3"
+}

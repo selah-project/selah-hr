@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Zato se moje srce raduje i moja slava kliče; i moje tijelo stanuje ⟨u⟩ sigurnosti.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "i kliče"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja slava"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje tijelo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "stanuje"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "u sigurnosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:51.264109691Z",
+  "model": "glm-5.3"
+}

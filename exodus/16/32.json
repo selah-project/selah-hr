@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "A Moše reče: Ovo je riječ koju je zapovjedio Jahve: napunite omer njime za čuvanje naraštajima vašim, da vide ⟨את⟩ kruh kojim sam vas hranio u pustinji, kad sam vas izveo iz zemlje micrajimske.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napunite"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "za čuvanje"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "naraštajima vašim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruh"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "sam hranio"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ vas"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "kad sam izveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:35.030302496Z",
+  "model": "glm-5.3"
+}

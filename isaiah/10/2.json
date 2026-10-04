@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "da odvrate od suda slabe, i da otmi pravo siromasima naroda mojega, da udovice budu im plijen, i ⟨את⟩ siročad da opljačkaju.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "da odvrate"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "od suda"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "slabe"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "i da otmi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "siromasima"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da budu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "udovice"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "im plijen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "siročad"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "siročad"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "da opljačkaju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:50.276438509Z",
+  "model": "glm-5.3"
+}

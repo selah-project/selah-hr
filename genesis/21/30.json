@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče: Jer sedam ovaca uzet ⟨ćeš⟩ iz moje ruke, da bude meni za svjedočanstvo da sam iskopao ⟨את⟩ ⟨ovaj⟩ bunar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedam ovaca"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ovaca"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzet ćeš"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz moje ruke"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "da"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "za svjedočanstvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "sam iskopao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunaru"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bunaru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:53.643544386Z",
+  "model": "glm-5.3"
+}

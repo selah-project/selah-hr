@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Pjesma Davidova. Jahve, zazvao sam te, pohiti k meni, prisluhni glasu mojem kad zazivam te.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "zazvao sam te"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pohiti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glasu mojem"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kad zazivam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:22.558977703Z",
+  "model": "glm-5.3"
+}

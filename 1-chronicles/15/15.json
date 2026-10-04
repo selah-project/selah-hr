@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I poniješe sinovi levitski ⟨את⟩ kovčeg Elohimov, kako zapovjedi Moše, po riječi Jahvinoj, na ramenima svojim, motkama na njima.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "poniješe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "na ramenima svojim"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "motkama"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:41.983673441Z",
+  "model": "glm-5.3"
+}

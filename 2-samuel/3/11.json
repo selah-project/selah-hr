@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I nije mogao više odgovoriti Avneru ni riječi, jer ga se bojao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mogao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "odgovoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni riječi"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "jer ga se bojao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:00.434330269Z",
+  "model": "glm-5.3"
+}

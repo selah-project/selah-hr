@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Samo se bamot nisu uklonile; narod je još žrtvovao i palio kadionice na bamot.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nisu se uklonile"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "žrtvovao"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "i palio kadionice"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na bamot"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:27.110878970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Jer te podigoh iz praha i postavih te za kneza nad svojim narodom Jisraelom, a ti si pošao putem Jeroboamovom i naveo si ⟨את⟩ moj narod Jisrael na grijeh, da me rasrdiš njihovim grijesima.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "te"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "podigoh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "praha"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "postavih te"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "za kneza"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svojim narodom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "pošao si"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamovom"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "naveo si na grijeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj narod Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "da me rasrdiš"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "njihovim grijesima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:42.535693319Z",
+  "model": "glm-5.3"
+}

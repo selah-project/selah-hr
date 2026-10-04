@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Početak mudrosti strah je Jahvin; dobar razum imaju svi koji ih čine; hvala njegova stoji dovijeka.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "početak"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrosti"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "strah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "razum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "koji ih čine"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hvala njegova"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:22.963700588Z",
+  "model": "glm-5.3"
+}

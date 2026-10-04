@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Zakleo se Jahve Cebaot govoreći: Zacijelo, kako sam naumio, tako će biti, i kako sam odlučio, ona će stajati.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Zakleo se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "li"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "sam naumio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "i kako"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "sam odlučio"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "će stajati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:05.354757947Z",
+  "model": "glm-5.3"
+}

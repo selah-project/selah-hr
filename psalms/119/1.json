@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Blago onima čiji je put neokaljan, koji hode u Tori Jahveovoj.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "neokaljan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "koji hode"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "u Tori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:43.273977379Z",
+  "model": "glm-5.3"
+}

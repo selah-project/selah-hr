@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve mu učini kako je govorio po mojoj ruci, i Jahve rastrgnu ⟨את⟩ kraljevstvo iz tvoje ruke, i dade ga bližnjemu tvome, Davidu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorio"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "po mojoj ruci"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rastrgnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz tvoje ruke"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "bližnjemu tvome"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:10.430345918Z",
+  "model": "glm-5.3"
+}

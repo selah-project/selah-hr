@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Blago onomu čovjeku kojega karaš, Jah, i iz svoje Tore poučavaš ga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blago onomu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "karaš ga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "i iz svoje Tore"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "poučavaš ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:05.479256858Z",
+  "model": "glm-5.3"
+}

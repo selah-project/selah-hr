@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Naokolo bezbožnici koračaju, kad se uzvisuje pakost među sinovima ljudskim.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "naokolo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "koračaju"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kad se"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "pakost"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "među sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:45.466251154Z",
+  "model": "glm-5.3"
+}

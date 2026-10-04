@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Kad hodaš, ona će ⟨את⟩ te voditi; kad legneš, čuvat će ⟨te⟩; kad se probudiš, ona će razgovarati s tobom.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "kad hodaš"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "vodit će"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "kad legneš"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "čuvat će"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨te⟩ nad tobom"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "kad se probudiš"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "razgovarat će s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:15.392555051Z",
+  "model": "glm-5.3"
+}

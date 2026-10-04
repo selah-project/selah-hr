@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I otpusti Jehošua ⟨את⟩ narod, svakoga na njegovu baštinu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i otpusti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "na njegovu baštinu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:47.393683488Z",
+  "model": "glm-5.3"
+}

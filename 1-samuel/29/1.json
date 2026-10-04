@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I skupe se Peleštimci sa svim svojim taborima u Afeku, a Jisrael tabori kod izvora koji je u Jizreelu.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "i skupe se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštimci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav svoj tabor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "svoj tabor"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "u Afeku"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "tabori"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kod izvora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "u Jizreelu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:42.475295608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "da ne bi, kad budeš jeo i nasitio se, sagradio dobre kuće i u njima živio,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeo"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "i nasitio se"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "sagradio"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "i živio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:54.383397228Z",
+  "model": "glm-5.3"
+}

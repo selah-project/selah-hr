@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 114,
+  "translation": "Koji je pretvorio stijenu u jezero vode, kremen u izvor vode.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "koji je pretvorio"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "u jezero"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "kremen"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "u izvor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:48.251069259Z",
+  "model": "glm-5.3"
+}

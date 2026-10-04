@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "U miru ću zajedno leći i spavati, jer ti, Jahve, sam <sam> me daješ prebivati u sigurnosti.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "u miru"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "leći ću"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "i spavati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "u sigurnosti"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "daješ mi prebivati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:41.723733488Z",
+  "model": "glm-5.3"
+}

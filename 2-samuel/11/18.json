@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I posla Joab te izvijesti Davida o ⟨את⟩ svemu što se dogodilo u boju.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "izvijesti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "događajima"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:39.237672278Z",
+  "model": "glm-5.3"
+}

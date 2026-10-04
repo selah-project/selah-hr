@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Ovce i goveda, sve ih, i zvijeri poljske ⟨također⟩.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "i goveda"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sve ih"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "zvijeri"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "poljske"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:52.428837563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Ah, da su moji putovi čvrsto utemeljeni da čuvam tvoje zakone!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, da"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "utemeljeni"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moji putovi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da čuvam"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvoje zakone"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:30.641845925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I ⟨את⟩ kože od Jaraca kozjih stavi mu na ruke i na gladke dijelove vrata njegova.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kože od jaraca"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kože"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "od jaraca"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kozjih"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ruke njegove"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "gladke dijelove"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "vrata njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:19.816627749Z",
+  "model": "glm-5.3"
+}

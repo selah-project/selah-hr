@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Drhtaj ih ondje obuze, bol kao ⟨onu⟩ koja rađa.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "drhtaj"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "obuze ih"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bol"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kao koja rađa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.331445331Z",
+  "model": "glm-5.3"
+}

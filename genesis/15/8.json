@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "A on reče: Adonaj Jahve, po čemu ću znati da ću je naslijediti?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במה",
+      "gloss": "po čemu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ću znati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ću je naslijediti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:25.989621541Z",
+  "model": "glm-5.3"
+}

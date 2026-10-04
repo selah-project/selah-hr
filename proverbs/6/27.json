@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Zar može čovjek uzeti oganj u svoje njedro, a haljine mu da ne izgore?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "zar može uzeti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "u svoje njedro"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "a haljine njegove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "izgore"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:47.540608020Z",
+  "model": "glm-5.3"
+}

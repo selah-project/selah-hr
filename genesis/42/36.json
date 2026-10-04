@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I reče im Jaakov, otac njihov: »Mene li činite bez djece? Josefa nema, i Šimuna nema, a ⟨את⟩ Binjamina uzeti ćete — sve je to na mene palo!«",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otac njihov"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "činite bez djece"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nema"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "i Šimun"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Binjamina"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "uzeti ćete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "היו",
+      "gloss": "palo je"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "sve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:13.269278591Z",
+  "model": "glm-5.3"
+}

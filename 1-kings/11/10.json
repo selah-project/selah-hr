@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i zapovjedio mu o toj stvari: da ne ide za drugim bogovima; ali ne čuva ⟨את⟩ ono što je zapovjedio Jahve.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toj"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ide"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je zapovjedio Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:56.098779172Z",
+  "model": "glm-5.3"
+}

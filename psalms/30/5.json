@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Pjevajte Jahvi, njegovi hasidi, i zahvaljujte spomenom njegove svetosti.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "njegovi hasidi"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "i zahvaljujte"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "spomenom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegove svetosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:11.671241902Z",
+  "model": "glm-5.3"
+}

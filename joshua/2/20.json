@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A ako odaš ovu ⟨את⟩ riječ našu, bit ćemo nevini od zakletve tvoje kojom si nas zaklela.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "odaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ našu"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "riječ našu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "bit ćemo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nevini"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "od zakletve tvoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojom"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "si nas zaklela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:35.405469034Z",
+  "model": "glm-5.3"
+}

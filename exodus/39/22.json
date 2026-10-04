@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I napravi ⟨את⟩ ogrtač efoda, rad tkalački, sav od plavoga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogrtač efoda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ogrtač"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tkalački"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "plavoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:40.747931292Z",
+  "model": "glm-5.3"
+}

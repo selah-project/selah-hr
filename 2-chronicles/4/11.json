@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I napravi Huram ⟨את⟩ lonce i ⟨את⟩ lopate i ⟨את⟩ zdjele za poškropljenje; i dovrši Huram ⟨את⟩ rad koji je radio za kralja Šelomoa u domu Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonce"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "lonce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lopate"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zdjele za poškropljenje"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "zdjele za poškropljenje"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "i dovrši"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rad"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je radio"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:09.230692469Z",
+  "model": "glm-5.3"
+}

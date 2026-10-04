@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "tako sam se vratio i namislio u ovim danima dobro učiniti ⟨את⟩ Jerušalajimu i ⟨את⟩ domu Juhinu; ne bojte se.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "sam se vratio"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "namislio"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "u danima"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovim"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "dobro učiniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "domu Juhinu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhinu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:44.015553905Z",
+  "model": "glm-5.3"
+}

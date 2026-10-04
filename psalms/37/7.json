@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Utišaj se pred Jahvom i čekaj strpljivo na nj; ne usijaj se zbog onoga kojemu uspijeva put, zbog čovjeka koji izvodi zle nakane.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Utišaj se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pred Jahvom"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "i čekaj strpljivo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "usijaj se"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "zbog onoga kojemu uspijeva"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "put"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "zbog čovjeka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koji izvodi"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "zle nakane"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:20.815283053Z",
+  "model": "glm-5.3"
+}

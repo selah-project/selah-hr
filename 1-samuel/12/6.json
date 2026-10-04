@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče Šemuel narodu: Jahve ⟨je onaj⟩ koji učini ⟨את⟩ Mošea i ⟨את⟩ Aharona i koji izvede ⟨את⟩ očeve vaše iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i koji"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "izvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "očeve vaše"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "očeve vaše"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:35.824005239Z",
+  "model": "glm-5.3"
+}

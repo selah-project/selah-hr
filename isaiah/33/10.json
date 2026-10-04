@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Sada ću ustati, govori Jahve; sada ću se uzvisiti, sada ću se podignuti.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ću ustati"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ću se uzvisiti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ću se podignuti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:03.023734759Z",
+  "model": "glm-5.3"
+}

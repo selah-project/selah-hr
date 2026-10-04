@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I vaše će sjeme i vaše vinograde desetkovati, i dati svojim dvoranima i svojim slugama.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "i vaše sjeme"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "i vaše vinograde"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "desetkovat će"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dati"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "svojim dvoranima"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "i svojim slugama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:24.665103588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Iz prebivališta svojega boravišta zagleda sve stanovnike zemlje.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "iz prebivališta"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "svojega boravišta"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "zagleda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:55.465362523Z",
+  "model": "glm-5.3"
+}

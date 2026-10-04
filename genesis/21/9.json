@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Sara vidje ⟨את⟩ sina Hagare Micrinke, kojega rodila Avrahamu, kako se igra ⟨מצחק — ruga se⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagare"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Micrinke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodila"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "kako se igra"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:41.731043314Z",
+  "model": "glm-5.3"
+}

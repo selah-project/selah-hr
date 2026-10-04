@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I dogodi se sutradan, te dođoše Filistejci da skinu ⟨את⟩ pobijene, i nađoše ⟨את⟩ Šaula i ⟨את⟩ njegova tri sina gdje leže na gori Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "te dođoše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "da skinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pobijene"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "pobijene"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i nađoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegova tri sina"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegova sina"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "gdje leže"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:55.881023747Z",
+  "model": "glm-5.3"
+}

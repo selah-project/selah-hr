@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 2:11",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato ću se ja vratiti i uzeti ću žito svoje u vrijeme njegovo i mošt svoj u rok njegov, i oteti ću vunu svoju i lan svoj ⟨da⟩ pokriju ⟨את⟩ sramotu njezinu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ću se vratiti"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "i uzeti ću"
+    },
+    {
+      "surface": "דגני",
+      "gloss": "žito svoje"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "u vrijeme njegovo"
+    },
+    {
+      "surface": "ותירושי",
+      "gloss": "i mošt svoj"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "u rok njegov"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "i oteti ću"
+    },
+    {
+      "surface": "צמרי",
+      "gloss": "vunu svoju"
+    },
+    {
+      "surface": "ופשתי",
+      "gloss": "i lan svoj"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "za pokriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sramotu njezinu"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "sramotu njezinu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:55.654475206Z",
+  "model": "glm-5.3"
+}

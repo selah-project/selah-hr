@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Ljubiš sve riječi proždiruće, jeziče prijevare!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ljubiš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "proždiruće"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jeziče"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevare"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:12.480839735Z",
+  "model": "glm-5.3"
+}

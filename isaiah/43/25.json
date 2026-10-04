@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ja, ja sam onaj koji briše tvoje prijestupe — radi sebe sama, a tvojih grijeha neću se spominjati.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onaj ⟨sam⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "briše"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "tvoje prijestupe"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "radi sebe sama"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "a tvojih grijeha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ću se spominjati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:10.866982229Z",
+  "model": "glm-5.3"
+}

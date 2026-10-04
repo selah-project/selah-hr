@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Zborovođi. Mizmor Davidov. Pjesma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:11.360905642Z",
+  "model": "glm-5.3"
+}

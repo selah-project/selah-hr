@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "i neka tvoje oko ne sažali ⟨את⟩ nefesh za nefesh, oko za oko, zub za zub, ruku za ruku, nogu za nogu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "sažali"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tvoje oko"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "za nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "za oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zub"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "za zub"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "za ruku"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nogu"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "za nogu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:38.879896471Z",
+  "model": "glm-5.3"
+}

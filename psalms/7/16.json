@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jamu je iskopao i ⟨je⟩ izdubao ⟨ju⟩, i pade u rupu koju ⟨je⟩ načinio.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "jamu"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "je iskopao"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "i izdubao ⟨ju⟩"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i pade"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "u rupu"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "koju ⟨je⟩ načinio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:55.679617957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I posla glasnike Ahavu, kralju Jisraela, u grad",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "u grad"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:06.965361591Z",
+  "model": "glm-5.3"
+}

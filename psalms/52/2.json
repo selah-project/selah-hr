@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Kad dođe Doeg Edomac i javi Šaulu, i reče mu: David dođe u dom Ahimelekov.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Kad dođe"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomac"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i javi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:13.032687936Z",
+  "model": "glm-5.3"
+}

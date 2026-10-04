@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Obilno me operi od krivnje moje i od grijeha me očisti.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Obilno"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "me operi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "od krivnje moje"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "i od grijeha moga"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "me očisti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.581800511Z",
+  "model": "glm-5.3"
+}

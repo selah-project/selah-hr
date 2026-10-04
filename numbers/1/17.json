@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I uzeše Moše i Aharon ⟨את⟩ te ljude koji bijahu označeni imenima.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te ljude"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "te ljude"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "bijahu označeni"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "imenima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:21.108280683Z",
+  "model": "glm-5.3"
+}

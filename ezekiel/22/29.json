@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 22:29",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Narod zemlje čini nasilje i otima plijen, i tlače siromašna i ubogoga, i ⟨את⟩ doseljenika tlače bez suda.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "čini nasilje"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "i otima"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "i siromašna"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i ubogoga"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "tlače"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "doseljenika"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "doseljenika"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "tlače"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "suda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:42:35.813895224Z",
+  "model": "glm-5.3"
+}

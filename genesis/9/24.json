@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I probudi se Noa od vina svojega, i doznade ⟨את⟩ ono što mu učini sin njegov mlađi.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "i probudi se"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "od vina svojega"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i doznade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što mu učini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mlađi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:03.483967231Z",
+  "model": "glm-5.3"
+}

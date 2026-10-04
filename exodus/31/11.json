@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ ulje pomazanja i ⟨את⟩ tamjan mirodija za svetište; prema svemu što sam ti zapovjedio neka načine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tamjan mirodija"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tamjan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mirodija"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "za svetište"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "prema svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sam ti zapovjedio"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "neka načine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.398159796Z",
+  "model": "glm-5.3"
+}

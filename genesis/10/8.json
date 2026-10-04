@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A Kuš rodi ⟨את⟩ Nimroda; on poče biti silnik na zemlji.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "A Kuš"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "החל",
+      "gloss": "poče"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "silnik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:32.610148881Z",
+  "model": "glm-5.3"
+}

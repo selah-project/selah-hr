@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dali su im ⟨את⟩ Hevron u zemlji Judinoj i ⟨את⟩ njegove pašnjake unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "i dali su"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove pašnjake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "njegove pašnjake"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:21.758354791Z",
+  "model": "glm-5.3"
+}

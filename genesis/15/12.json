@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 15:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I bi, sunce zalazaše, kad padne dubok san na Avrama, i gle — strah, tama velika, padne na njega.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "zalazaše"
+    },
+    {
+      "surface": "ותרדמה",
+      "gloss": "dubok san"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "padne"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "strah"
+    },
+    {
+      "surface": "חשכה",
+      "gloss": "tama"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "padne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:08.908222659Z",
+  "model": "glm-5.3"
+}

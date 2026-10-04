@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Kraj vrata, na ulazu u grad, na otvoru ulaza ona viče.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "grad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "otvoru"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "viče"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:41.533099055Z",
+  "model": "glm-5.3"
+}

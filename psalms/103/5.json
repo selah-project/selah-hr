@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Koji sitosti dobrima ⟨את⟩ želju tvoju — obnavlja ti se mladost poput orla.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Koji sitosti"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrima"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "želju tvoju"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "obnavlja ti se"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "poput orla"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "mladost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:54.568303679Z",
+  "model": "glm-5.3"
+}

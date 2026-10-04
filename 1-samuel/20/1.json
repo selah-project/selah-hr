@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I pobježe David iz Novota u Rami, dođe i reče pred Jonatanom: Što učinih? Što je moja krivnja i što je moj grijeh pred ocem tvojim, te traži ⟨את⟩ moj život?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "I pobježe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Novota"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "u Rami"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatanom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "učinih"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što je"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moja krivnja"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i što je"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "moj grijeh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ocem tvojim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "te"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj život"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moj život"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:27.793739017Z",
+  "model": "glm-5.3"
+}

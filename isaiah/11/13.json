@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I uklonit će se zavist Efrajima, i neprijatelji Jehude bit će odsjeceni; Efrajim neće zavidjeti ⟨את⟩ Jehudi, a Jehuda neće ugnjetavati ⟨את⟩ Efrajima.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "i uklonit će se"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zavist"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "i neprijatelji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bit će odsjeceni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "zavidjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ugnjetavati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:55.627881053Z",
+  "model": "glm-5.3"
+}

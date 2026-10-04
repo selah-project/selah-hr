@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ili se dotakne ljudske nečistoće, bilo koje njegove nečistoće kojom se onečisti, i skriveno mu je, a on sazna — kriv je.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dotakne se"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "nečistoće"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bilo koje"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "njegove nečistoće"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojom"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "onečisti se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njome"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "i skriveno mu je"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sazna"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "kriv je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:29.272756687Z",
+  "model": "glm-5.3"
+}

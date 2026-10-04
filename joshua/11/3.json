@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Kanaancu s istoka i s mora, i Emorejcu i Hetitu i Perizju i Jebusejcu u gori, i Hivijcu pod Hermonom, u zemlji Micpe.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaancu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i s mora"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "i Emorejcu"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Hetitu"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Perizju"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusejcu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "u gori"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "i Hivijcu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:08.787359762Z",
+  "model": "glm-5.3"
+}

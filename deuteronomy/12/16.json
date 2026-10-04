@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Samo krv ne jedite: na zemlju je prolijte kao vodu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "prolijte"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao vodu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:39.020698151Z",
+  "model": "glm-5.3"
+}

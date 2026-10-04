@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I Moše i Aharon učiniše ⟨את⟩ sva ova znamenja pred Paroom; i Jahve otvrdi ⟨את⟩ srce Parovo, te ne otpusti ⟨את⟩ sinova Jisraelovih iz svoje zemlje.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "i Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva ova znamenja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "znamenja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ova"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroom"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "i otvrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce Parovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parovo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "otpusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinova Jisraelovih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iz svoje zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:23.668856868Z",
+  "model": "glm-5.3"
+}

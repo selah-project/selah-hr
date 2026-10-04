@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Kosti moje ne bijahu skrivene od tebe, kad sam bio sazdan u tajnosti, istkan u dubinama zemlje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "skrivene"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kosti moje"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "bio sazdan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u tajnosti"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "istkan"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "u dubinama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.249824592Z",
+  "model": "glm-5.3"
+}

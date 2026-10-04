@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I uzesmo ⟨את⟩ zemlju njihovu i dadošmo je u baštinu Rubenovcima i Gadovcima i polovici plemena Manašeova.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "i uzesmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju njihovu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "zemlju njihovu"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i dadošmo je"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "u baštinu"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rubenovcima"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "i Gadovcima"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "i polovici"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manašeova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:38.844585780Z",
+  "model": "glm-5.3"
+}

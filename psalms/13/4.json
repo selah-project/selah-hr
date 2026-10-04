@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Pogledaj, odgovori mi, Jahve, Elohe moj! Prosvijetli oči moje, da ne zasnim snom smrtnim!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "prosvijetli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "zasnim"
+    },
+    {
+      "surface": "המות",
+      "gloss": "snom smrtnim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.587241089Z",
+  "model": "glm-5.3"
+}

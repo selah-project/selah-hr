@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I ustaše glave otaca za Judu i Benjamina, i svećenici i leviti — svakome kome je Elohim probudio duh ⟨ruah⟩, da uzlazi i gradi ⟨את⟩ dom Jahvin koji je u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "i ustaše"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "otaca"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "za Judu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Benjamina"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "i svećenici"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svakome"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "probudio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duh ⟨ruah⟩"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duh ⟨ruah⟩ njegov"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "da uzlazi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "i gradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:53:29.884762826Z",
+  "model": "glm-5.3"
+}

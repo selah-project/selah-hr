@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A zemlja će odgovoriti ⟨את⟩ žitu i ⟨את⟩ mladomu vinu i ⟨את⟩ ulju, a ona će odgovoriti ⟨את⟩ Jizreelu.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a zemlja"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "će odgovoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žitu"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "žitu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mladomu vinu"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mladomu vinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ulju"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ulju"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "će odgovoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:24.630366595Z",
+  "model": "glm-5.3"
+}

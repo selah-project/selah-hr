@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Smiluj mi se, Jahve, jer sam iznemogao; izliječi me, Jahve, jer su se moje kosti prestrašile.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj mi se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "iznemogao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "izliječi me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "prestrašile"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moje kosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:15.546373826Z",
+  "model": "glm-5.3"
+}

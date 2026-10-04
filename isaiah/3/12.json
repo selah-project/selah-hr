@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Narod moj — izrabljivači njegovi su djeca, i žene vladaju nad njim. Narod moj — blagoslivljači tvoji zavode te, i put staza tvojih proždire.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "izrabljivači njegovi"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "djeca"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "i žene"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "vladaju"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "blagoslivljači tvoji"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "zavode"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "i put"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "staza tvojih"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "proždire"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:26.976719927Z",
+  "model": "glm-5.3"
+}

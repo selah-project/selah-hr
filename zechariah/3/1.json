@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I pokaza mi ⟨את⟩ Jehošuu, velikoga svećenika, kako stoji pred anđelom Jahve, a ha-satan stoji njemu zdesna da ga tuži.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "pokaza mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velikoga"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anđelom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "a ha-satan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "njegovu desnicu"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "da ga tuži"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:41.648457617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Elohim moj, u tebe se uzdam, dа ne budem postide n, i da se ne raduju nadа mnom neprijatelji moji.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "budem postide n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "raduju se"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelji moji"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nadа mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:55.553414967Z",
+  "model": "glm-5.3"
+}

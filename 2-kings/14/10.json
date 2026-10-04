@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "UDario si — udario si ⟨את⟩ Edom — i srce te ponijelo. Proslavi se i sjedi u svojoj kući; zašto da izazivaš zlo, da padneš ti i Juda s tobom?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "udario si"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "—udario si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "i ponijelo te"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srce tvoje"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "proslavi se"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i sjedi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u svojoj kući"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "da izazivaš"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "da padneš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Juda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:05.397576452Z",
+  "model": "glm-5.3"
+}

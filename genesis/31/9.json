@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Tako Elohim oduze ⟨את⟩ stoku oca vašega i dade ⟨je⟩ meni.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "oduze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "oca vašega"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:50.561585881Z",
+  "model": "glm-5.3"
+}

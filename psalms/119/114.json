@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Ti si zaklon moj i štit moj; u Tvoju riječ uzdam se ⟨da ću vidjeti⟩.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "zaklon moj"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "i štit moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "u Tvoju riječ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "uzdam se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:24.961314583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I bacio sam ničice pred Jahvom četrdeset dana i četrdeset noći — kao što sam već bio pao — jer Jahve reče da vas uništi.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "i bacio sam ničice"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "četrdeset dana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i",
+      "marks": "četrdeset noći"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "sam već bio pao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "da uništi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vas ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:47.962148265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A kralj David ostarje, došavši u dane, i pokrivaše ga odjećom, ali se nije mogao ugrijati.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A kralj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ostarje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došavši"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "pokrivaše ga"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "odjećom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ugrijati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se ⟨njemu⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.715766146Z",
+  "model": "glm-5.3"
+}

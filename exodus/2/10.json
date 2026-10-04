@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I dijete odaste, i ona ga dovede kćeri Parohovoj, i posta njoj za sina. I nazva ime njegovo Moše, i reče: Jer iz vode sam ga izvukla.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "i odaste"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "i dovede ga"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohove"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i posta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "za sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nazva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "sam ga izvukla"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:23.958879756Z",
+  "model": "glm-5.3"
+}

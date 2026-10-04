@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I vidje Moše ⟨את⟩ narod da je razuzdan, jer ga je Aharon pustio na pud ⟨u sramotu⟩ među njihovim protivnicima.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "razuzdan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "pustio na pud"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "za sramotu"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "među njihovim protivnicima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:41.892500123Z",
+  "model": "glm-5.3"
+}

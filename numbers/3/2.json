@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ovo su imena sinova Ahrona: prvorođenac Nadav, i Avihu, Elazar i Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorođenac"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "i Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "i Itamar"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:20.664921260Z",
+  "model": "glm-5.3"
+}

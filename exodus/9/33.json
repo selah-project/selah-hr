@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I iziđe Moše od faraona, iz ⟨את⟩ grada, i raširi dlanove svoje k Jahvi, pa prestadoše gromovi i grad, i kiša se ne izli na zemlju.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "raširi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "dlanove svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "prestadoše"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "gromovi"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "i grad"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "i kiša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "izli"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:35.109237949Z",
+  "model": "glm-5.3"
+}

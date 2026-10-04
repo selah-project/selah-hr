@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A sve što nema peraje i ljuske ne smijete jesti: nečisto je vam je ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "peraje"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "i ljuske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:18.669842937Z",
+  "model": "glm-5.3"
+}

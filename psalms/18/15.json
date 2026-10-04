@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I posla strijele svoje i rasprši ih, munje u mnoštvu i zbriše ih.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "strijele svoje"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "i rasprši ih"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "munje"
+    },
+    {
+      "surface": "רב",
+      "gloss": "u mnoštvu"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "i zbriše ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:01.549516225Z",
+  "model": "glm-5.3"
+}

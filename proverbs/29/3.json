@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Čovjek koji ljubi mudrost raduje oca svojega, a tko čuva bludnice rasipа imutak.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "koji ljubi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a tko čuva"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "bludnice"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "rasipа"
+    },
+    {
+      "surface": "הון",
+      "gloss": "imutak"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:54.324886693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Zlobna riječ se izlijeva na njega: kad legne, neće više ustati.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "zlobna"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "izlijeva se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "legne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "će više"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ustati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.877459828Z",
+  "model": "glm-5.3"
+}

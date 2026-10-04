@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Jer otkupi Jahve ⟨את⟩ Jaakova i iskupi ga iz ruke jačega od njega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "otkupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "i iskupi ga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "jačega"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:26.589915685Z",
+  "model": "glm-5.3"
+}

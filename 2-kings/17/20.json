@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I Jahve odbaci sve sjeme Jisraela, i ponižavaše ih, i davaše ih u ruke pljačkaša, dok ih ne baci s lica svojega.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "i odbaci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "i ponižavaše ih"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "i davaše ih"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruke"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "pljačkaša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "ne baci ih"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "s lica svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:56.349882720Z",
+  "model": "glm-5.3"
+}

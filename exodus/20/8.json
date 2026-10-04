@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Sjeti se ⟨את⟩ dana Šabata da ga posvetiš.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sjeti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dana Šabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ga posvetiš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:07.063761847Z",
+  "model": "glm-5.3"
+}

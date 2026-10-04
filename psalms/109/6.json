@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Postavi nad njim bezbožnika, i satan neka stoji o njegovoj desnici.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "i satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "neka stoji"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "njegovoj desnici"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.772682423Z",
+  "model": "glm-5.3"
+}

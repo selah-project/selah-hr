@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Nek se postide i nek se obesčaste oni koji traže dušu moju; nek se povuku natrag i nek se zbune oni koji smišljaju zlo protiv mene.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "nek se postide"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "i nek se obesčaste"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "koji traže"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "nek se povuku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "i nek se zbune"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "koji smišljaju"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "zlo protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:08.882174044Z",
+  "model": "glm-5.3"
+}

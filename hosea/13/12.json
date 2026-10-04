@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Svezana je krivnja Efrajimova, skriven grijeh njegov.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "svezana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnja"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimova"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "skriven"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeh njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:05.544586783Z",
+  "model": "glm-5.3"
+}

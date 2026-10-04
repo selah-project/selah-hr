@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I glave svoje ne će brijati, ni pramen pustiti da raste; šišat će ⟨את⟩ glave svoje.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "i glave svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "će brijati"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ni pramen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "pustiti"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "šišanjem"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "šišat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glave svoje"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "glave svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:20.678562049Z",
+  "model": "glm-5.3"
+}

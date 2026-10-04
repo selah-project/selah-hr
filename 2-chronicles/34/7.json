@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I razruši ⟨את⟩ žrtvenike i ⟨את⟩ ašere, a urezane likove satre u prah, i sve hamane posiječe po svoj zemlji Jisraelovoj, pa se vrati u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "i razruši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenike"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "a urezane likove"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "satre"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "u prah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "hamane"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "posiječe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovoj"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa se vrati"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:37.276102770Z",
+  "model": "glm-5.3"
+}

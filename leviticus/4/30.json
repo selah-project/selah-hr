@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uzet će svećenik od krvi njezine prstom svojim i staviti na rogove žrtvenika paljenice, a ⟨את⟩ svu krv njezinu izlit će uz podnožje žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "od krvi njezine"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "prstom svojim"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i staviti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu krv njezinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "krv njezinu"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "izlit će"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podnožje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:21.897893634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Nisam poslao ⟨את⟩ proroke, a oni potrčaše; nisam govorio k njima, a oni prorokovahu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "poslao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroke"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "potrčaše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govorio"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k njima"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "prorokovahu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:55.142066111Z",
+  "model": "glm-5.3"
+}

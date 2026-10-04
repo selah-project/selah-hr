@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Pusti me da prijeđem, molim, i vidim ⟨את⟩ dobru zemlju s onu stranu Jordana, ovo dobro brdo i Libanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "pusti me da prijeđem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i vidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobru zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja je"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "brdo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "i Libanon"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:21.736772355Z",
+  "model": "glm-5.3"
+}

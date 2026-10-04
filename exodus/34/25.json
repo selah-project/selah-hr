@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Ne kolji s kvasnim ⟨את⟩ krv žrtve moje, i neka ne ostane do jutra žrtva blagdana Pésaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "kolji"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvasnim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve moje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ostane"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "do jutra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtva"
+    },
+    {
+      "surface": "חג",
+      "gloss": "blagdana"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaha"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:34.389034249Z",
+  "model": "glm-5.3"
+}

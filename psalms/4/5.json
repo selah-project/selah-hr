@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Drhtajte i ne griješite; govorite u srcu svome na postelji svojoj i umuknite. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Drhtajte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "griješite"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "u srcu svome"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "postelji svojoj"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "i umuknite"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:55.868613401Z",
+  "model": "glm-5.3"
+}

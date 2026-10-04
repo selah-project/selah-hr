@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Ruah istoka razbija lađe taršiške.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "istoka"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "razbija"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "lađe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "taršiške"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.331578529Z",
+  "model": "glm-5.3"
+}

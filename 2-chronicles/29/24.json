@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I svećenici ih zaklaše, i očistiše grijeh ⟨את⟩ njihovom krvlju na žrtveniku, da iskupe sav Jisrael, jer je za sav Jisrael, reče kralj, ⟨bila⟩ žrtva paljenica i žrtva za grijeh.",
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "zaklaše ih"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "očistiše grijeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv njihovu"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "njihovom krvlju"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da iskupe"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "žrtva paljenica"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "i žrtva za grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:36.440622056Z",
+  "model": "glm-5.3"
+}

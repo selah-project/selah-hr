@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 142,
+  "translation": "Izvedi iz tamnice moju dušu, da slavim ⟨את⟩ tvoje ime; pravedni će me okružiti, jer ćeš mi uzvratiti dobro.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Izvedi"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "iz tamnice"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moju dušu"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "da slavim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje ime"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "će okružiti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravedni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "ćeš uzvratiti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:27.822219311Z",
+  "model": "glm-5.3"
+}

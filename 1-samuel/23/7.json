@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I javiše Šaulu da dođe David u Keilu. I reče Šaul: Elohim ga je predao u ruku moju, jer se zatvorio ušavši u grad s vratima i prijevornicom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i javiše"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "u Keilu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "predao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "Elohim ga je predao u ruku moju"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "u ruku moju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "zatvorio se"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ušavši"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "s vratima"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "i prijevornicom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:47.903818843Z",
+  "model": "glm-5.3"
+}

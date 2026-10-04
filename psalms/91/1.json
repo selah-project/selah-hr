@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Onaj koji sjedi u skrovitosti Elijonovoj, u sjeni Šadaja noći ⟨će ostati⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u skrovitosti"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "u sjeni"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "noći ⟨će ostati⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:29.281262440Z",
+  "model": "glm-5.3"
+}

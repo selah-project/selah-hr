@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I unese ⟨את⟩ posvećene stvari svoga oca i svoje posvećene stvari u dom Elohimov: srebro i zlato i posuđe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i unese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posvećene stvari svoga oca"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "posvećene stvari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svoga oca"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "i svoje posvećene stvari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "i posuđe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:22.186235031Z",
+  "model": "glm-5.3"
+}

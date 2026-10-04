@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I bi javljeno Davidu, te skupi ⟨את⟩ sav Jisrael i prijeđe ⟨את⟩ Jordan, te dođe u Helam. A Aram se poredi u bojni red pred Davidom i bije se s njim.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bi javljeno"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "te skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i prijeđe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "te dođe"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "u Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "poredi se u bojni red"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pred"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i bije se"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:10.451908924Z",
+  "model": "glm-5.3"
+}

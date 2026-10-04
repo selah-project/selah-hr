@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Jer ovako reče Adonaj Jahve: narod moj siđe u početku u Micrajim da ondje boravi kao došljak, a Ašur ga bez uzroka potlači.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "u početku"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "da boravi kao došljak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "a Ašur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "bez uzroka"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "potlači"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:08.344353895Z",
+  "model": "glm-5.3"
+}

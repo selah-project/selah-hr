@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "i trnje i drača niknut će ti, i jest ćeš ⟨את⟩ travu poljsku.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "i trnje"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "i drača"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "niknut će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "i jest ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "travu poljsku"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljsku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.503357807Z",
+  "model": "glm-5.3"
+}

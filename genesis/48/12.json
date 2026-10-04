@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "I izvadi Jousef njih ⟨את⟩ između koljena njegovih, i pokloni se licem svojim na zemlju.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvadi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jousef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (sinove)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "između"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "koljena njegovih"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "licem svojim"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:15.994757313Z",
+  "model": "glm-5.3"
+}

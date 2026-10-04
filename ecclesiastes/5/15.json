@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I to je zla bolest: kao što je došao, tako će otići, i što ima kao dobitak što se trudi za vjetar?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i to"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kao"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "došao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "će otići"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i što"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "dobitak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "što se trudi"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "za vjetar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:19.501714200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Nagnut ću uho svoje k priči, otvorit ću na kinoru zagonetku svoju.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Nagnut ću"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "k priči"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otvorit ću"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinoru"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "zagonetku svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:48.311839149Z",
+  "model": "glm-5.3"
+}

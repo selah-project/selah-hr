@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Okreni se k meni i smiluj mi se; daj svoju snagu sluzi svojemu i spasi sina sluškinje svoje!",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "okreni se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i smiluj mi se"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "svoju snagu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sluzi svojemu"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "i spasi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sluškinje svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:19.078573884Z",
+  "model": "glm-5.3"
+}

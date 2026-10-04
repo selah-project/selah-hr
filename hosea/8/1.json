@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "⟨Na⟩ nepca tvojega šofar! Kao orao nad dom Jahvin — jer prekršiše savez moj i protiv Tore moje se pobuniše.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨Na⟩"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "nepca tvojega"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "šofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kao orao"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prekršiše"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez moj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i protiv"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tore moje"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "se pobuniše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:09.903544445Z",
+  "model": "glm-5.3"
+}

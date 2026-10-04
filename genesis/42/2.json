@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I reče: evo, čuo sam da ima žita u Micrajimu; siđite onamo i nabavite nam ⟨את⟩ odande, da živimo i ne pomremo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "žita"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "siđite"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "i nabavite ⟨את⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "da živimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "pomremo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:37.278715866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Grijeha moje mladosti i mojih pobuna ne spominji; po svom hesedu spomeni me, ti, radi svoga dobra, Jahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Grijeha"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "moje mladosti"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "i mojih pobuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "spominji"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "po svom hesedu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "spomeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "svoga dobra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:55.707611671Z",
+  "model": "glm-5.3"
+}

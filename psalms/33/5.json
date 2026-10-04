@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Ljubi cedek i pravo; hesedom Jahve puna je zemlja.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ljubi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i pravo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puna je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:43.038430782Z",
+  "model": "glm-5.3"
+}

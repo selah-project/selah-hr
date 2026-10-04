@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I pribavit ću sebi svjedoke vjerne: ⟨את⟩ Uriju svećenika i ⟨את⟩ Zekarjahu, sina Jeberekjahua.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "i pribavit ću svjedoke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svjedoke"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "vjerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju svećenika"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarjahu, sina Jeberekjahua"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekjahua"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:27.252043913Z",
+  "model": "glm-5.3"
+}

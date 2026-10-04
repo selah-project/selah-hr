@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i reče mu: Ovako rekao je Jiftah: Nije uzeo Jisrael ⟨את⟩ zemlje moavske ni ⟨את⟩ zemlje sinova Amonovih.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekao je"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uzeo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje moavske"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "zemlje sinova Amonovih"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:18.806156932Z",
+  "model": "glm-5.3"
+}

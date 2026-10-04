@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "onda bi nas žive progutali, kad se rasplamsa gnjev njihov na nas.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "onda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "bi nas progutali"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "kad se rasplamsa"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "gnjev njihov"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na nas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:04.343551517Z",
+  "model": "glm-5.3"
+}

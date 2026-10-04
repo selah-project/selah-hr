@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Zašto si rekao: Sestra mi je ona — pa je uzeh sebi za ženu? A sada, evo žene tvoje: uzmi ⟨את⟩ nju i idi.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekao"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sestra mi je"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "pa uzeh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "žene tvoje"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:12.557913335Z",
+  "model": "glm-5.3"
+}

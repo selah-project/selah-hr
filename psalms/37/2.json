@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer kao trava brzo će biti odsječeni i kao zelenilo pešeni će uvenuti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kao trava"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "biti odsječeni"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "i kao zelenilo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "pešeni"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "će uvenuti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:20.042531304Z",
+  "model": "glm-5.3"
+}

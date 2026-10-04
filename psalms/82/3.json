@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 82,
+  "translation": "Sudite slabe i siroče, pravednim učinite potlačena i bijedna!",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Sudite"
+    },
+    {
+      "surface": "דל",
+      "gloss": "slabe"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "i siroče"
+    },
+    {
+      "surface": "עני",
+      "gloss": "potlačena"
+    },
+    {
+      "surface": "וורש",
+      "gloss": "i bijedna"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "pravednim učinite"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:27.765122875Z",
+  "model": "glm-5.3"
+}

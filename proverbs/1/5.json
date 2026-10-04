@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Mudar neka sluša i ⟨neka⟩ doda pouku, i razuman neka stekne vješta upravljanja.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "neka sluša"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "i neka doda"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pouku"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "i razuman"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "vješta upravljanja"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "neka stekne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:10.567828134Z",
+  "model": "glm-5.3"
+}

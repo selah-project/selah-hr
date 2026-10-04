@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Neka budu kao pljeva pred ruah, i anđeo Jahvin obara ⟨ih⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kao pljeva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "i anđeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "obara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:10.336656196Z",
+  "model": "glm-5.3"
+}

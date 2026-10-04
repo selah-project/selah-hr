@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "i sklapajte ženidbe s nama: ⟨את⟩ kćeri svoje dajte nama, a ⟨את⟩ kćeri naše uzmite sebi.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "sklapajte ženidbe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kćeri svoje"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "kćeri svoje"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kćeri naše"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "kćeri naše"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "uzmite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:39.190896930Z",
+  "model": "glm-5.3"
+}

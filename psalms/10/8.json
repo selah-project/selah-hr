@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Sjedi u zasjedi među dvorištima, u tajnim mjestima ubija nevinoga; oči njegove potajno vrebaju na nemoćne.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "u zasjedi"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "među dvorištima"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "u tajnim mjestima"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ubija"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinoga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči njegove"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "na nemoćne"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "potajno vrebaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:30.814308156Z",
+  "model": "glm-5.3"
+}

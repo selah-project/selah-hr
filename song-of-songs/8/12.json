@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Vinograd moj, moj vlastiti, preda mnom je: tisuća tvoja, Šelomo, a dvjesto čuvarima ⟨את⟩ ploda njegova.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "vinograd moj"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "moj vlastiti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvjesto"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "čuvarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ploda njegova"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "plod njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:42.207689778Z",
+  "model": "glm-5.3"
+}

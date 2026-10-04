@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Elohim daje samotnike da borave ⟨u⟩ kući, izvodi sužnje u obilje; samo buntovnici stanuju u sprženoj zemlji.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "daje da borave"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "samotnike"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "izvodi"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "u obilje"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "buntovnici"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "stanuju"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "u sprženoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:19.286935356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 32:9",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I dođoše sve do doline Eškol, i vidješe ⟨את⟩ zemlju, i obeshrabriše ⟨את⟩ srce sinova Jisraelovih da ne uđu u zemlju koju im dade Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "doline"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "Eškol"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ויניאו",
+      "gloss": "obeshrabriše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:32.972201115Z",
+  "model": "glm-5.3"
+}

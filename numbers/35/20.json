@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I ako ga u mržnji gurne, ili na nj baci nešto iz zasjede, te on umre,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "i ako"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "u mržnji"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "gurne ga"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "baci"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "iz zasjede"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "te umre"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:20.540495296Z",
+  "model": "glm-5.3"
+}

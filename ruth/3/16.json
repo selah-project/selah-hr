@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dođe k svojoj punici, a ona reče: Tko si ti, kćeri moja? I ona joj pripovjedi ⟨את⟩ sve što joj učini čovjek.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "I dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "svojoj punici"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a ona reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "את",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kćeri moja"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "I ona pripovjedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:07.996661896Z",
+  "model": "glm-5.3"
+}

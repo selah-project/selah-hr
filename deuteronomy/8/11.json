@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Čuvaj se da ne zaboraviš ⟨את⟩ Jahvu, Elohim svojega, ne držeći njegovih zapovijedi, njegovih pravâ i njegovih naredaba koje ja danas tebi zapovijedam.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zaboraviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "držeći"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "zapovijedi njegove"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "i prava njegova"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "i naredbe njegove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "zapovijedam tebi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:54.383278907Z",
+  "model": "glm-5.3"
+}

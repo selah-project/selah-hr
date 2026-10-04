@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I zakla ga; i uze Moše ⟨את⟩ krv, i dade je na rogove oltara unaokolo prstom svojim, i očisti ⟨את⟩ oltar; a ⟨את⟩ krv izli u podnožje oltara, i posveti ga da se na njemu vrši pomirenje.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zakla ga"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "prstom svojim"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "i očisti od grijeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "izli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podnožje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltara"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "i posveti ga"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se vrši pomirenje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:36.858707706Z",
+  "model": "glm-5.3"
+}

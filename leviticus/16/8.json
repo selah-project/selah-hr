@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I baci Aharon ždrijebove na dva jarca: jedan ždrijeb za Jahvu, a jedan ždrijeb za Azazela.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i baci"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ždrijebove"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ždrijeb"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahvu"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "a ždrijeb"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "za Azazela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:13.613942293Z",
+  "model": "glm-5.3"
+}

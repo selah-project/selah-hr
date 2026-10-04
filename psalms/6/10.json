@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ču je Jahve prošnju moju, Jahve će primiti ⟨את⟩ molitvu moju.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ču je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "prošnju moju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitvu moju"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "će primiti ⟨את⟩",
+      "marks": "molitvu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:48.502045837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I odgovori svećenik ⟨את⟩ Davida i reče: Nema običnoga kruha pod mojom rukom, nego li sveti kruh ima — ako su se mladići čuvali bar od žene.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "חל",
+      "gloss": "običnoga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mojom rukom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "su se čuvali"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladići"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bar"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "od žene"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:56.259419829Z",
+  "model": "glm-5.3"
+}

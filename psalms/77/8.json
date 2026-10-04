@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Zar će Adonaj odbaciti ⟨nas⟩ dovijeka, i neće li više biti naklonjen?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "zar dovijeka"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "će odbaciti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "će više"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "biti naklonjen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "će ponovno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:31.540664090Z",
+  "model": "glm-5.3"
+}

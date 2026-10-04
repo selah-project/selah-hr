@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tko trači πljačku, prevrće svoj dom, a tko mrzi darove, živjet će.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "prevrće"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "trači πljačku"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "πljačku"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "a tko mrzi"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "darove"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "živjet će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:36.178598054Z",
+  "model": "glm-5.3"
+}

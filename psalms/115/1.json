@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Ne nama, Jahve, ne nama, nego svome imenu daj čast, radi svoga heseda, radi svoje istine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "svome imenu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "čast"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svoga heseda"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "svoje istine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:01.036888142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I savjetova se David s knezovima tisuća i stotina, sa svakim predvodnikom.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "i savjetova se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezovima"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "i stotina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa svakim"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "predvodnikom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:23.482789706Z",
+  "model": "glm-5.3"
+}

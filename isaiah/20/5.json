@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I obeshrabreni će biti i postidjeti se zbog Kuša, nade svoje, i zbog Micrajima, ponosa svojega.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "obeshrabreni će biti"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "postidjeti će se"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "zbog Kuša"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "nade svoje"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i zbog"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ponosa svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:08:24.975963910Z",
+  "model": "glm-5.3"
+}

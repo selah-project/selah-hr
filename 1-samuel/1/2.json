@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I on imaše dvije žene: ime jednoj Hana, a ime drugoj Penina. I Penina imaše djecu, a Hana nemaše djece.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "i on imaše"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednoj"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugoj"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penini"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "djeca"
+    },
+    {
+      "surface": "וולחנה",
+      "gloss": "a Hani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemaše"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "djece"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:50.218978788Z",
+  "model": "glm-5.3"
+}

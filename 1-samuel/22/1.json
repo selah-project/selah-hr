@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I ode David odande, i spasi se u pećinu Adulamu; i čuju braća njegova i sav dom oca njegova, pa siđu k njemu onamo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i spasi se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "pećinu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulama"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuju"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braća njegova"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca njegova"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "pa siđu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:42.008561346Z",
+  "model": "glm-5.3"
+}

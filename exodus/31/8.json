@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ stol s priborom svojim, i ⟨את⟩ svijećnjak čisti sa svim priborom svojim, i ⟨את⟩ žrtvenik kadionja —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pribor svoj"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pribor svoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svijećnjak čisti"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svijećnjak"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "čisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav pribor svoj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pribor svoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik kadionja"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadionja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:39.877181922Z",
+  "model": "glm-5.3"
+}

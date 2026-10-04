@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i operu Aharon i sinovi njegovi iz njega ⟨את⟩ ruke svoje i ⟨את⟩ noge svoje —",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "operu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke svoje"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noge svoje"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "noge svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:03.052696389Z",
+  "model": "glm-5.3"
+}

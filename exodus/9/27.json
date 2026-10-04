@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I posla faraon te dozva Mošea i Aharona, i reče im: Sagriješio sam ovaj put; Jahve je pravedan, a ja i moj narod smo zločesti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "te dozva"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Sagriješio sam"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ovaj put"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pravedan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "i moj narod"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "zločesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:49.785203252Z",
+  "model": "glm-5.3"
+}

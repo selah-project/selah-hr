@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Kao ptica što luta, kao lasta što leti, tako kletva bezrazložna ne dolazi.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "kao ptica"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "što luta"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "kao lasta"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "što leti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kletva"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bezrazložna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dolazi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:26.240078809Z",
+  "model": "glm-5.3"
+}

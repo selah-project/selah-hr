@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Trenutak rađanju i trenutak umiranju, trenutak saditi i trenutak čupati posađeno.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "trenutak"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "rađanju"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i trenutak"
+    },
+    {
+      "surface": "למות",
+      "gloss": "umiranju"
+    },
+    {
+      "surface": "עת",
+      "gloss": "trenutak"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "saditi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i trenutak"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "čupati"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "posađeno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.035724281Z",
+  "model": "glm-5.3"
+}

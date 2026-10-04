@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Jer će te on izbaviti iz zamke lovoče i od pogubne kuge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "će te izbaviti"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "iz zamke"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "lovoče"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "od pogubne"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kuge"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:19.801854276Z",
+  "model": "glm-5.3"
+}

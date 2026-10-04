@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jer tvoje strijele zaronile su u mene, i tvoja me ruka pritisnula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tvoje strijele"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "zaronile su"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u mene"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "i pritisnula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoja ruka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:37.240115324Z",
+  "model": "glm-5.3"
+}

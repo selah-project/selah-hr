@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Elohim je govorio u svojoj svetosti: likovat ću, podijelit ću Šekem, i dolinu Sukot izmjerit ću.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govorio"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "u svojoj svetosti"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "likovat ću"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "podijelit ću"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "i dolinu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "izmjerit ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:56.733345258Z",
+  "model": "glm-5.3"
+}

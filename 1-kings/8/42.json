@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "jer čuju ⟨את⟩ ime tvoše veliko i ⟨את⟩ ruku tvošu jaku i mišicu tvošu ispruženu, pa dođe i pomoli se ovom domu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "čuju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime tvoše veliko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoše"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ruku tvošu jaku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku tvošu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "jaku"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "i mišicu tvošu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ispruženu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "pa dođe"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "i pomoli se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:36.906471489Z",
+  "model": "glm-5.3"
+}

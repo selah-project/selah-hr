@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Iz tvojega hrama nad Jerušalajim k tebi će dovoditi kraljeve ⟨s⟩ darovima.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "iz tvojega hrama"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "će dovoditi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "שי",
+      "gloss": "⟨s⟩ darovima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:05.329232385Z",
+  "model": "glm-5.3"
+}

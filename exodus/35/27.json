@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I knezovi donesoše ⟨את⟩ kamenje šohama i ⟨את⟩ kamenje za postave ⟨za⟩ efod i ⟨za⟩ prsnu ploču.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "i knezovi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "donesoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenje šohama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "šohama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kamenje za postave"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "za postave"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "za efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "i za prsnu ploču"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:56.979513171Z",
+  "model": "glm-5.3"
+}

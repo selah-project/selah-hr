@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I dogodi se, čuvši sav Jisrael da se vratio Jaravam, poslaše i pozvaše ga k zajednici, pa ga postaviše za kralja nad sav Jisrael; nije bilo nikoga tko je slijedio dom Davidov osim plemena Jude, samo ono.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "čuvši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vratio se"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "poslaše"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "i pozvaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega — k zajednici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednici"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "postaviše za kralja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega — nad sav Jisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tko je slijedio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samo ono"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:53.707614409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I čuvat ćete ⟨את⟩ ovu riječ kao naredbu sebi i svojim sinovima zauvijek.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvat ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "kao naredbu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "i svojim sinovima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:02.189956645Z",
+  "model": "glm-5.3"
+}

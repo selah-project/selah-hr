@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Daj mi ⟨את⟩ svoje žene i ⟨את⟩ svoju djecu za koje sam ⟨את⟩ tebi služio s njima, i pustit ću se otići; jer ti znaš ⟨את⟩ moju službu kojom sam ti služio.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje žene"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "svoje žene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoju djecu"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "svoju djecu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koje"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "sam služio"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tebi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ću otići"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju službu"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "moju službu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojom"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "sam ti služio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:47.864629711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I odoše Moše i Aharon te skupe ⟨את⟩ sve starješine sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "skupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve starješine sinova Jisraelovih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:45.846149228Z",
+  "model": "glm-5.3"
+}

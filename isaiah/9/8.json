@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I znat će ⟨sav⟩ narod, Efrajim i stanovnik Šomrona, koji u oholosti i u veličini srca govore:",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "I znat će"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sav"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "i stanovnik"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrona"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "u oholosti"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "i u veličini"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govore"
+    }
+  ],
+  "timestamp": "2026-10-04T18:08:12.481563923Z",
+  "model": "glm-5.3"
+}

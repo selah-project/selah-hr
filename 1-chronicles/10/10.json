@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I staviše ⟨את⟩ oružje njegovo u dom bogova svojih, a ⟨את⟩ lubanju njegovu pribiše u dom Dagonov.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i staviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oružje njegovo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "oružje njegovo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "bogova svojih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lubanju njegovu"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "lubanju njegovu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "pribiše"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:59.292985813Z",
+  "model": "glm-5.3"
+}

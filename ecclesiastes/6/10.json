@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Što jest, već je davno ime njegovo nadjeno, i znano je da je to čovjek; i ne može se suditi s onim koji je jači od njega.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jest"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "već davno"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "nadjeno je"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "i znano je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "može"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "suditi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "koji je jači"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:47.816667420Z",
+  "model": "glm-5.3"
+}

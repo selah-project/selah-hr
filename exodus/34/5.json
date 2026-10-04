@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I siđe Jahve u oblaku, i stade ondje s njim, i prozva ⟨u⟩ ime Jahvino.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "u oblaku"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:39.062523854Z",
+  "model": "glm-5.3"
+}

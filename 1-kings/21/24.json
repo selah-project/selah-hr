@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Onoga od Ahabovih tko umre u gradu, psi će pojesti; a onoga tko umre u polju, pojest će ptice nebeske.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "tko umre"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "od Ahabovih"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "će pojesti"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a tko umre"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pojest će"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:32.232764404Z",
+  "model": "glm-5.3"
+}

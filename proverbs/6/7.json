@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "koja nema ⟨nadzornika⟩ ni nadglednika ni vladara —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨njoj⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "⟨nadzornika⟩"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "nadglednika"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ni vladara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:16.145605894Z",
+  "model": "glm-5.3"
+}

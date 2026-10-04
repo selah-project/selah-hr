@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I rekoh vam: Ja sam Jahve, Elohim vaš; ne bojte se ⟨את⟩ bogova Emorejaca u čijoj zemlji stanujete — ali niste poslušali mojega glasa.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogova Emorejaca"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogova"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejaca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u čijoj"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "stanujete"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "u njihovoj zemlji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali niste"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mojega glasa"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:41.287325535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Čovjek jezika nikad neka se ne utvrdi u zemlji; nasilnika zloga neka zlo vodi u propast.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezika"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nikad"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "neka se utvrdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nasilnika"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zloga"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "neka vodi u propast (lovi ga)"
+    },
+    {
+      "surface": "למדחפות",
+      "gloss": "u propast"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.332904583Z",
+  "model": "glm-5.3"
+}

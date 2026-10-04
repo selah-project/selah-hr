@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Elohime, ti poznaš moju ludost, i moji prijestupi od tebe nisu prikriveni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznaš"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "moju ludost"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "i moji prijestupi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "prikriveni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:27.971716650Z",
+  "model": "glm-5.3"
+}

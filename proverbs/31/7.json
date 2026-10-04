@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Neka pije i zaboravi svoje siromaštvo, i svoje muke ne spominje više.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Neka pije"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "i zaboravi"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "svoje siromaštvo"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "i svoje muke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "spominje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:40.322515176Z",
+  "model": "glm-5.3"
+}

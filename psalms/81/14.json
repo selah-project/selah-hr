@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Da samo narod moj sluša mene, da Jisrael hodi mojim putevima!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "da samo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sluša"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mojim putevima"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "hodi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.120689886Z",
+  "model": "glm-5.3"
+}

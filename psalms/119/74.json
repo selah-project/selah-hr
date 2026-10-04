@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Neka tebe štovajući me ugledaju i neka se raduju, jer sam se u tvoju riječ uzdao.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "tebe štovajući"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "me ugledaju"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "i neka se raduju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "u tvoju riječ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "sam se uzdao"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:20.402008283Z",
+  "model": "glm-5.3"
+}

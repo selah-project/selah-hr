@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I razderat će ga uz krila njegova — neće ga rastaviti — i svećenik će ga dimom podignuti ⟨את⟩ na žrtvenik, na drva koja su na vatri: ⟨to je⟩ paljenica, žrtra ognjena, miris ugodan Jahvi.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "i razderat će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "uz krila njegova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "rastaviti"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i dimom podignuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtvenik"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "vatri"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žrtva ognjena"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ugodan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:05.258815088Z",
+  "model": "glm-5.3"
+}

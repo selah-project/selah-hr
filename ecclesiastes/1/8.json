@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Sve su riječi zamorne — čovjek ne može izreći ⟨ih⟩; oko se ne nasiti gledanjem, ni uho ne napuni slušanjem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "zamorne su"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "može"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "izreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nasiti se"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gledanjem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "napuni se"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "slušanjem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:52.505381968Z",
+  "model": "glm-5.3"
+}

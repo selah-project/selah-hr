@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče: Jer ću biti s tobom, i ovo će ti biti znak da sam te ja poslao: kad izvedeš ⟨את⟩ narod iz Micrajima, služit ćete ⟨את⟩ Elohimu na ovom brdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ću biti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "i ovo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "će ti"
+    },
+    {
+      "surface": "האות",
+      "gloss": "biti znak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "sam te poslao"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "kad izvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "služit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "brdu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:22.578096529Z",
+  "model": "glm-5.3"
+}

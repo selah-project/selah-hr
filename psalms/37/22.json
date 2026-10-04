@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer će blagoslovljeni od njega naslijediti zemlju, a prokleti od njega bit će odsječeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "blagoslovljeni od njega"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "naslijediti će"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "a prokleti od njega"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bit će odsječeni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:43.073069582Z",
+  "model": "glm-5.3"
+}

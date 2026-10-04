@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče joj Eli: Dokle ćeš se opijati? Ukloni ⟨את⟩ svoje vino od sebe!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Dokle"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ćeš se opijati"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje vino"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "svoje vino"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "od sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:09.454359528Z",
+  "model": "glm-5.3"
+}

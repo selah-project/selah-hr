@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako zatraži čovjek ⟨nešto⟩ od bližnjega svojega, a slomi se ili ugine — vlasnika njegova nema s njim — posve neka nadoknadi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "zatraži"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "a slomi se"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ugine"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "vlasnika njegova"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "posve"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "neka nadoknadi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:42.958903877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Riječi moje poslušaj, Jahve, razumi uzdah moj!",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "riječi moje"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "razumi"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "uzdah moj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:11.927214309Z",
+  "model": "glm-5.3"
+}

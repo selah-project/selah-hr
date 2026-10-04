@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A ti si rekao: Dobro ću učiniti s tobom, i staviti ću ⟨את⟩ tvoje sjeme kao pijesak mora, koje se ne može izbrojiti od mnoštva.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekao"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "i staviti ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje sjeme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kao pijesak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "može izbrojati"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "od mnoštva"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:32.952625112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Breme koje je vidio Havakuk prorok.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "breme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "je vidio"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Havakuk"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:12.189515382Z",
+  "model": "glm-5.3"
+}

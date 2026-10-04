@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče Jehudi da traže ⟨את⟩ Jahvu, Elohim otaca svojih, i da vrše Toru i zapovijed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudi"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "da traže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "i da vrše"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "i zapovijed"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:40.926014311Z",
+  "model": "glm-5.3"
+}

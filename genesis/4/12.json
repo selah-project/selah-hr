@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kad budeš obrađivao ⟨את⟩ zemlju, neće više davati snage svoje tebi; lutalica i bjegunac bit ćeš na zemlji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš obrađivao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "više"
+    },
+    {
+      "surface": "תת",
+      "gloss": "davati"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "snage svoje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "נע",
+      "gloss": "lutalica"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "i bjegunac"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit ćeš"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:41.247592756Z",
+  "model": "glm-5.3"
+}

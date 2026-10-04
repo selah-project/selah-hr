@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 70,
+  "translation": "A ja sam nevoljan i siromašan — Elohime, požuri k meni! Pomoć moja i izbavitelj moj ti si, Jahve, ne oklijevaj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevoljan"
+    },
+    {
+      "surface": "ו אביון",
+      "gloss": "i siromašan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "požuri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pomoć moja"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i izbavitelj moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "oklijevaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:19.998621165Z",
+  "model": "glm-5.3"
+}

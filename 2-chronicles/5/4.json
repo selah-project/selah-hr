@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I dođoše sve starješine jisraelske, i poniješe leviti ⟨את⟩ Kovčeg.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "jisraelske"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i poniješe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Kovčeg"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:43.365357917Z",
+  "model": "glm-5.3"
+}

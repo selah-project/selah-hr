@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Jahve: Jehuda će se popeti; evo, dao sam ⟨את⟩ zemlju u ruku njegovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "će se popeti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.072833333Z",
+  "model": "glm-5.3"
+}

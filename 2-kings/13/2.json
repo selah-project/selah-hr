@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I činjaše zlo u očima Jahve, te hodaše za grijesima Jeroboama, sina Nebatova, kojim je zaveo ⟨את⟩ Jisrael; ne odstupi od njih.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i činjaše"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i hodaše"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grijesima"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "zaveo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstupi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:05.924134101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Zakleo se Jahve Davidu u istini, neće od toga odustati: „Od ploda utrobe tvoje postavit ću ⟨na⟩ prijestolje tvoje.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "zakleo se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "u istini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "odustati (vratiti se)"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od toga"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "od ploda"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "utrobe tvoje"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavit ću"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨na⟩ prijestolje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:58.875040484Z",
+  "model": "glm-5.3"
+}

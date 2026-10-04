@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I dade ⟨את⟩ njih da im se smiluju pred svima onima koji ih odvedoše u sužanjstvo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "da im se smiluju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "onima koji ih odvedoše u sužanjstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:05.928230708Z",
+  "model": "glm-5.3"
+}

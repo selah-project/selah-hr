@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Uz pjesmu ne piju vina, gorak je šechar onima što ga piju.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "uz pjesmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "piju"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "gorak je"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "šechar"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "onima što ga piju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:00.509810402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ovo su narodi koje Jahve ostavi da bi njima iskušavao ⟨את⟩ Jisrael — sve one koji nisu poznavali sve ratove Kenaana.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo su"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "da iskušava"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznavali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ratove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ratove"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:39.096335882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "Čekah Jahvina, čekaše duša moja, i za riječ njegovom čekah.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "čekah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "čekаše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "i za riječ njegovom"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "čekah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.404847523Z",
+  "model": "glm-5.3"
+}

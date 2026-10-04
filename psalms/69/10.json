@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Jer me ljubomora doma tvojega izjede, i pogrde onih koji te grde padoše na me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ljubomora"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "doma tvojega"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "izjede me"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "i pogrde"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "onih koji te grde"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:17.269057250Z",
+  "model": "glm-5.3"
+}

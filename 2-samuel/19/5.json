@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A kralj pokri ⟨את⟩ lice svoje, i kralj zavika glasom velikim: sine moj, Avšalome, Avšalome, sine moj, sine moj!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a kralj"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "pokri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "i zavika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalome"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:26.749135197Z",
+  "model": "glm-5.3"
+}

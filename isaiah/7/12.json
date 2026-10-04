@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reče Ahaz: Neću iskati, niti ću iskušavati ⟨את⟩ Jahvu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Neću"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "iskati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ću iskušavati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:44.036120243Z",
+  "model": "glm-5.3"
+}

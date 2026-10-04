@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dogodi se: kad završi prinositi paljenicu, gle, Šemuel dođe; i iziđe Šaul pred njega da ga blagoslovi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "kad završi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "prinositi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "pred njega"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "da ga blagoslovi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:43.009463872Z",
+  "model": "glm-5.3"
+}

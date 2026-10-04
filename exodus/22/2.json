@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako sunce zasine nad njim, krvi je za njega; potpuno će naknaditi; ako nema ⟨čime⟩, bit će prodan za krađu svoju.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "zasine"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "potpuno"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "će naknaditi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨čime⟩"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "bit će prodan"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "za krađu svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.897570926Z",
+  "model": "glm-5.3"
+}

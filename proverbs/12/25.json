@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Tjeskoba u srcu čovjeka obara ga, ali dobra riječ razveseli ga.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "tjeskoba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "u srcu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "obara ga"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ali riječ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "razveseli ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:36.721044200Z",
+  "model": "glm-5.3"
+}

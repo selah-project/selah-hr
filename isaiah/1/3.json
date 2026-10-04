@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Vol pozna svoga vlasnika, i magarac jasle gospodara svojega; Jisrael ne znade, narod moj ne razumije.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Vol"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "svoga vlasnika"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "i magarac"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "jasle"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znade"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "razumije"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:45.421714786Z",
+  "model": "glm-5.3"
+}

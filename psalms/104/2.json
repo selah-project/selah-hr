@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Koji se odijeva svjetlošću kao odjećom, koji razastre nebesa poput šatorskoga platna.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "odijeva se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlošću"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "kao odjećom"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "razastre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "poput šatorskoga platna"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:23.824968346Z",
+  "model": "glm-5.3"
+}

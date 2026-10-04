@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Kad se David vratio pobivši ⟨את⟩ Filistejca, uze ⟨את⟩ ga Avner i dovede pred Šaula, a glava Filistejca bijaše u njegovoj ruci.",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "kad se vratio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "pobivši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistejca"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejca"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (Davida)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dovede ga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "a glava"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejca"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u njegovoj ruci"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:20.624496361Z",
+  "model": "glm-5.3"
+}

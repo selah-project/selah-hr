@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A Hur rodi ⟨את⟩ Urija, a Urij rodi ⟨את⟩ Becalela.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "A Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "a Urij"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becalela"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becalela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:46.222849233Z",
+  "model": "glm-5.3"
+}

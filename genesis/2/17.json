@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "a sa stabla spoznaje dobra i zla ne smiješ jesti ⟨od njega⟩, jer u danu kad budeš jeo ⟨od njega⟩ smrću ćeš umrijeti.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "a sa stabla"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "spoznaje"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "i zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smiješ jesti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u danu"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "kad budeš jeo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ćeš umrijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:06.705849748Z",
+  "model": "glm-5.3"
+}

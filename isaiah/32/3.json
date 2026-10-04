@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I oči onih koji vide neće biti zamućene, i uši onih koji slušaju bit će pažljive.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "biti zamućene"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "onih koji vide"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "i uši"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "onih koji slušaju"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "bit će pažljive"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:12.309677214Z",
+  "model": "glm-5.3"
+}

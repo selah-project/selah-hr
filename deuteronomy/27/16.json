@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet koji omalovaža oca svojega i majku svoju; i reče sav narod: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "koji omalovaža"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i majku svoju"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:46.941472264Z",
+  "model": "glm-5.3"
+}

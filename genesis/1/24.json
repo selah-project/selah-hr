@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 1:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Elohim: Neka zemlja izvede živu dušu po vrsti svojoj: stoku i gmizavce i zvijeri zemaljske po vrsti svojoj; i bi tako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תוצא",
+      "gloss": "neka izvede"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živu"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po vrsti svojoj"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "ורמש",
+      "gloss": "i gmizavce"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "i zvijeri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemaljske"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po vrsti svojoj"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:43.960415531Z",
+  "model": "glm-5.3"
+}

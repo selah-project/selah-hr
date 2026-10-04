@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Utemelji zemlju na njezinim temeljima, neće se pokolebati nikada i dovijeka.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Utemelji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "njezinim temeljima"
+    },
+    {
+      "surface": "בל",
+      "gloss": "neće"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se pokolebati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nikada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:14.427209509Z",
+  "model": "glm-5.3"
+}

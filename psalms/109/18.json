@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Odjenu se kletvom kao haljinom svojom, i uđe kao voda u utrobu njegovu i kao ulje u kosti njegove.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "odjenu se"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kletvom"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kao haljinom svojom"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i uđe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao voda"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "u utrobu njegovu"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "i kao ulje"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "u kosti njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:03.926642824Z",
+  "model": "glm-5.3"
+}

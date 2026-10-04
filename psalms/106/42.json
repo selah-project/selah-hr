@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I tlačili su ih njihovi neprijatelji, i biše poniženi pod rukom njihovom.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "i tlačili su ih"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "njihovi neprijatelji"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "i biše poniženi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "rukom njihovom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:23.430221628Z",
+  "model": "glm-5.3"
+}

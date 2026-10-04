@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Posla mladice svoje do mora, i do Rijeke izdanke svoje.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "mladice svoje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Rijeke"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "izdanke svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.669786157Z",
+  "model": "glm-5.3"
+}

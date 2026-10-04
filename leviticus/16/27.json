@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 16:27",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ⟨את⟩ junca žrtve grijeha i ⟨את⟩ jarca žrtve grijeha, čija je krv unesena ⟨את⟩ da se pomiri u svetištu, neka iznese van iz tabora; i neka spale u ognju ⟨את⟩ kože njihove i ⟨את⟩ meso njihovo i ⟨את⟩ izmet njihov.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve grijeha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jarca"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve grijeha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čija"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "je unesena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomiri"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetištu"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "neka iznese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "van"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "iz tabora"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "i neka spale"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kože njihove"
+    },
+    {
+      "surface": "ערתם",
+      "gloss": "kože njihove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meso njihovo"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "meso njihovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izmet njihov"
+    },
+    {
+      "surface": "פרשם",
+      "gloss": "izmet njihov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:20.998423490Z",
+  "model": "glm-5.3"
+}

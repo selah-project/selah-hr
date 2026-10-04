@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče kralj micrajimski babicama hebrejskim — ime jedne bješe Šifra, a ime druge Pua —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimski"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "babicama"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebrejskim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedne"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Šifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druge"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:34.684361728Z",
+  "model": "glm-5.3"
+}

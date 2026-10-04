@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ne bijaše Jahve rekao da će izbrisati ⟨את⟩ ime Jisraelovo ispod neba, te ih spasi rukom Jeroboama, sina Joaševa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "da će izbrisati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jisraelovo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "i spasi ih"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaševa"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:36.931987606Z",
+  "model": "glm-5.3"
+}

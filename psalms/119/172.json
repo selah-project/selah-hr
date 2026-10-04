@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Neka jezik moj pjeva o riječi tvojoj, jer su sve zapovijedi tvoje cedek.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "neka pjeva"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "jezik moj"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "o riječi tvojoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "zapovijedi tvoje"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:26.765038832Z",
+  "model": "glm-5.3"
+}

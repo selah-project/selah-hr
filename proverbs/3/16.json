@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Dužina dana u njezinoj je desnici, a u lijevici njezinoj bogatstvo i čast.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "u desnici njezinoj"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "u lijevici njezinoj"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogatstvo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "i čast"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:48.151047822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Kad se dobra umnože, umnože se i oni koji ih jedu; a kakva je korist vlasniku osim ⟨to da⟩ gleda na njih svojim očima?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kad se umnože"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "umnože se"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "oni koji ih jedu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a kakva"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "korist"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "vlasniku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨samo⟩"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "gleda"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "svojim očima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:30.534510975Z",
+  "model": "glm-5.3"
+}

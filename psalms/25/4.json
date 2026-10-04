@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Putove svoje, Jahve, daj mi spoznati, staze svoje nauči me.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Putove svoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "daj mi spoznati"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "staze svoje"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nauči me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:55.553680945Z",
+  "model": "glm-5.3"
+}

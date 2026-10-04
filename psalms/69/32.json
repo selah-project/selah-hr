@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "To će se Jahvi svidjeti više nego vol, junčić s rogovima i papcima.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "i svidjet će se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nego vol"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junčić"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "s rogovima"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "i papcima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:21.682283041Z",
+  "model": "glm-5.3"
+}

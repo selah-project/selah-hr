@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Tko ljubi čisto srce, milost su mu na usnama — prijatelj je kralju.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "tko ljubi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "na usnama"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "prijatelj je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:17.310794584Z",
+  "model": "glm-5.3"
+}

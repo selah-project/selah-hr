@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Grijeh njihovih usta, riječ njihovih usana — neka budu uhvaćeni u svojoj oholosti, i o prokletstvu i laži neka pripovijedaju.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "grijeh"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "njihovih usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "njihovih usana"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "neka budu uhvaćeni"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "u svojoj oholosti"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "i o prokletstvu"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "i laži"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "neka pripovijedaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:34.921759286Z",
+  "model": "glm-5.3"
+}

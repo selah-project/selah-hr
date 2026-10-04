@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "i ne odstupiš ni od koje od riječi koje ja zapovijedam ⟨את⟩ vas danas — nadesno ni nalijevo — da ideš za drugim bogovima da im služiš.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "odstupiš"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ni od koje od"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "nadesno"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ni nalijevo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da ideš"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "da im služiš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:15.709007685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I bilo je, kako je dugo molila pred Jahvom, a Eli promatraše ⟨את⟩ usta njezina.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kako"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "molila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "a Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "promatraše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta njezina"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "usta njezina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:03.544796767Z",
+  "model": "glm-5.3"
+}

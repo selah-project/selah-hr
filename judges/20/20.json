@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I iziđoše ljudi Jisraelovi u boj s Binjaminom, i ljudi Jisraelovi složiše boj ⟨אתם⟩ ⟨nasuprot⟩ Givji.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđoše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "u boj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminom"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "i složiše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima (Binjaminom)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nasuprot⟩"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:23.786161637Z",
+  "model": "glm-5.3"
+}

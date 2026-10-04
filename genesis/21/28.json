@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I postavi Avraham ⟨את⟩ sedam ovaca janjadi iz stada posebno.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedam ovaca janjadi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ovaca janjadi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "iz stada"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "posebno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:34.549959706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "A ja k tebi, Jahve, vapijem, i ujutro moja te molitva prethodi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "vapijem"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "i ujutro"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moja molitva"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "prethodi te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:17.626028419Z",
+  "model": "glm-5.3"
+}

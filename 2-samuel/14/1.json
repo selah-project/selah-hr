@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I Joab, sin Cerujin, doznade da je srce kraljevo ⟨prema⟩ Avšalomu.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "doznade"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Ceruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da je"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevo"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨prema⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:16.125411160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Mnoge bolove trpi opaki, a onaj koji se uzda u Jahvu — hesed će ga okružiti.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "bolovi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "opakome"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "a onaj koji se uzda"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "okružit će ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.262355792Z",
+  "model": "glm-5.3"
+}

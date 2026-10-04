@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "jer si ti učinio ⟨to⟩ u tajnosti, a ja ću učiniti ⟨את⟩ ovo djelo pred svim Jisraelom i pred suncem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "učinio si"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u tajnosti"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo djelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "i pred"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:53.883265541Z",
+  "model": "glm-5.3"
+}

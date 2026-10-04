@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnu s njezinim pašnjakom, ⟨את⟩ Nahalal s njezinim pašnjakom — četiri grada.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnu"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezinim pašnjakom"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pašnjak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezinim pašnjakom"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pašnjak"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:21:52.186068822Z",
+  "model": "glm-5.3"
+}

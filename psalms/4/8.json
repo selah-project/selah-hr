@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Dao si radost u srce moje, više nego kad se umnoži žito njihovo i mošt njihov.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Dao si"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radost"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "u srce moje"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "nego kad"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "žito njihovo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "i mošt njihov"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "umnoži se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:55.869126777Z",
+  "model": "glm-5.3"
+}

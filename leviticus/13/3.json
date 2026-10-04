@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I svećenik će pogledati ⟨את⟩ ranicu na koži tijela, i ako je dlaka u ranici postala bijela i izgled ranice izgleda dublje od kože njegova tijela — ranica je caraat; i kad je svećenik pogleda, proglasi ⟨את⟩ njega nečistim.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "pogledat će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranicu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranicu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na koži"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "tijela"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "i dlaka"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "u ranici"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "postala"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bijela"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "i izgled"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranice"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dublje"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "od kože"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegova tijela"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ranica"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "caraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "pogleda ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "proglasi nečistim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:07.799973543Z",
+  "model": "glm-5.3"
+}

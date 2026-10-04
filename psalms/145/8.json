@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Milosrdan i samilosan Jahve, spor na gnjev i velik u hesedu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Milosrdan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "i samilosan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "spor"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "na gnjev"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "i velik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "u hesedu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:46.521469464Z",
+  "model": "glm-5.3"
+}

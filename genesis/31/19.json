@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A Lavan ode šišati ⟨את⟩ svoje stado, i Rahel ukrade ⟨את⟩ terafime koji bijahu oca njezina.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "a Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "šišati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje stado"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "svoje stado"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "i ukrade"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "oca njezina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:27.660744309Z",
+  "model": "glm-5.3"
+}

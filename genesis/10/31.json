@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Ovo su sinovi Šemovi, po svojim obiteljima, po svojim jezicima, u svojim zemljama, po svojim narodima.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šemovi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "po svojim jezicima"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "u svojim zemljama"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "po svojim narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.529424691Z",
+  "model": "glm-5.3"
+}

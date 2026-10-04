@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I svećenici nisu mogli stajati da služe zbog oblaka, jer slava Jahvina napuni ⟨את⟩ dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nisu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stajati"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "da služe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:44.227726680Z",
+  "model": "glm-5.3"
+}

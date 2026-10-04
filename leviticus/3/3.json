@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I neka prinese od žrtve šelamim oganj-žrtvu Jahvi: ⟨את⟩ loj što pokriva ⟨את⟩ utrobu i ⟨את⟩ sav loj koji je na utrobi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i neka prinese"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "od žrtve"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "oganj-žrtvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loj što pokriva utrobu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "loj"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "što pokriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utrobu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav loj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "loj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:12.440464900Z",
+  "model": "glm-5.3"
+}

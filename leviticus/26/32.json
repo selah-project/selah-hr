@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I opustit ću ja ⟨את⟩ zemlju, i zapanjit će se nad njom vaši neprijatelji koji u njoj stanuju.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "i opustit ću"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "i zapanjit će se"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad njom"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vaši neprijatelji"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "koji stanuju"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:38.238574295Z",
+  "model": "glm-5.3"
+}

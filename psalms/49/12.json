@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Unutrašnja misao njihova ⟨ jest ⟩ : kuće su im zauvijek, prebivališta njihova naraštaju naraštaju; zemlje prozvaše imenima svojim.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "unutrašnja misao njihova"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "kuće su im"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "prebivališta njihova"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "prozvaše"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "imenima svojim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "zemljama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:58.833423361Z",
+  "model": "glm-5.3"
+}

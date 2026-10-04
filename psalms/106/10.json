@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I spasi ih iz ruke onoga koji ih mrzi, i otkupi ih iz ruke neprijatelja.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "i spasi ih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "onoga koji ih mrzi"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "i otkupi ih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:50.617485579Z",
+  "model": "glm-5.3"
+}

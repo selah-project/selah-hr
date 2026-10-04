@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne okrećite se kumnim bogovima i bogove lijevene ne pravite sebi; ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "obraćajte se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "kumnim bogovima"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i bogove"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "lijevene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pravite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:25.397999470Z",
+  "model": "glm-5.3"
+}

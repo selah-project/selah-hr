@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "I ne ulazi u sud sa ⟨את⟩ svojim slugom, jer se neće opravdati pred tobom nijedan živi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "u sud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim sluge (svojim slugom)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojim slugom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "oprvat će se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nijedan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.407449161Z",
+  "model": "glm-5.3"
+}

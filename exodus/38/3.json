@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I načini ⟨את⟩ sve predmete žrtvenika: ⟨את⟩ lonce, i ⟨את⟩ lopate, i ⟨את⟩ posude za škropljenje, ⟨את⟩ viljuške i ⟨את⟩ kadionice; sve njegove predmete načini od mjedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve predmete žrtvenika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonce"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "lonce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lopate"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "posude za škropljenje"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "posude za škropljenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viljuške"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "viljuške"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kadionice"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "kadionice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "njegove predmete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od mjedi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:03.615126965Z",
+  "model": "glm-5.3"
+}

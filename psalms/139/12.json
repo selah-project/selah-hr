@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Tama neće potamnjeti pred tobom, i noć će zasvijetliti kao dan: kao tama, tako i svjetlost ⟨pred tobom⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "potamnjeti"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noć"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao dan"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "zasvijetliti"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "kao tama"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "kao svjetlost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.254528878Z",
+  "model": "glm-5.3"
+}

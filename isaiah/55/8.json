@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Jer misli moje nisu misli vaše, ni putevi vaši putevi moji, riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "misli moje"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "misli vaše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "putevi vaši"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "putevi moji"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:54.663738085Z",
+  "model": "glm-5.3"
+}

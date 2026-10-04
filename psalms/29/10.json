@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jahve nad potopom sjedi, i Jahve sjedi kao kralj zauvijek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "nad potopom"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i sjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kao kralj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:45.178498999Z",
+  "model": "glm-5.3"
+}

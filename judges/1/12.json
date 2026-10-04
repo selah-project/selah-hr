@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Kalev: tko udari ⟨את⟩ Kirjat Sefer i zauzme ga, njemu ću dati ⟨את⟩ Aksu, kćer svoju, za ženu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "i zauzme ga"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksu"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kćer svoju"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:50.935563784Z",
+  "model": "glm-5.3"
+}

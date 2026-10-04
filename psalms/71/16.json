@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "Doći ću u djela moći Adonaja Jahve, spominjat ću tvoj cedek, tvoj jedino.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "doći ću"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "u djela moći"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "spominjat ću"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvoj cedek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tvoj jedino"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:39.834695443Z",
+  "model": "glm-5.3"
+}

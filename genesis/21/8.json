@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dijete odraste, i bi odbijeno od sise, i Avraham priredi veliku gozbu na dan kad bi odbijen ⟨את⟩ Jicak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "I odraste"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "i bi odbijeno od sise"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i priredi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gozbu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kad bi odbijen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:30.183293423Z",
+  "model": "glm-5.3"
+}

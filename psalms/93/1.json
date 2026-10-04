@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 93,
+  "translation": "Jahve kraljuje, odjenu se u uzvišenost, odjenu se Jahve u silu, opasa se njome; da, čvrsto stoji svijet, neće se pokolebati.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "uzvišenost"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "odjenu se"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "odjenu se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silu"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "opasa se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "čvrsto stoji"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijet"
+    },
+    {
+      "surface": "בל",
+      "gloss": "neće"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "pokolebati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:40.888982110Z",
+  "model": "glm-5.3"
+}

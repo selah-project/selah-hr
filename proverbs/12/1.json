@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Tko voli pouku, voli spoznaju, a tko mrzi ukor, bestidan je.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "voli"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pouku"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "voli"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznaju"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "a mrzi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ukor"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bestidan je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:36.161648687Z",
+  "model": "glm-5.3"
+}

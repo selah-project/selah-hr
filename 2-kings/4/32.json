@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I dođe Eliša u kuću, a gle — dječak mrtav ležaše na postelji svojoj.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dječak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtav"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ležaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "postelji svojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:51.118140012Z",
+  "model": "glm-5.3"
+}

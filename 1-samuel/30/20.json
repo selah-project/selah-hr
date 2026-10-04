@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I uze David ⟨את⟩ svu sitnu i krupnu stoku; tjerahu je pred onim blagom, i govorahu: ovo je Davidov plijen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu stoku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sitnu stoku"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "i krupnu stoku"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "tjerahu je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "blagom"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onim"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i govorahu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:53.642980270Z",
+  "model": "glm-5.3"
+}

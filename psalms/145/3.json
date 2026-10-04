@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Velik je Jahve i veoma hvaljen, i njegovoj veličini nema kraja.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Velik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "i hvaljen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "njegovoj veličini"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kraja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.984885894Z",
+  "model": "glm-5.3"
+}

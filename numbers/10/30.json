@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A on mu reče: Neću poći, nego u svoju zemlju i k svome rodu poći ću.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "poći ću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨samo⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "svome rodu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "poći ću"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:57.470364198Z",
+  "model": "glm-5.3"
+}

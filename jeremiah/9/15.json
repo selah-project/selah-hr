@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Razasut ću ih među narode koje ne poznaše ni oni ni oci njihovi, i poslat ću za njima ⟨את⟩ mač dok ih ⟨את⟩ potrošim.",
+  "tokens": [
+    {
+      "surface": "והפצותים",
+      "gloss": "Razasut ću ih"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznaše"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "ni oci njihovi"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "i poslat ću"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mač"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלותי",
+      "gloss": "potrošim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:17.456330347Z",
+  "model": "glm-5.3"
+}

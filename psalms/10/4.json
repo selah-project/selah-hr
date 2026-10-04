@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Zlikovac ⟨je⟩ zbog oholosti lica svojega ne će da traži; nema Elohima — ⟨u⟩ svim naumima njegovim.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "zlikovac"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "zbog oholosti"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne će"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "da traži"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "naumima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:34.508513554Z",
+  "model": "glm-5.3"
+}

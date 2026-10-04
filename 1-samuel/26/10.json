@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I reče David: Živ je Jahve — jedino da ga Jahve pogodi, ili dan njegov dođe i umre, ili u boj siđe i bude pobrisan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jedino ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "pogodi ga"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "dan njegov"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umre"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boj"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "i bude pobrisan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:03.211960534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Sjever i jug ti si stvorio; Tavor i Hermon u tvojem imenu kliču.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "sjever"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "i jug"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "si stvorio"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "i Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "u tvojem imenu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kliču"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:24.102584812Z",
+  "model": "glm-5.3"
+}

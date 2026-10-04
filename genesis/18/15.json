@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A Saraja zanijeka govoreći: Nisam se smijala, jer se pobojala. A on reče: Ne, nego si se smijala.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "a zanijeka"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "smijala se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pobojala se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "smijala se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:24.074675109Z",
+  "model": "glm-5.3"
+}

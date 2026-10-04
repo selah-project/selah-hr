@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I gle, čovjek Elohimov dođe iz Jude riječju Jahve u Bet-El, a Jeroboam stajaše uz žrtvenik da kadi.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "iz Jude"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "riječju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "a Jeroboam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stajaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "da kadi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:12.592934990Z",
+  "model": "glm-5.3"
+}

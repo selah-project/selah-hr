@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Spominjući se, opet spominjem, i ponire u meni duša moja.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "spominjući se"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "opet spominjem"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "i ponire"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:55.201125181Z",
+  "model": "glm-5.3"
+}

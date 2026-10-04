@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I neka jedu ⟨את⟩ meso u ovu noć, pečeno na ognju, i beskvasni kruh s gorkim travama neka jedu.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "i neka jedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "u noć"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "pečeno"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na ognju"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "i beskvasni kruh"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "gorkim travama"
+    },
+    {
+      "surface": "יאכלהu",
+      "gloss": "neka jedu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:24.878743655Z",
+  "model": "glm-5.3"
+}

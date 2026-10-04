@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Dat ćeš mi spoznati stazu života; sitost radosti ⟨je⟩ pred tvojim licem, slasti tvojoj desnici ⟨u⟩ vječnost.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "dat ćeš mi spoznati"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stazu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sitost"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pred tvojim licem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvoje lice"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "slasti"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "tvojoj desnici"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "vječnost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:51.264629493Z",
+  "model": "glm-5.3"
+}

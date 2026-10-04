@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Nega gube kad bude u čovjeka, neka se dovede svećeniku.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "gube"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "u čovjeka"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "neka se dovede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:25.016271475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Jer David reče: Jahve, Elohim Jisraelov, dao je počinak svojem narodu, i ⟨on⟩ prebiva u Jerušalajimu dovijeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dao je počinak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svojem narodu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "prebiva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:05:12.301798674Z",
+  "model": "glm-5.3"
+}

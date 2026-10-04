@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "I govorit ću o tvojim svjedočanstvima pred kraljevima, i neću se postidjeti.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "i govorit ću"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "o tvojim svjedočanstvima"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljevima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "se postidjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:48.591258404Z",
+  "model": "glm-5.3"
+}

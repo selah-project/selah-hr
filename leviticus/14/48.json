@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 14:48",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Ako svećenik dođe i vidi, i gle, nakon što je kuća omazana, ne raširilo se kazna po kući, neka svećenik proglisti ⟨את⟩ kuću čistom, jer je kazna ozdravila.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zaista dođe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "raširilo se"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kazna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "po kući"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הטח",
+      "gloss": "omazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "neka proglsti čistom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ozdravila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kazna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:13.075522076Z",
+  "model": "glm-5.3"
+}

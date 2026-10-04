@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dade Elohim ⟨את⟩ njih u prostranstvo neba, da svijetle nad zemljom.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "I dade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (dvije velike svjetiljke i zvijezde)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "u prostranstvo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "da svijetle"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.157490048Z",
+  "model": "glm-5.3"
+}

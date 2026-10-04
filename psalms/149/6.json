@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Uzvišene pohvale Elohimove u grlu njihovu, i mač s dva sječiva u ruci njihovoj.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "uzvišene pohvale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimove"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "u grlu njihovu"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "i mač"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "s dva sječiva"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "u ruci njihovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:45.211758417Z",
+  "model": "glm-5.3"
+}

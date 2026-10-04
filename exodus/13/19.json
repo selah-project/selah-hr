@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I uze Moše ⟨את⟩ kosti Josipove sa sobom, jer se zakleo zakletvom ⟨את⟩ sinove Jisraelove govoreći: 'Posjetit će vas ⟨את⟩ sigurno posjetiti Elohim, i tada ćete podići ⟨את⟩ kosti moje odavde sa sobom.'",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosti Josipove"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kost"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipove"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa sobom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "zakleo se"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "zakletvom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "posjetit"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sigurno posjetiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "i podići ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "costi moje"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "costi moje"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odavde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa sobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:38.230973517Z",
+  "model": "glm-5.3"
+}

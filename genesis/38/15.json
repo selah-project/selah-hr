@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I vidje je Jehuda, i drža je za bludnicu, jer bijaše pokrila lice svoje.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "vidje je"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "drža je"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "za bludnicu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "bijaše pokrila"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "lice svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:54.835849935Z",
+  "model": "glm-5.3"
+}

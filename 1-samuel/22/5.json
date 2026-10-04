@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče prorok Gad Davidu: ne sjedi u tvrđavi; idi i dođi sebi u zemlju Judinu. I ode David i dođe u šumu Heret.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "u tvrđavi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "i dođi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "יער",
+      "gloss": "u šumu"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "Heret"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:40.836089330Z",
+  "model": "glm-5.3"
+}

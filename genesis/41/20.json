@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I izjedoše mršave i ružne krave ⟨את⟩ sedam krava prvih, ugojenih.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "i izjedoše"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "krave"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "mršave"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "i ružne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedam krava prvih, ugojenih"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "krava"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "prvih"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "ugojenih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:36.977761654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I David rano ustane, on i ljudi njegovi, da krenu ujutro i da se vrate u zemlju filistejsku; a Filistejci uzađoše u Jizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "rano ustane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i ljudi njegovi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da krenu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "da se vrate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistejsku"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "a Filistejci"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "uzađoše"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "u Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:15.454458403Z",
+  "model": "glm-5.3"
+}

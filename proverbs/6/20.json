@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Sine moj, čuvaj zapovijedi oca svojega i ne napuštaj Toru majke svoje.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "napuštaj"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "majke svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:27.876167249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I vaše će kćeri uzeti ⟨את⟩ za mirođare, za kuharice i za kruhopékore.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaše kćeri"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vaše kćeri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzeti će"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "za mirođare (pripravljačice mirisa)"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "za kuharice"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "za kruhopékore"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:24.664705530Z",
+  "model": "glm-5.3"
+}

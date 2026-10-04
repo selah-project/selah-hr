@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I bude: kad čuješ ⟨את⟩ zvuk koraka na vrhovima bakinih stabala, tada iziđi u boj, jer je Elohim izišao pred tobom da udari ⟨את⟩ tabor Filisteja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bude"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "kad čuješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvuk koraka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "koraka"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "na vrhovima"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "bakinih stabala"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "iziđi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izišao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "da udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Filisteja"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisteja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:59.877713134Z",
+  "model": "glm-5.3"
+}

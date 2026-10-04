@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Bogat neka ne daje više, a siromah neka ne daje manje od polovice šekela, da bi dali ⟨את⟩ prinos Jahvi, da se pomire vaše duše.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Bogat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "neka ne daje više"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "a siromah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "neka ne daje manje"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "od polovice"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "šekela"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da bi dali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prinos"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "prinos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomire"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "vaše duše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:25.262496157Z",
+  "model": "glm-5.3"
+}

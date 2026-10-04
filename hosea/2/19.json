@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I uklonit ću ⟨את⟩ imena baalova iz usta njezinih, i neće se više spominjati imenima njihovim.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "i uklonit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imena baalova"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalova"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "iz usta njezinih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "spominjati"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "imenima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:26.929783515Z",
+  "model": "glm-5.3"
+}

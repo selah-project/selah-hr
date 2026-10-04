@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne kružite ruba glave svoje i ne kvosite ⟨את⟩ ruba brade svoje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kružite"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ruba"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "glave svoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "kvosite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruba brade svoje"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ruba"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "brade svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:53.122418339Z",
+  "model": "glm-5.3"
+}

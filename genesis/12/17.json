@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I udari Jahve ⟨את⟩ Paroa udarcima velikim i ⟨את⟩ kuću njegovu zbog riječi Saraje, žene Avramove.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "udarcima"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kuću njegovu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kuću njegovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraje"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:12.557430553Z",
+  "model": "glm-5.3"
+}

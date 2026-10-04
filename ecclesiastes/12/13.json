@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Kraj riječi, sve je ⟨odaslano⟩ ⟨je⟩: ⟨את⟩ Elohim boj se i ⟨את⟩ njegovih micvot čuvaj, jer to je sve ⟨od⟩ čovjeka.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "čuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovih micvot"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "njegovih micvot"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:12.874351714Z",
+  "model": "glm-5.3"
+}

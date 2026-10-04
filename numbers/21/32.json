@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I posla Moše izvidnike k ⟨את⟩ Jazeru; i osvojiše sela njegova, i potisnu ⟨את⟩ Emorcu koji bijaše ondje.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "izvidnike da izvide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazeru"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "i osvojiše"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "sela njegova"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "i potisnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorac"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorcu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:13.749314437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Jer kad prelaziš kroz vode, ⟨את⟩ — ja sam s tobom; i kroz rijeke — neće te preplaviti; kad hodiš kroz oganj — nećeš se opeći, i plamen neće izgorjeti na tebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "prelaziš"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kroz vode"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "i kroz rijeke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "će te preplaviti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "hodiš"
+    },
+    {
+      "surface": "במו",
+      "gloss": "kroz"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ćeš se opeći"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "i plamen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "će izgorjeti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:03.433472646Z",
+  "model": "glm-5.3"
+}

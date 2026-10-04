@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Jer sita je zala duša moja, i život moj dopire do Šeola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sita je"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "zala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "i život moj"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do Šeola"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "dopire"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.046698470Z",
+  "model": "glm-5.3"
+}

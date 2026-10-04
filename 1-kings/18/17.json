@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I dogodi se, kad ugleda Ahav ⟨את⟩ Elijahua, da Ahav reče njemu: Je li to ti, smutljivac Jisraela?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kad ugleda"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijahua"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "je li to ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "smutljivac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:32.070756978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I opet zatrudni, i rodi sina, i nadjenu ⟨את⟩ ime njegovo Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i zatrudni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nadjenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:58.003570891Z",
+  "model": "glm-5.3"
+}

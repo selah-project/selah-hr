@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 4:34",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uzme svećenik od krvi žrtve za grijeh prstom svojim te stavi na rogove žrtvenika paljenica, a svu ⟨את⟩ krv njezinu izlije na podnožje žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "prstom svojim"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu krv njezinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "krv njezinu"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "izlije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podnožje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.656613110Z",
+  "model": "glm-5.3"
+}

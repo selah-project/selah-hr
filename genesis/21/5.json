@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A Avraham bijaše dijete od stotine godina kad mu se rodio ⟨את⟩ Jicak, sin njegov.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "A Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od stotine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "kad se rodio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:30.182731435Z",
+  "model": "glm-5.3"
+}

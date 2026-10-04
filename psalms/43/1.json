@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Sudi me, Elohime, i vodi moju parnicu protiv naroda koji nije hasid, od čovjeka prevare i nepravde izbavi me.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Sudi me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "i vodi parnicu"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "moju parnicu"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "protiv naroda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "i nepravde"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "izbavi me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:46.665134698Z",
+  "model": "glm-5.3"
+}

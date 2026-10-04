@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Ja sam Jahve, Elohim vaš, koji sam izveo ⟨את⟩ vas iz zemlje micrajimske, da ne budete njihove sluge; i slomio sam motke jarma vašega i vodim ⟨את⟩ vas uspravno.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "izveo sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "iz zemlje micrajimske"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimske"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "da ne budete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njihove"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "i slomio sam"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jarma vašega"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "i vodim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "uspravno"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "uspravno"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:53.569660716Z",
+  "model": "glm-5.3"
+}

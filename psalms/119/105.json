@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Svjetiljka je nozi mojoj riječ tvoja, i svjetlost stazi mojoj.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "svjetiljka"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "nozi mojoj"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "riječ tvoja"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "i svjetlost"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "stazi mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:57.113851946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I čuvat ćete ⟨את⟩ čuvanje svetinje i ⟨את⟩ čuvanje žrtvenika, te neće više biti gnjeva na sinove Jisraelove.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvat ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čuvanje"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "čuvanje"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "čuvanje"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "čuvanje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te neće"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gnjeva"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:52.580767832Z",
+  "model": "glm-5.3"
+}

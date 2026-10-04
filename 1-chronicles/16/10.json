@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Hvalite se njegovim svetim imenom; neka se raduje srce onih koji traže Jahvu!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Hvalite se"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "imenom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegovim svetim"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "onih koji traže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:52.543645811Z",
+  "model": "glm-5.3"
+}

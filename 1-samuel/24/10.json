@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I reče David Šaulu: »Zašto slušaš ⟨את⟩ riječi ljudi koje govore: ’Eno, David traži tvoje zlo?’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "slušaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi ljudi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koje govore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tvoje zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:52.600992667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I iz polovine plemena Menashe ⟨את⟩ Taanak s njegovim pašnjacima i ⟨את⟩ Gat-Rimon s njegovim pašnjacima: dva grada.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "i iz polovine"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pašnjacima"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "s njegovim pašnjacima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pašnjacima"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "s njegovim pašnjacima"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dva"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:09.425065972Z",
+  "model": "glm-5.3"
+}

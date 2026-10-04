@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Kad te upita sin tvoj sutra, govoreći: Što znače ova svjedočanstva, naredbe i pravidi koje je zapovjedio Jahve, Elohim naš, ⟨את⟩ vas?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "te upita"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sin tvoj"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "znače ova svjedočanstva"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "naredbe"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "pravidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:16.367534423Z",
+  "model": "glm-5.3"
+}

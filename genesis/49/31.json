@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Ondje su pokopali ⟨את⟩ Avrahama i ⟨את⟩ Saru, ženu njegovu; ondje su pokopali ⟨את⟩ Jicaka i ⟨את⟩ Rivku, ženu njegovu; i ondje sam pokopao ⟨את⟩ Leu.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "su pokopali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Saru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu njegovu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "su pokopali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Rivku"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivku"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu njegovu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "i ondje"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "sam pokopao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leu"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.829981341Z",
+  "model": "glm-5.3"
+}

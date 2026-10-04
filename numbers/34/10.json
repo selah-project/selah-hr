@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I povučete ⟨si⟩ ⟨za⟩ sebi među prema istoku, od Hasar-Enana do Šefama.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "i povučete"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨za⟩ sebi"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "među"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "prema istoku"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "od Hasar-"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enana"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "do Šefama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:43.865256409Z",
+  "model": "glm-5.3"
+}

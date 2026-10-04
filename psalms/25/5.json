@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Vodi me u svojoj istini i pouči me, jer ti si Elohim moga izbavljenja; ⟨את⟩ tebe čekam svega dana.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Vodi me"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "u svojoj istini"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "i pouči me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "moga izbavljenja"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tebe"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "čekam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:55.707282273Z",
+  "model": "glm-5.3"
+}

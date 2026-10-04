@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ne kazujte u Gat ⟨את⟩, ne navješćujte na ulicama Aškelona, da se ne raduju kćeri Filišćaca, da ne likuju kćeri neobrezanih!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kazujte"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "u Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "navješćujte"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "na ulicama"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da se ne"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "raduju"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćaca"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "likuju"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "neobrezanih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:41.884879721Z",
+  "model": "glm-5.3"
+}

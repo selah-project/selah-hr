@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Zašto niste jeli ⟨את⟩ žrtvu za grijeh na svetome mjestu? Jer je svetinja nad svetinjama, i ⟨את⟩ nju dao vam je da nosite krivnju zajednice, da se pomiri za njih pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niste"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "jeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu za grijeh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtvu za grijeh"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinja"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetinjama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i ⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da nosite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krivnju zajednice"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomiri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:57.430448142Z",
+  "model": "glm-5.3"
+}

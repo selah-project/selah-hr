@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "A ti si taj isti, i godine tvoje neće se dovršiti.",
+  "tokens": [
+    {
+      "surface": "ו אתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "si taj isti"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "i godine tvoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "se dovršiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:12.881170230Z",
+  "model": "glm-5.3"
+}

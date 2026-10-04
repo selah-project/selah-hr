@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I bi javljeno kralju Micrajima da je puk pobjegao, i srce se Paroa i slugu njegovih preokrenu prema puku, te rekoše: Što smo to učinili da smo pustili ⟨את⟩ Jisrael iz naše službe?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bi javljeno"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "pobjegao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "puk"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "preokrenu se"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "i slugu njegovih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "te rekoše"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "učinili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "pustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "iz naše službe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:44.048698745Z",
+  "model": "glm-5.3"
+}

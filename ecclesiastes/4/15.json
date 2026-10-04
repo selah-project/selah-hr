@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Vidjeh ⟨את⟩ sve žive koji hode pod suncem, s djetetom drugim, koje će stajati umjesto njega.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Vidjeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve žive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "koji hode"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "djetetom"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "će stajati"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "umjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:36.882165338Z",
+  "model": "glm-5.3"
+}

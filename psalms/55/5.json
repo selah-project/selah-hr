@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Srce mi se prevrće u meni, i užasi smrti padoše na me.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "prevrće se"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "i užasi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:46.308096940Z",
+  "model": "glm-5.3"
+}

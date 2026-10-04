@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče Jahve Elohim: nije dobro da čovjek bude sam; načinit ću mu pomoć kakva je za njega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "היות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "načinit ću"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomoć"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "njemu sukladna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:06.706093794Z",
+  "model": "glm-5.3"
+}

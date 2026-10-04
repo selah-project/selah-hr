@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I krava i medvjed zajedno će pasti, mladunčad njihova zajedno će ležati, i lav će jesti slamu kao govedo.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "i krava"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "i medvjed"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "pasti će"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ležat će"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "mladunčad njihova"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "i lav"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kao govedo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jesti će"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slamu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:35.328821285Z",
+  "model": "glm-5.3"
+}

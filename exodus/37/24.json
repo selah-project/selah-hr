@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Od kikara zlata čista načini ⟨את⟩ nje i ⟨את⟩ sav njezin pribor.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čista"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (menorah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav njezin pribor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "njezin pribor"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:16.471083839Z",
+  "model": "glm-5.3"
+}

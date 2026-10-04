@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I bi dobar ⟨je⟩ govor u očima Adonaja što Šelomo zaište ⟨את⟩ taj govor.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "i bi dobar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "govor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "zaište"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taj govor"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "govor"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:15.847207056Z",
+  "model": "glm-5.3"
+}

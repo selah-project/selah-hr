@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "Neka je blagoslovljen Jahve što nas nije dao ⟨kao⟩ plijen zubima njihovim.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Neka je blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "što nije"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "nas dao"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "zubima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.136450398Z",
+  "model": "glm-5.3"
+}

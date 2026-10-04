@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Moše: Skrenut ću, molim, i vidjet ću ⟨את⟩ viđenje ovo veliko — zašto se grm ne sažeže?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Skrenut ću"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i vidjet ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viđenje"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "viđenje"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "sažeže"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "grm"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:07.759893377Z",
+  "model": "glm-5.3"
+}

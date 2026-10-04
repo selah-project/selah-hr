@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Što se mene tiče, evo, savez je moj s ⟨את⟩ tobom, i bit ćeš otac mnoštva naroda.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Što se mene tiče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez je moj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "s tobom"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "i bit ćeš"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otac"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:14.428739229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Ovo je Tora za paljenicu, za minhu, za žrtvu za grijeh i za žrtvu za krivnju, za žrtve posvećenja i za žrtvu shelamima.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "za minhu"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "za žrtvu za grijeh"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "za žrtvu za krivnju"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "za žrtve posvećenja"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "za žrtvu"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:15.581476303Z",
+  "model": "glm-5.3"
+}

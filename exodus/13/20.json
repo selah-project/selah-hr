@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I krenuše iz Sukota, i utaboriše se u Etamu, na kraju pustinje.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i krenuše"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "iz Sukota"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i utaboriše se"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "u Etamu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:38.231146109Z",
+  "model": "glm-5.3"
+}

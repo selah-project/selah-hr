@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I vrati se aneo Jahvin drugi put, dotakne ga i reče: Ustani, jedi, jer je put prevelik za tebe!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I vrati se"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "aneo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi put"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dotakne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ustani"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "prevelik"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "za tebe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "put"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:28.734751297Z",
+  "model": "glm-5.3"
+}

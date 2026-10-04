@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ⟨את⟩ njezina dva sina, kojima ime jednome Geršom, jer reče: doseljenik bijah u tuđoj zemlji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dva sina"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sina njezina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednome"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geršom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "גר",
+      "gloss": "doseljenik"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bijah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "tuđoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:54.862027463Z",
+  "model": "glm-5.3"
+}

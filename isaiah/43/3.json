@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Jer ja sam Jahve, Elohim tvoj, Sveti Jisraelov, spasitelj tvoj; dadoh Micrajim kao otkupninu tvoju, Kuš i Seva umjesto tebe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sveti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "spasitelj tvoj"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dadoh"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "kao otkupninu tvoju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "i Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "umjesto tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:03.433624982Z",
+  "model": "glm-5.3"
+}

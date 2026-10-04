@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Koji govore vidovnjacima: Ne vidite, i gatarima: Ne gledajte nam ono što je pravo; govorite nam glatke stvari, gledajte varke.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "vidovnjacima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vidite"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "i gatarima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "gledajte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "što je pravo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "glatke stvari"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "gledajte"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "varke"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:33.523238469Z",
+  "model": "glm-5.3"
+}

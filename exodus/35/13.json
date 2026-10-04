@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "⟨את⟩ stol i ⟨את⟩ njegove palice i ⟨את⟩ sav njegov pribor i ⟨את⟩ kruh lica.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palice njegove"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palice njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav pribor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pribor njegov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kruh lica"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "lica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:35.071399636Z",
+  "model": "glm-5.3"
+}

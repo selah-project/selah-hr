@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A ako ne sklopi mir s tobom nego vodi s tobom rat, opkoli je.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "sklopi mir"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "nego vodi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "opkoli"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "je ⟨protiv nje⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:49.384785683Z",
+  "model": "glm-5.3"
+}

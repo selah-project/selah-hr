@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Kao što su oni, takvi će biti i njihovi tvorci — svi koji se u njih uzdaju.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kao što su oni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "takvi će biti"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "njihovi tvorci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "uzdaju se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:23.099843489Z",
+  "model": "glm-5.3"
+}

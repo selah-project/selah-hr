@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I svaka minha koja se ispeče u pećnici, i sve što je načinjeno na tavi ili na ploči, svećeniku koji je prinosi ⟨את⟩ — njemu neka pripada.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaka"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ispeče se"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "u pećnici"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "načinjeno"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "na tavi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ili na"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "ploči"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "koji prinosi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (minhu)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka pripada"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:36.780878323Z",
+  "model": "glm-5.3"
+}

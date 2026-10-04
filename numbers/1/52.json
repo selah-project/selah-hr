@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I neka taborite, sinovi Jisraelovi, svaki uz svoj tabor i svaki uz svoj stijeg, prema svojim vojskama.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "neka taborite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "svoj tabor"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "svoj stijeg"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "prema svojim vojskama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:03.622511519Z",
+  "model": "glm-5.3"
+}

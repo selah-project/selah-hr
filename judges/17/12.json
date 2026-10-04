@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I posveti Miha ⟨את⟩ ruku Levitovu, i bi mladić njemu za svećenika, i bijaše u domu Mihinu.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "posveti"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku Levitovu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levitovu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za svećenika"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mihinu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:28:31.452118385Z",
+  "model": "glm-5.3"
+}

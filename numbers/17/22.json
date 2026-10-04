@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I položi Moše ⟨את⟩ štapove pred Jahvu, u šatoru svjedočanstva.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "I položi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "štapove"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "štapove"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šatoru"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svjedočanstva"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:52.694556426Z",
+  "model": "glm-5.3"
+}

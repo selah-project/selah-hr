@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Mač izvukoše zli i napeše luk svoj da obore siromaha i nevoljnika, da pokolju prave ⟨u⟩ putu.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Mač"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "izvukoše"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zli"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "i napeše"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "luk svoj"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "da obore"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i nevoljnika"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "da pokolju"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prave"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:18.075230421Z",
+  "model": "glm-5.3"
+}

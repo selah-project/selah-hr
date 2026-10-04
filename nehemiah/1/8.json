@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Spomeni se, molim, ⟨את⟩ riječi koju si zapovjedio ⟨את⟩ Mošeu, sluzi svojemu, govoreći: Vi ćete se odmetnuti — ja ću ⟨את⟩ vas raspršiti među narode.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "spomeni se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluzi svojemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "ćete se odmetnuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "ću raspršiti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "među narode"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "među narode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:56:06.993636347Z",
+  "model": "glm-5.3"
+}

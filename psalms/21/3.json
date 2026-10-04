@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Želju srca njegova dao si mu, i molbu usana njegovih nisi uskratio. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "želju"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srca njegova"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dao si"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "i molbu"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "usana njegovih"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "uskratio si"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:27.535030642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I ⟨את}} kadionice, i ⟨את}} škropionice — koje ⟨bijahu⟩ zlato, zlato, a koje srebro, srebro — uze zapovjednik krvnika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadionice"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "kadionice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "škropionice"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "škropionice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a koje"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zapovjednik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnika"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:49.229884552Z",
+  "model": "glm-5.3"
+}

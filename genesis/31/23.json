@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Uze svoju braću sa sobom, potjera ga put sedam dana i sustiže ga ⟨את⟩ na gori Giladu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju braću"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoju braću"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa sobom"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "potjera"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "sustiže"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (na gori Giladu)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:29.724354433Z",
+  "model": "glm-5.3"
+}

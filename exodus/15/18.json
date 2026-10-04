@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Jahve će kraljevati uvijek i dovijeka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "će kraljevati"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "uvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:32.521941169Z",
+  "model": "glm-5.3"
+}

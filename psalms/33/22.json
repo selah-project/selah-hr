@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Budi tvoj hesed, Jahve, nad nama, kao što čekamo tebe!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "budi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "čekamo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:37.542879751Z",
+  "model": "glm-5.3"
+}

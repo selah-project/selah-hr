@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I napisa Moše ⟨את⟩ tu pjesmu onoga dana i pouči njome ⟨את⟩ sinove Jisraelove.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "napisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu pjesmu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "pouči njome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:23.093506960Z",
+  "model": "glm-5.3"
+}

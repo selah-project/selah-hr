@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Čuvaj svoj jezik od zla i svoje usne od govorenja prijevare.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "svoj jezik"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zla"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "i svoje usne"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "od govorenja"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevare"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:57.501912811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I podiže ⟨את⟩ stupove ⟨za⟩ trijem hrama, i podiže ⟨את⟩ desni stup te prozva ⟨את⟩ ime njegovo Jakin; i podiže ⟨את⟩ lijevi stup te prozva ⟨את⟩ ime njegovo Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stupove"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "za trijem"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hrama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desni stup"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stup"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "desni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "te prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lijevi stup"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "stup"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "lijevi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "te prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:09.489623762Z",
+  "model": "glm-5.3"
+}

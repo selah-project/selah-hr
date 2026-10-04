@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I vodio ih je oblakom po danu, i svu noć svjetlošću ognja.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i vodio ih je"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "oblakom"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "po danu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noć"
+    },
+    {
+      "surface": "באור",
+      "gloss": "svjetlošću"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.048422586Z",
+  "model": "glm-5.3"
+}

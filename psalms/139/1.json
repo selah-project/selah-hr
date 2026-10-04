@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Zborovođi. Davidova poučka pjesma. Jahve, ti si me ispitätio i poznaješ me.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "poučka pjesma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ti si me ispitätio"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "i poznaješ me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:00.291121783Z",
+  "model": "glm-5.3"
+}

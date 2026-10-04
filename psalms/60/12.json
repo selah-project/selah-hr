@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Zar ne, ti, Elohim, odbacio si nas, i ne izlaziš, Elohim, s vojskama našim!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "odbacio si nas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izlaziš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "s vojskama našim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:40.487133139Z",
+  "model": "glm-5.3"
+}

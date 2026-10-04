@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: Što si učinio? Glas krvi brata tvojega viče k meni iz zemlje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata tvojega"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "viče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:41.247251903Z",
+  "model": "glm-5.3"
+}

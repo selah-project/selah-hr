@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Golotinju žene oca svoga ne otkrivaj; golotinja je oca tvoga ona.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "golotinju"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אביק",
+      "gloss": "oca svoga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrivaj"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golotinja"
+    },
+    {
+      "surface": "אביק",
+      "gloss": "oca tvoga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:36.658675304Z",
+  "model": "glm-5.3"
+}

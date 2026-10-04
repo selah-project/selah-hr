@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kao što su se umnožili, tako su protiv mene sagriješili; slavu ću im u sramotu pretvoriti.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "Kao što su se umnožili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "su sagriješili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "slavu"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "u sramotu"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ću pretvoriti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:03.765171387Z",
+  "model": "glm-5.3"
+}

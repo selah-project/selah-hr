@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Vidješe je knezovi faraonovi i hvališe ⟨את⟩ nju faraonu; i žena bi uzeta u kuću faraonovu.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezovi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovi"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "i hvališe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i bi uzeta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:13.898690451Z",
+  "model": "glm-5.3"
+}

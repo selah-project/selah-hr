@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Svakoga čovjeka koji se usprotivi ⟨את⟩ ustima tvojim i ne posluša ⟨את⟩ riječi tvoje u svemu što mu zapovjediš — neka se pogubi; samo budi jak i hrabar!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "usprotivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustima tvojim"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ustima tvojim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi tvoje"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "riječi tvoje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "mu zapovjediš"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka se pogubi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "budi jak"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "i hrabar"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:44.366716390Z",
+  "model": "glm-5.3"
+}

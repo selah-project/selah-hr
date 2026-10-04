@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "A Elohim naš ⟨je⟩ u nebesima; sve što je htio, učinio je.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "A Elohim naš"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "u nebesima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "je htio"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uinio je"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:47.517744367Z",
+  "model": "glm-5.3"
+}

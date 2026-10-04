@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Kad je dobro cedek<ב> grad se raduje, a propašću zlih — klikćući <נ> plač.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "kad je dobro"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednicima"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "a propašću"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "uzvik <od radosti>"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:17.011016272Z",
+  "model": "glm-5.3"
+}

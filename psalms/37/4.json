@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I naslađuj se u Jahvi, i dat će ti prošnje srca tvoga.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "i naslađuj se"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dat će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "prošnje"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srca tvoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:20.042767667Z",
+  "model": "glm-5.3"
+}

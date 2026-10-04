@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zapovjeh ⟨את⟩ vam u ono vrijeme ⟨את⟩ sve riječi koje ćete činiti.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "I zapovjeh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vam"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ćete činiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:03.866777281Z",
+  "model": "glm-5.3"
+}

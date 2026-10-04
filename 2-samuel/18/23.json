@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A on reče: Bilo kako bilo, otrčat ću. I reče mu: Trči. I otrča Ahimac putem ravnice i preteče ⟨את⟩ Kušijca.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "otrčat ću"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "trči"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "i otrča"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimac"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ravnice"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i preteče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kušijca"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kušijca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:19.404504504Z",
+  "model": "glm-5.3"
+}

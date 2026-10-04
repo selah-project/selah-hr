@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Peleštijci stoje ⟨uz⟩ goru s jedne strane, a Jisrael stoji ⟨uz⟩ goru s druge strane, a dolina između njih.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "A Peleštijci"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s jedne strane"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Jisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s druge strane"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "a dolina"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "između njih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:10.301167719Z",
+  "model": "glm-5.3"
+}

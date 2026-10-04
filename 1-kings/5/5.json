@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I Jisrael i Jehuda stanovahu sigurno, svatko pod svojom lozom i pod svojom smokvom, od Dana do Beer-Ševe, sve dane Šelomove.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "stanovahu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "svojom lozom"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "i pod"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "svojom smokvom"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Dana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:22.268791429Z",
+  "model": "glm-5.3"
+}

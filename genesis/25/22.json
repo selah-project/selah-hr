@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I djeca se sudarahu u njenoj utrobi, i ona reče: Ako je tako, zašto sam ja ovo? I ode da traži ⟨את⟩ Jahvu.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "sudarahu se"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "djeca"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "u njenoj utrobi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כן",
+      "gloss": "je tako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "da traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:53.519915549Z",
+  "model": "glm-5.3"
+}

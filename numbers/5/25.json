@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I svećenik uzme iz ruke žene ⟨את⟩ žrtvu ljubomore, i zamaše ⟨את⟩ minhoom pred Jahvom, i prinese je k žrtveniku.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu ljubomore"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "ljubomore"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "i zamaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minhu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (minhu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:05.672162443Z",
+  "model": "glm-5.3"
+}

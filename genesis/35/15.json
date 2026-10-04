@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I prozva Jaakov ⟨את⟩ ime mjesta gdje razgovaraše s njim ⟨את⟩ ondje Elohim: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime mjesta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "razgovaraše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:40.735324053Z",
+  "model": "glm-5.3"
+}

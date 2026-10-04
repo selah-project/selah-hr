@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I nadvlada David Filistejca praćkom i kamenom, te udari ⟨את⟩ Filistejca i ubi ga; a mača nije bilo u ruci Davidovoj.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i nadvlada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejcem"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "praćkom"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "i kamenom"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "te udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistejca"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejca"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i ubi ga"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "a mač"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije bilo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruci"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:52.259305293Z",
+  "model": "glm-5.3"
+}

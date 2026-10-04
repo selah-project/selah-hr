@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I izađe Sotona od ⟨את⟩ lica Jahvina te udari ⟨את⟩ Ijoba zlim čirima, od tabana njegove noge do tjemena njegova.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i izađe"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sotona"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "lica Jahvina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "te udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijoba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijoba"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "čirima"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlim"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "od tabana"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tjemena njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:20.108578249Z",
+  "model": "glm-5.3"
+}

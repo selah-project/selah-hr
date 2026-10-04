@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I načini ⟨את⟩ motke od drveta šitim i obloži ⟨את⟩ njih tučem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drveta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tučem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:15.439574970Z",
+  "model": "glm-5.3"
+}

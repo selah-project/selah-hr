@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I umrije Ivcan, i bi pokopan u Bet-Lehemu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivcan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i bi pokopan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lehem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:52.239765131Z",
+  "model": "glm-5.3"
+}

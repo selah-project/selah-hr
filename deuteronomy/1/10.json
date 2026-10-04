@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jahve, Elohim vaš, umnoži ⟨את⟩ vas; i gle, danas ste brojni kao zvijezde na nebu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "umnoži"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "i gle, vi ste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "kao zvijezde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "na nebu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "brojni"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:26.925582207Z",
+  "model": "glm-5.3"
+}

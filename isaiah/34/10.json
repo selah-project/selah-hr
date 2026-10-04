@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Noću i danju neće se ugasiti; zauvijek će se dizati dim njezin; od naraštaja do naraštaja opustjet će; dovijeka, u vijeke vjekova — nitko neće prolaziti kroza nju.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "i danju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ugasit će se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dizat će se"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "dim njezin"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "od naraštaja"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "do naraštaja"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "opustjet će"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "u vijeke vjekova"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tko prolazi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kroza nju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:50.793374212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Ako tko dođe ⟨da me vidi⟩, govori prijevaru; srce mu sakuplja opačinu za se; iziđe van — govori.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨da me vidi⟩"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "prijevaru"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce mu"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "sakuplja"
+    },
+    {
+      "surface": "און",
+      "gloss": "opačinu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za se"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "van"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "govori"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:11.940416866Z",
+  "model": "glm-5.3"
+}

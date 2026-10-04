@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "U dan svoje tjeskobe zazvat ću te, jer ćeš me ti odgovoriti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "svoje tjeskobe"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "zazvat ću te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ćeš me ti odgovoriti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.453949131Z",
+  "model": "glm-5.3"
+}

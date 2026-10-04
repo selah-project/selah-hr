@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I satrl je ⟨את⟩ stupove, i posjekao ⟨את⟩ ašere, i napunio ⟨את⟩ mjesta njihova kostima ljudskim.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "I satrl je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stupove"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i posjekao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i napunio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjesta njihova"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "mjesta njihova"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kostima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:10.442459676Z",
+  "model": "glm-5.3"
+}

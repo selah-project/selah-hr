@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I gonjaše David, on i četiri stotine ljudi; a stadoše dvije stotine ljudi koje iznemogoše ⟨את⟩-prijelaz preko potoka Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "i gonjaše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "i četiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotine"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "a stadoše"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvije stotine"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "iznemogoše"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "prijelaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:17.593646293Z",
+  "model": "glm-5.3"
+}

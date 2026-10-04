@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Koža mi je pocrnjela na meni, i kosti mi goru od žega.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "koža mi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "pocrnjela"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na meni"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "i kosti mi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "goru"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "žega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:54.845566322Z",
+  "model": "glm-5.3"
+}

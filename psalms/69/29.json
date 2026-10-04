@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Neka se izbrišu iz knjige živih i da ne budu zapisani s pravednima.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "neka se izbrišu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "iz knjige"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živih"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "budu zapisani"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:12.892569634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "i ⟨את⟩ žrtvenik kadiona i ⟨את⟩ njegove palice i ⟨את⟩ ulje pomazanja i ⟨את⟩ kadilo od mirodija i ⟨את⟩ zavjesu ulaza na ulazu Miškana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik kadiona"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadiona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palice njegove"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palice njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadilo od mirodija"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadilo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "od mirodija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zavjesa ulaza"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:35.071788335Z",
+  "model": "glm-5.3"
+}

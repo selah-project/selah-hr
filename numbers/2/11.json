@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I vojska njegova i popisani njegovi: šest i četrdeset tisuća i pet stotina.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i vojska njegova"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "i popisani njegovi"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "šest"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "i četrdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:44.113817647Z",
+  "model": "glm-5.3"
+}

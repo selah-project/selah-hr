@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Zar ne mrzim, Jahve, one koji te mrze, i ne borim li se s onima koji se dižu protiv tebe?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "oni koji te mrze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "mrzim"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "i s onima koji se dižu protiv tebe"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ne borim li se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:04.943544462Z",
+  "model": "glm-5.3"
+}

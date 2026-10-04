@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Jer usta zla i usta prijevare protiv mene otvoriše, govoriše sa mnom ⟨את⟩ jezikom laži.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "otvoriše"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govoriše"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa mnom"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezikom"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:04.892875357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Predaješ nas kao stoku za hranu, i među narode rasuo si nas.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "predaješ nas"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kao stoku"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "za hranu"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "i među narode"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "rasuo si nas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:33.751598690Z",
+  "model": "glm-5.3"
+}

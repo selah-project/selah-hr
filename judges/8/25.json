@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A oni rekoše: Dat ćemo, dat ćemo ⟨radije⟩. I prostre ⟨את⟩ ogrtač, i bacaše ondje svaki čovjek naušnicu iz svojega plijena.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a oni rekoše"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "dat ćemo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dat ćemo"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "i prostre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogrtač"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "ogrtač"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "i bacaše"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "naušnicu"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "iz svojega plijena"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:12.051493322Z",
+  "model": "glm-5.3"
+}

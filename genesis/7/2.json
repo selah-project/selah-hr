@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Od sve čiste marve uzmi k sebi sedam i sedam, mužjaka i ženku njegovu, a od marve koja nije čista, dva, mužjaka i ženku njegovu.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od sve"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "marve"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "čiste"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužjaka"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i ženku njegovu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a od"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "marve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "čista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužjaka"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i ženku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:41.944483284Z",
+  "model": "glm-5.3"
+}

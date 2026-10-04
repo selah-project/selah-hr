@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uze Moše ⟨את⟩ ulje pomazanja, i pomaza ⟨את⟩ Miškan i ⟨את⟩ sve što je u njemu, i posveti ⟨את⟩ ih.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "i pomaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בו",
+      "gloss": "je u njemu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.449539386Z",
+  "model": "glm-5.3"
+}

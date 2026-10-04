@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ne čini sebi lika klesana, nijedan lik bilo čega što je na nebu gore, što je na zemlji dolje, i što je u vodama pod zemljom.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "lika klesana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nijedan"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "lik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što je"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebu"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i što je"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dolje"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i što je"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodama"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:42.308656816Z",
+  "model": "glm-5.3"
+}

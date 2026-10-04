@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I postavi ⟨את⟩ sve što se nađe u Jerušalajimu i Benjaminu; i učiniše stanovnici Jerušalajima po savezu Elohim, Elohim otaca svojih.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što se nađe u Jerušalajimu i Benjaminu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "što se nađe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Benjaminu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnici"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "po savezu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "otaca svojih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:14.075848414Z",
+  "model": "glm-5.3"
+}

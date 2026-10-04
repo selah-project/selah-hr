@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče Jahve meni: Uzmi sebi glavicu veliku i napiši na nju pisaljkom čovječjom: Maher-šalal-haš-baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "glavica"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "i napiši"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "pisaljkom"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "čovječjom"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "šalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "haš"
+    },
+    {
+      "surface": "בז",
+      "gloss": "baz"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:27.251800636Z",
+  "model": "glm-5.3"
+}

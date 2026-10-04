@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Dobar ⟨je⟩ Jahve svima, i njegova mu milost nad svim djelima njegovim.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "i njegova mu milost"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "djelima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:45.087777086Z",
+  "model": "glm-5.3"
+}

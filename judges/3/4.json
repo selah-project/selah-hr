@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ostadoše da bi njima iskušavali ⟨את⟩ Jisrael, da se zna hoće li slušati ⟨את⟩ zapovijedi Jahvine koje je zapovjedio ⟨את⟩ ocima njihovim rukom Mošeovom.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i ostadoše"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "da iskušavaju"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da se zna"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "hoće li slušati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocima njihovim"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ocima njihovim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:39.096920432Z",
+  "model": "glm-5.3"
+}

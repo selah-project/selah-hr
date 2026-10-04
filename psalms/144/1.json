@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Davidov. Blagoslovljen Jahve, stijena moja, koji uči ruke moje boju, prste moje ratu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijena moja"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "koji uči"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruke moje"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "boju"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "prste moje"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.163712426Z",
+  "model": "glm-5.3"
+}

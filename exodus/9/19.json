@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A sada pošalji, skloni ⟨את⟩ stoku svoju i ⟨את⟩ sve što imaš u polju: svaki čovjek i živina što se nađe u polju, a ne skupi se u kuću, na njih će pasti grad i umrijet će.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pošalji"
+    },
+    {
+      "surface": "העז",
+      "gloss": "skloni, pobrzi (utezi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku svoju"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "stoku svoju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što imaš u polju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imaš"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "i živina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe se"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "skupi se"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "u kuću"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "past će"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:36.094549858Z",
+  "model": "glm-5.3"
+}

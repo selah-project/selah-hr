@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I ostavio je ⟨את⟩ Jahvu, Elohim otaca svojih, i nije hodio putem Jahvinim.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "i ostavio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodio"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:48.636433043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ lonce, i ⟨את⟩ lopare, i ⟨את⟩ škropilnice, i ⟨את⟩ sve predmete — to je posuđe koje načini Hiram kralju Šalomohu za dom Jahvin, od polirane mjedi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lonce"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "lonce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lopare"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "škropilnice"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "škropilnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve predmete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomohu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "za dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mjedi"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "polirane"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:14.492910420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I nosit će ⟨את⟩ zavjese Miškana i ⟨את⟩ šator sastanka, pokrivač njegov i pokrivač od tahasove kože koji je na njemu odozgor, i ⟨את⟩ zastor na ulazu šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "i nosit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavjese"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "zavjese"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "šator"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "pokrivač njegov"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "i pokrivač"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "tahasove kože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "odozgor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zastor"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zastor"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:28.794597312Z",
+  "model": "glm-5.3"
+}

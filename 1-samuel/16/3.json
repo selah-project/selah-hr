@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I pozovi Jišaja k žrtvi, a ja ću te obavijestiti ⟨את⟩ što imaš činiti, i pomaži mi ⟨את⟩ onoga za koga ti rečem.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "I pozovi"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "k žrtvi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ću te obavijestiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što imaš činiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imaš činiti"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomaži"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga za koga ti rečem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga za koga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rečem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:56.161418485Z",
+  "model": "glm-5.3"
+}

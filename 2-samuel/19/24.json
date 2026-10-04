@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče kralj Šimiju: Nećeš umrijeti. I zakle mu se kralj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kralj)"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimiju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ćeš umrijeti"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:26.606413317Z",
+  "model": "glm-5.3"
+}

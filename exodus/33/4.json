@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I ču narod ⟨את⟩ tu ružnu vijest, i ožalošćivši se, ne stavi nitko svoj nakit na se.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I ču"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu ružnu vijest"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vijest"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ružnu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "i ožalošćivši se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "svoj nakit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:51.343868415Z",
+  "model": "glm-5.3"
+}

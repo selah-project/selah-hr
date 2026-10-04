@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A kad vidje Jahve da je skrenuo da vidi, zovnu ga Elohim iz sredine grma i reče: Moše! Moše! A on reče: Evo me!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a kad vidje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "סר",
+      "gloss": "skrenuo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "zovnu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "grma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Evo me"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:07.760028321Z",
+  "model": "glm-5.3"
+}

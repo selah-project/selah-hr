@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "i vola i ovna za žrtve mira, da se zakolju pred Jahvom, i minhut pomiješanu s uljem, jer danas će vam se Jahve objaviti.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "i vola"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "i ovna"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "za žrtve mira"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "da se zakolju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "i minhut"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "pomiješanu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s uljem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "objaviti"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:28.007161266Z",
+  "model": "glm-5.3"
+}

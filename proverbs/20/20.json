@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Tko prokune oca svojega i majku svoju, ugasit će se svjetiljka njegova u zoru mraku tmine.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "prokune"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i majku svoju"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ugasit će se"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "svjetiljka njegova"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "u zoru mraku"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:24.516650075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Probudi se! Zašto spavaš, Adonaj? Preni se, ne odbacuj nas dovijeka!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "probudi se"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "spavaš"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "preni se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "odbacuj"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:37.084046551Z",
+  "model": "glm-5.3"
+}

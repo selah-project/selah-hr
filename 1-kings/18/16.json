@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ode Obadija u susret Ahavu i javi mu; te ode Ahav u susret Eliji.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I ode"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadija"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "u susret"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i javi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "te ode"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "u susret"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:28.810599599Z",
+  "model": "glm-5.3"
+}

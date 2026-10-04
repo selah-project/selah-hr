@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "Jahve ⟨je⟩ cedek, presjekao je užad zlikovaca.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "presjekao je"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "užad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.034366473Z",
+  "model": "glm-5.3"
+}

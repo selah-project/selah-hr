@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I uzmeš od krvi bika i staviš na rogove žrtvenika prstom svojim, a ⟨את⟩ svu krv izliješ k podnožju žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzmeš"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "staviš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "prstom svojim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu krv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "izliješ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podnožju"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:59.564804218Z",
+  "model": "glm-5.3"
+}

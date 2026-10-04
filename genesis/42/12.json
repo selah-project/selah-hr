@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "A on im reče: Ne, nego golotinju zemlje došli ste vidjeti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golotinju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "došli ste"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vidjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:49.086662930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Ali oni se buniše i žalostiše ⟨את⟩ ruah svetosti svoje; pa se on pretvori njima u neprijatelja — on sam zarati protiv njih.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ali oni"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "buniše se"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "i žalostiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah svetosti svoje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetosti svoje"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "pa se pretvori"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "u neprijatelja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sam"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "zarati"
+    },
+    {
+      "surface": "בם",
+      "gloss": "protiv njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:23.071084152Z",
+  "model": "glm-5.3"
+}

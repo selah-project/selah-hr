@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Sa svojim stadima i govedima ići će tražiti ⟨את⟩ Jahvu, ali ga neće naći; on se povukao od njih.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "sa svojim stadima"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "i govedima"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ići će"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "će naći"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "povukao se"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:08.585614690Z",
+  "model": "glm-5.3"
+}

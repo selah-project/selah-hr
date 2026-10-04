@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uzet će ⟨את⟩ vaša polja, ⟨את⟩ vaše vinograde i vaše maslinike najbolje, i dat će svojim slugama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaša polja"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "vaša polja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaše vinograde"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "vaše vinograde"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "i vaše maslinike"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "najbolje"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzet će"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dat će"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "svojim slugama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:24.664955931Z",
+  "model": "glm-5.3"
+}

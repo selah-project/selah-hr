@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne činite nepravdu u sudu; ne diči lice siromaha i ne časti lice velika — u cedeku sudi svoga bližnjega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "činite"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravdu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "u sudu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "diči"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "דל",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "časti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velika"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "svoga bližnjega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:56.389085304Z",
+  "model": "glm-5.3"
+}

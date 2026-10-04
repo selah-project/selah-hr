@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Govori sinovima Jisraelovim i reci im: Kad koji čovjek od vas prinese prinos Jahvi, od stoke, od goveda ili od sitne stoke, prinosit ćete ⟨את⟩ svoj prinos.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od vas"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "prinos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "stoke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ili od"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sitne stoke"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "prinosit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj prinos"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "svoj prinos"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.424334129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A čovjek koji leži s ⟨את⟩ ženom oca svojega — golotinju oca svojega otkrio je — smrću neka se pogube obojica; krv njihova na njima.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženom oca svojega"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golotinju"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otkrio je"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obojica"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "krv njihova"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:17.194853004Z",
+  "model": "glm-5.3"
+}

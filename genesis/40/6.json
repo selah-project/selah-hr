@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I dođe k njima Josip ujutro, i vidje ⟨את⟩ njih, a gle, bili su zlovoljni.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k njima"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "zlovoljni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:36.805356772Z",
+  "model": "glm-5.3"
+}

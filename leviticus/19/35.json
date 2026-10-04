@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne činite nepravde u sudu, u mjeri duljine, u težini i u mjeri za tekućine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "činite"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravde"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "u sudu"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "u mjeri duljine"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "u težini"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "i u mjeri za tekućine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:57.498961587Z",
+  "model": "glm-5.3"
+}

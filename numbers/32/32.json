@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 32:32",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Mi ćemo preći naoružani pred Jahvom u zemlju kanaansku, a naš će baštinski posjed ⟨את⟩ ostati ⟨את⟩ s nama s onu stranu Jordana.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "ćemo preći"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "naoružani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kanaansku"
+    },
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ s nama",
+      "marks": "mi"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "posjed"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "naša baština"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:11.456169975Z",
+  "model": "glm-5.3"
+}

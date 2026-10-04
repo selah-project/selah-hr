@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I kralj skide ⟨את⟩ svoj pečatni prsten koji bijaše uzeo od Hamana i dade ga Mordechaju; a Ester postavi ⟨את⟩ Mordechaja nad domom Hamanovim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i skide"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj pečatni prsten"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "svoj pečatni prsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "bijaše uzeo"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "od Hamana"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dade ga"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechaju"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a postavi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechaja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domom"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:44.620978436Z",
+  "model": "glm-5.3"
+}

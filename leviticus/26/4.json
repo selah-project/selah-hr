@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "dat ću vam dažđeve vaše u njihovo doba, i zemlja će dati rod svoj, i drvje poljsko dat će plod svoj —",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "dažđeve vaše"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "u njihovo doba"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i dati će"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "rod svoj"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "i drvje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljsko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dat će"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "plod svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:03.969790855Z",
+  "model": "glm-5.3"
+}

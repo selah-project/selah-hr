@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Zato evo mene protiv tebe i protiv tvojih rijeka, i dat ću ⟨את⟩ zemlju Micrajima u pustoš, u suhu pustoš, od Migdola do Seveneha do međe Kuša.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo mene"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "protiv tebe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i protiv"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "tvojih rijeka"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju Micrajima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "u pustoš"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "u suhu pustoš"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustoš"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "od Migdola"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "Seveneha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "međe"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:01.880504267Z",
+  "model": "glm-5.3"
+}

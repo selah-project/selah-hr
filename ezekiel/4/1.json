@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A ti, sine čovječji, uzmi sebi opeku i stavi ⟨את⟩ je pred sebe, i ureži na nju grad ⟨את⟩ Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "opeku"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ je",
+      "marks": "opeka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred sebe"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "i ureži"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:53.232254992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ako si ⟨את⟩ brata našega ⟨את⟩ nama spreman poslati, sići ćemo i nabaviti ti hranu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "si spreman"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "poslati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata našega"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "brata našega"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nama"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "sići ćemo"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "i nabaviti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hranu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:11.212151257Z",
+  "model": "glm-5.3"
+}

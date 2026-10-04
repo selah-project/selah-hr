@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i njezin muž čuje, pa prešutí ⟨joj⟩ i ne zabrani ⟨את⟩ ju — tad stoje svi njezini zavjeti i svaka obveza koju je obvezala na svoju dušu — stoji.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "i čuje"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "njezin muž"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "pa prešutí"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨joj⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "zabrani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ju",
+      "marks": "zavjeti i obveza koje ostaju na snazi"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "tad stoje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "njezini zavjeti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svaka"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "obveza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "obvezala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "svoju dušu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "stoji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:53.255451108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A one joj rekoše: Ne, nego s ⟨את⟩ tobom vratit ćemo se tvome narodu.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego (zaista)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s ⟨את⟩ tobom"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "vratit ćemo se"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "tvome narodu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:53.313969873Z",
+  "model": "glm-5.3"
+}

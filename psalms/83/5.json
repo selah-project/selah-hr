@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Rekoše: Dođite, i istrijebimo ih ⟨između⟩ naroda, i neće se više spominjati ime Jisraelovo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Rekoše"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Dođite"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "i istrijebimo ih"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨između⟩ naroda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće se"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "spominjati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.454800212Z",
+  "model": "glm-5.3"
+}

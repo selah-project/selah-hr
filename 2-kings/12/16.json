@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ne obračunavahu ⟨את⟩ ljudi kojima davahu ⟨את⟩ srebro u ruke, da ga dadu onima koji rade rad, jer u vjernosti rade.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "obračunavahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "davahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da dadu"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "onima koji rade"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "u vjernosti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "rade"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:01.738909465Z",
+  "model": "glm-5.3"
+}

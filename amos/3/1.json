@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 3:1",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Čujte ovu ⟨את⟩ riječ koju Jahve govori protiv vas, sinovi Jisraelovi, protiv sveg roda koji sam izveo iz zemlje micrajske, govoreći:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Čujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "protiv vas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sveg"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "roda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "sam izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:55.509439956Z",
+  "model": "glm-5.3"
+}

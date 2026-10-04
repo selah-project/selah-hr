@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I bojaše se David ⟨את⟩ Jahve onoga dana te reče: Kako će k meni doći Kovčeh Jahvin?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i bojaše se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "će doći"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:15.232070660Z",
+  "model": "glm-5.3"
+}

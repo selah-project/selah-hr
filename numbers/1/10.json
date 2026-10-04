@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Za sinove Josipove: za Efrajima, Elišama sin Amihudov; za Manašea, Gamliel sin Pedacurov.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "za sinove"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipa"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "za Efrajima"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elišama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihudov"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "za Manašea"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedacurov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:24.474974336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I priđe Aharon k žrtveniku, i zakla ⟨את⟩ tele, prinos za grijeh, koje bijaše za njega.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i priđe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "i zakla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tele"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "prinos za grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:04.008095087Z",
+  "model": "glm-5.3"
+}

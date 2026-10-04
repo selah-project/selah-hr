@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Sabrat ću čovjeka i stoku, sabrat ću ptice neba i ribe mora, i zapreke ⟨את⟩ zlikovce; i istrijebit ću ⟨את⟩ čovjeka s lica zemlje, riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Sabrat ću"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "i stoku"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "sabrat ću"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "i ribe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "i zapreke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlikovce"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "zlikovce"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i istrijebit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:28.534085655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I približi Šemuel ⟨את⟩ sva plemena Jisraelova, i bi uhvaćeno pleme Binjaminovo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i približi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva plemena Jisraelova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i bi uhvaćeno"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminovo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:04.386686035Z",
+  "model": "glm-5.3"
+}

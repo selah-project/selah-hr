@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "A sada rano ustani ujutro, ti i sluge gospodara svojega koji su došli ⟨את⟩ s tobom, i kad rano ustanete ujutro i svane vam, pođite.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "rano ustani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "i sluge"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "באו",
+      "gloss": "su došli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom",
+      "marks": "ti i sluge gospodara tvoga"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "i kad rano ustanete"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "i svane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "ו לכו",
+      "gloss": "pođite"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:15.454316334Z",
+  "model": "glm-5.3"
+}

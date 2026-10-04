@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "poslat će starješine njegova grada i uzet će ⟨את⟩ njega odande, i predat će ⟨את⟩ njega u ruku osvetnika krvi, i umrijet će.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "poslat će"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "njegova grada"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "i uzet će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i predat će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "osvetnika"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:05.654375276Z",
+  "model": "glm-5.3"
+}

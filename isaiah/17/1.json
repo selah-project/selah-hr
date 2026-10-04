@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Breme Damaška. Gle, Damašak je uklonjen ⟨da ne bude⟩ grad, i bit će ruševina — gomila otpada.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "breme"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaška"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašak"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "je uklonjen"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "od grada"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ruševina"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "gomila otpada"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:19.034890541Z",
+  "model": "glm-5.3"
+}

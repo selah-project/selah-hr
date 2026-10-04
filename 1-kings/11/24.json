@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I skupi k sebi ljude i posta vođa čete kad ⟨את⟩ ih David pobija; otišoše u Damašek, nastaniše se u njemu i zavladaše u Damašeku.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "posta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vođa"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "čete"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "kad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (ljude)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "otišoše"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "u Damašek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nastaniše se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "zavladaše"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "u Damašeku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:07.859782623Z",
+  "model": "glm-5.3"
+}

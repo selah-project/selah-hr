@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I neće reći stanovnik: 'Bolestan sam'; narodu koji u njoj prebiva ⟨oprašta se⟩ krivnja.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reći"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "stanovnik"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "bolestan sam"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "koji prebiva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨oprašta se⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:34.539003599Z",
+  "model": "glm-5.3"
+}

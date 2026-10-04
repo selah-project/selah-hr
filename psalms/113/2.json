@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 113,
+  "translation": "Bilo ⟨je⟩ blagoslovljeno ime Jahvino od sada i dovijeka!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Bilo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "blagoslovljeno"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od sada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.681825988Z",
+  "model": "glm-5.3"
+}

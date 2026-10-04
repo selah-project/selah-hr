@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 20:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "U ono vrijeme posla Berodak-Baladan, sin Baladanov, kralj Babela, knjige i dar Hizkijahu, jer je čuo da je obolio Hizkijahu.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "בראדך",
+      "gloss": "Berodak"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladanov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "knjige"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "i dar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizkijahu — "
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "je čuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "je obolio"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:14.661469243Z",
+  "model": "glm-5.3"
+}

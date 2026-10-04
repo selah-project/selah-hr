@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Neka doda Jahve vama, vama i vašim sinovima.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "neka doda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vašim sinovima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.272290475Z",
+  "model": "glm-5.3"
+}

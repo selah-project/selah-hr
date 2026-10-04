@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Iz usta dječice i dojenčadi utvrdio si snagu radi protivnika svojih, da ušutkaš neprijatelja i osvetnika.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Iz usta"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "dječice"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "i dojenčadi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "utvrdio si"
+    },
+    {
+      "surface": "עז",
+      "gloss": "snagu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "protivnika svojih"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "da ušutkaš"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "i osvetnika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:37.207690414Z",
+  "model": "glm-5.3"
+}

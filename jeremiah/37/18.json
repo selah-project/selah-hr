@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I reče Jirmejah kralju Tsidkijahu: Što sam sagriješio tebi, i tvojim slugama, i ovom narodu, što ste ⟨את⟩ mene stavili u kuću tamnice?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sam sagriješio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ו לעבדיך",
+      "gloss": "i tvojim slugama"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "i narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "stavili ste"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mene",
+      "marks": "mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "tamnice"
+    }
+  ],
+  "timestamp": "2026-10-04T18:31:42.223925098Z",
+  "model": "glm-5.3"
+}

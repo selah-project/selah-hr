@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "te im nakale krivnju prijestupa kad jedu ⟨את⟩ svoje svetinje; jer ja sam Jahve koji ih posvećujem.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "te im nakale"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "krivnju"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "prijestupa"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "kad jedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje svetinje"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "svoje svetinje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "koji ih posvećujem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:28.891698207Z",
+  "model": "glm-5.3"
+}

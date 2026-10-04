@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato će čovjek ostaviti ⟨את⟩ oca svojega i ⟨את⟩ majku svoju, i prionuti uz ženu svoju, i bit će jedno meso.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ostaviti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "majku svoju"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majku svoju"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "prionuti"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "uz ženu svoju"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.578197946Z",
+  "model": "glm-5.3"
+}

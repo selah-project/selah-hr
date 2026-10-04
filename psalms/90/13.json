@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Vrati se, Jahve — dokle? — i sažali se nad slugama svojim.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vrati se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "i sažali se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "slugama svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:11.561923205Z",
+  "model": "glm-5.3"
+}

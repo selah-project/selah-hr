@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I udari Jahve ⟨את⟩ kralja, te bi gubavac do dana svoje smrti; i življaše u kući odvojenoj, a Jotam, sin kraljev, bijaše nad domom, sudeći ⟨את⟩ narodu zemlje.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "te bi"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "gubavac"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "svoje smrti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "odvojenoj"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "a Jotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domom"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sudeći"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narodu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:19.595869816Z",
+  "model": "glm-5.3"
+}

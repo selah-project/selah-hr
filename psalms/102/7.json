@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Sličan sam pelikanu u pustinji, postadoh kao kukuvija ruševina.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "sličan sam"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikanu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "postadoh"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "kao kukuvija"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruševina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.977768756Z",
+  "model": "glm-5.3"
+}

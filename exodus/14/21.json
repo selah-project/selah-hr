@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I pruži Moše ⟨את⟩ ruku svoju nad more, i povede Jahve ⟨את⟩ more silnim istočnim ruah cijele noći, i učini ⟨את⟩ more suhim tlom, i rastaviše se vode.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i pruži"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "i povede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "istočnim"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "silnim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "suhim tlom"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "i rastaviše se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:40.968978599Z",
+  "model": "glm-5.3"
+}

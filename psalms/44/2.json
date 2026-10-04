@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Elohim, ušima svojim čusmo, oci naši kazivaše nam djelo koje si učinio u dane njihove, u dane starodavne.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ušima svojim"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "čusmo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "oci naši"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kazivaše"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "koje si učinio"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "u dane njihove"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "starodavne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:30.560354921Z",
+  "model": "glm-5.3"
+}

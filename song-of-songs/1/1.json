@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Pjesma nad pjesmama, koja je Šalomounova.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "nad pjesmama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "je Šalomounova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:25.211055316Z",
+  "model": "glm-5.3"
+}

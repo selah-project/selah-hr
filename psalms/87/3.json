@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "Slavne stvari rečene su ⟨o⟩ tebi, grade Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "slavne stvari"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "rečene"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grade"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:30.558276371Z",
+  "model": "glm-5.3"
+}

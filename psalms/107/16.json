@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Jer slomi vrata od medi i priječnice od željeza posiječe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "slomi"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od medi"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "i priječnice"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "od željeza"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "posiječe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:53.867824105Z",
+  "model": "glm-5.3"
+}

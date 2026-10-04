@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ ostatak naroda što je ostao u gradu, i ⟨את⟩ prebjege koji su prebjegli kralju babilonskom, i ⟨את⟩ ostatak mnoštva odvede Nabuzaradan, glavar krvnika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ostatak naroda"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "što je ostao"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prebjege"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "prebjege"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "su prebjegli"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ostatak mnoštva"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "odvede"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nabuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "glavar"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnika"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:38.516046116Z",
+  "model": "glm-5.3"
+}

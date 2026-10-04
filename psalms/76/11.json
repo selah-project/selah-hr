@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Jer srdžba čovjeka slavit će tebe; ostatak srdžbe tebi ćeš ⟨se⟩ opasati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "srdžba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "slavit će tebe"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "srdžbe"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ćeš opasati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:22.853131217Z",
+  "model": "glm-5.3"
+}

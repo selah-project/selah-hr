@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I iznijet će ⟨את⟩ junca izvan tabora, i spalit će ga kao što je spalio ⟨את⟩ prvoga junca: žrtva je grijeha za zajednicu on ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "i iznijet će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "i spalit će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvoga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "žrtva grijeha"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "za zajednicu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:51.956281601Z",
+  "model": "glm-5.3"
+}

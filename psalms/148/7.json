@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Hvalite ⟨את⟩ Jahve s zemlje, more-zmije i sve dubine!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "more-zmije"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "dubine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.846599053Z",
+  "model": "glm-5.3"
+}

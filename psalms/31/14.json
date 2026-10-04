@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Jer čuo sam klevetu mnogih, strah sa sviju strana; dok se zajedno dogovarahu protiv mene, smišljahu da uzmu moj život.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "klevetu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "strah"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa sviju strana"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "dok se dogovarahu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "da uzmu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moj život"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "smišljahu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.138446249Z",
+  "model": "glm-5.3"
+}

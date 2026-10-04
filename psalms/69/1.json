@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Zborovođi, na melodiju »Šušan«, Davidovo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Šušan (lilije)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.573089677Z",
+  "model": "glm-5.3"
+}

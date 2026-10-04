@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ svinju, jer rascjepljuje kopito, i razrezano razrezuje kopito, a on žvaku ne izbljuje — nečist je vama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svinja"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rascjepljuje"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "i razrezano"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "razrezuje"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopito"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "izbljuje"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:02.954724828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Micrajim se obradova njihovu izlasku, jer strah od njih pade na njih.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "se obradova"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "njihovu izlasku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "strah od njih"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:43.322726046Z",
+  "model": "glm-5.3"
+}

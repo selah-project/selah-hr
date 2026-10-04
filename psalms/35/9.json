@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I duša će moja klicati u Jahvi, radovat će se u spasenju njegovu.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "i duša moja"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "klicati će"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvi"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "u spasenju njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:27.122751101Z",
+  "model": "glm-5.3"
+}

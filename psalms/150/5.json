@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 150,
+  "translation": "Hvalite ga cimbalima zvonkim, hvalite ga cimbalima radosti ⟨koja se čuje kao poklik⟩!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "cimbalima zvonkim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "cimbalima"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "poklik"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:31.555848844Z",
+  "model": "glm-5.3"
+}

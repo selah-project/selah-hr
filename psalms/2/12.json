@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Poljubite Sina, da se ne razgnjevi i da ne poginete na putu; jer će gnjev njegov planuti za malo. Blago svima koji se k njemu utječu!",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "Poljubite"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da se ne"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "razgnjevi"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "i da ne poginete"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "će planuti"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "za malo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gnjev njegov"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "koji se utječu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:02.201679846Z",
+  "model": "glm-5.3"
+}

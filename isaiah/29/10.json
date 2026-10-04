@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer Jahve izli na vas ruah dubokoga sna, i zatvori ⟨את⟩ oči vaše ⟨az⟩ ⟨את⟩ proroke, i ⟨את⟩ glave vaše ⟨az⟩ vidjelce prekri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "izli"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dubokoga sna"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "i zatvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči vaše"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "oči vaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroke"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "glave vaše"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "glave vaše"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "vidjelce"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "prekri"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:43.728158905Z",
+  "model": "glm-5.3"
+}

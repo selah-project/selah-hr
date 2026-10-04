@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 125,
+  "translation": "Učini dobro, Jahve, dobrima i čestitima u njihovim srcima.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Učini dobro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "dobrima"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "i čestitima"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "u njihovim srcima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:17.337577389Z",
+  "model": "glm-5.3"
+}

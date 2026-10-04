@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I postavi ⟨את⟩ jednoga u Bet-El, a ⟨את⟩ drugoga postavi u Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drugoga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "u Dan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:36.594506066Z",
+  "model": "glm-5.3"
+}

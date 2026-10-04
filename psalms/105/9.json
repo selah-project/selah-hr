@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "koji sklopi ⟨s savezom⟩ s ⟨את⟩ Avrahamom, i svoju zakletvu Jicaku:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopi ⟨s savezom⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamom"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "i svoju zakletvu"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jicaku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:43.831148884Z",
+  "model": "glm-5.3"
+}

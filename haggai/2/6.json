@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Jer ovako reče Jahve Cebaot: još jednom, malo ⟨vremena⟩, i ja ću potresti ⟨את⟩ nebesa i ⟨את⟩ zemlju i ⟨את⟩ more i ⟨את⟩ kopno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨vremena⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ću potresti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kopno"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "kopno"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:39.523087725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Zaista, pravednici će zahvaljivati imenu tvomu, ispravni će prebivati pred licem tvojim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednici"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "će zahvaljivati"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "imenu tvomu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "će prebivati"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ispravni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pred licem tvojim"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "licem tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:45.307773310Z",
+  "model": "glm-5.3"
+}

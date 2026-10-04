@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Samo vas poznah od svih rodova zemlje; zato ću pohoditi ⟨את⟩ sve vaše opačine na vas.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "rodova"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato ⟨zbog toga⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨stoga⟩"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ću pohoditi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve vaše opačine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "vaše opačine"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:55.509725002Z",
+  "model": "glm-5.3"
+}

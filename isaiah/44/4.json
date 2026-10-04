@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "i niknut će među travom poput vrba uz potoke voda.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "i niknut će"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "među"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "travom"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "poput vrba"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "potoke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:14.749960675Z",
+  "model": "glm-5.3"
+}

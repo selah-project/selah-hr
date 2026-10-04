@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Neka mu bude kao odijelo kojim se odijeva, i kao pojas kojim je stalno opasan.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kao odijelo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "kojim se odijeva"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "i kao pojas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "kojim je opasan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:03.926763519Z",
+  "model": "glm-5.3"
+}

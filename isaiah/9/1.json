@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Narod koji hodi u tami vidio je svjetlost veliku; oni koji sjede u zemlji sjene smrti — nad njima je zasjala svjetlost.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "koji hodi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "u tami"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidio je"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oni koji sjede"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sjene smrti"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "zasjala je"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:47.890841076Z",
+  "model": "glm-5.3"
+}

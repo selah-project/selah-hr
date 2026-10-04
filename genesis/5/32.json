@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I bi Noa sin pet stotina godina, i rodi Noa ⟨את⟩ Šema, ⟨את⟩ Hama i ⟨את⟩ Jafeta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hama"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jafeta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:01.869440955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I nađe drugoga čovjeka te mu reče: Udari me, molim te. I čovjek ga udari, udarivši i ranivši ga.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te mu reče"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "Udari me"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ga udari"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udarivši"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "ranivši ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:19.182918198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I sve posuđe od pečene zemlje u koje koje od njih padne — sve što je u njemu nečisto je, a ⟨את⟩ njega slomite.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posuđe"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "od pečene zemlje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u koje"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "padne"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "njega (unutra)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nečisto je"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "slomite (posuđe)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "slomite"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:37.476232627Z",
+  "model": "glm-5.3"
+}

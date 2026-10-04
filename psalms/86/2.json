@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Čuvaj dušu moju, jer sam pobožan ja; spasi slugu svoj — ti si Elohim moj — koji se uzdaje u tebe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Čuvaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pobožan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugu svoj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "koji se uzdaje"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.821172959Z",
+  "model": "glm-5.3"
+}

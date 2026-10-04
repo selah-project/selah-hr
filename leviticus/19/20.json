@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ako čovjek leži ⟨את⟩ sa ženom, laganje sjemena, a ona sluškinja zaručena nekom mužu, ali nije otkupljena niti joj je sloboda dana, bit će istrage; neka se ne usmrtuju, jer nije bila slobodna.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ako čovjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ženom"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa ženom"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "laganje"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "sluškinja"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "zaručena"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nekom mužu"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "ali otkupljena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "otkupljena"
+    },
+    {
+      "surface": "או",
+      "gloss": "niti"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "sloboda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "istrage"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se usmrtuju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "bila slobodna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:17.551432766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "A ⟨את⟩ svoga brata najmlađega dovedite k meni, neka se utvrde vaše riječi i nećete umrijeti. I učiniše tako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "svoga brata"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "najmlađega"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "dovedite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "neka se utvrde"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "vaše riječi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ćete umrijeti"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:05.713025332Z",
+  "model": "glm-5.3"
+}

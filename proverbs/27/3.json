@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Težina je kamena i teret pijeska, ali je jarost luđaka teža od obadva.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "težina"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamena"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "i teret"
+    },
+    {
+      "surface": "החול",
+      "gloss": "pijeska"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ali jarost"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "teža"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "od obadva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:53.379417807Z",
+  "model": "glm-5.3"
+}

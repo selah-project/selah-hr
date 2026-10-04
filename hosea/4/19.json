@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Svezao ju je ruah u krilima njezinim, i postidjet će se zbog žrtava svojih.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "svezao je"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ju (nju)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "u krilima njezinim"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "i postidjet će se"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "zbog žrtava svojih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:30.143295840Z",
+  "model": "glm-5.3"
+}

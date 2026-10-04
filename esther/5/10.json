@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ali se Haman svlada i dođe u svoju kuću; te posla i dozva ⟨את⟩ svoje prijatelje i ⟨את⟩ Zeršu, svoju ženu.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "svlada"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoju kuću"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje prijatelje"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "svoje prijatelje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zeršu"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeršu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svoju ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:51.702341877Z",
+  "model": "glm-5.3"
+}

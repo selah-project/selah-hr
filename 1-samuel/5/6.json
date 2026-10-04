@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I teška bi ruka Jahvina na Ašdodcima, i opustoši ih, i udari ih čirevima ⟨את⟩ Ašdod i ⟨את⟩ međe njegove.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "i teška bi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Ašdodcima"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "i opustoši ih"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "čirevima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ašdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "međe njegove"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "međe njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:22.533082594Z",
+  "model": "glm-5.3"
+}

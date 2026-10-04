@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Zar vas njegovo uzvišenost neće uplašiti, i njegov strah pasti na vas?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "njegovo uzvišenost"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "uplašiti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "i njegov strah"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:02.029299366Z",
+  "model": "glm-5.3"
+}

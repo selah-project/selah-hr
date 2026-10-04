@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kako se uklanja sa žrtve mirne ⟨salo⟩, tako svećenik neka ih prinese u dim na žrtvenik paljenice.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "se uklanja"
+    },
+    {
+      "surface": "משור",
+      "gloss": "sa žrtve"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "mirne"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "neka ih prinese u dim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:35.984530011Z",
+  "model": "glm-5.3"
+}

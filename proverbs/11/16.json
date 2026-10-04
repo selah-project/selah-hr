@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Žena milja čast drži, a nasilnici drže ⟨את⟩ bogatstvo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milja"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "čast drži"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "čast"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "a nasilnici"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "drže"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨את⟩ bogatstvo",
+      "marks": "bogatstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:39.961513603Z",
+  "model": "glm-5.3"
+}

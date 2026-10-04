@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Položio si me u jama duboku, u tminama, u dubinama.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "položio si me"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "u jamu"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "najdublju"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "u tminama"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "u dubinama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:17.679755266Z",
+  "model": "glm-5.3"
+}

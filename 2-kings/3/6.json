@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I iziđe kralj Jehoram toga dana iz Šomrona i pregleda ⟨את⟩ svega Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "toga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "iz Šomrona"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i pregleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:48.353588756Z",
+  "model": "glm-5.3"
+}

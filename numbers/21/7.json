@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dođe narod k Mošeu i rekoše: Sagriješili smo, jer govorili smo protiv Jahve i protiv tebe; moli se Jahvi da ukloni s nas ⟨את⟩ zmiju. I moli se Moše za narod.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "sagriješili smo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "govorili smo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "protiv Jahve"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "i protiv tebe"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "moli se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "da ukloni"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "s nas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zmiju"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "zmiju"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "moli se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:52.028318795Z",
+  "model": "glm-5.3"
+}

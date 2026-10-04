@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Glas onoga koji zove: u pustinji pripravite put Jahvi, u stepi poravnajte cestu Elohimu našemu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glas"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "onoga koji zove"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pripravite"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "poravnajte"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "u stepi"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimu našemu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:53.684162587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I pobio je Jehošua od Kadš-Barne pa do Aze, i ⟨את⟩ svu zemlju Gošena, pa do Gibeona.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "pobio"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "od Kadš"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barne"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "pa do"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju Gošena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gošena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "pa do"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeona"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:32.815954399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Obrati se k meni i smiluj mi se, po pravu ⟨koji važi⟩ za one koji ljube ime tvoje.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "obrati se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i smiluj mi se"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "po pravu"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "za one koji ljube"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:25.761851142Z",
+  "model": "glm-5.3"
+}

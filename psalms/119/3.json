@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Doista, ne čine nepravdu; njegovim stazama hode.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Doista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "čine"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nepravdu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "njegovim stazama"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:43.274351829Z",
+  "model": "glm-5.3"
+}

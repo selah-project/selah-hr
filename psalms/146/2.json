@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Hvalit ću Jahvu sve dane života svojega, pjevat ću Bogu svojemu dok me ima.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Hvalit ću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sve dane života svojega"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Bogu svojemu"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "dok me ima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.452074789Z",
+  "model": "glm-5.3"
+}

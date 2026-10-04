@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "I povikaše k Jahvi u tjeskabi svojoj, iz silnih tjeskoba svojih izbavi ih.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "povikaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "u tjeskabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "svojoj"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "iz silnih tjeskoba svojih"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "izbavi ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:10.856985820Z",
+  "model": "glm-5.3"
+}

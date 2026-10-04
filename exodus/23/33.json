@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Neka ne borave u tvojoj zemlji, da te ⟨את⟩ ne navedu na grijeh prema meni, jer bi služio njihovim bogovima ⟨את⟩, jer bi ti oni bili za zamku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "neka ne borave"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "u tvojoj zemlji"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "navedu na grijeh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "prema meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "bi služio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove bogove"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "njihovim bogovima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bi bio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "za zamku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:10.512437948Z",
+  "model": "glm-5.3"
+}

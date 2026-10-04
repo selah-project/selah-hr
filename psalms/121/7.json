@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Jahve čuva te od svakoga zla, čuva ⟨את⟩ dušu tvoju.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "čuva te"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svakoga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušu tvoju"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dušu tvoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:48.683087318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I prionu duša njegova uz Dinu, kćer Jaakovljevu, i zavoli ⟨את⟩ djevojku, te govoraše srcu djevojke.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "prionu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "duša njegova"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "uz Dinu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljevu"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "zavoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djevojku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djevojku"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "על",
+      "gloss": "srcu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djevojke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:06.459140665Z",
+  "model": "glm-5.3"
+}

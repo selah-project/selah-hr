@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I glasnik povika jakim ⟨glasom⟩: „Vama se zapovijeda, narodi, plemena i jezici!",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "i glasnik"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "povika"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "jakim ⟨glasom⟩"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "vama"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "zapovijeda se"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "i jezici"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:45.285536744Z",
+  "model": "glm-5.3"
+}

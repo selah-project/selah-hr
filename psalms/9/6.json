@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Ukorio si narode, uništio si bezbožnika; ime im izbrisao si zauvijek i dovijeka.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "ukorio si"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "uništio si"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ime njihovo"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "izbrisao si"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:01.814988287Z",
+  "model": "glm-5.3"
+}

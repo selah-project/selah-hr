@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Sjećam se Elohima i jaučem; razmišljam, i klonula je ruah moja. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Sjećam se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "i jaučem"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "razmišljam"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "i klonula je"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruah moja"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:00.779547337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I ponavljaj ih sinovima svojim, i govori o njima kad sjediš u domu svojemu i kad ideš putem, i kad liježeš i kad ustaješ.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "i ponavljaj"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sinovima svojim"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i govori"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o njima"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kad sjediš"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u domu svojemu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "i kad ideš"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "i kad liježeš"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "i kad ustaješ"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:42.225135492Z",
+  "model": "glm-5.3"
+}

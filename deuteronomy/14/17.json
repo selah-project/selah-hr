@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "i kaata, i ⟨את⟩ rahamu, i ⟨את⟩ šalaka;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "i kaata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rahamu"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "šalaka"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "šalaka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:15.300629781Z",
+  "model": "glm-5.3"
+}

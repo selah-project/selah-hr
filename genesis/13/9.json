@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Nije li sva zemlja pred tobom? Odijeli se, molim te, od mene: ako ti lijevo, ja ću desno; a ako ti desno, ja ću lijevo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "odijeli se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "lijevo"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ja ću desno"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "desno"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ja ću lijevo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:11.557263926Z",
+  "model": "glm-5.3"
+}

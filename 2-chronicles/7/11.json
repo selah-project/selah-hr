@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I dovrši Šelomo ⟨את⟩ dom Jahvin i ⟨את⟩ dom kraljevski, i ⟨את⟩ sve što dođe na srce Šelominu da učini u domu Jahvinu i u domu svojem — uspjelo je.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i dovrši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom kraljevski"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevski"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je naumio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "što dođe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelominu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da učini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "i u domu svojem"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "uspjelo je"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:30.405977911Z",
+  "model": "glm-5.3"
+}

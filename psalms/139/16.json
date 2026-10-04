@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Oči tvoje vidjele su ⟨את⟩ moj nezreli oblik, i u knjizi tvojoj svi će biti upisani — dani što su određeni, dok još nijedanoga od njih nije bilo.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "moj nezreli oblik"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidjele su"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oči tvoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj nezreli oblik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i u"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "knjizi tvojoj"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "biti će upisani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dani"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "što su određeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dok još nije"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nijedan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "od njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.249973646Z",
+  "model": "glm-5.3"
+}

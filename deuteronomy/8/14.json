@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "uzvisi se srce tvoje pa zaboraviš ⟨את⟩ Jahvu, Elohim svojega, koji te izveo iz zemlje micrajske, iz kuće robovske —",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "uzvisi se"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "srce tvoje"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "pa zaboraviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "koji te izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:02.726408263Z",
+  "model": "glm-5.3"
+}

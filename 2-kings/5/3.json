@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče gospodarici svojoj: Kamo sreće da gospodar moj ⟨dođe⟩ k proroku koji je u Šomronu! Tada bi ga on očistio ⟨את⟩ od gube njegove.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gospodarici svojoj"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "gospodarici svojoj"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Kamo sreće"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodar moj"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "k"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "je u Šomronu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "bi ga on očistio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "od gube njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:09.199861522Z",
+  "model": "glm-5.3"
+}

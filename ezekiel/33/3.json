@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "i vidi ⟨את⟩ mač gdje dolazi na zemlju, i zatrubi u šofar i upozori ⟨את⟩ narod —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mač"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "i zatrubi"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "u šofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "i upozori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T18:45:52.014441429Z",
+  "model": "glm-5.3"
+}

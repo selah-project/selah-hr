@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Serug nakon što rodi ⟨את⟩ Nahora dvije stotine godina, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "što rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahora"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvije stotine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:53.175527454Z",
+  "model": "glm-5.3"
+}

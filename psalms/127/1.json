@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 127,
+  "translation": "Pjesma uzlazaka, Šalomova. Ako Jahve ne gradi kuću, uzalud se muče njezini graditelji; ako Jahve ne čuva grad, uzalud bdi čuvar.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomova"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "gradi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "uzalud"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "muče se"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "njezini graditelji"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "uzalud"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "bdi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "čuvar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:16.043002558Z",
+  "model": "glm-5.3"
+}

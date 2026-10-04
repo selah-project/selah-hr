@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Zašutjeh nijemo, ušutjeh ⟨i⟩ od dobra, a bol moja se uznemiri.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Zašutjeh nijemo"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nijemo"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ušutjeh"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "od dobra"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "a bol moja"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "uznemiri se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:13.159496484Z",
+  "model": "glm-5.3"
+}

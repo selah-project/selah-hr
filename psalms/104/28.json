@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Daješ im — skupljaju; otvaraš svoju ruku — site su dobrom.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "daješ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "skupljaju"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otvaraš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "site su"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:16.862683723Z",
+  "model": "glm-5.3"
+}

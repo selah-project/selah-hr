@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Vaše oči vidjele su ⟨את⟩ ono što učini Jahve baal-Peoru ⟨zbog⟩ njega: jer svega čovjeka koji je hodio za baal-Peorom, uništio ga je Jahve, Elohim tvoj, iz tvoje sredine.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "vaše oči"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "vidjele su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "baal-Peoru"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "baal-Peoru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodio"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal-Peorom"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "baal-Peorom"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "uništio ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iz tvoje sredine"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:24.249547576Z",
+  "model": "glm-5.3"
+}

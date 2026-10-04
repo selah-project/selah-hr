@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zar će ptica pasti u zamku na zemlju, a da mamac nema? Zar će se zamka podići s tla, a da ništa nije ulovila?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Zar će pasti"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פח",
+      "gloss": "u zamku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "a mamac"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לה",
+      "gloss": "za nju"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "Zar će se podići"
+    },
+    {
+      "surface": "פח",
+      "gloss": "zamka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "a uloviti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ništa nije"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "ulovila"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:53.445295162Z",
+  "model": "glm-5.3"
+}

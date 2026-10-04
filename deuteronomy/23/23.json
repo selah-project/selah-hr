@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A ako se suzdržiš od zavjetovanja, neće biti u tebi grijeha.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "se suzdržiš"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "od zavjetovanja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grijeha"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:07.636515306Z",
+  "model": "glm-5.3"
+}

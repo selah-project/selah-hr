@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Iz Ašera — dej bread mastan njegov, i on daje kraljevske slastike.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "iz Ašera"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mastan"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kruh njegov"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "slastike"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:22.994573031Z",
+  "model": "glm-5.3"
+}

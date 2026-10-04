@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I svećenik neka ih sažega na žrtveniku ⟨את⟩ — žrtva ognjena Jahvi; žrtva je to prijestupa.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "neka sažega"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih — dijelove žrtve prijestupa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žrtva ognjena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "žrtva prijestupa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:32.134779792Z",
+  "model": "glm-5.3"
+}

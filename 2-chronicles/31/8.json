@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I dođe Hizkijahu s knezovima i vidješe ⟨את⟩ hrpe, pa blagosloviše ⟨את⟩ Jahvu i ⟨את⟩ narod njegov Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "s knezovima"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hrpe"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "hrpe"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "pa blagosloviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narod njegov Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:37.612606466Z",
+  "model": "glm-5.3"
+}

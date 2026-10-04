@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i para se dizala iz zemlje i napajala ⟨את⟩ sve lice tla.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "i para"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dizala se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "i napajala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve lice tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tla"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:16.295948904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I načini ⟨את⟩ dvorište na strani jugu, prema jugu: zavjese dvorišta od lana presukanoga, sto lakata.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvorište"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorište"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na strani"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "prema jugu"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "zavjese"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lana"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "presukanoga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "lakata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:14.927932254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "u gori i u nizini i u ravnici i na padinama i u pustinji i u Negavu: Hetit, Emorejac i Kenaanac, Perižejac, Hivijac i Jebusejac.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "u gori"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "i u nizini"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "i u ravnici"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "i na padinama"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "i u pustinji"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "i u Negavu"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejac"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "i Kenaanac"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perižejac"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivijac"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusejac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:03.057399221Z",
+  "model": "glm-5.3"
+}

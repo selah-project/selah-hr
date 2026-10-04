@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I položit će ⟨את⟩ svoju ruku na glavu žrtve za grijeh, i zaklat će ⟨את⟩ žrtvu za grijeh na mjestu ⟨gdje se kolje⟩ paljenica.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "i položit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i zaklat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu za grijeh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtvu za grijeh"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:21.897554038Z",
+  "model": "glm-5.3"
+}

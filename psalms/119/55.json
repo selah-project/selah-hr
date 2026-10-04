@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Spomenuo sam noću tvoje ime, Jahve, i čuvao tvoju Toru.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Spomenuo sam"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "i čuvao"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoju Toru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:52.590915734Z",
+  "model": "glm-5.3"
+}

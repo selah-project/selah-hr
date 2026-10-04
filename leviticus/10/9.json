@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Vina i opojnoga pića ne pij ni ti ni sinovi tvoji s ⟨את⟩ tobom kad ulazite u Šator sastanka, da ne umrete — naredba vječna za naraštaje vaše.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i opojnoga pića"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "pij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i sinovi tvoji"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s ⟨את⟩ tobom",
+      "marks": "ti i sinovi tvoji"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "kad ulazite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "umrete"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "naredba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječna"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "za naraštaje vaše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:21.051158086Z",
+  "model": "glm-5.3"
+}

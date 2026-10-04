@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I iznesu ⟨את⟩ stupove doma Baalova i spališe ih.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i iznesu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove doma Baalova"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stupove"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalova"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "i spališe ih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:12.837930661Z",
+  "model": "glm-5.3"
+}

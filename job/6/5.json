@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Hrče li divlji magarac nad travom? Muka li vol preko svoje hrane?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Hrče li"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "divlji magarac"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "travom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "Muka li"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vol"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "svoje hrane"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:36.773569463Z",
+  "model": "glm-5.3"
+}

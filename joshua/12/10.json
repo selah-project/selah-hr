@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "kralj Jerušalajima, jedan; kralj Hevrona, jedan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:32.330885714Z",
+  "model": "glm-5.3"
+}

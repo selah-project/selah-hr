@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Arpakšad rodi ⟨את⟩ Šelaha, a Šelah rodi ⟨את⟩ Evera.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "I Arpakšad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šelaha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šelaha"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a Šelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evera"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:54.108107392Z",
+  "model": "glm-5.3"
+}

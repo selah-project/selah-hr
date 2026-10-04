@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Veličina i sjaj djelo je njegovo, i cedek njegov stoji dovijeka.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Veličina"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "i sjaj"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "djelo je njegovo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "i cedek njegov"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:47.117303802Z",
+  "model": "glm-5.3"
+}

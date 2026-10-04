@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "neka zapovjedi svećenik da operu ⟨את⟩ ono u čemu je čir, i neka ga zatvori sedam dana drugi put.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "neka zapovjedi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "da operu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono u čemu je čir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "čir"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "i neka zatvori"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi put"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:21.230268135Z",
+  "model": "glm-5.3"
+}

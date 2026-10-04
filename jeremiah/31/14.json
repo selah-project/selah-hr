@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 31:14",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I napojit ću do sitosti dušu svećenika ⟨izobiljem⟩, i narod će se moj ⟨את⟩ dobrom mojim nasititi, riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "ורויתי",
+      "gloss": "i napojit ću do sitosti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "⟨izobiljem⟩"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "i narod će moj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobrom mojim"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "dobrom mojim"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasititi se"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:03.513535587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I Aravna pogleda i vidje ⟨את⟩ kralja i ⟨את⟩ sluge njegove kako prelaze k njemu; pa iziđe Aravna i pokloni se kralju licem svojim do zemlje.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "i pogleda"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sluge njegove"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge njegove"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kako prelaze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pa iziđe"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "licem svojim"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:12.549113295Z",
+  "model": "glm-5.3"
+}

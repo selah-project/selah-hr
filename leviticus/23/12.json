@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I učinit ćete na dan mahanja vašeg ⟨את⟩ omera janje bez mane, jedno godišnje, za paljenicu Jahvi.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "i učinit ćete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "mahanja vašeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omera"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omera"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "godišnje"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:40.483319895Z",
+  "model": "glm-5.3"
+}

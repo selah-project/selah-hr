@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Usta si svoja pustio na zlo, i jezik tvoj ispreda prijevaru.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "usta tvoja"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "si pustio"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na zlo"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "i jezik tvoj"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ispreda"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevaru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:02.353302670Z",
+  "model": "glm-5.3"
+}

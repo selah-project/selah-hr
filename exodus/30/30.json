@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I ⟨את⟩ Aharona i ⟨את⟩ sinove njegove pomažit ćeš, i posvetit ćeš ⟨את⟩ ih da budu svećenici meni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "pomažit ćeš"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i posvetit ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "Aharona i sinove njegove"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "da budu svećenici"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:23.496973798Z",
+  "model": "glm-5.3"
+}

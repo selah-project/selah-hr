@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I udari Šaul ⟨את⟩ Amaleka, od Havile, dok se dolazi do Šura, koji je pred licem Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "od Havile"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "dok se dolazi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "do Šura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:31.067042420Z",
+  "model": "glm-5.3"
+}

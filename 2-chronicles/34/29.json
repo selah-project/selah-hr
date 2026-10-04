@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I kralj posla te skupi ⟨את⟩ sve starješine Jude i Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve starješine Jude i Jerušalajima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:14.074989225Z",
+  "model": "glm-5.3"
+}

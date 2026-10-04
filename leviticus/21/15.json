@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I neka ne oskvrnjuje svoga sjemena među svojim narodom, jer ja sam Jahve, koji ga posvećujem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i neka ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "oskvrnjuje"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "svoga sjemena"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "među svojim narodom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "posvećujem ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:50.932008315Z",
+  "model": "glm-5.3"
+}

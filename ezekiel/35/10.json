@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Jer si rekao: ⟨את⟩ dva naroda i ⟨את⟩ dvije zemlje bit će moji, i zaposjednut ćemo ih — a Jahve bijaše tamo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "si rekao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva naroda"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dvije zemlje"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moji"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "i zaposjednut ćemo ih"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:46:43.969934311Z",
+  "model": "glm-5.3"
+}

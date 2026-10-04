@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Hranio si ih kruhom suza i napojio si ih suzama ⟨u velikoj mjeri⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Hranio si ih"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruhom"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "suza"
+    },
+    {
+      "surface": "וותשקמו",
+      "gloss": "i napojio si ih"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "suzama"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "⟨u velikoj mjeri⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:50.148110514Z",
+  "model": "glm-5.3"
+}

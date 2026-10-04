@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Otkrij ⟨את⟩ oči moje, i gledat ću čudesa iz Tore tvoje.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Otkrij"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "i gledat ću"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "čudesa"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "iz Tore tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:45.348796768Z",
+  "model": "glm-5.3"
+}

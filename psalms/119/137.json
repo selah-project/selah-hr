@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Pravedan si ti, Jahve, i pravi su tvoji sudovi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "pravedan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "i pravi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvoji sudovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:32.385196874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I napisala je u pismima govoreći: Proglasite post i posadite ⟨את⟩ Navota na čelu naroda.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "i napisala je"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "u pismima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "proglasite"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "i posadite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na čelu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:49.643590509Z",
+  "model": "glm-5.3"
+}

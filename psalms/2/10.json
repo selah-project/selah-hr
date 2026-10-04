@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A sada, kraljevi, razumijte; dajite se opomenuti, suci zemlje!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A sada"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "razumijte"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "dajite se opomenuti"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:02.201367560Z",
+  "model": "glm-5.3"
+}

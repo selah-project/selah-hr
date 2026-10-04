@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ležala je kod njegovih nogu do jutra, a ustala je prije nego što je čovjek mogao prepoznati ⟨את⟩ svoga druga; jer reče: neka se ne dozna da je žena došla na gumno.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "I ležala je"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "kod njegovih nogu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "a ustala je"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "prije nego što"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "mogao prepoznati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga druga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoga druga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jer reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dozna se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "באה",
+      "gloss": "došla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "na gumno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:07.995727622Z",
+  "model": "glm-5.3"
+}

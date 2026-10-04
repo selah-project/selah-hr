@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A ovi namještenici uzdržavahu ⟨את⟩ kralja Šelomou i ⟨את⟩ sve pristupe stolu kralja Šelomou, svaki u svojem mjesecu; ništa ne izostavljahu.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "uzdržavahu"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "namještenici"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja Šelomou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve pristupe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "pristupe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stolu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "u svojem mjesecu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "izostavljahu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ništa"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:22.269226925Z",
+  "model": "glm-5.3"
+}

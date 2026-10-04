@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I rodiše mu se sedam sinova i tri kćeri.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "i rodiše se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:21.919392001Z",
+  "model": "glm-5.3"
+}

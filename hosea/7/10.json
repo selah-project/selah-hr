@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I oholost Jisraelova svjedoči protiv njega u lice, a oni se ne vratiše Jahvi, Elohim svojemu, i ne tražiše ga u svemu tome.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "svjedoči"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "oholost"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "u lice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vratiše se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim svojemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "tražiše ga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:52.531998309Z",
+  "model": "glm-5.3"
+}

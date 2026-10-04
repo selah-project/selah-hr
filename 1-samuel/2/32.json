@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I gledat ćeš suparnika u boravištu ⟨mom⟩, u svemu dobru koje će se učiniti Jisraelu ⟨את⟩, i neće biti starca u domu tvome sve dane.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "I gledat ćeš"
+    },
+    {
+      "surface": "צר",
+      "gloss": "suparnika"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "boravištu ⟨mom⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "će se učiniti dobro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starca"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u domu tvome"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": " dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:10.683685671Z",
+  "model": "glm-5.3"
+}

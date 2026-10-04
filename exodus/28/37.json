@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I stavit ćeš ⟨את⟩ ga na uzicu od modrilom obojene pređe, i bit će na turbunu; nasuprot licu turbuna bit će.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i stavit ćeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga — pločica (sufiksom označen predmet)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "uzica"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modrilo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbuna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:46.637553021Z",
+  "model": "glm-5.3"
+}

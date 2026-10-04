@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Njegova lijeva ruka ⟨je⟩ pod mojom glavom, a njegova me desnica grli.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Njegova lijeva ruka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mojom glavom"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "a njegova desnica"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "me grli"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:09.401432361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "i zavjese dvorišta, i ⟨את⟩ zavjesu na ulazu dvorišta koje je uz Miškan i uz žrtvenik unaokolo, i ⟨את⟩ užad njegovu za svu službu njegovu.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "i zavjese"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zavjesu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i uz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "užad njegovu"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "užad njegovu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svu"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "službu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:54.148137199Z",
+  "model": "glm-5.3"
+}

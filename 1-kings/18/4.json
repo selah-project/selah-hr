@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I bijaše, kad Izevel istrijebi ⟨את⟩ proroke Jahvine, Ovadjahu uzme stotinu proroka i sakrije ih, pedeset ljudi u spilji, i hranjaše ih kruhom i vodom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "kad istrijebi"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroke Jahvine"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uzme"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "stotinu"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "i sakrije ih"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "u spilji"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "i hranjaše ih"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruhom"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:08.141651432Z",
+  "model": "glm-5.3"
+}

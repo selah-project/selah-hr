@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ⟨את⟩ sve te kraljeve i ⟨את⟩ njihovu zemlju zarobi Jehošua u jednom pohodu, jer Jahve, Elohim Jisraelov, vođaše rat za Jisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve te kraljeve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihovu zemlju"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "njihovu zemlju"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "zarobi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "pohodu — jednom"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vođaše rat"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "za Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:32.816519182Z",
+  "model": "glm-5.3"
+}

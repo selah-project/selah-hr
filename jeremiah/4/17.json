@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Kao čuvari polja stoje oni protiv nje unaokolo, jer se ⟨את⟩ meni pobunila — riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "Kao čuvari"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polja"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "protiv nje"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni (prva osnica pobune)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "pobunila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:57.567465839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I čuvajte ⟨את⟩ moju čuvanu naredbu, da ne biste činili od običaja gnusoba koji su se činili pred vama, i da se ne onečistite njima; ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju čuvanu naredbu"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "moju čuvanu naredbu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne biste"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "činili"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "od običaja"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "su se činili"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i da ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "se onečistite"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:31.867771687Z",
+  "model": "glm-5.3"
+}

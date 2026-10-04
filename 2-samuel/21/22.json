@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "⟨את⟩ ta četvorica rođeni su ⟨u⟩ Gatu ⟨od⟩ Harpaha, i padoše iz ruke Davidove i iz ruke slugu njegovih.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta četvorica"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "četvorica"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "rođeni su"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "⟨od⟩ Harpaha"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "⟨u⟩ Gatu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "i padoše"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidove"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i iz ruke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugu njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:56.956894504Z",
+  "model": "glm-5.3"
+}

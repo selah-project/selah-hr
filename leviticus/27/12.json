@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I neka svećenik procijeni ⟨את⟩ nju, je li dobra ili zla; kako je svećenik procijeni, tako neka bude.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "I neka procijeni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "בין",
+      "gloss": "je li"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ili"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "kako je procijeniš"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:59.402025060Z",
+  "model": "glm-5.3"
+}

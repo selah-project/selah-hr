@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Jer se uglača pred očima svojim, da bi našao ⟨את⟩ krivnju svoju ⟨i⟩ mrziti ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "se uglača"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pred ⟨njim⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "očima svojim"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "da bi našao"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "krivnju svoju"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "mrziti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:02.805035964Z",
+  "model": "glm-5.3"
+}

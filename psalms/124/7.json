@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "Duša nam je kao ptica umakla iz zamke pticolovaca: zamka se razbila, a mi smo umaknuli.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "duša nam"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kao ptica"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "umakla"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "iz zamke"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "pticolovaca"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "zamka"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "razbila se"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "smo umaknuli"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:41.002574415Z",
+  "model": "glm-5.3"
+}

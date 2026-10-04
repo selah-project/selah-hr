@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Slušatelju molitve, k tebi će sve tijelo doći.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "slušatelju"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitve"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "će doći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:11.361310056Z",
+  "model": "glm-5.3"
+}

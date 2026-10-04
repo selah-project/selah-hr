@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I iziđe svećenik iz kuće na ulaz kuće, i zatvori ⟨את⟩ kuću sedam dana.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i zatvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:37.900054225Z",
+  "model": "glm-5.3"
+}

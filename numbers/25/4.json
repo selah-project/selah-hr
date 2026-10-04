@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I reče Jahve Mošeu: Uzmi ⟨את⟩ sve glavare narada i izloži ih ⟨את⟩ Jahvi pred suncem, pa će se odvratiti žarki gnjev Jahvin od Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mošeu—prema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve glavare naroda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavare"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "i izloži ih"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (glavare)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa će se odvratiti"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "žarki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "od Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:32.923936763Z",
+  "model": "glm-5.3"
+}

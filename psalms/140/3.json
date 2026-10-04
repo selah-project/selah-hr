@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Koji smišljaju zloće u srcu, sav dan potiču ratove.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Koji"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "smišljaju"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zloće"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "u srcu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "potiču"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ratove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.596575943Z",
+  "model": "glm-5.3"
+}

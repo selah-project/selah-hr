@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Jahve, što je čovjek da ga znadeš, sin smrtnika da ga pomišljaš?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "da ga znadeš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "da ga pomišljaš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.164151345Z",
+  "model": "glm-5.3"
+}

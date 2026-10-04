@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče mu David: Ako prijeđeš ⟨את⟩ sa mnom, bit ćeš mi na teret.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "prijeđeš"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom",
+      "marks": "sa mnom"
+    },
+    {
+      "surface": "והית",
+      "gloss": "bit ćeš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "na teret"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:57.573294186Z",
+  "model": "glm-5.3"
+}

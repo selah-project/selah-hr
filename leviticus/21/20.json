@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "ili pogrbljen, ili suhonjav, ili s mrljom u oku, ili lišajav, ili krastav, ili s zdrobljenim spolnim udom.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "pogrbljen"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "דק",
+      "gloss": "suhonjav"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "s mrljom"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "u oku"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "lišajav"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "krastav"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "zdrobljen"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "spolni ud"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:13.117395929Z",
+  "model": "glm-5.3"
+}

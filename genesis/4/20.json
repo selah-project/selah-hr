@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Ada rodi ⟨את⟩ Javala; on bijaše otac onih koji stanuju u šatorima i ⟨imaju⟩ stoku.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javala"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Javala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stanuju"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "u šatorima"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "stoku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.298409323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Zaista Elohim će smrskati glavu neprijatelja svojih, kosom obraslo tjemeno onoga koji hoda u prijestupima svojim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zaista"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "smrskati"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "neprijatelja svojih"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tjemeno"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kosom obraslo"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "hoda"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "u prijestupima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:26.545345080Z",
+  "model": "glm-5.3"
+}

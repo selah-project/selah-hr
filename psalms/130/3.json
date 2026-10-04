@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "Ako bezakonja čuvaš, Jah — tko će, Adonaju, stajati?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "bezakonja"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "čuvaš"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "će stajati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:53.312837944Z",
+  "model": "glm-5.3"
+}

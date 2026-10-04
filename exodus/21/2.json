@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Kad kupiš hebrejskoga roba, šest godina neka služi, a u sedmoj neka iziđe na slobodu, bez novca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "kupiš"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "roba"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebrejskoga"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "neka služi"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "a u sedmoj"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "neka iziđe"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "na slobodu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez novca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:10.059959372Z",
+  "model": "glm-5.3"
+}

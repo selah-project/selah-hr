@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Na dan Šabata, na dan Šabata, namještat će ⟨את⟩ ga pred Jahvom stalno, od sinova Jisraelovih, savez vječni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "namještat će ga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sinovi Jisraelovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:19.778266420Z",
+  "model": "glm-5.3"
+}

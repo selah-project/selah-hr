@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I skinuše sinovi Jisraela ⟨את⟩ svoj nakit s gore Horev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "skinuše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj nakit"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svoj nakit"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "s gore"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:19.640545435Z",
+  "model": "glm-5.3"
+}

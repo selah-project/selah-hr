@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "⟨את⟩ Jerušalajim i ⟨את⟩ gradove Jevudine i ⟨את⟩ kraljeve njezine, ⟨את⟩ knezove njezine, da ih dadem ⟨אתם⟩ u pustoš, u užas, u zviždanje i u kletvu, kao što je danas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "gradove Jevudine"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jevudine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kraljeve njezine"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "kraljeve njezine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knezove njezine"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "knezove njezine"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da dadem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "u pustoš"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "u užas"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "u zviždanje"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "i u kletvu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao što je danas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T18:27:44.811962184Z",
+  "model": "glm-5.3"
+}

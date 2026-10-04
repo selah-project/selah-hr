@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I izgubiše se magarice Kišu, ocu Šaulovu, i reče Kiš Šaulu, sinu svojemu: Uzmi sad sa sobom ⟨את⟩ jednoga od slugu, ustani, idi i potraži ⟨את⟩ magarice.",
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "i izgubiše se"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "magarice"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "Kišu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ocu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinu svojemu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sad"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨sa sobom⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoga od slugu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "od slugu"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "potraži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magarice"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "magarice"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:22.765815031Z",
+  "model": "glm-5.3"
+}

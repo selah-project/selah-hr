@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Neka sjedi sam i šuti, jer ⟨on⟩ je stavio ⟨to⟩ na njega.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Neka sjedi"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "i šuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "je stavio ⟨on⟩ ⟨to⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:43:04.412959731Z",
+  "model": "glm-5.3"
+}

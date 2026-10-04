@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Pjesma Davidova, kad bijaše u pustinji Jehudinoj.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kad bijaše"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudinoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:06.773058249Z",
+  "model": "glm-5.3"
+}

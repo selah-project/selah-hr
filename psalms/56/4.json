@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "U dan kad se bojim, ja se uzdam u tebe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kad se bojim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "uzdam se"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:21.286575472Z",
+  "model": "glm-5.3"
+}

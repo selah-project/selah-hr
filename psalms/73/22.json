@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "a ja sam bio bezuman i nisam znao; stoka sam bio s tobom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bezuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znam"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "stoka"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bio sam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:16.507131250Z",
+  "model": "glm-5.3"
+}

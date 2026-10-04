@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A Bog odredi crva u osvit zore sutradan, i udari ⟨את⟩ rikicijon, i on osuši se.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "odredi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Bog"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "crv"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "u osvit"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zore"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rikicijon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "rikicijon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "osuši se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:50.075219045Z",
+  "model": "glm-5.3"
+}

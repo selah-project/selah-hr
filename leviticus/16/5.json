@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I od zajednice sinova Jisraelovih neka uzme ⟨את⟩ dva jarca za grijeh ⟨hatat⟩ i jednoga ovna za paljenicu.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "i od ⟨את⟩",
+      "marks": "zajednica sinova Jisraelovih"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neka uzme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozjih"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za grijeh ⟨hatat⟩"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "i jednoga ovna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:39.191958837Z",
+  "model": "glm-5.3"
+}

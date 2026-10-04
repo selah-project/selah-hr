@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I vidjet ćete ⟨את⟩ zemlju kakva ⟨je⟩, i ⟨את⟩ narod koji na njoj stanuje — je li jak ⟨ili⟩ slab, je li malobrojan ili brojan.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "i vidjet ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "koji stanuje"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na njoj"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "jak li"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "slab"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "malobrojan li"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "רב",
+      "gloss": "brojan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:21.325095418Z",
+  "model": "glm-5.3"
+}

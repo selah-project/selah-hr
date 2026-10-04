@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "da pripovijedam svu tvoju hvalu u vratima kćeri Cionske, radujem se u tvojem spasenju.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "pripovijedam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "tvoju hvalu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "u vratima"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionske"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "radujem se"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "u tvojem spasenju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:03.080870576Z",
+  "model": "glm-5.3"
+}

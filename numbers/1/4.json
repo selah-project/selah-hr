@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I s vama ⟨את⟩ neka bude čovjek po plemenu, svaki ⟨čovjek⟩ glava domu otaca svojih.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ s vama"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "po plemenu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "plemenu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:32.860228928Z",
+  "model": "glm-5.3"
+}

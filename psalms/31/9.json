@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "i nisi me predao u ruku neprijatelja, stavio si noge moje u prostranstvo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i nisi"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "mene predao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "stavio si"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "u prostranstvo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "noge moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:04.187823277Z",
+  "model": "glm-5.3"
+}

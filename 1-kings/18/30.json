@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče Elija svega narodu: Pristupite k meni! I pristupi sav narod k njemu, i on popravi ⟨את⟩ žrtvenik Jahvin, razrušeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Pristupite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "i pristupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "i popravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik Jahvin, razrušeni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "razrušeni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:58.990507852Z",
+  "model": "glm-5.3"
+}

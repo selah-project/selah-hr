@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Oci naši u Micrajimu nisu razumjeli tvoja čudesa, nisu se sjetili ⟨את⟩ mnoštva tvojih heseda, nego se pobuniše uz more, u moretu Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Oci naši"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "razumjeli"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvoja čudesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "se sjetili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnoštva tvojih heseda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tvojih heseda"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "nego se pobuniše"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ים",
+      "gloss": "more"
+    },
+    {
+      "surface": "בים",
+      "gloss": "u moretu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.355370985Z",
+  "model": "glm-5.3"
+}

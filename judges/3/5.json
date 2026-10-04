@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sinovi Jisraelovi živjeli usred Kanaanca, Hetejca, Amorijca, Perižćanina, Hivijca i Jebusejca.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "I sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "živjeli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetejca"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Amorijca"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perižćanina"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hivijca"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Jebusejca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:30.313500698Z",
+  "model": "glm-5.3"
+}

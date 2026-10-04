@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učini Aharon i njegovi sinovi ⟨את⟩ sve riječi koje zapovjedi Jahve rukom Mošeovom.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i njegovi sinovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:49.220867351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Tko pozna silu gnjeva tvojega? Kao strah tvoj, takva je srdžba tvoja.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gnjeva tvojega"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "kao strah tvoj"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "srdžba tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:10.706854333Z",
+  "model": "glm-5.3"
+}

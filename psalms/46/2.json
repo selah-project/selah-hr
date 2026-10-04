@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Elohim nam je zaklon i snaga, pomoć u tjeskobama silno nađena.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "zaklon"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "i snaga"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "pomoć"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "u tjeskobama"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nađena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "silno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:03.285372282Z",
+  "model": "glm-5.3"
+}

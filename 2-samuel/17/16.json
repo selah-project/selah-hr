@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 17:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A sada pošaljite brzo i javite Davidu: Ne noćite noćas u stepama pustinje, nego svakako prijeđite, da ne bude progutan kralj i sav narod koji je ⟨את⟩ s njim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pošaljite"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "i javite"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "noćite"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noćas"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "u stepama"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nego svakako"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "prijelaz"
+    },
+    {
+      "surface": "תעבור",
+      "gloss": "prijeđite"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "bude progutan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim (prijedlog את H854, ne oznaka direktoga objekta)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:50.517750529Z",
+  "model": "glm-5.3"
+}

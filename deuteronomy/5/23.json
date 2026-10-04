@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I dogodi se, kad čuste ⟨את⟩ glas iz sredine tame, a gora gorjaše u ognju, da pristupiste k meni svi poglavari vaših plemena i vaše starješine.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "kad čuste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tame"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "a gora"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gorjaše"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "da pristupiste"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "poglavari"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "vaših plemena"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "i vaše starješine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:33.715202288Z",
+  "model": "glm-5.3"
+}

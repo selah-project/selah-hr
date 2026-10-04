@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I motrit će svećenik, i gle, raširila se krasta po koži — neka ga svećenik proglasi nečistim: saraat je to.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i motrit će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "raširila se"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "krasta"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "po koži"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "i proglasi ga nečistim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "saraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:26.306235884Z",
+  "model": "glm-5.3"
+}

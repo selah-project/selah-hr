@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I sada će se uzdići glava moja nad neprijateljima mojim unaokolo mene; žrtvovat ću u šatoru njegovu žrtve radosti, pjevat ću i svirat ću Jahvi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "i sada"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "uzdignut će se"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glava moja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijateljima mojim"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "unaokolo mene"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "žrtvovat ću"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "u šatoru njegovu"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "i svirat ću"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.940052425Z",
+  "model": "glm-5.3"
+}

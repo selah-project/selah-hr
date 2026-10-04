@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "U oskudici i gladi osamljeni, ⟨oni⟩ koji grickaju suhu pustinju, jučer pustoš i opustošenje.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "u oskudici"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "i gladi"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "osamljeni"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "koji grickaju"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suhu pustinju"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "jučer"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "pustoš"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "i opustošenje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:55.933985422Z",
+  "model": "glm-5.3"
+}

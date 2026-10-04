@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I bijahu se sinovi Judini protiv Jerušalajima, i zauzeše je, i pobismo je oštricom mača, a ⟨את⟩ grad poslaše u oganj.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "i bijahu se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judini"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "protiv Jerušalajima"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "i zauzeše"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "i pobismo je"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "poslaše"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:04.629088090Z",
+  "model": "glm-5.3"
+}

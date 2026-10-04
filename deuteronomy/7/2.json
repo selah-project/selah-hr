@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "i dadne ih Jahve, Elohim tvoj, pred tebe, pa ih pobiješ: do propasti ⟨את⟩ njih prognaš; ne sklapaj s njima saveza i ne iskazuj im milost.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "i dadne ih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tebe"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "pa ih pobiješ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "do propasti"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "prognaš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "sklapaj"
+    },
+    {
+      "surface": "להם",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "iskazuj im milost"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:49.133909858Z",
+  "model": "glm-5.3"
+}

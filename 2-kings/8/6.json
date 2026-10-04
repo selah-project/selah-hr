@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I upita kralj ženu, pa mu ona ispriča; i dade joj kralj jednoga eunuha rekavši: Vrati ⟨את⟩ sve što je njezino i ⟨את⟩ sav prihod polja, od dana kad napusti ⟨את⟩ zemlju, do sada.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "pa ispriča"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunuha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je njezino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je njezino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav prihod polja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "prihod"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "kad napusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:39.478270157Z",
+  "model": "glm-5.3"
+}

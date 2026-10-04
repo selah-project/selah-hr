@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Ukloni od mene svoj udarac; od prijekora tvoje ruke ja sam nestao.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Ukloni"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "svoj udarac"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "od prijekora"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoje ruke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "sam nestao"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:00.415544423Z",
+  "model": "glm-5.3"
+}

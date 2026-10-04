@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Jer je sebi izabrao Jaakova Jah, Jisrael za svoje dragulje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izabrao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "za svoje dragulje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:58.360073543Z",
+  "model": "glm-5.3"
+}

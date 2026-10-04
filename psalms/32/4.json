@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Jer danju i noću tvoja ruka bijaše teška nada mnom, moj se sok prometnu u sušu ljetnu. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noću"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "bijaše teška"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada mnom"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "prometnu se"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "moj sok"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "u sušu"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ljetnu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:23.153327930Z",
+  "model": "glm-5.3"
+}

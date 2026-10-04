@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 57:16",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Jer neću dovijeka parničiti niti ću zauvijek gnjeviti se, jer duh bi preda mnom izdahnuo — a ⟨samo⟩ dah, ja sam stvorio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "parničiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "אקצוף",
+      "gloss": "gnjeviti se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "יעטוף",
+      "gloss": "izdahnuo bi"
+    },
+    {
+      "surface": "ונשמות",
+      "gloss": "a dah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "stvorio sam"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:24.809271247Z",
+  "model": "glm-5.3"
+}

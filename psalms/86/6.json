@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Prisluhni, Jahve, mojoj molitvi i obrati uho glasu mojih prošenja!",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Prisluhni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojoj molitvi"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "i obrati uho"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasu"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "mojih prošenja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.453792254Z",
+  "model": "glm-5.3"
+}

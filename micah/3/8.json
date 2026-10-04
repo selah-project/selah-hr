@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ipak ja, napunjen sam snagom, ⟨את⟩ ruah Jahvinu, i pravom i silom, da javim Jaakovu prijestup njegov i Jisraelu grijeh njegov.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "A ipak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "napunjen sam"
+    },
+    {
+      "surface": "כח",
+      "gloss": "snagom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah Jahvinu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i pravom"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "i silom"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da javim"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "prijestup njegov"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Jisraelu"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeh njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:43.756912715Z",
+  "model": "glm-5.3"
+}

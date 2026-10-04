@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I pomirit će svećenik kojega pomazuje i čiju ruku ispuni da svećeniči mjesto oca svojega, i odjenut će ⟨את⟩ haljine od lana, haljine svete.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "i pomirit će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "pomazuje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "svećenika"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i čiju"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ispuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku njegovu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "da svećeniči"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "i odjenut će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine od lana"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "haljine"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "od lana"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "haljine"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:37.915863057Z",
+  "model": "glm-5.3"
+}

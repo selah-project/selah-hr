@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Jahve je blagoslovio ⟨את⟩ gospodara mojega izobilno, i on posta velik, i dade mu sitno i krupno blago, srebro i zlato, sluge i sluškinje, deve i magarce.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslovio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gospodara mojega"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodara mojega"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "izobilno"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "i posta velik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sitno blago"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i krupno blago"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "i srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "i sluge"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "i sluškinje"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "i deve"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "i magarce"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:54.475368686Z",
+  "model": "glm-5.3"
+}

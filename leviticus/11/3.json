@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Svaka koja ima razdvojeno kopito i potpuno razdjeljeno kopito, i koja preživa, među živinom — ⟨את⟩ nju smijete jesti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Svaka"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "koja ima razdvojeno"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopito"
+    },
+    {
+      "surface": "ושסעעת",
+      "gloss": "i potpuno razdjeljeno"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "razdjeljeno"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kopito"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "koja preživa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "preživa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "među živinom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:25.205805194Z",
+  "model": "glm-5.3"
+}

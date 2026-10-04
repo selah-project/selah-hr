@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I napravi ⟨את⟩ dućane za Miškan: dvadeset dućana za južnu stranu, prema jugu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dućane"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dućane"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Miškan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "dućana"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "za stranu"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "južnu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "prema jugu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:09.603748452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Kad sagradiš novu kuću, načini ogradu na svom krovu, da ne bi stavio krvi na svoju kuću, kad bi tko past pao s nje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "sagradiš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "načini"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "ogradu"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "na svom krovu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "stavio"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "na svoju kuću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bi past"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "tko past pao"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "s nje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:31.458537758Z",
+  "model": "glm-5.3"
+}

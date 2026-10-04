@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "tada ću odrezati ⟨את⟩ Jisrael s lica zemlje koju sam dao njima, i ⟨את⟩ Dom koji sam posvetio imenu svojem otjerat ću s lica svojega, i bit će Jisrael za poslovicu i za podsmijeh među svim narodima.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "odrezat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Dom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "posvetio sam"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "imenu svojem"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "otjerat ću"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "za poslovicu"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "i za podsmijeh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "među svim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:32.607104173Z",
+  "model": "glm-5.3"
+}

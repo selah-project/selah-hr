@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Ovako ćeš mu reći: Ovako reče Jahve: Gle, što sam izgradio — ja rušim, i ⟨את⟩ što sam posadio — ja iščupavam, ⟨i⟩ ⟨את⟩ svu zemlju ovu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ćeš reći"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "sam izgradio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "rušim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "što sam posadio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "sam posadio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "iščupavam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu zemlju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:32:49.738277575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I nakon njega sudiše ⟨את⟩ Jisrael Elon Zebulunac; i sudio je ⟨את⟩ Jisrael deset godina.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i sudiše"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nakon njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zebulunac"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "i sudio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:52.239890856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Ah, Jahve! Jer ja sam sluga tvoj, ja sam sluga tvoj, sin robinje tvoje — riješio si me spona mojih.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sam sluga tvoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "robinje tvoje"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "riješio si"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "spona mojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:39.374146293Z",
+  "model": "glm-5.3"
+}

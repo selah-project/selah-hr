@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče: Nadjenu mu ime Lo-Ami, jer vi niste moj narod, i ja ću biti ⟨neću biti⟩ vaš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nadjenu ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niste"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ću biti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:20.472238675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Svi će se postidjeti zbog naroda koji im ne može koristiti — ne za pomoć i ne za korist, nego sramota i još ruglo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "postidjeti se"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "može koristiti"
+    },
+    {
+      "surface": "למו",
+      "gloss": "im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "za pomoć"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "za korist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i još"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ruglo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:17.825044062Z",
+  "model": "glm-5.3"
+}

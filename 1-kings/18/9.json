@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče: Što sam skrivio, da ti predaješ ⟨את⟩ sluge svojega u ruku Ahava, da me ubije?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sam skrivio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predaješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svojega"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluge svojega"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "da me ubije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:04.811319574Z",
+  "model": "glm-5.3"
+}

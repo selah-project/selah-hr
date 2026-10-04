@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I doći ću k žrtveniku Elohimovu, k Elu, radosti svojega klicanja, i slavit ću te uz kinnor, Elohime, Elohim moj.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "I doći ću"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "svojega klicanja"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "i slavit ću te"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uz kinnor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:10.121632343Z",
+  "model": "glm-5.3"
+}

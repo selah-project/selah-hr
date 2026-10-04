@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I izmjeri ⟨את⟩ dužinu njegovu dvadeset lakata, a širinu dvadeset lakata, prema licu hrama; i reče mi: Ovo je svetinja nad svetinjama.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "i izmjeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dužinu njegovu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dužinu njegovu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a širinu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hrama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinja"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nad svetinjama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:11.042213530Z",
+  "model": "glm-5.3"
+}

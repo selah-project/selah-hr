@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I Binjamin rodi ⟨את⟩ Belu, prvorođenca svojega; Ašbel drugi, i Aharah treći.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "I Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belu"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "prvorođenca svojega"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ašbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "i Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "treći"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:29.820847Z",
+  "model": "glm-5.3"
+}

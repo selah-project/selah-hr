@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Elohim kraljuje nad narodima, Elohim sjedi na prijestolju svetosti svoje.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolju"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetosti svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:32.451811907Z",
+  "model": "glm-5.3"
+}

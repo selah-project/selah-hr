@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Zašiljili su jezik svoj kao zmija; otrok guštere pod usnama njihovim. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Zašiljili su"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jezik svoj"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmija"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "otrok"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "guštere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "usnama njihovim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.596699433Z",
+  "model": "glm-5.3"
+}

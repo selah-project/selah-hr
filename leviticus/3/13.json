@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I položi ⟨את⟩ svoju ruku na njegovu glavu, i zakolje ⟨את⟩ ga pred Šatorom sastanka, a sinovi Aharonovi poškrope ⟨את⟩ njegovu krv po žrtveniku unaokolo.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovu glavu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i zakolje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (koza)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatorom"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "a poškrope"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu krv"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "njegovu krv"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:50.036414076Z",
+  "model": "glm-5.3"
+}

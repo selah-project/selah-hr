@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Nakon tih događaja, kad se utaži gnjev kralja Ahašveroša, sjeti se on ⟨את⟩ Vašti i ⟨את⟩ onoga što je učinila i ⟨את⟩ onoga što je bilo određeno protiv nje.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tih događaja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "kad se utaži"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sjeti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vašti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "onoga što je učinila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga što"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "je učinila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "onoga što je bilo određeno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga što"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "je bilo određeno"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "protiv nje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:12.393835732Z",
+  "model": "glm-5.3"
+}

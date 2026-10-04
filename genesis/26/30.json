@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I priredi im gozbu, i jedoše i piše.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i priredi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gozbu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "i jedoše"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "i piše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:34.279066428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jest će, a neće se najesti; bludničit će, a neće se umnožiti, jer su ⟨את⟩ Jahvu napustili, ⟨da ne⟩ čuvaju ⟨vjernost⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "jest će"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a neće"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se najesti"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "bludničit će"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a neće"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "se umnožiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "su napustili"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "čuvati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:36.433525513Z",
+  "model": "glm-5.3"
+}

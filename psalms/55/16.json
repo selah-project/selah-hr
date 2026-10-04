@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Pustišća na njih! Neka živi siđu u Šeol, jer je zlo u prebivalištu njihovu, u sredini njihovoj.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "pustišća"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "neka siđu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "u Šeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "u prebivalištu njihovu"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "u sredini njihovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:57.680217801Z",
+  "model": "glm-5.3"
+}

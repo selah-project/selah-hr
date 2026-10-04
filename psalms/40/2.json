@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Čekao sam, čekao sam na Jahvu, i on se prignu k meni, i ču moj vapaj.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "čekao sam"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "čekao sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i prignu se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "moj vapaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:14.125685632Z",
+  "model": "glm-5.3"
+}

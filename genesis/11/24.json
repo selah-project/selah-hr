@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Nahor dvadeset i devet godina, i rodi ⟨את⟩ Teraha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "devet"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teraha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraha"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:53.175688381Z",
+  "model": "glm-5.3"
+}

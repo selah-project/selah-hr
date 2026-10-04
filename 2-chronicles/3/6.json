@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I obloži ⟨את⟩ dom dragim kamenjem za ukras; a zlato bijaše zlato iz Parvajima.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamenjem"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dragim"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "za ukras"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "iz Parvajima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:07.270731341Z",
+  "model": "glm-5.3"
+}

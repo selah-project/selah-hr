@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Neka se pokače milost bezbožniku — ne nauči cedeka; u zemlji pravosti čini nepravdu i ne vidi uzvišenost Jahvinu.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "neka se pokaže milost"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožniku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למד",
+      "gloss": "nauči"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "pravosti"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "čini nepravdu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "uzvišenost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:59.476307412Z",
+  "model": "glm-5.3"
+}

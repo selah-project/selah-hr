@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Ovo je Tora o onome koji ima tečenje, i o onome od kojega izađe izljev sjemena, te zbog toga bude nečist.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "o onome koji ima tečenje"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i o onome"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izađe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od kojega"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "izljev"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "te bude nečist"
+    },
+    {
+      "surface": "בה",
+      "gloss": "zbog toga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:58.502988033Z",
+  "model": "glm-5.3"
+}

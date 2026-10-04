@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I gonit će ona ⟨את⟩ svoje ljubavnike, ali ih neće stići; tražit će ih, ali ih neće naći. Tada će reći: Poći ću i vratit ću se mužu svojemu prvomu, jer tada mi je bilo bolje nego sada.",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "i gonit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ljubavnike"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "svoje ljubavnike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "će stići"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "tražit će ih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "neće naći"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "tada će reći"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "poći ću"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "i vratit ću se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mužu svojemu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi je bilo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nego sada"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:55.654046414Z",
+  "model": "glm-5.3"
+}

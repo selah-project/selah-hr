@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Pastiri mnogi upropastiše vinograd moj, izgaziše ⟨את⟩ dio moj; dadoše ⟨את⟩ dio želje moje u pustoš suhu.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "Pastiri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "upropastiše"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "vinograd moj"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "izgaziše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dio moj"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "dio moj"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dadoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dio želje moje"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "dio"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "želje moje"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "u pustoš"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "suhu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:09.717417683Z",
+  "model": "glm-5.3"
+}

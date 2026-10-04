@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Bi Esav sin od četrdeset godina, i uze za ženu ⟨את⟩ Jehudit, kćer Beerija Hetita, i ⟨את⟩ Bosmat, kćer Elona Hetita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudit"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Jehudit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Beerija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "Elona"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:03.682159549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A Joktan rodi ⟨את⟩ Almodada i ⟨את⟩ Šelefa i ⟨את⟩ Hacarmavet i ⟨את⟩ Jerala.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "A Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Šelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hacarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hacarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jeral"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jeral"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:56.077269258Z",
+  "model": "glm-5.3"
+}

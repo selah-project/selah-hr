@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I uze Avraham ⟨את⟩ drva za paljenicu i položi na Jicaka, sina svojega; i uze u ruku svoju ⟨את⟩ oganj i ⟨את⟩ nož, i idoše obojica zajedno.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drva za paljenicu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruku svoju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oganj"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "nož"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nož"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i idoše"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obojica"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:56.996535680Z",
+  "model": "glm-5.3"
+}

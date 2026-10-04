@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Nijesam sjedio s ljudima taštim, i s prikrivenima neću doći.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nijesam"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "sjedio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "taštim"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "prikrivenima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ću doći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:14.633557895Z",
+  "model": "glm-5.3"
+}

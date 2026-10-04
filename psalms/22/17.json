@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jer psi su me opkolili, zbor zlikovaca me okružio, kao lav ⟨su se bacili⟩ na moje ruke i na moje noge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "opkolili su me"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "okružili su me"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kao lav"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ruke"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "i moje noge"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:12.317808003Z",
+  "model": "glm-5.3"
+}

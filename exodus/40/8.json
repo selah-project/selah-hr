@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ dvorište unaokolo, i objesi ⟨את⟩ zavjesu na vratima dvorišta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvorište"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorište"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i objesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavjesu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:48.653478475Z",
+  "model": "glm-5.3"
+}

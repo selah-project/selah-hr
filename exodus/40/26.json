@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ zlatni žrtvenik u šatoru sastanka, pred zavjesu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatni žrtvenik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatni"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šatoru"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "zavjesu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:18.366991315Z",
+  "model": "glm-5.3"
+}

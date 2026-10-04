@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Sve sam ovo vidio i dao ⟨את⟩ srce svoje svakomu djelu koje se čini pod suncem: vrijeme je kad čovjek vlada nad čovjekom na zlo njemu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sam vidio"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "i dao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svoje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce svoje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svakomu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se čini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "vlada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nad čovjekom"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na zlo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:53.495995694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 123,
+  "translation": "Pjesma uzlazaka. Tebi podižem ⟨את⟩ svoje oči, ti što sjediš na nebesima.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podižem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ti što sjediš"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:36.490014131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I čekaše sedam dana do roka koji je odredio Šemuel, ali Šemuel ne dođe u Gilgal, i narod se rastavi od njega.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "I čekaše"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "do roka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "u Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "rastavi se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:42.435303431Z",
+  "model": "glm-5.3"
+}

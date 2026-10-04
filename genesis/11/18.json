@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I Peleg življaše trideset godina, i rodi ⟨את⟩ Reua.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reua"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reua"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:08.022547992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Strah i drhtanje dolaze u me, i užas me prekrio.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "strah"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "i drhtanje"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dolaze"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u me"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "i prekrio me"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "užas"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:46.308385828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I podiže žrtvenik Baalu u domu Baalovu, koji podiže u Šomronu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "u Šomronu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:52.655791145Z",
+  "model": "glm-5.3"
+}

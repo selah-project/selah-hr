@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A kralj Arama zapovjedi ⟨את⟩ zapovjednike bojnih kola koja bijahu njegova govoreći: Ne borite se ⟨את⟩ ni sa malim ⟨את⟩ ni sa velikim, nego samo ⟨את⟩ sa kraljem Jisraela jedinim.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "A kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovjednike bojnih kola"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zapovjednike"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojnih kola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bijahu njegova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "borite se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa malim"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ni sa malim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa velikim"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ni sa velikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kraljem Jisraela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa kraljem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "jedinim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:50.628307363Z",
+  "model": "glm-5.3"
+}

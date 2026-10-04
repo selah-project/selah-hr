@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Slavi, Jerušalajime, ⟨את⟩ Jahvu; hvali, Cijone, svoga Elohima!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "slavi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "hvali"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svoga Elohima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijone"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.985258124Z",
+  "model": "glm-5.3"
+}

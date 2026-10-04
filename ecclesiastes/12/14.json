@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Jer ⟨את⟩ svako djelo Elohim će dovesti na sud, i ⟨את⟩ sve skriveno, bilo dobro bilo zlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svako djelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svako"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "će dovesti"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sud"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "skriveno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:12.875588007Z",
+  "model": "glm-5.3"
+}

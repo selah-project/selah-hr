@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A ovo su sinovi pokrajine koji se vratiše iz sužanjstva progonstva, koje je izgnalo Nevukadnecar, kralj Bavela, u Bavel, i vratiše se u Jerušalajim i u Jehudu, svaki u svoj grad.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "pokrajine"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "koji se vratiše"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "iz sužanjstva"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "progonstva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "izgnalo je"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavela"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "u Bavel"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "i vratiše se"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i u Jehudu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "u svoj grad"
+    }
+  ],
+  "timestamp": "2026-10-04T19:53:19.589690697Z",
+  "model": "glm-5.3"
+}

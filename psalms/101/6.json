@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Oči su moje ⟨upravljenе⟩ na vjerne u zemlji, da borave sa mnom; tko hodi putem neporočnosti, on će mi služiti.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "na vjerne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da borave"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tko hodi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "neporočnosti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "služit će mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:28.638135001Z",
+  "model": "glm-5.3"
+}

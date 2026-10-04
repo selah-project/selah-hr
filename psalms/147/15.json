@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Onaj koji šalje svoju riječ na zemlju — brže nego brzo trči njegova besjeda.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "šalje"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "svoju riječ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na zemlju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "brže nego"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "trči"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "njegova besjeda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.436640463Z",
+  "model": "glm-5.3"
+}

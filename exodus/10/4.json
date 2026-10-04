@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jer ako odbijaš pustiti ⟨את⟩ narod moj, evo mene: dovodim sutra skakavce u granice tvoje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odbijaš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "pustiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod moj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo mene"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "dovodim"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutra"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "skakavce"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "u granice tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:15.073132857Z",
+  "model": "glm-5.3"
+}

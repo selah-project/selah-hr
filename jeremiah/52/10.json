@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "I zakla kralj Babela ⟨את⟩ sinove Cidkijahu pred očima njegovim, a i ⟨את⟩ sve knezove Jude zakla u Rivli.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "i zakla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Cidkijahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pred očima njegovim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve knezove Jude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "zakla"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "u Rivli"
+    }
+  ],
+  "timestamp": "2026-10-04T18:35:54.794983024Z",
+  "model": "glm-5.3"
+}

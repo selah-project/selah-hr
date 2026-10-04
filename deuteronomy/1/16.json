@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zapovjedih ⟨את⟩ sucima vašim u vrijeme ono govoreći: slušajte među braćom vašom i sudite cedek između čovjeka i brata njegova i doseljenika njegova.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sucima vašim"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "sucima vašim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "među"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "braćom vašom"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "i sudite"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "doseljenika njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:04.825980803Z",
+  "model": "glm-5.3"
+}

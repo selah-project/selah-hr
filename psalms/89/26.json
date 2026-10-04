@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Postavit ću njegovu ruku na more i njegovu desnicu na rijeke.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "postavit ću"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na more"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovu ruku"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "na rijeke"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "njegovu desnicu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:13.326416941Z",
+  "model": "glm-5.3"
+}

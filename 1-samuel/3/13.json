@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 3:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I objavio sam mu da ću suditi domu njegovu ⟨את⟩ zauvijek zbog krivnje koju zna: sinovi mu se svetogrdno ponašaju, a on ih nije ukorio.",
+  "tokens": [
+    {
+      "surface": "והגדתי",
+      "gloss": "objavio sam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "suditi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom njegov"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dom njegov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječno"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "zbog krivnje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מקללים",
+      "gloss": "svetogrdno ponašaju"
+    },
+    {
+      "surface": "להם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ukorio"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:27.827097253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Nema svetoga kao Jahve, jer nema ⟨druge⟩ osim tebe, i nema hridi kao što je Elohim naš.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svetoga"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kao Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "osim tebe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "צור",
+      "gloss": "hridi"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "kao što je Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:43.114772623Z",
+  "model": "glm-5.3"
+}

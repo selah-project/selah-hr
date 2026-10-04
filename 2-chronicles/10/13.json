@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I odgovori kralj njima oštro, jer kralj Rehavam napusti ⟨את⟩ savjet staraca.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "i odgovori njima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "oštro"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "jer napusti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savjet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "savjet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "staraca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:42.146502754Z",
+  "model": "glm-5.3"
+}

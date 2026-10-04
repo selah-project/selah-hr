@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 131,
+  "translation": "Nada se, Jisraele, u Jahvu od sada i dovijeka.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Nada se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od sada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:59.403255068Z",
+  "model": "glm-5.3"
+}

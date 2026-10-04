@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ovo je povijest Noaha: Noa, čovjek pravedan i čitav, bijaše u svojim naraštajima; s Elohimom je Noa hodio ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "povijest"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "čitav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "u svojim naraštajima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "s Elohimom"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "hodio"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:05.323583289Z",
+  "model": "glm-5.3"
+}

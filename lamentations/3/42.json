@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Mi smo prekršili ⟨את⟩ i pobunili se — ti nisi oprostio.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "prekršili"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "i pobunili se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "oprostio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:44.848769945Z",
+  "model": "glm-5.3"
+}

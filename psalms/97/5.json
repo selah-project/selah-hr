@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Planine se rastopiše kao vosak pred Jahvom, pred Adonajem sve zemlje.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "planine"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kao vosak"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "rastopiše se"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonajem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:33.731382850Z",
+  "model": "glm-5.3"
+}

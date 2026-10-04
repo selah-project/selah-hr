@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I opet su grješili protiv njega, buneći se protiv Elijona u pustinji suhoj.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "i opet su dodali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "grješiti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "buneći se"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "u pustinji suhoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.907521541Z",
+  "model": "glm-5.3"
+}

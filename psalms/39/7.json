@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Samo u priviđenju hodi čovjek; samo dah je ta njihova vika; gomila, a ne zna tko će to sabrati.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "u priviđenju"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dah"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "je ta njihova vika"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "gomila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "će to sabrati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:21.903850439Z",
+  "model": "glm-5.3"
+}

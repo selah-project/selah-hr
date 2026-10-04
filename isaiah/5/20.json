@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jao onima što zlo zovu dobrom, a dobro zlom; što tamu stavljaju za svjetlo, a svjetlo za tamu; što gorko stavljaju za slatko, a slatko za gorko!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "jao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "onima što govore"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zlu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "a dobrome"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "što stavljaju"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "za svjetlo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a svjetlo"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "za tamu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "što stavljaju"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "za slatko"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "a slatko"
+    },
+    {
+      "surface": "למר",
+      "gloss": "za gorko"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:00.048373484Z",
+  "model": "glm-5.3"
+}

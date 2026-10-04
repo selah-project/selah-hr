@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Gade me se, daleko se od mene ukloniše, i pljuvačku pred licem mojim ne ustezaše.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "gade me se"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "daleko se ukloniše"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "i pred licem mojim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ustezaše"
+    },
+    {
+      "surface": "רק",
+      "gloss": "pljuvačku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:37.993926893Z",
+  "model": "glm-5.3"
+}

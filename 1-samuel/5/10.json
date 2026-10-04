@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Poslaše dakle ⟨את⟩ kovčeg Elohimov u Ekron. I bilo je, čim kovčeg Elohimov stiže u Ekron, da Ekronci povikaše govoreći: Došao je k meni ⟨את⟩ kovčeg Elohimove Jisraela, da mene i ⟨את⟩ moj narod pogubi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "poslaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "u Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "čim stiže"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "povikaše"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "Ekronci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "došao je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohimove Jisraela"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "da mene pogubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "moj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:03.038690531Z",
+  "model": "glm-5.3"
+}

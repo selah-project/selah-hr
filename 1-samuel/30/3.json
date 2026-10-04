@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I dođe David i njegovi ljudi k gradu, a gle, bijaše spaljen ognjem; a njihove žene, njihovi sinovi i njihove kćeri bijahu odvedeni u sužanjstvo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i njegovi ljudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gradu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "spaljen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "a njihove žene"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "njihovi sinovi"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "i njihove kćeri"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "odvedeni u sužanjstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:10.164868129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "I obradovaše se što se smiriše, i povede ih u luku njihove želje.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "i obradovaše se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "smiriše se"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i povede ih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "luku"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "njihove želje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:23.521422586Z",
+  "model": "glm-5.3"
+}

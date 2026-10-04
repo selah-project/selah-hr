@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Reci Elazaru, sinu Aharonu svećeniku: neka podigne ⟨את⟩ kadionice između izgorjeloga, a ⟨את⟩ oganj rasprši daleko, jer su se posvetili.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "neka podigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadionice"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "kadionice"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "između"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "izgorjeloga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oganj"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "rasprši"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "daleko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "posvetiše se"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:54.057684493Z",
+  "model": "glm-5.3"
+}

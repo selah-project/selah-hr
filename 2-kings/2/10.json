@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče: Tešku si stvar ispitao; ako me vidiš kad budem uzet od tebe, neka ti bude tako, a ako ne, neće biti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "tešku si stvar (zatražio)"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "is pitati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidiš"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mene",
+      "marks": "mene (uzet)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uzet"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od tebe ⟨את⟩"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:11.533683494Z",
+  "model": "glm-5.3"
+}

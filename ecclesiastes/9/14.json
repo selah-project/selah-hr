@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "grad mali i ljudi u njemu malobrojni; i dođe na nj kralj velik, i opkoli ⟨את⟩ nj, i podiže na nj velike utvrde.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i ljudi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malobrojni"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "i opkoli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nj (grad)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "utvrde"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velike"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:34.018429760Z",
+  "model": "glm-5.3"
+}

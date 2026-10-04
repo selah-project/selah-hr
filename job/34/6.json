@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Unatoč mojemu pravu ⟨smatran sam⟩ lašcem; moja je rana neizlječiva, bez prijestupa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "unatoč"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mojemu pravu"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "lašcem"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neizlječiva"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "moja strijela ⟨rana⟩"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestupa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:38:37.328375662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A za plod drveta koje je Usred vrta — rekao je Elohim: Ne jedite ⟨ga⟩ i ne dirajte ⟨ga⟩, da ne umrete.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "a za plod"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vrta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekao je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨ga⟩ od njega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dirajte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ga⟩ u njega"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "umrete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.950098521Z",
+  "model": "glm-5.3"
+}

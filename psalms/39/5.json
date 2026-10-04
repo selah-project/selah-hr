@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Daj mi spoznati, Jahve, kraj moj i mjeru dana mojih — kakva jest ⟨je⟩, da znadem kako sam ništavan ⟨sam⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "daj mi spoznati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "kraj moj"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "i mjeru"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dana mojih"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "da znadem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ništavan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja ⟨sam⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:21.903423185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Posvetite se i budite sveti, jer ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "posvetite se"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "i budite"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sveti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:24.311860431Z",
+  "model": "glm-5.3"
+}

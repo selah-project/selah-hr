@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I nakloni ⟨את⟩ srce svih ljudi Judinih kao srce jednoga čovjeka, i poslaše kralju poruku: Vrati se, ti i sve tvoje sluge.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "I nakloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svih ljudi Judinih"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinih"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kao čovjeka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i poslaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Vrati se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvoje sluge"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:33.393554231Z",
+  "model": "glm-5.3"
+}

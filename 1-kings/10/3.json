@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Šalom joj izjavi ⟨את⟩ sve riječi njezine; ne bijaše riječi skrivene od kralja koje on njoj ne bi izjavio.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "I izjavi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi njezine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "riječi njezine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "skrivene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne bi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "izjavio"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:53.366665822Z",
+  "model": "glm-5.3"
+}

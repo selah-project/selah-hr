@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet koji leži sa svakom životinjom, i neka sav narod rekne: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "koji leži"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakom"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "životinjom"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i neka rekne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:10.377635109Z",
+  "model": "glm-5.3"
+}

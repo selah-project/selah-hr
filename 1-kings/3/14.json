@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ako budeš hodio mojim putima, čuvajući moje naredbe i moje zapovijedi, kao što je hodio David, otac tvoj, tad ću produžiti ⟨את⟩ dane tvoje.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "budeš hodio"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mojim putima"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "čuvajući"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "moje naredbe"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "i moje zapovijedi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodio"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otac tvoj"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "tad ću produžiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dane tvoje"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dane tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:36.917072271Z",
+  "model": "glm-5.3"
+}

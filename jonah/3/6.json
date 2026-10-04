@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I stigne riječ kralja ninivskoga, pa ustade s prijestolja svojega, skide ogrtač svoj s sebe, pokri se kostrijeti i sjede u pepeo.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "stigne"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ninivskoga"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ustade"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "s prijestolja svojega"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "skide"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "ogrtač svoj"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "s sebe"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "pokri se"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kostrijeti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "pepeo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:33.698589456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Sin žene Jisraelke prozva ⟨את⟩ Ime i opsu, pa ga dovedoše Mošeu; a ime matere njegove bijaše Šelomit, kći Divrijeva, iz plemena Danova.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "Jisraelke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ime"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Ime"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "i opsu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "pa dovedoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matere njegove"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Šelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Divrijeva"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iz plemena"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:36.274735027Z",
+  "model": "glm-5.3"
+}

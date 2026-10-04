@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Daleko je od zlikovaca spasenje, jer tvojih naredaba ne traže.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Daleko"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "je od zlikovaca"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "spasenje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvojih naredaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "traže"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:12.185340027Z",
+  "model": "glm-5.3"
+}

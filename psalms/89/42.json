@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Pljačkaju ga svi koji putem prolaze, postao je sramota susjedima svojim.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "pljačkaju ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "koji prolaze"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "postao je"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "susjedima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.891737107Z",
+  "model": "glm-5.3"
+}

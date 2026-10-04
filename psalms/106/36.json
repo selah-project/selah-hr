@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "i služahu ⟨את⟩ kumirima njihovim, i postaše im ⟨to⟩ za zamku.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "i služahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumirima njihovim"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "kumirima njihovim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i postaše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "za zamku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.550908795Z",
+  "model": "glm-5.3"
+}

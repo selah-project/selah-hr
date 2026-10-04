@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče Jahve Mošeu: Idi k narodu i posveti ih danas i sutra, neka operu svoje haljine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "i posveti ih"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "i sutra"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "neka operu"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "svoje haljine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:10.557168725Z",
+  "model": "glm-5.3"
+}

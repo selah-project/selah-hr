@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "A mi rekosmo gospodaru svojemu: Ne može mladić ostaviti oca svojega; ako ostavi oca svojega, ⟨on će umrijeti⟩.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "a mi rekosmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gospodaru svojemu, k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru moj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "može"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ostaviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ako ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:06.267055059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Pristupi i Lea i djeca njezina, i poklone se; a poslije pristupi Josip i Rahel, i poklone se.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "i djeca njezina"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i poklone se"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a poslije"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "i Rahel"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i poklone se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:30.140235049Z",
+  "model": "glm-5.3"
+}

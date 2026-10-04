@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve ⟨je⟩ snaga njima i tvrđava spasenja pomazaniku njegovu ⟨je on⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "snaga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "i tvrđava"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "spasenja"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "pomazaniku njegovu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je on"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:09.307083598Z",
+  "model": "glm-5.3"
+}

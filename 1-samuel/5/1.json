@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A Plještijci uzeše ⟨את⟩ kovčeg Elohimov i donesoše ga iz Even-Ezera u Ašdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "A Plještijci"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "donesoše ga"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "iz Even-Ezera"
+    },
+    {
+      "surface": "העזר",
+      "gloss": ""
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "u Ašdod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:00.404413328Z",
+  "model": "glm-5.3"
+}

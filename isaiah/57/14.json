@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "I reče se: Nasipajte, nasipajte, poravnajte put, uklonite zapreku s puta moga naroda!",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i reče se"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "nasipajte"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "nasipajte"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "poravnajte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "uklonite"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "zapreku"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "s puta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moga naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:24.808768977Z",
+  "model": "glm-5.3"
+}

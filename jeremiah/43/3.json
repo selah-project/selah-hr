@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "nego Baruh, sin Nerijin, nagovara te protiv nas, da bi nas predao u ruku Kasdim, da nas usmrti i da nas odvede u sužanjstvo u Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerije"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "nagovara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "tebe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "protiv nas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "predao nas"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "da usmrti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "i da odvede u sužanjstvo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "u Bavel"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:08.910334688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I Jahve povrati ⟨את⟩ sujetu Ijobovu kad se molio za svoje prijatelje; i Jahve dodade Ijobu ⟨את⟩ sve što je imao, udvostručeno.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "povrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sujeta Ijobova"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "sujetu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobova"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "kad se molio"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoje prijatelje"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "i dodade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je imao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijobu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "udvostručeno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:17.559279250Z",
+  "model": "glm-5.3"
+}

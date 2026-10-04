@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Ja sam Jahve — to je moje ime; svoju slavu drugome neću dati ni svoju hvalu likovima rezanim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje ime"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "svoju slavu"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "drugome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dati"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ni svoju hvalu"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "likovima rezanim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:20.672123610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "te da Jaakov posluša oca svojega i majku svoju, pa ode u Padan Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "te posluša"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ⟨k⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majku svoju"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pa ode"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:16.305508344Z",
+  "model": "glm-5.3"
+}

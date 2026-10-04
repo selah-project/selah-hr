@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "⟨את⟩ jedno janje činit ćeš ujutro, a ⟨את⟩ drugo janje činit ćeš između večeri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedno janje"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "činit ćeš"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "drugo janje"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "činit ćeš"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:04.876870232Z",
+  "model": "glm-5.3"
+}

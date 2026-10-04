@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Sočan je pred suncem, i preko svoga vrta izlazi njegov izdanak.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "sočan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i preko"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "svoga vrta"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "njegov izdanak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izlazi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:00.798684131Z",
+  "model": "glm-5.3"
+}

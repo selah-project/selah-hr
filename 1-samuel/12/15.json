@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ako, međutim, ne poslušate glas Jahvin i pobunite se protiv ⟨את⟩ usta Jahvinih, tada će ruka Jahvina biti na vama i na ocima vašim.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslušate"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "pobunite se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta Jahvina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na vama"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "i na ocima vašim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:12.958665490Z",
+  "model": "glm-5.3"
+}

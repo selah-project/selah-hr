@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Zborovođi, Jedutunu, Mizmor Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Jedutunu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:13.159129577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Tko pljačka oca i tjera majku u bijeg, sin je koji donosi sram i ruglo.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "Tko pljačka"
+    },
+    {
+      "surface": "אב",
+      "gloss": "oca"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "tjera u bijeg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "donosi sram"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "i ruglo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:21.114743559Z",
+  "model": "glm-5.3"
+}

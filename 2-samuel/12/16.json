@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I potraži David ⟨את⟩ Elohim zbog djeteta, i posta David post, i dođe ⟨kući⟩, i prenoći, i leže na zemlju.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "I potraži"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djeteta"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "i posta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "i prenoći"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "i leže"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:30.355021527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Tada zapjeva Jisrael ovu ⟨את⟩ pjesmu: Usponi se, studenče, pjevajte mu!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "zapjeva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu pjesmu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Usponi se"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studenče"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:18.474606962Z",
+  "model": "glm-5.3"
+}

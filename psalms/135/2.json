@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "vi što stojite u domu Jahvinu, u dvorištima doma Elohimova našega!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "vi što stojite"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "u dvorištima"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimova našega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:02.483414464Z",
+  "model": "glm-5.3"
+}

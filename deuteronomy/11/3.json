@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ njegove znakove i ⟨את⟩ njegova djela koja učini usred Micrajima faraonu, kralju micrajskomu, i svoj njegovoj zemlji —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove znakove"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "njegove znakove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegova djela"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "njegova djela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskomu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i svoj"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegovoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:43.877738322Z",
+  "model": "glm-5.3"
+}

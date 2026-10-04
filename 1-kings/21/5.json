@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dođe k njemu Izebel, žena njegova, i reče mu: Što je ovo? Duša ti je ⟨ruah⟩ ogorčena i ne jedeš kruha.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žena njegova"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "⟨ruah⟩ tvoja"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ogorčena"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedeš"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:37.479339251Z",
+  "model": "glm-5.3"
+}

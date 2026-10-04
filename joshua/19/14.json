@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I obilazi ⟨את⟩ granica sa sjevera, Hanaton, i izlaziši ⟨את⟩ njezini bijahu dolina Jiftah-El.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i obilazi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "granica"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "granica"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa sjevera"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Hanaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i bijahu"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "izlaziši njezini"
+    },
+    {
+      "surface": "גי",
+      "gloss": "dolina"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T17:21:26.275330423Z",
+  "model": "glm-5.3"
+}

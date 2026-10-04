@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 22:19",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Pravedni će vidjeti i obradovati se, i nevin <⟨se⟩> podsmjehnut će ⟨את⟩ njima.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "će vidjeti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravedni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "i obradovati se"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "i nevin"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "podsmjehnut će"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨את⟩ njima",
+      "marks": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:16.297955190Z",
+  "model": "glm-5.3"
+}

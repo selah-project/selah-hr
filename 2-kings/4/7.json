@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ona dođe i javi čovjeku Elohimovu, a on reče: Idi, prodaj ⟨את⟩ ulje i podmiri ⟨את⟩ svoje dugove; a ti ćeš i sinovi tvoji živjeti od onoga što preostane.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i ona dođe"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "i javi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "prodaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulje"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "i podmiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje dugove"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "svoje dugove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "i sinovi tvoji"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "ćete živjeti"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "od onoga što preostane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:52.142063962Z",
+  "model": "glm-5.3"
+}

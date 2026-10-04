@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Iziđe ruah njegov, vrati se na zemlju svoju; u taj dan propadnu namisli njegove.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Iziđe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruah njegov"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "na zemlju svoju"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taj"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "propadnu"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "namisli njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.452461113Z",
+  "model": "glm-5.3"
+}

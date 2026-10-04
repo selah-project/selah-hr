@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pođe Avram kako mu je Jahve rekao, i pođe s ⟨את⟩ njim Lot; a Avram bijaše sin pet godina i sedamdeset godina kad je izišao iz Harana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "a Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "i sedamdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kad je izišao"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "iz Harana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:29.360281941Z",
+  "model": "glm-5.3"
+}

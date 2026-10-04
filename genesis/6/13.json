@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče Elohim Noi: došao je kraj svega mesa preda me, jer se zemlja napuni silom ⟨od njihova lica⟩ — i evo, uništit ću ih ⟨zajedno⟩ sa ⟨את⟩ zemljom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "בשר",
+      "gloss": " mesa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napuni se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "silom"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "od njihova lica"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "i evo"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "uništit ću ih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:21.179226174Z",
+  "model": "glm-5.3"
+}

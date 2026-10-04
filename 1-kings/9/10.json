@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I bilo je na kraju dvadeset godina u kojima je Šelomo sagradio ⟨את⟩ dvije kuće, ⟨את⟩ kuću Jahvinu i ⟨את⟩ kuću kraljevu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojima"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvije kuće"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću Jahvinu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuću kraljevu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:47.140228136Z",
+  "model": "glm-5.3"
+}

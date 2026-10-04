@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I reče Šemuel narodu: Hajde, idimo u Gilgal i obnovimo ondje kraljevstvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Hajde"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "idimo"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "u Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "i obnovimo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kraljevstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:37.373368474Z",
+  "model": "glm-5.3"
+}

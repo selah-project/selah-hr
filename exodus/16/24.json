@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ostaviše ga do jutra, kako naredi Moše, i nije smrdio, i crva nije bilo u njemu.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "i ostaviše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (manu)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "naredi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "smrdio"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "i crv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bio"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:04.886021770Z",
+  "model": "glm-5.3"
+}

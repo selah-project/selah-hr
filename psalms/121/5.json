@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Jahve ⟨je⟩ čuvar tvoj, Jahve ⟨je⟩ sjena tvoja nad desnom rukom tvojom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "čuvar tvoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "sjena tvoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnom tvojom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:48.682696245Z",
+  "model": "glm-5.3"
+}

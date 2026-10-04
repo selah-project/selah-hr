@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I Micrajim natjeraše ⟨את⟩ sinove Jisraelove na robovanje s okrutnošću,",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "natjeraše na robovanje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "s okrutnošću"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:34.683777737Z",
+  "model": "glm-5.3"
+}

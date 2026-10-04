@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Jahve: Vidjet sam vidio ⟨את⟩ bijedu naroda svojega koji je u Micrajimu, i ⟨את⟩ viku njihovu čuo sam od njihovih nadzornika, jer poznajem ⟨את⟩ boli njihove.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidjet"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sam vidio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijedu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bijedu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viku njihovu"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "viku njihovu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "njihovih nadzornika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznajem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boli njihove"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "boli njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:05.293538970Z",
+  "model": "glm-5.3"
+}

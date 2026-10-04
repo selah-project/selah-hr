@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I narod će se tlačiti, čovjek čovjeka, i svatkov susjeda svoga; djetinjasti drsko će se vladati prema starcu, i onaj bez imena prema čaštenomu.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "tlačiti će se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i svatko"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "susjeda svoga"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "drsko će se vladati"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djetinjasti"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "prema starcu"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "i onaj bez imena"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "prema čaštenomu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:59.165776184Z",
+  "model": "glm-5.3"
+}

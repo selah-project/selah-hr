@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I srete Elohim Bilama, a on mu reče: ⟨את⟩ sedam žrtvenika uredih i prinijeh bika i ovna na žrtveniku.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "i srete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(prema)"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedam žrtvenika"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "uredih"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "i prinijeh"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "i ovna"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:39.563061091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I izađe ogan ispred Jahve, i proždrije ⟨את⟩ ih, te umriješe pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "i izađe"
+    },
+    {
+      "surface": "אשׁ",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "i proždrije"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "te umriješe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:57.642109832Z",
+  "model": "glm-5.3"
+}

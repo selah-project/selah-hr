@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I progovori im otac njihov: Kojim je putem otišao? A sinovi njegovi vidješe ⟨את⟩ put kojim je otišao čovjek Elohimov koji dođe iz Jude.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i progovori"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otac njihov"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je otišao"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a vidješe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "put"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je otišao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "iz Jude"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.831863511Z",
+  "model": "glm-5.3"
+}

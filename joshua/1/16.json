@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I odgovoriše ⟨את⟩ Jehošui govoreći: Sve što si nam zapovjedio učinit ćemo, i kamo god nas pošalješ, ići ćemo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "I odgovoriše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "si nam zapovjedio"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "učinit ćemo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i kamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "god"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "nas pošalješ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ići ćemo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:09.342409599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "ili bude mu obznanjen grijeh njegov koji je počinio, te neka dovede ⟨את⟩ prinos svoj: jarac od koza, muško, bez mane.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bude obznanjen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeh njegov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "počinio"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njega"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "i neka dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prinos svoj"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "prinos svoj"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "jarac"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "od koza"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:51.956752650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "U to vrijeme Retsin, kralj aramski, vrati ⟨את⟩ Elat Aramu i istjera ⟨את⟩ Judejce iz Elata; Aramejci dođoše u Elat i nastaniše se ondje do ovoga dana.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "U <vrijeme>"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "to"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "i istjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judejce"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judejce"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "iz Elata"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "Aramejci"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "u Elat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i nastaniše se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana ovoga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:04.048945719Z",
+  "model": "glm-5.3"
+}

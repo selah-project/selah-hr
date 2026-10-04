@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I bî, kad ču kralj Hizkijahu, razdrije ⟨את⟩ haljine svoje i ogrnu se vrećom, i uđe u dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bî"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "razdrije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ogrnu se"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "vrećom"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:36.968909690Z",
+  "model": "glm-5.3"
+}

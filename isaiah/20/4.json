@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "tako će odvesti kralj Ašura ⟨את⟩ sužnje Micrajima i ⟨את⟩ izgnanike Kuša, mladiće i starce, gole i bose, sa zadnjicom otkrivenom — sramota Micrajima.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "će odvesti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužnje Micrajima"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "izgnanike Kuša"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "izgnanike"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "i starce"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "gole"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "i bose"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "sa otkrivenom"
+    },
+    {
+      "surface": "שת",
+      "gloss": "zadnjicom"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:06.607620291Z",
+  "model": "glm-5.3"
+}

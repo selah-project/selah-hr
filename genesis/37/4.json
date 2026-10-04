@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I vidješe braća njegova da oca njihov ljubi ⟨את⟩ njega više nego svu braću njegovu, pa ⟨את⟩ ga zamrziše i ne mogaše govoriti s njim ⟨u⟩ miru.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braća njegova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega (ljubi)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "oca njihov"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego svu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću njegovu"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "pa zamrziše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga (zamrziše)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogaše"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govoriti s njim"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "u miru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.588755324Z",
+  "model": "glm-5.3"
+}

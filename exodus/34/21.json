@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Šest dana radit ćeš, a u dan sedmi Šabat; u oranju i u žetvi Šabat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "radit ćeš"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a u dan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "u oranju"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "i u žetvi"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "Šabat"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:23.679890254Z",
+  "model": "glm-5.3"
+}

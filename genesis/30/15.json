@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "A ona joj reče: Zar ti je malo što si uzela ⟨את⟩ muža mojega, pa da uzmeš i ⟨את⟩ mandragore sina mojega? I reče Rahel: Neka dakle s tobom noćas liježe, umjesto mandragora sina tvojega.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "zar je malo"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "što si uzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muža mojega"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "muža mojega"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "pa da uzmeš"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mandragore sina mojega"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "mandragore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "neka dakle"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "liježe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noćas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "umjesto"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "mandragora"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:14.109689555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Ljubio si cedek i mrzio opačinu; zato te pomazao Elohim, Elohim tvoj, uljem radosti mimo drugova tvojih.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ljubio si"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "i mrzio"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "opačinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "te pomazao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "uljem"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "mimo drugova tvojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:25.855705219Z",
+  "model": "glm-5.3"
+}

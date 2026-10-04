@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "nego sjeti se ⟨את⟩ Jahve, Elohim svojega, jer on daje tebi snagu da stječeš blago, da bi vršio ⟨את⟩ savez svoj koji se zakleo ocima tvojim, kao što ⟨je⟩ ovaj dan.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "nego sjeti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "snagu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da stječeš"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "blago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "vršio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez svoj"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savez svoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "zakleo se"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ocima tvojim"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao što je ovaj dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:27.685415332Z",
+  "model": "glm-5.3"
+}

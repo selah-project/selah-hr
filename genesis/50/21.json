@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "A sada ne bojte se: ja ću uzdržavati ⟨את⟩ vas i ⟨את⟩ vašu djecu. I on ⟨את⟩ ih utješi i govoraše njihovu srcu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ću uzdržavati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "vašu djecu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vašu djecu"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i utješi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovo srce"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:47.360834490Z",
+  "model": "glm-5.3"
+}

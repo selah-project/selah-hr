@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A ovo je povijest Jicaka, sina Avrahamova: Avraham rodi ⟨את⟩ Jicaka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo je povijest"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "povijest"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamova"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:21.564136074Z",
+  "model": "glm-5.3"
+}

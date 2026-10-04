@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I uzmite ⟨את⟩ Kovčeg Jahvin i stavite ga na kola, a ⟨את⟩ zlatne predmete koje mu vraćate kao naknadu za krivnju stavite u sanduk uz njegov bok, te ga pustite i neka ide.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "i uzmite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Jahvin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "i stavite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zlatne predmete"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "vraćate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kao naknadu za krivnju"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "stavite"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "u sanduk"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "uz njegov bok"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "i pustite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "i neka ide"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:50.356314526Z",
+  "model": "glm-5.3"
+}

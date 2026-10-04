@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I nadvuče (adam) ime žene svoje Havva, jer ona bijaše majka svega živoga.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nadvuče"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "(adam)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žene svoje"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.503677916Z",
+  "model": "glm-5.3"
+}

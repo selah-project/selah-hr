@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Jer nije ⟨uzvišenje⟩ ni od istoka ni sa zapada, ni iz pustinje ⟨uzvišenje dolazi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "od istoka"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ni sa zapada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "iz pustinje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "uzvišenje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.068694802Z",
+  "model": "glm-5.3"
+}

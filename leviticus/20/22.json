@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I čuvat ćete ⟨את⟩ sve moje uredbe i ⟨את⟩ sve moje sudove, i činit ćete ih, da vas zemlja u koju vas ja vodim onamo da u njoj stanujete ne izbljuje.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvat ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve moje uredbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje uredbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve moje sudove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moje sudove"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i činit ćete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "izbljuje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u koju"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "vodim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da stanujete"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:53.755028774Z",
+  "model": "glm-5.3"
+}

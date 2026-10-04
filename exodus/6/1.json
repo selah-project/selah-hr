@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče Jahve Mošeu: Sada ćeš vidjeti što ću učiniti faraonu, jer će ih moćnom rukom ⟨morati⟩ otpustiti i moćnom rukom protjerati ih iz svoje zemlje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ćeš vidjeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "moćnom"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "će ih otpustiti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i rukom"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "moćnom"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "će ih protjerati"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iz svoje zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:01.055996423Z",
+  "model": "glm-5.3"
+}

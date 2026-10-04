@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Jer Jahve sluša siromašne, i ⟨את⟩ sužnje svoje ne prezire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sluša"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "siromašne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sužnje svoje"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "sužnje svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "prezire"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:33.664099618Z",
+  "model": "glm-5.3"
+}

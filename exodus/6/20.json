@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I uze Amram ⟨את⟩ Jokebed, tetku svoju, sebi za ženu, i ona mu rodi ⟨את⟩ Aharona i ⟨את⟩ Mošea; a godine života Amramova biješe sto trideset i sedam godina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Jokebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tetku svoju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a godine"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "života"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amramova"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:20.989870200Z",
+  "model": "glm-5.3"
+}

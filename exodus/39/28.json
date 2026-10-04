@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I ⟨את⟩ turban od šesa, i ⟨את⟩ ures kapâ svećeničkih od šesa, i ⟨את⟩ gaće lânene od šesa predenog.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ures kapâ svećeničkih"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ures"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "kapâ svećeničkih"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "gaće"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "gaće"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lânene"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šesa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "predenog"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:29.035159947Z",
+  "model": "glm-5.3"
+}

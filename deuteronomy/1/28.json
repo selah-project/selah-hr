@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 1:28",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Kamo bismo se uspeli? Braća naša rastopiše ⟨את⟩ srce naše govoreći: Narod je veći i viši od nas; gradovi su veliki i utvrđeni do neba; vidjeli smo ondje i sinove Anakovce.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "uspjeli"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "braća naša"
+    },
+    {
+      "surface": "המסו",
+      "gloss": "rastopiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce naše"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "srce naše"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veći"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "i viši"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradovi"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "ובצורת",
+      "gloss": "i utvrđeni"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "do neba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Anakovce"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vidjeli smo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:25.605988566Z",
+  "model": "glm-5.3"
+}

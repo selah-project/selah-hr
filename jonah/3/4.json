@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I poče Jona ulaziti u grad, put od jednoga dana, i progovori te reče: Još četrdeset dana i Niniva će biti prevrnuta.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i poče"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ulaziti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "put"
+    },
+    {
+      "surface": "יום",
+      "gloss": "od jednoga dana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i progovori"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "i Niniva"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "biti prevrnuta"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:53.342780002Z",
+  "model": "glm-5.3"
+}

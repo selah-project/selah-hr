@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I vrati se Rabšake, i nađe ⟨את⟩ kralja ašurskoga kako ratuje protiv Libne, jer je čuo da je krenuo iz Lakiše.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Šake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "i nađe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja ašurskoga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ašurskoga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ratuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "čuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "krenuo"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "iz Lakiše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:58.844142698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Zato reci: Evo, dajem mu ⟨את⟩ savez svoj — mir.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dajem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez svoj"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez svoj"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:21.227095042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Prebivat ću u šatoru tvojem dovijeka, sklonit ću se u zaklon krila tvojih. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "prebivat ću"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "u šatoru tvojem"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sklonit ću se"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u zaklon"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "krila tvojih"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.385286342Z",
+  "model": "glm-5.3"
+}

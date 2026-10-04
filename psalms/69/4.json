@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Iscrpljen sam od vikanja, grlo mi izgara, oči mi gasnu čekajući na svoga Eloha.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "iscrpljen sam"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "od vikanja"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "izgara"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "grlo mi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gasnu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči mi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "čekajući"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na svoga Eloha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.573637626Z",
+  "model": "glm-5.3"
+}

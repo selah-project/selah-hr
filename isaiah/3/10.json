@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Recite pravedniku da ⟨će biti⟩ dobro, jer plod djela svojih jest će.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "recite"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedniku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "djela svojih"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jest će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:26.976418538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dovede me ⟨את⟩ do ulaza u dvorište; i pogledah, i gle, jedna rupa u zidu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dovede"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "u dvorište"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i pogledah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "חר",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "u zidu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:42.771604205Z",
+  "model": "glm-5.3"
+}

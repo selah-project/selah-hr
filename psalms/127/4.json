@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 127,
+  "translation": "Kao strijele u ruci junaka, tako su sinovi mladosti.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Kao strijele"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruci"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "mladosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:16.043718560Z",
+  "model": "glm-5.3"
+}

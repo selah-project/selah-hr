@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Doći će Elohim naš i neće šutjeti; oganj pred njim proždire, a oko njega bjesni oluja silno.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Doći će"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "šutjeti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "proždire"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "a oko njega"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "bjesni oluja"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "silno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:20.614470608Z",
+  "model": "glm-5.3"
+}

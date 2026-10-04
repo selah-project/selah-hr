@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I načini Elohim ⟨את⟩ dva svjetila velika: ⟨את⟩ svjetilo veliko za vladavinu dana i ⟨את⟩ svjetilo malo za vladavinu noći, i ⟨את⟩ zvijezde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva svjetila velika"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "svjetila"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svjetilo veliko"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "svjetilo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "za vladavinu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svjetilo malo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "svjetilo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "malo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "za vladavinu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zvijezde"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "zvijezde"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:47.545414296Z",
+  "model": "glm-5.3"
+}

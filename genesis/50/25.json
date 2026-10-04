@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I zakle Josef sinove Jisraela ⟨את⟩ govoreći: Posjetit će Elohim vas ⟨את⟩ ⟨sigurno⟩, i tada ponijet ćete kosti moje ⟨את⟩ odavde.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "posjetit"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "će posjetiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vas ⟨את⟩"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "i ponijet ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosti moje"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "kosti moje"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odavde"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:05.488229059Z",
+  "model": "glm-5.3"
+}

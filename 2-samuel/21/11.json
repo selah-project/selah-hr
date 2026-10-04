@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I javiše Davidu ⟨את⟩ ono što učini Ricpa, kći Ajina, sula Šaulova.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "I javiše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što učini Ricpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ricpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajina"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "sula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:35.914557467Z",
+  "model": "glm-5.3"
+}

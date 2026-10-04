@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "dvanaest godina služili su ⟨את⟩ Kedorlaomera, a trinaeste godine se pobuniše.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naest"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomera"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naeste"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "pobuniše se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:43.886213600Z",
+  "model": "glm-5.3"
+}

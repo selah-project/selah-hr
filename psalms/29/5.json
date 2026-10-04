@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Glas Jahvin lomi cedrove; da, Jahve slomi ⟨את⟩ cedrove Libanona.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lomi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrove"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "slomi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedrove Libanona"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedrove"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanona"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:56.490827231Z",
+  "model": "glm-5.3"
+}

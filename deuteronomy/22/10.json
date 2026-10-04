@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ne ori volom i magarcem zajedno.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ori"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "volom"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "i magarcem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:49.919070804Z",
+  "model": "glm-5.3"
+}

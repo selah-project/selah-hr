@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Pomoć moja ⟨je⟩ od Jahvea, stvoritelja neba i zemlje.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Pomoć moja"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "stvoritelja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.186125730Z",
+  "model": "glm-5.3"
+}

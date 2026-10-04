@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Evo, čeznem za tvojim nalogima; u svojem cedeku me oživi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Evo"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "čeznem"
+    },
+    {
+      "surface": "לפקודיך",
+      "gloss": "za tvojim nalogima"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "u svojem cedeku"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "me oživi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:48.302158978Z",
+  "model": "glm-5.3"
+}

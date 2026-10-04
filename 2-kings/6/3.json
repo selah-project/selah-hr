@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A jedan reče: Udostoj se, molim, i pođi ⟨את⟩ sa slugama svojim. A on reče: Ja ću poći.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "udostoj se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i pođi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa slugama svojim"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sa slugama svojim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ću poći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:42.173713658Z",
+  "model": "glm-5.3"
+}

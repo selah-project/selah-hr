@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I on ode te uze ⟨את⟩ Gomer, kćer Diblajimovu, i ona zače i rodi mu sina.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i on ode"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "te uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer, kćer Diblajimovu"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajimovu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "i ona zače"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:31.558761526Z",
+  "model": "glm-5.3"
+}

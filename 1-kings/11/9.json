@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I Jahve se razgnjevi na Šalomona, jer je srce njegovo odstupilo od Jahve, Elohim Jisraelova, koji mu se objavio dvaput.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "razgnjevi se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "na Šalomona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "odstupilo"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "srce njegovo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "objavio se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dvaput"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:56.098512985Z",
+  "model": "glm-5.3"
+}

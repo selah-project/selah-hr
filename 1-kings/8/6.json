@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I svećenici unijesoše ⟨את⟩ kovčeg saveza Jahve na njegovo mjesto, u debir doma, u svetost svetosti, pod krila kerubina.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i unijesoše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg saveza Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "njegovo mjesto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krila"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:47.047457923Z",
+  "model": "glm-5.3"
+}

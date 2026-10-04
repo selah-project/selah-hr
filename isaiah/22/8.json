@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I otkri ⟨את⟩ pokrov Jehudin, i pogleda ⟨ti⟩ u onaj dan na oružje kuće šume.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "I otkri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokrov Jehudin"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pokrov"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudin"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "i pogleda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "oružje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "היער",
+      "gloss": "šume"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:25.203722210Z",
+  "model": "glm-5.3"
+}

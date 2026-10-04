@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I načinit ćeš motke za žrtvenik, motke od drva šitim, i obložit ćeš ⟨את⟩ ih bakrom.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načinit ćeš"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "za žrtvenik"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i obložit ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "motke"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bakrom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.793084357Z",
+  "model": "glm-5.3"
+}

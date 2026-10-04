@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Čovjek, gospodar zemlje, govoraše s nama ⟨את⟩ oštro i uze ⟨את⟩ nas ⟨את⟩ kao uhode ⟨את⟩ zemlje.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s nama"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "oštro"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i uze nas"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "kao uhode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:26.760320687Z",
+  "model": "glm-5.3"
+}

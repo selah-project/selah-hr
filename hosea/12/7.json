@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "A ti se vrati ⟨k⟩ svome Elohimu, čuvaj hesed i pravo, i ufaj se u svoga Elohima stalno.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "svome Elohimu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i pravo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "i ufaj se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svoga Elohima"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:11.921909598Z",
+  "model": "glm-5.3"
+}

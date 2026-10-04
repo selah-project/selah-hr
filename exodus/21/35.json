@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I kad bič ⟨את⟩ drugi udario vol nekoga čovjeka i uginuo bi, prodat će vola živoga i razdijeliti ⟨את⟩ srebrninu njegovu; također i ⟨את⟩ uginuloga razdijelit će.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "udario"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nekoga čovjeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "njegova druga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "i uginuo bi"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "prodat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vola živoga"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živoga"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "i razdijeliti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebrninu njegovu"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "srebrninu njegovu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uginuloga"
+    },
+    {
+      "surface": "המת",
+      "gloss": "uginuloga"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "razdijelit će"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:25.001517590Z",
+  "model": "glm-5.3"
+}

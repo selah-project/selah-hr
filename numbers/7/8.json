@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ četiri kola i ⟨את⟩ osam volova dade sinovima Merarijevim, prema njihovoj službi, pod rukom Itamara, sina Aharonova svećenika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "četiri kola"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "osam volova"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "osam"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "volova"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarijevim"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "prema"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "njihovoj službi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pod rukom"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonova"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:54.271808958Z",
+  "model": "glm-5.3"
+}

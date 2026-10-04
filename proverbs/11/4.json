@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ne koristi bogatstvo u dan gnjeva, a cedek izbavlja od smrti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "koristi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bogatstvo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gnjeva"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a cedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "izbavlja"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:41.643543616Z",
+  "model": "glm-5.3"
+}

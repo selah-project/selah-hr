@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Kao što je izišao iz krila majke svoje, go će se vratiti otići kao što je došao, i ništa neće ponijeti od truda svojega što ide u ruci njegovoj.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izišao je"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iz krila"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke svoje"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "otići"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "kao što je došao"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "i ništa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ponijeti"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "od truda svojega"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "što ide"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:19.501504868Z",
+  "model": "glm-5.3"
+}

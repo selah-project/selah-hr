@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I kralj i sav narod koji ⟨את⟩ njim dođoše izmoreni, i tamo se odmori.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njim"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "izmoreni"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "i odmori se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:45.532040662Z",
+  "model": "glm-5.3"
+}

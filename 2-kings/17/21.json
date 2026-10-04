@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Jer je rastrgao Jahve Jisrael od doma Davidova, i učiniše kraljem Jeroboama, sina Nebatova; i odvrati Jeroboam Jisrael od slijeđenja Jahve i navede ih na grijeh velik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "rastrgao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "učiniše kraljem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroboama"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "odvrati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od slijeđenja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "navede ih na grijeh"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "grijeh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velik"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:38.036118976Z",
+  "model": "glm-5.3"
+}

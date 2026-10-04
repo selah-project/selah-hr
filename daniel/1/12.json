@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Iskušaj, molim te, ⟨את⟩ sluge svoje deset dana, i neka nam daju od sjemena pa ćemo jesti, i vode pa ćemo piti.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "iskušaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i neka daju"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "pa ćemo jesti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "i vode"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "pa ćemo piti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:09.513716968Z",
+  "model": "glm-5.3"
+}

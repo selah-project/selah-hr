@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 138,
+  "translation": "Jahve će dovršiti ⟨za mene⟩; hesed tvoj, Jahve, traje dovijeka; djela ruku svojih ne napuštaj.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "dovršit će"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "za mene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "napuštaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.159542659Z",
+  "model": "glm-5.3"
+}

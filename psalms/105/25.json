@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Okrenu srce njihovo da mrze narod njegov, da se domišljaju protiv slugu njegovih.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "okrenu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "srce njihovo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "da mrze"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "da se domišljaju"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "protiv slugu njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:13.580024453Z",
+  "model": "glm-5.3"
+}

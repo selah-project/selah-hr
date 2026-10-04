@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče Kajin Jahvi: Prevelika je krivnja moja za nošenje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "prevelika"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "krivnja moja"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "za nošenje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:12.142302663Z",
+  "model": "glm-5.3"
+}

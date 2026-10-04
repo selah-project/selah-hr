@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I bolji od obojice ⟨je⟩ onaj koji još nije bio, koji nije vidio ⟨את⟩ zlo djelo koje se čini pod suncem.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "i bolji"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "od obojice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onaj koji još nije bio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "još"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlo djelo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se čini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:01.889204563Z",
+  "model": "glm-5.3"
+}

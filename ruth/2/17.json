@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I kupila je u polju sve do večeri, i istukla je ⟨את⟩ ono što je pokupila, i bijaše ⟨oko⟩ efa ječma.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "i kupila je"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "i istukla je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je pokupila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "je pokupila"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "⟨oko⟩ efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:24.645975969Z",
+  "model": "glm-5.3"
+}

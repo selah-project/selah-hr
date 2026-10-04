@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A sada — otputovao si, jer si čeznuo za kućom oca svojega; zašto si ukrao ⟨את⟩ moje bogove?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "otići"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "si otputovao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "čeznuti"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "si čeznuo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za kućom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si ukrao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje bogove"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moje bogove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:03.673531603Z",
+  "model": "glm-5.3"
+}

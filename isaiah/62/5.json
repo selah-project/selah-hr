@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Jer kao što se mladić ženi djevicom, tvoji će se sinovi oženiti tobom; i kao što se ženik raduje nevjesti, tako će se tvoj Elohim radovati nad tobom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "ženi se"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "djevica"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "oženit će te"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "i radost"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ženik"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevjestom"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tobom"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:24.746007136Z",
+  "model": "glm-5.3"
+}

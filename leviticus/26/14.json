@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "A ako me ne budete slušali i ne budete izvršavali ⟨את⟩ svih ovih zapovijedi:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "budete slušali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete izvršavali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svih ovih zapovijedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:53.569980127Z",
+  "model": "glm-5.3"
+}

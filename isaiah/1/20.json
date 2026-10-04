@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ako li odbijete i bunite se, mač će vas ⟨proždrijeti⟩, jer usta Jahvina su ⟨izrekla⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ako li"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "odbijete"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "i bunite se"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "će vas ⟨proždrijeti⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "su ⟨izrekla⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:42.816072733Z",
+  "model": "glm-5.3"
+}

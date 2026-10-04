@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Bolje je gledanje očiju nego lutanje duše; i to je hevel i mučenje ruaha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bolje je"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gledanje"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "očiju"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "lutanje"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i mučenje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:47.816132671Z",
+  "model": "glm-5.3"
+}

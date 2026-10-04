@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I uzeše ⟨את⟩ čađu peći te stadoše pred Faraona, i Moše je posu ⟨את⟩ njome prema nebu, i nastadoše čirevi s prištevima koji izbijaju, na čovjeku i na živini.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čađu peći"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "čađu"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "peći"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "te stadoše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "i posu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njome (čađu)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "prema nebu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i nastadoše"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "čirevi"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "s prištevima"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "koji izbijaju"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na čovjeku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na živini"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:33.941889797Z",
+  "model": "glm-5.3"
+}

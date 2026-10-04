@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "koji čini velika djela do neistraživa i čudesa do nebrojena",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velika djela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "istraživa"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "i čudesa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "brojena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:43.276990306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "⟨On⟩ koji prekriva ⟨את⟩ nebo oblacima, koji spremaja zemlji kišu, koji tjera ⟨את⟩ travu na brdima.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "koji prekriva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "oblacima"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "koji spremaja"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "kišu"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "koji tjera"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "na brdima"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "travu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:05.824982468Z",
+  "model": "glm-5.3"
+}

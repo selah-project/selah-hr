@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Svršene su molitve Davidove, sina Jišajeva.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "svršene su"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "molitve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidove"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajeva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:46.715755724Z",
+  "model": "glm-5.3"
+}

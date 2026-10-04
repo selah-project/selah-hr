@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "A Avšalom i sav narod, ljudi Jisraelovi, uđoše u Jerušalajim, i Ahitofel ⟨את⟩ njim.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "A Avšalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uđoše"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "i Ahitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:45.532199145Z",
+  "model": "glm-5.3"
+}

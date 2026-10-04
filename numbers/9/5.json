@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I slaviše ⟨את⟩ Pésah u prvome ⟨mjesecu⟩, u četrnaesti dan mjeseca, između večeri, u pustinji Sinaj; kao sve što zapovjedi Jahve ⟨את⟩ Mošeu, tako učiniše sinovi Jisraelovi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i slaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésah"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "u prvome"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "u četirnaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kao sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:58.402800331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Čija usta govore laž, a desnica im ⟨je⟩ desnica prijevare.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "čija"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govore"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "laž"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a desnica im"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desnica"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "prijevare"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.355473141Z",
+  "model": "glm-5.3"
+}

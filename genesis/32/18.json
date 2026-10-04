@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I zapovjedi ⟨את⟩ prvomu govoreći: Kad te sretne Esav, brat moj, i upita te rekavši: Čiji si ti? I kamo ideš? I čije je to što je pred tobom?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prvomu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvomu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "te sretne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brat moj"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "i upita te"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "למי",
+      "gloss": "čiji si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "i kamo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ideš"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "i čije je"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to što je"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:00.725731216Z",
+  "model": "glm-5.3"
+}

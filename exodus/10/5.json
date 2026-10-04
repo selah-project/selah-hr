@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I prekrio će ⟨את⟩ lice zemlje, tako da se neće moći vidjeti ⟨את⟩ zemlja; i izjest će ⟨את⟩ ostatak onoga što vam je ostalo od tuče, i izjest će ⟨את⟩ sve drveće što vam izdaje na polju.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "i prekrio će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice zemlje"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko, lice"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tako da ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "moći"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i izjest će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostatak"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "onoga što je umaklo"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "što je ostalo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "tuče"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i izjest će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve drveće"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drveće"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "što izdaje"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:24.431547172Z",
+  "model": "glm-5.3"
+}

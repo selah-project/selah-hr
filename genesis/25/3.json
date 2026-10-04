@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A Jakšan rodi ⟨את⟩ Šebu i ⟨את⟩ Dedana; a sinovi Dedanovi bijahu Ašurimi, Letušimi i Leumimi.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "A Jakšan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šeba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedana"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanovi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ašurimi"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letušimi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leumimi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:22.146700526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Ako ubiješ, Eloahu, ⟨את⟩ zloga — tada se, ljudi krvavi, odmaknite od mene.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ubiješ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zloga"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "i ljudi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvavi"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "odmaknite"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:04.980393149Z",
+  "model": "glm-5.3"
+}

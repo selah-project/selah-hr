@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I iziđe kralj Jisraela te porazi ⟨את⟩ konje i ⟨את⟩ bojna kola, i udari Aram velikim udarcem.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i porazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konje"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bojna kola"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojna kola"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "udarcem"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velikim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:11.698511081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Izbavi me od neprijatelja mojega silnoga i od onih koji me mrze, jer bijahu jači od mene.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "od neprijatelja mojega"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silnoga"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "i od onih koji me mrze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "bijahu jači"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:57.845140922Z",
+  "model": "glm-5.3"
+}

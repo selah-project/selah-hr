@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I Jahve će dati čuti ⟨את⟩ veličanstvo glasa svoje, i spuštanje ruke svoje pokazat će u gnevu srdžbe i u plamenu ognja proždrljiva, s raspršenjem i olujom i kamenom grada.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "dat će čuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veličanstvo glasa svoje"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "veličanstvo"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glasa svoje"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "i spuštanje"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pokazat će"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "u gnevu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "srdžbe"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "i u plamenu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "proždrljiva"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "raspršenje"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "i oluja"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamen"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grada"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:42.617013703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Spomeni se svojih milosrđa, Jahve, i svojih heseda, jer od vjekova su ⟨oni⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Spomeni se"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svojih milosrđa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "i svojih heseda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od vjekova"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:55.707469672Z",
+  "model": "glm-5.3"
+}

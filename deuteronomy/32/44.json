@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I dođe Moše te izgovori ⟨את⟩ sve riječi ove pjesme u uši narodu — on i Hošea, sin Nunov.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "te izgovori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi ove pjesme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ove pjesme"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "u uši"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "i Hošea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:29.641443128Z",
+  "model": "glm-5.3"
+}

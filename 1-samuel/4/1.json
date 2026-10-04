@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I bi riječ Šemuelova svemu Jisraelu, i iziđe Jisrael u susret Pelištimcima u boj, i taboriše kod Even-ha-Ezera, a Pelištimci taboriše u Afeku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelova"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "u susret"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimcima"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "u boj"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i taboriše"
+    },
+    {
+      "surface": "על",
+      "gloss": "kod"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezera"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "a Pelištimci"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "taboriše"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "u Afeku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:58.731416817Z",
+  "model": "glm-5.3"
+}

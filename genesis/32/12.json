@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Izbavi me, molim, iz ruke brata mojega, iz ruke Esavove; jer bojim se ⟨את⟩ njega, da ne dođe i udari mene, majku s djecom.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata mojega"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojim se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "i udari mene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majku"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djecom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:57.197087725Z",
+  "model": "glm-5.3"
+}

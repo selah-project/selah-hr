@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 70,
+  "translation": "Nek se vrate ⟨natrag⟩ zbog srama svojega oni koji govore: »Heah, heah!«",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "nek se vrate"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨posljedica⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "srama svojega"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "oni koji govore"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:55.986019172Z",
+  "model": "glm-5.3"
+}

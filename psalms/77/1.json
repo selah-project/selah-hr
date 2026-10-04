@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Zborovođi, prema Jedutunu, Asafov psalam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutunu"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:00.779019783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dozva Paroh Mošea i Aharona te reče: Idite, prinesite žrtvu svojemu Elohimu u zemlji.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i dozva"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharonu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "prinesite žrtvu"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "svojemu Elohimu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:40.242518366Z",
+  "model": "glm-5.3"
+}

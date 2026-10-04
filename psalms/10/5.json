@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Čvrsti su putovi njegovi u svako doba, tvoji sudovi ⟨na⟩ visini ⟨su⟩ daleko od njega; sve svoje protivnike otpuhuje.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "čvrsti su"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "putovi njegovi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svako"
+    },
+    {
+      "surface": "עת",
+      "gloss": "doba"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "visinu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvoji sudovi"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "daleko od njega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "svoje protivnike"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "otpuhuje"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:30.813754618Z",
+  "model": "glm-5.3"
+}

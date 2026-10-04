@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Dadoše ⟨את⟩ trupla svojih slugu ⟨kao⟩ hranu pticama nebeskim, tijelo svojih hasidim zvijerima zemaljskim.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Dadoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupla svojih slugu"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "trupla"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "svojih slugu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pticama"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeskim"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "svojih hasidim"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "zvijerima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemaljskim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:23.405396951Z",
+  "model": "glm-5.3"
+}

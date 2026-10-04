@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I zapovjedi Yosef ⟨את⟩ sluge svoje, ⟨את⟩ liječnike, da pomažu ⟨את⟩ oca njegova; i pomažu liječnici ⟨את⟩ Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liječnike"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "liječnike"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "da pomažu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca njegova"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca njegova"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "i pomažu"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "liječnici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:50.011831592Z",
+  "model": "glm-5.3"
+}

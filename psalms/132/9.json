@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Neka se svećenici tvoji obuku u cedek, a tvoji hasidi neka kliču od radosti.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "svećenici tvoji"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "neka se obuku"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "a tvoji hasidi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "neka kliču"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:58.874650877Z",
+  "model": "glm-5.3"
+}

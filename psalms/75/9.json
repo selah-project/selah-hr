@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Jer čaša je u ruci Jahve, ⟨a⟩ vino je uskovitlano, puno mješavine; i onoga izlijeva iz nje ⟨את⟩ — samo će talog njezin iscijediti, popiti svi zlikovci zemlje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "čaša"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "i vino"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "uskovitlano"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "mješavine"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "i izlijeva"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iz nje"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "talog njezin"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "će iscijediti"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "popiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "zlikovci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:21.151732124Z",
+  "model": "glm-5.3"
+}

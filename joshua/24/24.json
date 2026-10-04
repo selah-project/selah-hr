@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I reče narod Jehošui: ⟨את⟩ Jahve, Elohim naš, služit ćemo, i glas njegov slušat ćemo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim naš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "služit ćemo"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "i glas njegov"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "slušat ćemo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:02.735493525Z",
+  "model": "glm-5.3"
+}

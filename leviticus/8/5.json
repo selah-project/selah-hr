@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče Moše zboru: Ovo je riječ koju zapovjedi Jahve da se učini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zboru"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zboru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da se učini"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:43.282546692Z",
+  "model": "glm-5.3"
+}

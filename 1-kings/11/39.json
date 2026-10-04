@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ponizit ću ⟨את⟩ potomstvo Davidovo zbog toga, ali ne sve dane.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ponizit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potomstvo Davidovo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:25.258620662Z",
+  "model": "glm-5.3"
+}

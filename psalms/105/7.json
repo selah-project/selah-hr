@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "On ⟨je⟩ Jahve, Elohim naš; po svoj zemlji sudovi njegovi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "sudovi njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.159699653Z",
+  "model": "glm-5.3"
+}

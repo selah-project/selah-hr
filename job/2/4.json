@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I odgovori ha-satan ⟨את⟩ Jahvi i reče: Koža za kožu, i sve što čovjek ima dat će za dušu svoju.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koža"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kožu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjek ima"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dat će"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dušu svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:21.829031023Z",
+  "model": "glm-5.3"
+}

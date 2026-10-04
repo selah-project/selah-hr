@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I obložit ćeš ⟨את⟩ nj čistim zlatom, i napravit ćeš mu vijenac od zlata unaokolo.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "obložit ćeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nj (stol)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "napravit ćeš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vijenac"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:55.349570486Z",
+  "model": "glm-5.3"
+}

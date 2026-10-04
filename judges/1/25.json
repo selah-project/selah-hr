@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pokaza im ⟨את⟩ ulaz u grad, te udariše grad oštricom mača, a čovjeka i svu njegovu obitelj pustiše.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "pokaza im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulaz u grad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu njegovu obitelj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "njegovu obitelj"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pustiše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:17.277160542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "jer sam svoj zalogaj jeo sam ⟨sam⟩, i nije jeo siroče od njega",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "jer sam jeo"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "svoj zalogaj"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jeo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "siroče"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:56.913497542Z",
+  "model": "glm-5.3"
+}

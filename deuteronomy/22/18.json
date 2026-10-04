@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I uzmu starješine toga grada ⟨את⟩ tog čovjeka i kazne ⟨את⟩ njega,",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "i uzmu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tog čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "i kazne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:08.104719846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I iziđe Moše od Paroa i moliše Jahvu ⟨u korist njega⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "i moli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:59.658097760Z",
+  "model": "glm-5.3"
+}

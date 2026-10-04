@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "i modra vuna, i purpur, i crvena crvčeva boja, i lan, i kozja dlaka.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "i modra vuna"
+    },
+    {
+      "surface": "ו ארגמן",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i crvčeva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "crvena boja"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i lan"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "i kozja dlaka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:09.718336072Z",
+  "model": "glm-5.3"
+}

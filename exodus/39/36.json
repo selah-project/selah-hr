@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "⟨את⟩ stol, ⟨את⟩ sav njegov pribor i ⟨את⟩ kruh lica;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav njegov pribor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "njegov pribor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kruh lica"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "lica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:24.210813276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer makar i odgojili ⟨את⟩ sinove svoje, ja ću ih učiniti bez djece, bez čovjeka; jer i teško njima kad odem od njih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "makar"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "odgojili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove svoje"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sinove svoje"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ja ću ih učiniti bez djece"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "bez čovjeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "teško"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kad odem"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:52.279678228Z",
+  "model": "glm-5.3"
+}

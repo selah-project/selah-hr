@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Jer ruah prođe preko njega i nema ga više, i mjesto ga njegovo više ne prepoznaje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "prođe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "preko njega"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "i nema ga više"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "prepoznaje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "mjesto njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:25.681313230Z",
+  "model": "glm-5.3"
+}

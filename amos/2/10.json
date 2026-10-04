@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A ja izvedoh vas iz zemlje Micrajima i vodih vas po pustinji četrdeset godina, da zaposjednete ⟨את⟩ zemlju Emorejca.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "izvedoh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "i vodih"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "po pustinji"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "da zaposjednete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejca"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:21.235736330Z",
+  "model": "glm-5.3"
+}

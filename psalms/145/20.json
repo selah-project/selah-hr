@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Čuva Jahve ⟨את⟩ sve koji ga ljube, a ⟨את⟩ sve zleće će zatrti.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Čuva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve koji ga ljube"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "koji ga ljube"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve zleće"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "zleće"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "će zatrti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.681907680Z",
+  "model": "glm-5.3"
+}

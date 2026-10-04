@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I vrvit će rijeka od žaba, i izići će i ući u kuću tvoju, i u ložnicu postelje tvoje, i na postelju tvoju, i u kuću slugu tvojih, i u narod tvoj, i u peći tvoje, i u tijesta tvoja.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "i vrvit će"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rijeka"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "i izići će"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ući"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u kuću tvoju"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "i u ložnicu"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "postelje tvoje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "postelju tvoju"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "i u kuću"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "slugu tvojih"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "i u narod tvoj"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "i u peći tvoje"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "i u tijesta tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:59.653160933Z",
+  "model": "glm-5.3"
+}

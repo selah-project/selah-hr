@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Ne zaviđaj ljudima zla i ne želi biti ⟨את⟩ s njima.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "zaviđaj"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "želi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:06.556840632Z",
+  "model": "glm-5.3"
+}

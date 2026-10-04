@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I Avraham se pomoli Elohimu, i Elohim izliječi ⟨את⟩ Avimeleha i ⟨את⟩ njegovu ženu i njegove sluškinje, te rodiše.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "i pomoli se"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "i izliječi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "njegovu ženu"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "i njegove sluškinje"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "te rodiše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:52.039714118Z",
+  "model": "glm-5.3"
+}

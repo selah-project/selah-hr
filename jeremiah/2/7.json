@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I dovedoh ⟨את⟩ vas u zemlju karmelsku, da jedete njezin plod i njezino dobro; ali vi uđoste i oskvrnuste ⟨את⟩ moju zemlju, i moju baštinu staviste za grozotu.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "I dovedoh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "u zemlju karmelsku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karmelsku"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da jedete"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "njezin plod"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "i njezino dobro"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "i uđoste"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "oskvrnuste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju zemlju"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "moju zemlju"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "i moju baštinu"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "staviste"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "za grozotu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:25.008528416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dođoše sve starješine Jisraela, i svećenici podigoše ⟨את⟩ Kovčeg.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "I dođoše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i podigoše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Kovčeg"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:42.273888522Z",
+  "model": "glm-5.3"
+}

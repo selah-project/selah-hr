@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I potuče Jahve ⟨את⟩ Kušite pred Asom i pred Judom, i pobjegoše Kušiti.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "i potuče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kušite"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kušiti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asom"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "i pred"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i pobjegoše"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kušiti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:46.202873504Z",
+  "model": "glm-5.3"
+}

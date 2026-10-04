@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Danju zapovijeda Jahve svoj hesed, a noću ⟨je⟩ pjesma ⟨njegova⟩ sa mnom, molitva Elu života mojega.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Danju"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "zapovijeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "a noću"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitva"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "života mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:23.463604949Z",
+  "model": "glm-5.3"
+}

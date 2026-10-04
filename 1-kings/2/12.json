@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I Šalomoh sjede na prijestolje Davida, oca svojega, i čvrsto se utvrdi kraljevstvo njegovo.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "i Šalomoh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "i utvrdi se"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "kraljevstvo njegovo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "čvrsto"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:50.769885645Z",
+  "model": "glm-5.3"
+}

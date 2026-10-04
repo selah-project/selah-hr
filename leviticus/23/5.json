@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "U prvom mjesecu, četrnaestoga dana mjeseca, između večeri ⟨je⟩ pasha Jahvi.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvom"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četir"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "dana mjeseca"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pasha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:34.029530190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Gle, junaci viču vani, glasnici mira gorko plaču.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "junaci"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "viču"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "vani"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "glasnici"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "plaču"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:20.286048235Z",
+  "model": "glm-5.3"
+}

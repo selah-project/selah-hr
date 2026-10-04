@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Moje vršeno i dijete mog gumna: što sam čuo od ⟨את⟩ Jahvea Cebaot, Elohim Jisraelova, to sam javio vama.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Moje vršeno"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i dijete"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "mog gumna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sam čuo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea Cebaot, Elohim Jisraelova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "sam javio"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:49.827852963Z",
+  "model": "glm-5.3"
+}

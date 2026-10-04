@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Glas glasa, evo, dolazi, i velika buka iz zemlje sjeverne, da učini ⟨את⟩ gradove Jude pustoši, prebivalištem šakala.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "glasa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "i buka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velika"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sjeverne"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "da učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gradove Jude"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustoši"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "prebivalištem"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "šakala"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:33.680557613Z",
+  "model": "glm-5.3"
+}

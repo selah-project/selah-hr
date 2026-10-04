@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I bit će sjenik za hladovinu danju od vrućine, i za zaklon i za skrovište od oluje i od kiše.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "i sjenik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "za hladovinu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od vrućine"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "i za zaklon"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "i za skrovište"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "od oluje"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "i od kiše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:34.904813694Z",
+  "model": "glm-5.3"
+}

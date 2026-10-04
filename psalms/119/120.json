@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Naježilo se od straha pred tobom tijelo moje, i od tvojih sudova bojim se.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Naježilo se"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "od straha pred tobom"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tijelo moje"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "i od tvojih sudova"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "bojim se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:16.762101062Z",
+  "model": "glm-5.3"
+}

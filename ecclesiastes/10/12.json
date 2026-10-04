@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Riječi su usta mudraca milost, a usne luđaka proždiru njega sama.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudraca"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "a usne"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "proždiru njega sama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:13.629749822Z",
+  "model": "glm-5.3"
+}

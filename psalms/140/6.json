@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Oholi su sakrili zamku za me, i užad; razastroli su mrežu uz stazu moga puta, zamke su mi postavili. Sela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "su sakrili"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Oholi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "zamku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "i užad"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "razastroli su"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "mrežu"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "stazu"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "zamke"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "postavili su"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.692037823Z",
+  "model": "glm-5.3"
+}

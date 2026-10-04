@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Resen, između Ninive i Kalaha — to ⟨je⟩ velik grad.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između",
+      "surface_v2": "ובין",
+      "gloss2": "i između"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "velik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:00.062771867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I javi Šafan pisar kralju govoreći: Knjigu mi dade Hilkija svećenik. I pročita je Šafan pred kraljem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i javi"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pisar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Knjigu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "i pročita je"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:16.846803931Z",
+  "model": "glm-5.3"
+}

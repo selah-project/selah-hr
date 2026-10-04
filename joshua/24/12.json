@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I poslah pred vama ⟨את⟩ stršljena, te istjera ispred vas dva kralja emorska — ne tvojim mačem ni tvojim lukom.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "i poslah"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stršljena"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "stršljena"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "te istjera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih — dva kralja emorska"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ispred vas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "tvojim mačem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "tvojim lukom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:59.124718328Z",
+  "model": "glm-5.3"
+}

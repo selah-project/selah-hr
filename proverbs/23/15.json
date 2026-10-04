@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Sine moj, ako je srce tvoje mudro, raduje se i srce moje, ⟨i to⟩ ja sam.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudro"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srce tvoje"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:53.735399368Z",
+  "model": "glm-5.3"
+}

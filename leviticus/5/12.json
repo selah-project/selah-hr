@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 5:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I neka je donese svećeniku, i neka svećenik uzme iz nje punu šaku — ⟨את⟩ njezin spomen-dio — i neka je sažeže na žrtveniku, na ognjenim žrtvama Jahve; žrtva je za grijeh.",
+  "tokens": [
+    {
+      "surface": "והביאה",
+      "gloss": "neka je donese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "וקמץ",
+      "gloss": "i neka uzme punu šaku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iz nje"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "punu"
+    },
+    {
+      "surface": "קמצו",
+      "gloss": "šaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin spomen-dio"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "njezin spomen-dio"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i neka sažeže"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ognjenim žrtvama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "žrtva za grijeh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:08.019644561Z",
+  "model": "glm-5.3"
+}

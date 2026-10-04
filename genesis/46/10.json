@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "I sinovi Šimunovi: Jemuel, i Jamin, i Ohad, i Jahin, i Sohar, i Šaul, sin ⟨od⟩ Kenaanke.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "i sinovi"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimun"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Jemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "i Jamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "i Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "i Jahin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "i Sohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "i Šaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "Kenanke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:59.159240548Z",
+  "model": "glm-5.3"
+}

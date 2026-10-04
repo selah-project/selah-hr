@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Ne dopusti nikomu čovjeku da ih tlači, i ukori kraljeve zbog njih:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dopusti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nikomu čovjeku"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "da ih tlači"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "i ukori"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "zbog njih"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljeve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.303873409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I reći će: Jer su ostavili ⟨את⟩ savez Jahve, Elohim otaca svojih, koji sklopi s njima kad ih izvede iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "i reći će"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨jer⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ostavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "kad ih izvede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (iz zemlje)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:58.224986151Z",
+  "model": "glm-5.3"
+}

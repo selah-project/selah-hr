@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "⟨את⟩ Kovčeg svjedočanstva i ⟨את⟩ njegove motke, i ⟨את⟩ pomirilište;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg svjedočanstva"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svjedočanstva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove motke"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "njegove motke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:24.210666597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Kao što je Elohim prevrgao ⟨את⟩ Sodom i ⟨את⟩ Amoru i ⟨את⟩ susjede njezine, riječ Jahvina: neće stanovati ondje čovjek, niti će boraviti u njoj sin čovječji.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "kao što je prevrgao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Amoru"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "susjede njezine"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "susjede njezine"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stanovati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti će"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "boraviti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    }
+  ],
+  "timestamp": "2026-10-04T18:35:07.489943566Z",
+  "model": "glm-5.3"
+}

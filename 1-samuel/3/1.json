@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A mladić Šemuel služaše ⟨את⟩ Jahvi predelij Eli, a riječ Jahvina bila je rijetka one dane — viđenje nije izbijalo.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "a mladić"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "služaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bila je"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "rijetka"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "one dane"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "one"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "viđenje"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "izbijalo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:10.778823561Z",
+  "model": "glm-5.3"
+}

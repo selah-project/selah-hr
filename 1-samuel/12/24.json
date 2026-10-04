@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Samo bojte se ⟨את⟩ Jahve i služite ⟨את⟩ mu u istini svim svojim srcem, jer gledajte ⟨את⟩ koliko je velikoga učinio s vama.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "i služite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "mu"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "u istini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svojim srcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gledajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koliko je velikoga učinio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koliko"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "učinio velikim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:23.796323459Z",
+  "model": "glm-5.3"
+}

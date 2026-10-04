@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jehošua ustade rano ujutro i privede ⟨את⟩ Jisrael po svojim plemenima, te bi uhvaćeno pleme Jehudino.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ustade rano"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "i privede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "po svojim plemenima"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "te bi uhvaćeno"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudino"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:01.204095308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I zašto ste nas izveli iz Micrajima, da nas dovedete u ovo zlo mjesto? Nije to mjesto ⟨za⟩ sijeme, ni smokva, ni loza, ni šipak, a vode nema za piće.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ste nas izveli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "da dovedete"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sijeme"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ni smokva"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ni loza"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ni šipak"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a voda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "za piće"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:07.106323738Z",
+  "model": "glm-5.3"
+}

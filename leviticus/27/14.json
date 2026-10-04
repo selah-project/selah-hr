@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ako tko posveti ⟨את⟩ svoju kuću kao svetost Jahvi, neka je svećenik procijeni, bilo dobru bilo lošoj; kako je svećenik procijeni, tako neka ostane.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a ako tko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "posveti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju kuću"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoju kuću"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kao svetost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "neka je procijeni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "בין",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "lošoj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "procijeni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "svećenik"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "neka ostane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:10.217493838Z",
+  "model": "glm-5.3"
+}

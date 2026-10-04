@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jao, narode grješni, puče opterećen krivnjom, sjeme zločinaca, sinovi pokvareni! Ostaviše ⟨את⟩ Jahvu, prezreše ⟨את⟩ Svetoga Jisraelova, odvrnuše se natrag.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jao"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narode"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grješni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "puče"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "opterećen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnjom"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zločinaca"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "pokvareni"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ostaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "prezreše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svetoga Jisraelova"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svetoga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "odvrnuše se"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:45.421902394Z",
+  "model": "glm-5.3"
+}

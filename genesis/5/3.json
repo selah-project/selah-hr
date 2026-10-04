@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I poživje Adam sto trideset godina, i rodi sina u svojoj sličnosti, po svojoj prilici, i prozva ⟨את⟩ ime njegovo Šet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "I poživje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "u svojoj sličnosti"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "po svojoj prilici"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šet"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:33.067282887Z",
+  "model": "glm-5.3"
+}

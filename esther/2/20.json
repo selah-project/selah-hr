@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ester nije kazivala svoga rođenja ni ⟨את⟩ svojega naroda, kako joj je zapovjedio Mordecai; i ⟨את⟩ naredbu Mordekajevu Ester je izvršavala, kao što je bila ⟨s njim⟩ u odgoju ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nije"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "kazivala"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "svoga rođenja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "svojega naroda"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "svojega naroda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naredbu Mordekajevu"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "naredbu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekajevu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izvršavala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "u odgoju"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:40.984429028Z",
+  "model": "glm-5.3"
+}

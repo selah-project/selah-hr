@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dade Jahve, Elohim naš, u našu ruku i ⟨את⟩ Oga, kralja Bašana, i ⟨את⟩ sav njegov narod, i udarasmo ga dok mu ne preosta ništa — nitko nije ostao.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "u našu ruku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oga, kralja Bašana"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav njegov narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njegov narod"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "i udarasmo ga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "preosta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nitko nije ostao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:22.954967017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "a srednja priječnica u sredini dasaka neka prolazi ⟨provlačeći se⟩ od kraja do kraja.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "a priječnica"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "srednja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "u sredini"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dasaka"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "provlači se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kraja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:38.379628338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I vodio sam ⟨את⟩ vas četrdeset godina u pustinji: haljine vaše nisu se istrošile na vama, ni obuća tvoja nije se istrošila na nozi tvojoj.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "i vodio sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "istrošile su se"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "haljine vaše"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "na vama"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ni obuća tvoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "istrošila se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "nozi tvojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:08.280993933Z",
+  "model": "glm-5.3"
+}

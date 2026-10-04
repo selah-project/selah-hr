@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I čuvat ćeš ⟨את⟩ ovu naredbu u njezino vrijeme, od dana do dana.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "čuvat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu naredbu"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ovu naredbu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "u njezino vrijeme"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "do dana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:57.264799147Z",
+  "model": "glm-5.3"
+}

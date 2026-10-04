@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "kojim su te neprijatelji tvoji, Jahve, grdili, kojim su grdili korake pomazanika tvojega.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "su grdili"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "neprijatelji tvoji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "su grdili"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "korake"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "pomazanika tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.081807502Z",
+  "model": "glm-5.3"
+}

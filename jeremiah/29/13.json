@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Tražit ćete ⟨את⟩ me i naći ćete, jer me tražite svim srcem svojim.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "tražit ćete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "mene (objekt traženja)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "i naći ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "me tražite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srcem svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:21.255947980Z",
+  "model": "glm-5.3"
+}

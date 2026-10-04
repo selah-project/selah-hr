@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I načini ⟨את⟩ prijeku šipku, da prolazi kroz sredinu dasaka, od jednoga kraja do drugoga kraja.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijeku šipku"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "šipku"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "srednju"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "da prolazi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kroz sredinu"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dasaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kraja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:33.326721350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "a dvije čete između vas, svi koji izlazite u Šabat, neka čuvaju ⟨את⟩ stražu doma Jahvina uz kralja.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "a dvije"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "čete"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "između vas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "koji izlazite"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "u Šabat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "neka čuvaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stražu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stražu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:03.435787301Z",
+  "model": "glm-5.3"
+}

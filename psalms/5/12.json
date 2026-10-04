@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I neka se raduju svi koji se k tebi sklanjaju, neka kliču u vijeke, i ti ih zaklanjaj, i neka se vesele u tebi oni koji ljube tvoje ime.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "I neka se raduju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "koji se sklanjaju"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "u vijeke"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "neka kliču"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "i ti ih zaklanjaj"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "nad njima"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "i neka se vesele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "oni koji ljube"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:57.149772262Z",
+  "model": "glm-5.3"
+}

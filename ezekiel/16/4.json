@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "A što se tiče rođenja tvojega: u dan kad ⟨את⟩ tebe rodiše, pupčana ti vrpca nije bila presječena, ni vodom nisi bila oprana radi omekšanja, ni solju posoljena, niti povijena u pelene.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "a rođenje tvoje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "rodiše"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "presječena"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "pupčana vrpca tvoja"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ni vodom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "oprana"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "radi omekšanja"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "ni solju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "posoljena"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ni povijena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "u pelene"
+    }
+  ],
+  "timestamp": "2026-10-04T20:25:48.345689334Z",
+  "model": "glm-5.3"
+}

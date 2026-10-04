@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Čak i ptica nalazi kuću, i lasta gnijezdo sebi, gdje polaže ptiće svoje — ⟨kod⟩ ⟨את⟩ oltara tvojih, Jahve Cebaot, kralju moj i Elohim moj!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Čak i"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nalazi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "i lasta"
+    },
+    {
+      "surface": "קן",
+      "gloss": "gnijezdo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "polaže"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ptićće svoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltara tvojih"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "oltara tvojih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralju moj"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i Elohim moj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.992161890Z",
+  "model": "glm-5.3"
+}

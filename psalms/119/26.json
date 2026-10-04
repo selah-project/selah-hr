@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Svoje sam putove kazao i ti si me uslišao; nauči me svojim uredbama!",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Svoje putove"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "sam kazao"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "i ti si me uslišao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nauči me"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svojim uredbama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:43.586209035Z",
+  "model": "glm-5.3"
+}

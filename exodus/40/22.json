@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ stol u šator sastanka, uz bok Miškana sa sjeverne strane, izvan zavjese.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bok"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sa sjeverne strane"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "zavjese"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:29.602958750Z",
+  "model": "glm-5.3"
+}

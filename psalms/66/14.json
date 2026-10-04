@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "što ga progovoriše usne moje, a moja usta izrekoše u tjeskobi mojoj.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "progovoriše"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne moje"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i izrekoše"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "u tjeskobi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:51.407014714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Mlad ⟨sam⟩ i prezren, tvoje naredbe nisam zaboravio.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "mlad"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "i prezren"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvoje naredbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nisam zaboravio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:16.674295680Z",
+  "model": "glm-5.3"
+}

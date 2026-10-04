@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "naviještati ujutro tvoj hesed i tvoju vjernost u noćima,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "naviještati"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "i tvoju vjernost"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "u noćima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:27.480875996Z",
+  "model": "glm-5.3"
+}

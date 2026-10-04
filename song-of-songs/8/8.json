@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Sestra nam je mala, a grudi ⟨još⟩ nema; što ćemo učiniti za sestru svoju u dan kad budu govorili o njoj?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "a grudi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨još⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ćemo učiniti"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "za sestru svoju"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "kad budu govorili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:32.058704942Z",
+  "model": "glm-5.3"
+}

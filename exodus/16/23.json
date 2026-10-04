@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 16:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče im: To je što je Jahve rekao: sutra je šabatong, svet Šabat Jahvi; što ćete peći, pecite, i što ćete kuhati, kuhajte, a sav višak ostavite sebi za čuvanje do jutra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabatong"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što ćete peći"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תאפו",
+      "gloss": "ćete peći"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "pecite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ono što ćete kuhati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תבשלו",
+      "gloss": "ćete kuhati"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "kuhajte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav višak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "višak"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "ostavite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "za čuvanje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:04.885848410Z",
+  "model": "glm-5.3"
+}

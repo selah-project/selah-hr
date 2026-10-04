@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 114,
+  "translation": "Od lica Adonaja drhti, zemljo; od lica Eloha Jaakova!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "od lica"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "drhti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "od lica"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:48.250953732Z",
+  "model": "glm-5.3"
+}

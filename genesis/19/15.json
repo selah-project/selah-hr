@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I kad se zora digla, anđeli požuriše Lota govoreći: Ustani, uzmi ⟨את⟩ svoju ženu i ⟨את⟩ svoje dvije kćeri koje su ovdje, da ne budeš zatrt u krivnji grada.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "se zora"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "digla"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "požuriše"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "anđeli"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ustani"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ženu"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "svoju ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoje dvije kćeri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "kćeri svoje"
+    },
+    {
+      "surface": "הנמצאות",
+      "gloss": "koje su ovdje"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "budeš zatrt"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "u krivnji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:15.777362243Z",
+  "model": "glm-5.3"
+}

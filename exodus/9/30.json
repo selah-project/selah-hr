@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A ti i tvoje sluge — znam da se još ne bojite lica Jahve, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "i tvoje sluge"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "još ne"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "bojite se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:34.594788131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zaboravlja li djevica svoj nakit, nevjesta svoje vrpce? A moj me narod zaboravio dane bez broja.”",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "zaboravlja li"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "djevica"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "svoj nakit"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevjesta"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "svoje vrpce"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "a moj narod"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "me zaboravio"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "broja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:24.978909872Z",
+  "model": "glm-5.3"
+}

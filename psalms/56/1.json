@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Zborovođi, o „golubici nijemoj među dalekima“; Davidov miktam, kad su ⟨את⟩ ga Filistejci zgrabili u Gatu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "golubici"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nijemoj"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "među dalekima"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "kad su zgrabili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Filistejci"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "u Gatu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:28.523202488Z",
+  "model": "glm-5.3"
+}

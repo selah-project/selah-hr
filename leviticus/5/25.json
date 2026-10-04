@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I ⟨את⟩ svoj prijestup neka dovede pred Jahvu: ovna bez mane iz stada, po tvojoj procjeni, za žrtvu prijestupa, svećeniku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj prijestup"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svoj prijestup"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "neka dovede"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pred Jahvu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "po tvojoj procjeni"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "za žrtvu prijestupa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:08.855787543Z",
+  "model": "glm-5.3"
+}

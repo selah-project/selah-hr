@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Jahve Mošeu: Uđi k Paraou i reci mu: Ovako reče Jahve, Elohim Hebreja: Pošalji ⟨את⟩ moj narod da mene služi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraou"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreja"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pošalji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "da mene služi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:08.767792472Z",
+  "model": "glm-5.3"
+}

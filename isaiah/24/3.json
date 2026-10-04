@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Opsaženo će biti opsažena zemlja, i opljačkano će biti opljačkana, jer Jahve izreče ⟨את⟩ riječ ovu.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "opsaženo"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "biti opsažena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "i opljačkano"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "biti opljačkana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izreče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ ovu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:40.066044334Z",
+  "model": "glm-5.3"
+}

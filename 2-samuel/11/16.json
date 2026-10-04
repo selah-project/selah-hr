@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše, dok je Joab opsjedao grad, da postavi ⟨את⟩ Uriju na mjesto gdje je znao da su tamo jaki ljudi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "opsjedao"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨prema⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.348480798Z",
+  "model": "glm-5.3"
+}

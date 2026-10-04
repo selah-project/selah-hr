@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Tko zavodi pravedne na zao put, u jamu svoju će pasti ⟨on sam⟩, a čestiti nasljede dobro.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "zavodi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pravedne"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na put"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zao"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "u jamu svoju"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sam"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "će pasti"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "a čestiti"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "nasljede"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:35.584259399Z",
+  "model": "glm-5.3"
+}

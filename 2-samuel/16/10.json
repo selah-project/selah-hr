@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "A kralj reče: Što je meni do vas, sinovi Tserujini? Neka psuje, jer mu je Jahve rekao: Psuj ⟨את⟩ Davida! A tko će reći: Zašto si tako učinio?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "do vas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "psuje"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Psuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a tko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "će reći"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:16.151554192Z",
+  "model": "glm-5.3"
+}

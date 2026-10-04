@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I vidje ⟨את⟩ Amaleka, i poduze svoj mašal, i reče: Prvi među narodima Amalek, a svršetak mu je propast vječna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i poduze"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "svoj mašal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "a svršetak mu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vječna"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "propast"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:54.986976883Z",
+  "model": "glm-5.3"
+}

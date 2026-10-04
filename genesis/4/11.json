@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A sada proklet si od zemlje koja je otvorila ⟨את⟩ usta svoja da primi ⟨את⟩ krv brata tvojega iz ruke tvoje.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "proklet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "je otvorila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta svoja"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "usta svoja"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "da primi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv brata tvojega"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krv"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata tvojega"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz ruke tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:41.247444122Z",
+  "model": "glm-5.3"
+}

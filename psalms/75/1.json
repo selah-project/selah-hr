@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Zborovđi, na napev «Ne razori», Asafov mizmor, pjesma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovđi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "razori"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.399350206Z",
+  "model": "glm-5.3"
+}

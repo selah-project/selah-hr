@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Jer je tisuću godina u tvojim očima kao jučerašnji dan kad je prošao, i kao straža noćna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuću"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u tvojim očima"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao dan"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "jučerašnji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "je prošao"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "i kao straža"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noćna"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:25.611311257Z",
+  "model": "glm-5.3"
+}

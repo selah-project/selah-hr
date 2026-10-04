@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I uzeše ⟨את⟩ tuniku Jošefovu, i zaklaše jarca ⟨od koza⟩, i zamočiše ⟨את⟩ tuniku u krv.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuniku Jošefovu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tuniku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošefovu"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "i zaklaše"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨od koza⟩"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "i zamočiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuniku"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tuniku"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "u krv"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:42.291550788Z",
+  "model": "glm-5.3"
+}

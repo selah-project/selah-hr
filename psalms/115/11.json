@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Vi koji se bojite Jahve, uzdajte se u Jahvu! On je pomoć njihova i štit njihov.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Vi koji se bojite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "uzdajte se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvu"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pomoć njihova"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "i štit njihov"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:18.578386511Z",
+  "model": "glm-5.3"
+}

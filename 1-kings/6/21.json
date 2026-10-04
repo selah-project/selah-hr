@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I obloži Šelomo ⟨את⟩ kuću iznutra zlatom čistim, i proveza lancima zlata pred Debirom, i obloži ⟨ga⟩ zlatom.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "čistim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i proveza"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "lancima"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debirom"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "i obloži ga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:08.608432041Z",
+  "model": "glm-5.3"
+}

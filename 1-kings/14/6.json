@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I bi, kad Ahija ču ⟨את⟩ zvuk njezinih koraka kako ulazi na ulaz, te reče: Uđi, ženo Jeroboamova! Zašto se praviš kao tuđinka? A mene su poslali k tebi s ⟨teškom⟩ viješću.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvuk"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "njezinih koraka"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kako ulazi"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "na ulaz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Uđi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamova"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "praviš se kao tuđinka"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "A mene"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "su poslali"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "s ⟨teškom⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:04.503222946Z",
+  "model": "glm-5.3"
+}

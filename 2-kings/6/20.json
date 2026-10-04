@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I bilo je, kad uđoše u Šomron, te Eliša reče: Jahve, otvori ⟨את⟩ oči ovih da vide. I Jahve otvori ⟨את⟩ njihove oči, i vidješe, i gle — bijahu usred Šomrona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "kad uđoše"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči ovih"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovih"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "da vide"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove oči"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "njihove oči"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrona"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:56.043867019Z",
+  "model": "glm-5.3"
+}

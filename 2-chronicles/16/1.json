@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 16:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "U trideset i šestoj godini vladavine Asine prijeđe Baša, kralj Jisraela, na Judu, i sagradi ⟨את⟩ Ramu, da ne bi dao nikome izlaziti ni ulaziti Asi, kralju Jude.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i šest"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "vladavine"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "prijeđe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dao"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "izlaziti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ni ulaziti"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:36.118279239Z",
+  "model": "glm-5.3"
+}

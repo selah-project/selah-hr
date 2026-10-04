@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Nego iz ljubavi Jahvina prema ⟨את⟩ vama i zbog čuvanja ⟨את⟩ zakletve koju je zakleo ocima vašim, izveo ⟨את⟩ vas je Jahve rukom jakom i otkupio te iz kuće robovske, iz ruke faraona, kralja micrajskoga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "iz ljubavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vama",
+      "marks": "vi (narod Jisraela)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "i zbog čuvanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zakletva"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "zakletve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "je zakleo"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ocima vašim"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "izveo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vi (narod Jisraela)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "jakom"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "i otkupio te"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:44.134517698Z",
+  "model": "glm-5.3"
+}

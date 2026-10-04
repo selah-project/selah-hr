@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I udarit ćeš ⟨את⟩ dom Ahaba, gospodara svojega, i ja ću se osvetiti za krv slugu svojih, proroka, i za krv svih slugu Jahvinih, iz ruke Izabele.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "i udarit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Ahaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "i ja ću se osvetiti"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "za krv"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugu svojih"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "i za krv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabele"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:49.142536638Z",
+  "model": "glm-5.3"
+}

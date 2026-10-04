@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Svjetlost ⟨je⟩ zasijana pravedniku, a pravima srcem radost.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zasijana"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pravedniku"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "a pravima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:50.587505469Z",
+  "model": "glm-5.3"
+}

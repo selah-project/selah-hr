@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Tko je god bude jeo, nosit će svoju krivnju, jer je oskvrnuo ⟨את⟩ svetinju Jahvinu; ta će duša biti istrijebljena iz svoga naroda.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "tko je god bude jeo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svoju krivnju"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nosit će"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetinju Jahvinu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "oskvrnuo"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "bit će istrijebljena"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta duša"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "iz svoga naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:11.385982781Z",
+  "model": "glm-5.3"
+}

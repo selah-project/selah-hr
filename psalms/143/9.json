@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Izdvoji me od mojih neprijatelja, Jahve; k tebi sam se skrio.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Izdvoji me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "od mojih neprijatelja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "sam se skrio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.793200497Z",
+  "model": "glm-5.3"
+}

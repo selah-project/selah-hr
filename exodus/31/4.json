@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "da smišlja umotvorene naume, da radi u zlatu i u srebru i u bakrenini.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "da smišlja"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "umotvorene naume"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da radi"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "u zlatu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "i u srebru"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "i u bakrenini"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:32.140929323Z",
+  "model": "glm-5.3"
+}

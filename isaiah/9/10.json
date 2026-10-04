@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Jahve uzvisi ⟨את⟩ protivnike Recinove protiv njega, i ⟨את⟩ neprijatelje njegove podraži.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "i uzvisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "protivnike Recinove"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "protivnike"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinove"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neprijatelje njegove"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "neprijatelje njegove"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "podraži"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:19.955199557Z",
+  "model": "glm-5.3"
+}

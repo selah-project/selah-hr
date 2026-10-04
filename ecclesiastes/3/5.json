@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Vrijeme za bacanje kamenja i vrijeme za sabiranje kamenja; vrijeme za grljenje i vrijeme za daljinu od grljenja.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "za bacanje"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamenja"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i vrijeme"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "za sabiranje"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamenja"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "za grljenje"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i vrijeme"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "za daljinu"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "od grljenja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:19.247483378Z",
+  "model": "glm-5.3"
+}

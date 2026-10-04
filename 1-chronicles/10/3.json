@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I oteža boj nad Šaulom, i nađoše ga strijelci <s lukom>, i bio je ranjen od strijelaca.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "i oteža"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boj"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "i nađoše ga"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "strijelci"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "<s lukom>"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "i bio je ranjen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "strijelaca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:34.478180284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A čovjek ako nenamjerno pojede svetu stvar, dodat će petinu njezinu k njoj i dati kohenu ⟨את⟩ svetu stvar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a čovjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pojede"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetu stvar"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "nenamjerno"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dodat će"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "petinu njezinu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k njoj"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dati"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetu stvar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetu stvar"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:28.891345131Z",
+  "model": "glm-5.3"
+}

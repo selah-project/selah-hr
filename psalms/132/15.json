@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Lovinu ⟨njezinu⟩ bogosloviti ću bogosloviti, siromahe ⟨njezine⟩ nasitit ću kruhom.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Lovinu ⟨njezinu⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bogosloviti ću"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bogosloviti"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "siromahe ⟨njezine⟩"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "nasitit ću"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruhom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.681468468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Umnožit će se bolovi njihovih ⟨kumira⟩; ⟨oni⟩ su zastranili za drugim. Neću lijevati njihovih ljevanica od krvi, niti ću dizati ⟨את⟩ imena njihovih na usne svoje.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Umnožit će se"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "bolovi njihovih ⟨kumira⟩"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za drugim"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "zastranili su"
+    },
+    {
+      "surface": "בל",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "lijevati"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ljevanice njihove"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "niti ću"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dizati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imena njihova"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "imena njihova"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:16.784950803Z",
+  "model": "glm-5.3"
+}

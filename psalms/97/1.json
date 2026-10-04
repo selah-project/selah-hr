@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Jahve kraljuje — neka se raduje zemlja, neka se vesele otoci mnogi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "neka se vesele"
+    },
+    {
+      "surface": "איים",
+      "gloss": "otoci"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:21.693748351Z",
+  "model": "glm-5.3"
+}

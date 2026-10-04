@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Danas izlazite, u mjesecu avivskom.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Danas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "izlazite"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "avivskom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:24.889571709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ako prinosi janje za svoj dar, prinese ⟨את⟩ njega pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "janje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "prinosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov dar"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svoj dar"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:06.007239698Z",
+  "model": "glm-5.3"
+}

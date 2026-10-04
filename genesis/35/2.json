@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Tada reče Jaakov svojem domu i svima koji bijahu s njim: Uklonite ⟨את⟩ tuđe bogove koji su među vama, i očistite se, i izmijenite haljine svoje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Tada reče"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojem domu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svome domu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i svima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Uklonite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuđe bogove"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuđe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "i očistite se"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "i izmijenite"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "haljine svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:05.347832320Z",
+  "model": "glm-5.3"
+}

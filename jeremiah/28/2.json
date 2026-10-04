@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Ovako reče Jahve Cebaot, Elohim Jisraelov, govoreći: Slomio sam ⟨את⟩ jaram kralja babilonskoga.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "slomio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskoga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:25.431230878Z",
+  "model": "glm-5.3"
+}

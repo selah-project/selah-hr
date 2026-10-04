@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Naleće nicati trava stoci i bilje za službu čovjeku, da iznese kruh iz zemlje.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "naleće nicati"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trava"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "stoci"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "i bilje"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "za službu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da iznese"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:25.176850791Z",
+  "model": "glm-5.3"
+}

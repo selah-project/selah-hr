@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Proroštvo o Babilonu, koje vidje Ješajahu, sin Amocov.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Proroštvo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "o Babilonu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amocov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:49.561938632Z",
+  "model": "glm-5.3"
+}

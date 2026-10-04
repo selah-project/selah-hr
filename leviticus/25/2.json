@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Govori sinovima Jisraelovim i reci im: Kad uđete u zemlju koju ja dajem vama, neka zemlja ⟨ne⟩ poštuje Šabat — Šabat Jahvi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "uđete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dajem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "neka poštuje Šabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:56.353274058Z",
+  "model": "glm-5.3"
+}

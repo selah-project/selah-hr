@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Blagoslovljeni vi ⟨od⟩ Jahve, stvoritelja neba i zemlje.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Blagoslovljeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi, ⟨od⟩ Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "stvoritelj, koji čini"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.272439948Z",
+  "model": "glm-5.3"
+}

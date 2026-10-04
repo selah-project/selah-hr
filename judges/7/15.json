@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bi, kad Gideon ču ⟨את⟩ kazivanje sna i ⟨את⟩ tumačenje njegovo, da se pokloni, pa se vrati u tabor Jisraelov, i reče: Ustajte, jer Jahve je predao u ruke vaše ⟨את⟩ tabor Midjanov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazivanje sna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kazivanje"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tumačenje njegovo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tumačenje njegovo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "da se pokloni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa se vrati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Ustajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "u ruke vaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Midjanov"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:40.549954242Z",
+  "model": "glm-5.3"
+}

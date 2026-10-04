@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Ne dolikuje kraljevima, Lemuele, ne dolikuje kraljevima piti vino, ni knezovima žudjeti za žestokim pićem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne dolikuje"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kraljevima"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne dolikuje"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kraljevima"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "piti"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ni knezovima"
+    },
+    {
+      "surface": "או",
+      "gloss": "žudjeti za"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "žestokim pićem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:58.553453658Z",
+  "model": "glm-5.3"
+}

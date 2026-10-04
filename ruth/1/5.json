@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Umriješe i obojica, Mahlon i Kiljon, i žena osta bez svoja dva sina i bez svoga muža.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "umriješe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obojica"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "i Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "i osta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "משני",
+      "gloss": "bez svoja dva"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "i bez svoga muža"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:44.678754044Z",
+  "model": "glm-5.3"
+}

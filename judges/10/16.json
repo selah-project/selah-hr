@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ukloniše ⟨את⟩ bogove tuđe iz svoje sredine i služiše ⟨את⟩ Jahvi; i ukrati se duša njegova zbog nevolje Jisraelove.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "I ukloniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogove tuđe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuđe"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "iz svoje sredine"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i služiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "i ukrati se"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "duša njegova"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "zbog nevolje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:47.253081879Z",
+  "model": "glm-5.3"
+}

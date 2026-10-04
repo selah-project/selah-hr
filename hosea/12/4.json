@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "U krilu za petu uhvati ⟨את⟩ brata svojega, i u snazi svojoj borio se ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "u krilu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "za petom uhvati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "i u snazi svojoj"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "borio se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:27.843772537Z",
+  "model": "glm-5.3"
+}

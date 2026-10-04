@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I tko dotakne tijelo zava, neka opere svoju odjeću i neka se opere u vodi, i nečist je do večeri.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "i tko dotakne"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zava"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "neka opere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svoju odjeću"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "i neka se opere"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "i nečist je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:32.011426011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I dao si ⟨את⟩ narod svoj, Jisrael, sebi za narod dovijeka; i ti, Jahve, bio si njima za Elohim.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "i dao si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod svoj, Jisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היית",
+      "gloss": "si bio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:03.148225475Z",
+  "model": "glm-5.3"
+}

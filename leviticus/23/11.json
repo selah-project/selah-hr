@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I mahat će ⟨את⟩ omer pred Jahvom, da budete prihvaćeni; sutradan poslije Šabata mahnit će ga svećenik.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "i mahat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "da budete prihvaćeni"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "poslije Šabata"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "mahnit će ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:40.483158269Z",
+  "model": "glm-5.3"
+}

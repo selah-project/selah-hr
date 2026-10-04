@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bi taj događaj ⟨za⟩ grijeh, i narod je išao pred onim ⟨jednim⟩ sve do Dana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taj događaj"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taj"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za grijeh"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i išao je"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "onim jednim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:36.594736003Z",
+  "model": "glm-5.3"
+}

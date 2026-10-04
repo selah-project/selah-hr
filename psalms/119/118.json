@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Odbacio si kao ništa sve koji skreću od tvojih odredaba, jer je laž prijevara njihova.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Odbacio si kao ništa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "koji skreću"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "od tvojih odredaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "prijevara njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:16.761831523Z",
+  "model": "glm-5.3"
+}

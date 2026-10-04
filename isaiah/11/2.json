@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I počinut će na njemu ruah Jahvina, ruah mudrosti i razumijevanja, ruah savjeta i jakosti, ruah spoznaje i straha Jahvina.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "i počinut će"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrosti"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "i razumijevanja"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "savjeta"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "i jakosti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznaje"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "i straha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:08:11.374546136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Čovjek koga često ukoravaju a koji kruti svoj vrat, iznenada će se slomiti i nema lijeka.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "koga često ukoravaju"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kruti"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "iznenada"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "će se slomiti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "lijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:54.324490940Z",
+  "model": "glm-5.3"
+}

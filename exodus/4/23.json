@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I rekao sam ti: Pusti ⟨את⟩ sina mojega da mi služi; ali ti si odbio pustiti ga — gle, ja ću ubiti ⟨את⟩ sina tvojega, prvenca tvojega.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekao sam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "t"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina mojega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "da mi služi"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ali ti si odbio"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "pustiti ga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ću ubiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tvojega"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "prvenca tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:18.812218457Z",
+  "model": "glm-5.3"
+}

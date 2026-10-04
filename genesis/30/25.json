@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I bi se, kad Rašela rodi ⟨את⟩ Josipa, da Jaakov reče Lavanu: Pusti me da odem k svome mjestu i svojoj zemlji.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rašela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josipa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Pusti me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "da odem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k svome"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mjestu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "i svojoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:47.864273282Z",
+  "model": "glm-5.3"
+}

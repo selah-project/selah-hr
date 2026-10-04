@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i vratiš se k Jahvi, Elohimu svojem, i poslušaš glas njegov po svemu što ti zapovijedam danas, ti i sinovi tvoji, svim srcem svojim i svom dušom svojom <נפש> — svojom nefesh.",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "vratiš se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svojem"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "poslušaš"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "glas njegov"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "zapovijedam ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i sinovi tvoji"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svom"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dušom svojom — nefesh svojom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:18.983396362Z",
+  "model": "glm-5.3"
+}

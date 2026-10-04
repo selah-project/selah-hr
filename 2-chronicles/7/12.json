@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ukaza se Jahve Šelomu noću i reče mu: Čuo sam ⟨את⟩ molitvu tvoju, i izabrao sam sebi ovo mjesto za dom žrtve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i ukaza se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molitvu tvoju"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "molitvu tvoju"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "i izabrao sam"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za dom"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:30.406155602Z",
+  "model": "glm-5.3"
+}

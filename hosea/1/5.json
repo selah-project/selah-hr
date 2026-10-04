@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I bit će toga dana da ću slomiti ⟨את⟩ luk Jisraelov u dolini Jizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "slomiti ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luk Jisraelov"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "u dolini"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:13.193607987Z",
+  "model": "glm-5.3"
+}

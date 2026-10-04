@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer ovako govori Jahve o kralju koji sjedi na prijestolju Davidovu i o svemu narodu koji prebiva u ovom gradu — braći vašoj, koja ne iziđoše ⟨את⟩ s vama u progonstvo:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "koji sjedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolju"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "koji prebiva"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovom"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "braći vašoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "iziđoše"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "u progonstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:21.256809682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Ne uzmi od njega ⟨את⟩ kamate ni uvećanja, nego se boj Elohim svojega, i neka živi brat tvoj s tobom.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "kamata i uvećanje"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamate"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ni uvećanja"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "nego se boj"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i neka živi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:39.754404691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A žena uze ⟨את⟩ ona dva čovjeka i sakri ih, pa reče: Tako je, dođoše k meni oni ljudi, ali ne znam odakle su.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ona dva čovjeka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "i sakri ih"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako je"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "oni ljudi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odakle"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:34.353474720Z",
+  "model": "glm-5.3"
+}

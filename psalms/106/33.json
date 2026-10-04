@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Jer su ogorčili ⟨את⟩ ruah njegovu, te je govorio nepromišljeno usnama svojim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ogorčili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah njegovu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruah njegovu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "te je govorio nepromišljeno"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "usnama svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.550376980Z",
+  "model": "glm-5.3"
+}

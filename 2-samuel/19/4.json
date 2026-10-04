@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I narod se ušulja toga dana u grad, kao što se ušuljava narod postiđen kad bježi iz boja.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "i ušulja se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "toga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "ušuljava se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "postiđen"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "kad bježi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "iz boja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:26.031513458Z",
+  "model": "glm-5.3"
+}

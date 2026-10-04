@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ovi ⟨u⟩ kolima, i ovi ⟨u⟩ konjima, a mi u ime Jahve, Elohim svojega, spominjemo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "⟨u⟩ kolima"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "i ovi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "⟨u⟩ konjima"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "spominjemo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:44.351932604Z",
+  "model": "glm-5.3"
+}

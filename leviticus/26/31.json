@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I učinit ću ⟨את⟩ vaše gradove pustošima, i opustit ću ⟨את⟩ vaša svetišta, i neću omirisati miris vaših ugodnih miomirisa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i učinit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše gradove"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "vaše gradove"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "pustošima"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "i opustit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaša svetišta"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "vaša svetišta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "omirisati"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "miris"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "vaših ugodnih miomirisa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:38.238406312Z",
+  "model": "glm-5.3"
+}

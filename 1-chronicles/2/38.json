@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Oved rodi ⟨את⟩ Jehua, i Jehu rodi ⟨את⟩ Azarjaha.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehua"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "i Jehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaha"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:32.659364889Z",
+  "model": "glm-5.3"
+}

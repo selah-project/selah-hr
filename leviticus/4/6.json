@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I neka umače svećenik prst svoj ⟨את⟩ u krv, i neka poškropi od krvi sedam puta pred Jahvom, pred ⟨את⟩ licem zavjese svetinje.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "i neka umače"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prst svoj"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "prst svoj"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "u krv"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "i neka poškropi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "licem zavjese svetinje"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "zavjese"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:25.812118814Z",
+  "model": "glm-5.3"
+}

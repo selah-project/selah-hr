@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I otvori zemlja ⟨את⟩ svoja usta i прогутa ⟨את⟩ njih i ⟨את⟩ njihove kuće i ⟨את⟩ sve ljude koji bijahu Korahovi, i ⟨את⟩ svu imovinu.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja usta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "i прогутa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihove kuće"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "njihove kuće"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve ljude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "bijahu Korahovi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu imovinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "imovinu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:44.457038440Z",
+  "model": "glm-5.3"
+}

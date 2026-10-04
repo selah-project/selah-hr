@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Zemlju pšenice i ječma, loze i smokve i šipka; zemlju masline ulja i meda.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "i ječma"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "loze"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "i smokve"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "i šipka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "זית",
+      "gloss": "masline"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i meda"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:06.277285298Z",
+  "model": "glm-5.3"
+}

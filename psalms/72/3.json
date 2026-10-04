@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka nose brda šalom narodu, i brežuljci u cedeki.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Neka nose"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "brda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "i brežuljci"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "u cedeki"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:57.955891419Z",
+  "model": "glm-5.3"
+}

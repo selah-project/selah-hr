@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Jer kralj sve zemlje ⟨jest⟩ Elohim; pjevajte razborito!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "razborito"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:20.428520107Z",
+  "model": "glm-5.3"
+}

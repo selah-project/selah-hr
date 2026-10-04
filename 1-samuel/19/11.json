@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Šaul posla glasnike domu Davidovu da ga čuvaju i da ga ubiju ujutro; ali Mikal, žena njegova, kaza Davidu: Ako noćas ne spasiš ⟨את⟩ svoj život, sutra ćeš biti ubijen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "da ga čuvaju"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "i da ga ubiju"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "kaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "žena njegova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "spasiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj život"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "svoj život"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noćas"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sutra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "biti ubijen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:04.557592742Z",
+  "model": "glm-5.3"
+}

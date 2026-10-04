@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče Paro: Tko je Jahve da glas njegov slušam i pošaljem ⟨את⟩ Jisrael? Ne poznah ⟨את⟩ Jahvu, a ni ⟨את⟩ Jisrael neću poslati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "slušam"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "glas njegov"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "i pošaljem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ću poslati"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:11.398509813Z",
+  "model": "glm-5.3"
+}

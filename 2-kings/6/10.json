@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I posla kralj Jisraelov k onomu mjestu o kojemu mu reče čovjek Elohimov, i njega upozori, i on se ondje čuvao — ne jednom ni dvaput.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojemu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "i njega upozori"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "i on se čuvao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvaput"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:25.886930353Z",
+  "model": "glm-5.3"
+}

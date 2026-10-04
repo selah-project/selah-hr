@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I Ataj rodi ⟨את⟩ Natana, a Natan rodi ⟨את⟩ Zabada.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "I Ataj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "robi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "robi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabada"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabada"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:29.961564761Z",
+  "model": "glm-5.3"
+}

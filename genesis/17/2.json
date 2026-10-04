@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "i dat ću svoj savez između sebe i tebe, i umnožit ću te ⟨את⟩ veoma veoma.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoj savez"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između sebe"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "i tebe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "i umnožit ću"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:14.428463962Z",
+  "model": "glm-5.3"
+}

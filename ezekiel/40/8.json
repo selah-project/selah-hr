@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I izmjeri ⟨את⟩ predvorje vrata s unutarnje strane ⟨doma⟩, jednu trsku.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "i izmjeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "predvorje vrata"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "predvorje"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "s unutarnje strane ⟨doma⟩"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "trsku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:48:47.738792843Z",
+  "model": "glm-5.3"
+}

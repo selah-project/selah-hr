@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Jer bio si mi utočište, kula moć pred licem neprijatelja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bio si"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "utočište"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moć"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:01.739941557Z",
+  "model": "glm-5.3"
+}

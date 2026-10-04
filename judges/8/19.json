@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 8:19",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče: Braća su moja bili, sinovi majke moje. Živ mi Jahve: da ste ostavili ⟨את⟩ njih u životu, ja nebih ⟨את⟩ vas ubio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braća moja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majke moje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "da"
+    },
+    {
+      "surface": "החיתם",
+      "gloss": "ostavili u životu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih (Gideonova braća)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "bih ubio"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (Zebah i Calmuna)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:21.382790162Z",
+  "model": "glm-5.3"
+}

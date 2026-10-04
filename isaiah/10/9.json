@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Zar nije Kalno kao Karkemiš? Zar nije Hamat kao Arpad? Zar nije Šomeron kao Damašek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar nije"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "kao Karkemiš"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "kao Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "kao Damašek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeron"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:57.855919900Z",
+  "model": "glm-5.3"
+}

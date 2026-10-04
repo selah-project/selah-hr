@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I neka ga prinese svećenik k žrtveniku, i neka mu otkine ⟨את⟩ glavu, i neka ukađe ⟨na⟩ žrtveniku; a krv njegovu neka iscjedi na zid žrtvenika.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "i neka ga prinese"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "i neka otkine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i neka ukađe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "i neka iscjedi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "zid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.866533509Z",
+  "model": "glm-5.3"
+}

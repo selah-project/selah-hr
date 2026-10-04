@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ noja i ⟨את]] ćuka i ⟨את⟩ galeba i ⟨את⟩ sokola prema vrsti njegovoj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noja"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "jake (noja)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ćuka"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ćuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "galeba"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "galeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sokola"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "sokol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "prema vrsti njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:54.800418688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I zaboraviše djela njegova i čudesa njegova koja im je pokazao.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "I zaboraviše"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "djela njegova"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i čudesa njegova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "pokazao im"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.490504862Z",
+  "model": "glm-5.3"
+}

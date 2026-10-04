@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Čisto srce stvori mi, Elohime, i ruah postojanu obnovi u meni.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisto"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i ruah"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "postojanu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "obnovi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "u meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:39.740172454Z",
+  "model": "glm-5.3"
+}

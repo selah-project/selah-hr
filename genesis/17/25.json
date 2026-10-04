@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A Jišmael, sin njegov, bijaše sin trinaest godina kad bi obrezano ⟨את⟩ meso prepucijа njegova.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "A Jišmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naest"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "kad bi obrezan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso prepucijа njegova"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "prepucijе njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:18.401437699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pozva Paroh Avrama te reče: Što si mi to učinio? Zašto mi nisi kazao da je ona žena tvoja?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "si kazao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "žena tvoja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:12.557744236Z",
+  "model": "glm-5.3"
+}

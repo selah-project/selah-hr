@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Ne saberi s grešnicima duše moje, ni s krvnim ljudima života mojega.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "saberi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grešnicima"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni s"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvnim"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "života mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:46.553464557Z",
+  "model": "glm-5.3"
+}

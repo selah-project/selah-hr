@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Kad pogledam nebesa svoja, djelo prstiju svojih, mjesec i zvijezde koje si ti utvrdio —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "pogledam"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "nebesa svoja"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "prstiju svojih"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mjesec"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "i zvijezde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "si ti utvrdio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:37.207814323Z",
+  "model": "glm-5.3"
+}

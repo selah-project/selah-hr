@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče Jehošua: Otvorite ⟨את⟩ otvor pećine i izvedite mi ⟨את⟩ ovih pet kraljeva iz pećine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "otvorite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otvor pećine"
+    },
+    {
+      "surface": "פי",
+      "gloss": "otvor"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "pećine"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "i izvedite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovih pet kraljeva"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pet"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovih"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "pećine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:03.459473202Z",
+  "model": "glm-5.3"
+}

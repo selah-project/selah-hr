@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Ovo su imena sinova Ezavovih: Elifaz, sin Ade, žene Ezavove, i Reuel, sin Basmat, žene Ezavove.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezavovih"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ade"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezavove"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezavove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:25.899683494Z",
+  "model": "glm-5.3"
+}

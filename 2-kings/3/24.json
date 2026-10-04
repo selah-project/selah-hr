@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dođoše do tabora Jisraelova, pa ustadoše Jisraelci i udariše ⟨את⟩ Moab, te pobjegoše ispred njih; i uđoše ⟨u nju⟩ te udarajući udariše ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "pa ustadoše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelci"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "te pobjegoše"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ispred njih"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "i uđoše"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨u nju⟩"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "udarajući"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:04.693001178Z",
+  "model": "glm-5.3"
+}

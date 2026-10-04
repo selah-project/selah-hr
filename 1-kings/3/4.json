@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ode kralj u Givon da ondje prinosi ⟨žrtve⟩, jer ona bijaše ⟨ה⟩ velika uzvišica; tisuću paljenica prikazivaše Šelomoh na ⟨tom⟩ žrtveniku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "u Givon"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "da prinosi ⟨žrtve⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "uzvišica"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuću"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "paljenica"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "prikazivaše"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:41.317363653Z",
+  "model": "glm-5.3"
+}

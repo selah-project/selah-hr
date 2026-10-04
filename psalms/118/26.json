@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Blagoslovljen koji dolazi u ime Jahvino; blagoslivljamo vas iz doma Jahvina.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "koji dolazi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "blagoslivljamo vas"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:05.795946226Z",
+  "model": "glm-5.3"
+}

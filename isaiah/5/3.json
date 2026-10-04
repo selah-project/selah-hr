@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I sada, stanovniče Jerušalajima i čovječe Jude, sudite, molim, između mene i vinograda mojega.",
+  "tokens": [
+    {
+      "surface": "ו עתה",
+      "gloss": "i sada"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "stanovniče"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i čovječe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "sudite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "vinograda mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:29.492558259Z",
+  "model": "glm-5.3"
+}

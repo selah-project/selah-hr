@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Tko će ustati za me protiv zlotvora? Tko će se uspraviti za me protiv činitelja zla?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "će ustati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlotvora"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "će se uspraviti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "činitelja"
+    },
+    {
+      "surface": "און",
+      "gloss": "zla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:37.308282598Z",
+  "model": "glm-5.3"
+}

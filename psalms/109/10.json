@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "I neka lutaju sinovi njegovi stalno, i neka prosjače, i neka traže kruh iz ruševina svojih.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "i lutanje"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "neka lutaju stalno"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "i neka prosjače"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "i neka traže"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "iz ruševina njihovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:36.637762768Z",
+  "model": "glm-5.3"
+}

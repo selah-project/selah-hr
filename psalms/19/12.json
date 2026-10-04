@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I sluga tvoj biva opomenut po njima; u čuvanju ih velika je nagrada.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "biva opomenut"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "po njima"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "u čuvanju ih"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nagrada"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:55.513533668Z",
+  "model": "glm-5.3"
+}

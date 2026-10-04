@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Prijatelja svojega i prijatelja oca svojega ne napuštaj, i u kuću brata svojega ne ulazi u dan nesreće svoje; bolji je susjed blizu nego brat daleko.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "prijatelja svojega"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "i prijatelja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "napuštaj"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i u kuću"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "nesreće svoje"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolji je"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "susjed"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blizu"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "nego brat"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "daleko"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:20.479412377Z",
+  "model": "glm-5.3"
+}

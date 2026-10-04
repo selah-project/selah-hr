@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A Aharon reče: Neka se ne raspali srdžba gospodara mojega; ti dobro znaš ⟨את⟩ narod, da je sklon zlu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "neka se ne raspali"
+    },
+    {
+      "surface": "אף",
+      "gloss": "srdžba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodara mojega"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dobro znaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sklon zlu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:10.099146686Z",
+  "model": "glm-5.3"
+}

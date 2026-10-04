@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Zaista je blizu onima koji ga se boje njegova spasenja ⟨i⟩ da slava prebiva u našoj zemlji.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zaista"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blizu"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "onima koji ga se boje"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "njegova spasenja"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "da prebiva"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "u našoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:06.408200488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Vi koji ljubite Jahvu, mrzite zlo! On čuva duše svojih vjernih, iz ruke zlih izbavlja ih.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "vi koji ljubite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "mrzite"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "duše"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "svojih vjernih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "izbavlja ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:50.587385961Z",
+  "model": "glm-5.3"
+}

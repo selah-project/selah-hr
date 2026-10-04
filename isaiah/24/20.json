@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Koleba se, njiše se zemlja kao pijanac i ljulja kao koliba; i teška je na njoj njezina buntovnost, i past će i neće više ustati.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "koleba se"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "njiše se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kao pijanac"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "i ljulja"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kao koliba"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "i teška je"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na njoj"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "njezina buntovnost"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "i past će"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "više"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:30.939291053Z",
+  "model": "glm-5.3"
+}

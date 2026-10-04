@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče joj: Daj mi da pijem, molim, malo vode, jer sam žedan. A ona otvori ⟨את⟩ mješinu mlijeka, napoji ga i pokri ga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "daj mi da pijem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "sam žedan"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mješinu mlijeka"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "mješinu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mlijeka"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "i napoji ga"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "i pokri ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:47.190359967Z",
+  "model": "glm-5.3"
+}

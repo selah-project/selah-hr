@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I napojiše one noći ⟨את⟩ oca svojega vinom, pa uđe prvorođenica i leže ⟨את⟩ s ocem svojim; a on nije znao ni kad je ona legla ni kad je ustala.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "i napojiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "one noći"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "one"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "pa uđe"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "prvorođenica"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "i leže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "s ocem svojim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nije"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znao"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "kad je legla"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "ni kad je ustala"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:27.047705694Z",
+  "model": "glm-5.3"
+}

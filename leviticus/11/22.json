@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ovo od njih smijete jesti: ⟨את⟩ skakavca po njegovoj vrsti, i ⟨את⟩ solama po njegovoj vrsti, i ⟨את⟩ hargola po njegovoj vrsti, i ⟨את⟩ hagava po njegovoj vrsti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skakavca"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "skakavca"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "po njegovoj vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "solama"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solama"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po njegovoj vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "hargola"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargola"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po njegovoj vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "hagava"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagava"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po njegovoj vrsti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:45.434417878Z",
+  "model": "glm-5.3"
+}

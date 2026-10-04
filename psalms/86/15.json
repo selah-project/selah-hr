@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "A ti, Adonaj, El si milosrdan i milostiv, spor na gnjev i bogat hesedom i vjernošću.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "milosrdan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "i milostiv"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "spor"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "na gnjev"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i bogat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedom"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i vjernošću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:19.078439568Z",
+  "model": "glm-5.3"
+}

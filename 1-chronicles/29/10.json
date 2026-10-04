@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I blagoslovi David ⟨את⟩ Jahvu pred očima svega zbora, i reče David: Blagoslovljen si ti, Jahve, Elohim Jisraela, otac naš, od vjekova i do vjekova.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbora"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otac naš"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od vjekova"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vjekova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:06:16.898994134Z",
+  "model": "glm-5.3"
+}

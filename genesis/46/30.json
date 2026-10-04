@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "I reče Jisrael Joosefu: Sad mogu umrijeti, pošto vidjeh ⟨את⟩ lice tvoje, jer ti još živiš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "mogu umrijeti"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "sad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pošto"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "vidjeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice tvoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ti još"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živiš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:22.803962158Z",
+  "model": "glm-5.3"
+}

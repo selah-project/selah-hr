@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jer ⟨je⟩ Jahvi štit naš, i Svetomu Jisraelovu kralj naš.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "štit naš"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "i Svetomu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kralj naš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.434925604Z",
+  "model": "glm-5.3"
+}

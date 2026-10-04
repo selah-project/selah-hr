@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Mrzio sam one koji čuvaju ništavla prijevarna, a ja se uzdam u Jahvu.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mrzio sam"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "one koji čuvaju"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ništavla"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "prijevarna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.273803899Z",
+  "model": "glm-5.3"
+}

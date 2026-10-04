@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I odvedoše u sužanjstvo ⟨את⟩ žene koje bijahu u njoj, od malena do velika; ne usmrtiše nijedna čovjeka, nego ih odvedoše i odoše svojim putem.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "i odvedoše u sužanjstvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žene"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od malena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "usmrtiše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nijedan čovjek"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "nego ih odvedoše"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "svojim putem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:10.164731927Z",
+  "model": "glm-5.3"
+}

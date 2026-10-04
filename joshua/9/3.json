@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A stanovnici Givona čuše ⟨את⟩ ono što učini Jehošua Jerihonu i Aju.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "a stanovnici"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givona"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čuše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što učini Jehošua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerihonu"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "i Aju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:45.583272177Z",
+  "model": "glm-5.3"
+}

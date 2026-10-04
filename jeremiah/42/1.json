@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 42:1",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I pristupiše svi zapovjednici ratnika, i Jochanan sin Kareahov, i Jezanjah sin Hošajahov, i sav narod, od malena do velika.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "pristupiše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zapovjednici"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "ratnika"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "i Jochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareahov"
+    },
+    {
+      "surface": "ויזניה",
+      "gloss": "i Jezanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Hošajahov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od malena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velika"
+    }
+  ],
+  "timestamp": "2026-10-04T18:32:30.743893064Z",
+  "model": "glm-5.3"
+}

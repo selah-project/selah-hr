@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ustaše u sumrak da udu u tabor Arama, i dođoše do kraja tabora Arama, a gle — ne bijaše ondje nikoga.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "i ustaše"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "u sumrak"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da udu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne bijaše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:07.448669389Z",
+  "model": "glm-5.3"
+}

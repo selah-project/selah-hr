@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "Mizmor, pjesma za dan Šabata.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:27.480396497Z",
+  "model": "glm-5.3"
+}

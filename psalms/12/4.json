@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Neka odreže Jahve sve usne uglačane, jezik što govori veličanstveno.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Neka odreže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "uglačane"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "što govori"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "veličanstveno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:00.515007423Z",
+  "model": "glm-5.3"
+}

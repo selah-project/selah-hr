@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Izvana će mač učiniti ⟨da žale⟩, a iz odaja strah; i mladić i djevojka, dojenče zajedno sa sijedim čovjekom.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "izvana"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "učiniti ⟨da žale⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "a iz odaja"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "strah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "djevojka"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "dojenče"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zajedno sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjekom"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sijedim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:43.001375780Z",
+  "model": "glm-5.3"
+}

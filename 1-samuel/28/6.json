@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I upita Šaul Jahvu, ali mu Jahve ne odgovori — ni u snovima, ni Urimom, ni prorocima.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "odgovori mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "u snovima"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urimom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "prorocima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:12.227552227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ču Šemuël ⟨את⟩ sve riječi naroda te ih izgovori u ušima Jahvina.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi naroda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "te ih izgovori"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "u ušima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:16.826708752Z",
+  "model": "glm-5.3"
+}

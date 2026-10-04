@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Otkrit će se tvoja golota, vidjet će se i tvoj sram; uzet ću osvetu i neću štedjeti čovjeka.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "otkrit će se"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tvoja golota"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidjet će se"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "tvoj sram"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "osvetu"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "uzet ću"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "štedjeti ⟨u susretu⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:23.909995027Z",
+  "model": "glm-5.3"
+}

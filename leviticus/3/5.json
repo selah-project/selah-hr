@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sažežu to sinovi Aharonovi na žrtveniku, na žrtvu paljenicu koja je na drvlju koje je na ognju — ⟨את⟩ žrtvu ognjenu, miris koji umiruje Jahvi.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "i sažežu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "על",
+      "gloss": "je na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drvlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "על",
+      "gloss": "je na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognju"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žrtva ognjena"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "miris"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "koji umiruje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:06.006680852Z",
+  "model": "glm-5.3"
+}

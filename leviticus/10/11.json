@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i da poučavate ⟨את⟩ sinove Jisraelove ⟨את⟩ o svim naredbama koje im Jahve progovori po ruci Mošeovoj.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "i da poučavate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve naredbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o svim"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "naredbama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "progovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po ruci"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:21.051874996Z",
+  "model": "glm-5.3"
+}

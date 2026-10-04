@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dovediše natrag ⟨את⟩ Mošea i ⟨את⟩ Aharona k Parohu, i reče im: Idite, služite ⟨את⟩ Jahvi, Elohimu svojemu! Tko su i tko su oni koji idu?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "i dovediše natrag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu svojemu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "oni koji idu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:24.432172652Z",
+  "model": "glm-5.3"
+}

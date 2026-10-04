@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I ovo će biti njegova nečistoća u toku njegovu: pušta li tijelo njegovo ⟨את⟩ tok njegov, ili je tijelo njegovo zaustavljeno od toka njegova — nečistoća je njegova to.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "I ovo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "njegova nečistoća"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "u toku njegovu"
+    },
+    {
+      "surface": "רר",
+      "gloss": "pušta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tijelo njegovo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok njegov"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "tok njegov"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "zaustavljeno"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tijelo njegovo"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "od toka njegova"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "nečistoća je njegova"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:17.891168423Z",
+  "model": "glm-5.3"
+}

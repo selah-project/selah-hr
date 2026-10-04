@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 40:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Još tri dana i Paroh će podići ⟨את⟩ glavu tvoju s tebe i objesiti ⟨את⟩ te na drvo, i ptice će jesti ⟨את⟩ meso tvoje s tebe.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "יישא",
+      "gloss": "će podići"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu tvoju"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "glavu tvoju"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "s tebe"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "i objesiti"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "i jesti"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso tvoje"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "meso tvoje"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "s tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:24.108261352Z",
+  "model": "glm-5.3"
+}

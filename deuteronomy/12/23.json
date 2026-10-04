@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Samo budi čvrst u tome da ne jedeš krvi, jer krv, ona je duša; i nećeš jesti duše s mesom.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "budi čvrst"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedeš"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nećeš"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mesom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:29.132712435Z",
+  "model": "glm-5.3"
+}

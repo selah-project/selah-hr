@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A oni rekoše: Ako otpremite ⟨את⟩ kovčeg Elohim Jisraelova, ne šaljite ⟨את⟩ ga prazna, nego mu zasigurno vratite naknadu za krivnju; tada ćete ozdraviti i znat će vam se zašto se njegova ruka ne uklanja s vas.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rekoše"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "otpremate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohim Jisraelova"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "šaljite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prazna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zasigurno vratite"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "vratite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "naknadu za krivnju"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "ćete ozdraviti"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "i znat će se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "uklanja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegova ruka"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "s vas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:15.967731143Z",
+  "model": "glm-5.3"
+}

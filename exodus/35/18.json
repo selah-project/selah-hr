@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "⟨את⟩ kolce Miškana i ⟨את⟩ kolce dvorišta, i ⟨את⟩ užad njihovu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolce Miškana"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolce"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kolce dvorišta"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolce"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "užad njihovu"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "užad njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:08.464004683Z",
+  "model": "glm-5.3"
+}

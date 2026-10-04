@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Svako rojuće stvorenje krilato koje hoda na četiri noge — gnusoba je vama.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svako"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "rojuće stvorenje"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "krilato"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "koje hoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri noge"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:25.967159476Z",
+  "model": "glm-5.3"
+}

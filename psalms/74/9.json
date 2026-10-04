@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Znakove svoje ne vidjesmo; nema više proroka, i nije ⟨את⟩-nome onaj koji zna do kada.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "znakove svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vidjesmo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-nome",
+      "marks": "onaj koji zna do kada"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kada"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:41.981313843Z",
+  "model": "glm-5.3"
+}

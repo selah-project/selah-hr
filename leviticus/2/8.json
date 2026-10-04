@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I doneseš ⟨את⟩ tu minha koja je načinjena od ovih stvari, Jahvi, te je svećenik prinese i pristupi s njom žrtveniku.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "i doneseš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tu minha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "je načinjena"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od ovih stvari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "prinese je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "i pristupi s njom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:42.275576386Z",
+  "model": "glm-5.3"
+}

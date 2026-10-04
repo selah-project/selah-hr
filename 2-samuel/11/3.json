@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I posla David i raspita se za ženu, i reče ⟨se⟩: Nije li to Bat-Ševa, kći Elijamova, žena Urije Hitejina?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "i raspita se"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Ševa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Elijamova"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urije"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitejina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:19.943409522Z",
+  "model": "glm-5.3"
+}

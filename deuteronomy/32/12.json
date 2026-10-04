@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Jahve sam ga vodio, i nije bilo s njim boga tuđega.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "vodio ga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nije bilo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boga"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:34.947693038Z",
+  "model": "glm-5.3"
+}

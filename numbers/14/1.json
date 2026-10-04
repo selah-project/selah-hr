@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I podignu sva zajednica ⟨את⟩ svoj glas, i zaplakaše ljudi onu noć.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "i podignu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednica"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i dadoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj glas"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i zaplakaše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "onu noć"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:49.109672326Z",
+  "model": "glm-5.3"
+}

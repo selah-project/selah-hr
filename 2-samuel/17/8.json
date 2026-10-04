@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I još reče Hušaj: Ti znaš ⟨את⟩ oca svojega i ⟨את⟩ ljude njegove — da su junaci i ogorčeni dušom, kao medvjedica lišena mladih u polju; a otac tvoj čovjek je rata i neće noćiti ⟨את⟩ s narodom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i još reče"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hušaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ljude njegove"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ljude njegove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "junaci"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "i ogorčeni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "kao"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "lišena mladih"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "medvjedica... u polju"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "a otac tvoj"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "noćiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ s"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:18.755653681Z",
+  "model": "glm-5.3"
+}

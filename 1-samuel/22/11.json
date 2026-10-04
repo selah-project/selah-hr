@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I posla kralj da dozovu ⟨את⟩ Ahimeleka, sina Ahitubova, svećenika, i ⟨את⟩ sav dom oca njegova, svećenike koji bijahu u Nobi; i dođoše svi kralju.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "da dozovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimeleka, sina Ahitubova, svećenika"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitubova"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav dom oca njegova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca njegova"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "u Nobi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:05.859075260Z",
+  "model": "glm-5.3"
+}

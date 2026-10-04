@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I izlazi međa k moru, Mihmetat je sa sjevera, i obilazi međa prema istoku Tanat-Šilu, te prelazi ⟨את⟩ njega s istoka Janohahu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i izlazi"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "međa"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "k moru"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Mihmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa sjevera"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "i obilazi"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "međa"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "prema istoku"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Tanat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šilu"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "te prelazi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Tanat-Šilu)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Janohahu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:21:10.639423625Z",
+  "model": "glm-5.3"
+}

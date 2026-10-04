@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Koji te vide, piljit će u tebe, promišljat će o tebi: „Je li to čovjek koji je tresao zemlju, koji je potresao kraljevstva?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Koji te vide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "piljit će"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "o tebi"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "promišljat će"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Je li to"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "koji je tresao"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "koji je potresao"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:42.187646644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Svaku ukvasanu stvar nećete jesti; u svim svojim prebivalištima jest ćete beskvasne kruhove.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ukvasanu stvar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ćete jesti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "svojim prebivalištima"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jest ćete"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "beskvasne kruhove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:10.659153066Z",
+  "model": "glm-5.3"
+}

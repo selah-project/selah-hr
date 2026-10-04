@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I rekoh anđelu koji govoraše u meni: Što su ovi? I reče mi: Ovo su rogovi koji raspršiše ⟨את⟩ Judu, ⟨את⟩ Jisraela i Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anđelu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anđelu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "koji govoraše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "su ovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "su rogovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "raspršiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:46.246771537Z",
+  "model": "glm-5.3"
+}

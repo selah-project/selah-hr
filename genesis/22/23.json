@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I Betuel rodi ⟨את⟩ Rivku. Tih osam rodi Milka Nahoru, bratu Avrahamovu.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "i Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivku"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nahoru"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:49.776029122Z",
+  "model": "glm-5.3"
+}

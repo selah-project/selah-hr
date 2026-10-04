@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I opskrbit ćete ⟨את⟩ grad, svi ljudi rata, obilazeći ⟨את⟩ grad jedanput; tako čini šest dana.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "i opskrbit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "rata"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "obilazeći"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "jedanput"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:53.862093614Z",
+  "model": "glm-5.3"
+}

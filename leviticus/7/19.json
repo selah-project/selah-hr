@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A meso koje se dotakne bilo čega nečista neka se ne jede; u vatri neka se sažeže. A meso — tko je čist, neka jede meso.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "a meso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "se dotakne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bilo čega"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se jede"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u vatri"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "neka se sažeže"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "a meso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tko"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka jede"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:59.798911910Z",
+  "model": "glm-5.3"
+}

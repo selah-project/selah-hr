@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Kad vijest stigne u Micrajim, oni će se bolno uznemiriti pri vijesti o Coru.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vijest"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "bolno će se uznemiriti"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pri vijesti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "o Coru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:20.073157146Z",
+  "model": "glm-5.3"
+}

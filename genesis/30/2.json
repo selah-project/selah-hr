@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I planu gnjev Jaakovljev na Rahelu, te reče: Zar sam ja umjesto Elohim, koji uskrati od tebe plod utrobe?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "planu gnjev"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljev"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "na Rahelu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "Zar... umjesto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "uskrati"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "utrobe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:58.646701386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I svi ljudi Jisraelovi, vidjevši ⟨את⟩ čovjeka, pobjegoše ispred njega i silno se bojahu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "vidjevši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pobjegoše"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ispred njega"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i bojahu se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "silno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:59.165008407Z",
+  "model": "glm-5.3"
+}

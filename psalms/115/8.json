@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Kao njima slični bit će oni koji ih prave, svi koji se u njih uzdaju.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kao njima slični"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "oni koji ih prave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "uzdaju se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:59.345242675Z",
+  "model": "glm-5.3"
+}

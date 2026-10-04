@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jahve, ljubim stan tvoga doma i mjesto Miškana slave tvoje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubim"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "stan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvojega doma"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "i mjesto"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "slave tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:04.006947716Z",
+  "model": "glm-5.3"
+}

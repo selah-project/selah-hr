@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jahve će doći na sud sa starcima naroda svojega i s njegovim knezovima: vi ste pojeli ⟨את⟩ vinograd; plijen siromaha ⟨je⟩ u vašim kućama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sud"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "će doći"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starcima"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naroda svojega"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "i s njegovim knezovima"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "ste pojeli"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ vinograd",
+      "marks": "vinograd"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "העני",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "u vašim kućama"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:52.110415460Z",
+  "model": "glm-5.3"
+}

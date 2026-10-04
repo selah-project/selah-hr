@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I ⟨את⟩ pojas od lana presukanoga, i modro, i purpur, i crveno od crva — rad vezača, kako je zapovjedio Jahve ⟨את⟩ Mošeu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pojas"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "pojas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "presukani"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "i modro"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i crveno od crva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "crveno"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "vezača"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:00.099137214Z",
+  "model": "glm-5.3"
+}

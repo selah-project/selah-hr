@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Zašto je crveno odijelo tvoje, i haljine tvoje kao od onoga koji gazi u tijesku za grožđe?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "crveno"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "odijelo tvoje"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "i haljine tvoje"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kao od onoga koji gazi"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "u tijesku za grožđe"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:35.469747813Z",
+  "model": "glm-5.3"
+}

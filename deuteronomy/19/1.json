@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Kad Jahve, tvoj Elohim, istrijebi narode čiju zemlju Jahve, tvoj Elohim, daje tebi, a ti ih naslijediš i nastaniš se u njihovim gradovima i u njihovim kućama —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "istrijebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narode"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čiju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovu zemlju"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "njihovu zemlju"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "naslijediš"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "nastaniš se"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "u njihovim gradovima"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "u njihovim kućama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:08.612814940Z",
+  "model": "glm-5.3"
+}

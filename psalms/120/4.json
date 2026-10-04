@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Strelice silnika oštre, sa žeravicom drače.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Strelice"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "silnika"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "oštre"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "žeravicom"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "drače"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.354682647Z",
+  "model": "glm-5.3"
+}

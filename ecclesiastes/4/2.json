@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pohvalih ja ⟨את⟩ mrtve koji već umriješe, više nego žive koji su još živi.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "i pohvalih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtve"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtve"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "koji već"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "umriješe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "više nego"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "המה",
+      "gloss": "još"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "do sada"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:01.888981751Z",
+  "model": "glm-5.3"
+}

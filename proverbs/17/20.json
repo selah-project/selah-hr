@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Izvrnuta srca ne nalazi dobra, i prevrnut u jeziku svojem past će u zlo.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "izvrnuta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nalazi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "i prevrnut"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "u jeziku svojem"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "past će"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "u zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:35.816395787Z",
+  "model": "glm-5.3"
+}

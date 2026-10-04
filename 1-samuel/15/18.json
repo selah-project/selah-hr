@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Jahve te posla na put i reče: Idi i proglasi ⟨את⟩ grijehe — ⟨את⟩ Amaleka za prokletstvo, i bori se protiv njega dok ih potpuno ne uništiš ⟨את⟩ njih.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "i posla te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na put"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "i proglaši za prokletstvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grijehe"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "grijehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "i bori se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "protiv njega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ne uništiš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:36.102702725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Ne boj se kad se čovjek obogati, kad se umnoži slava kuće njegove.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "obogati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "umnoži se"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kuće njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:58.255817779Z",
+  "model": "glm-5.3"
+}

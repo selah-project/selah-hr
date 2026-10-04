@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I poruši ⟨את⟩ kuću, ⟨את⟩ njezino kamenje i ⟨את⟩ njezino drvlje i ⟨את⟩ sav prah kuće, te iznese van iz grada, na mjesto nečisto.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "poruši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezino kamenje"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "njezino kamenje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezino drvlje"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "njezino drvlje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav prah kuće"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "i iznese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "van"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "iz grada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:13.074903371Z",
+  "model": "glm-5.3"
+}

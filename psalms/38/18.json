@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jer sam ja spreman posrstati, i bol je moj svagda preda mnom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "spreman posrstati"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "spreman"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "i bol je moj"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "svagda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.882263770Z",
+  "model": "glm-5.3"
+}

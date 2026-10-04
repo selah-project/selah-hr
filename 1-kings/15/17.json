@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I poda se Baša, kralj Jisraelov, na Judu, pa sagradi ⟨את⟩ Ramu, da ne dadne nikome izlaziti ni ulaziti Asi, kralju Jude.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "poda se"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "pa sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dadne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlaziti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ni ulaziti"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:10.354122420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I okružiše deset mladića, nosače oružja Joabova, i udariše ⟨את⟩ Avšaloma i ubiše ga.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "i okružiše"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mladića"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosače"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "oružja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabova"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "i ubiše ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:41.262671452Z",
+  "model": "glm-5.3"
+}

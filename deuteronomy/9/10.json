@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I dade mi Jahve ⟨את⟩ dvije ploče kamene, pisane prstom Elohimovim, a na njima ⟨bilo je napisano⟩ sve riječi koje je Jahve rekao vama na gori, iz sred ognja, u dan zborovanja.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvije ploče kamene"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "ploče"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamene"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "pisane"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "prstom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "a na njima"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sred"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zborovanja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:46.658857820Z",
+  "model": "glm-5.3"
+}

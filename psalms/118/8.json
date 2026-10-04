@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Bolje je utočište potražiti u Jahve nego uzdanje polagati u čovjeka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bolje"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "utočište potražiti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "nego uzdanje polagati"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "u čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.931514114Z",
+  "model": "glm-5.3"
+}

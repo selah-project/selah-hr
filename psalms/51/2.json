@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Kad mu je došao Natan prorok, pošto je ušao k Bat Ševi.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kad je došao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pošto"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je ušao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.581497933Z",
+  "model": "glm-5.3"
+}

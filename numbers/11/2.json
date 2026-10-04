@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I povika narod k Mošeu, i moli se Moše Jahvi, i utihnu oganj.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "i povika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "i moli se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "i utihnu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:12.787730434Z",
+  "model": "glm-5.3"
+}

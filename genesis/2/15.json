@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I uze Jahve Elohim ⟨את⟩ čovjeka i smjesti ga u vrt Edena da ga obrađuje i čuva.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "i smjesti ga"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "u vrt"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "da ga obrađuje"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "i čuva"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:57.844629720Z",
+  "model": "glm-5.3"
+}

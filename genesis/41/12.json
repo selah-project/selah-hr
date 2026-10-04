@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "A bio je ondese ⟨את⟩ nama mladić, Hebrej, sluga starješine kuhara; ispripovjedismo mu, a on protumači nama ⟨את⟩ naše snove — svakomu prema njegovu snu protumači.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "a ondese"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nama",
+      "marks": "nama"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrej"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "starješini"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kuhara"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "i ispripovjedismo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "a protumači"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše snove"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "naše snove"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakomu"
+    },
+    {
+      "surface": "כחלomu",
+      "gloss": "prema njegovu snu"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "protumači"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:27.894839469Z",
+  "model": "glm-5.3"
+}

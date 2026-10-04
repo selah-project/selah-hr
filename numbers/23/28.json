@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I povede Balak ⟨את⟩ Bileama na vrh Peora, koji gleda nad licem pustinje.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "povede"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileama"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "na vrh"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peora"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "koji gleda"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "pustinje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:06.229269045Z",
+  "model": "glm-5.3"
+}

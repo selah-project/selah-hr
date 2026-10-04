@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Staju kraljevi zemlje, i knezovi se dogovaraju zajedno, protiv Jahve i protiv njegova pomazanika —",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "staju"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "i knezovi"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "dogovaraju se"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i protiv"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "njegova pomazanika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:17.160957479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zato sada idi: poslat ću te k Parou, i izvedi ⟨את⟩ moj narod, sinove Jisraelove, iz Micrajima.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zato sada"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "poslat ću te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parou"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "izvedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:22.577776141Z",
+  "model": "glm-5.3"
+}

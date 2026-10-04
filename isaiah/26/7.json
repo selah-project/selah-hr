@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Staza je pravedniku pravina; Ti što si pravan, ravnaš stazu pravednika.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "staza"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pravedniku"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravina"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Ti što si pravan"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "stazu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ravnaš"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:58.614231078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pomazaše ⟨את⟩ njega Tsadok svećenik i Natan prorok za kralja u Gihonu, i popeše se odande veselići, i uzavri grad — to je glas koji čuste.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "pomazaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "u Gihonu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i popeše se"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "veselići"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "i uzavri"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "čuste"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:43.667054034Z",
+  "model": "glm-5.3"
+}

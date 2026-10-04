@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I bi nakon tih događaja, da žena njegova gospodara podiže ⟨את⟩ svoje oči prema Josefu, i reče: Lezi sa mnom!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "događaja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "njegova gospodara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "Lezi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:24.452542104Z",
+  "model": "glm-5.3"
+}

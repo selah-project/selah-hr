@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Svi su skrenuli, zajedno su pokvareni; nema tko čini dobro, nema čak ni jednoga.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "skrenuli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "pokvareni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "גם",
+      "gloss": "čak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ni jednoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:27.843618366Z",
+  "model": "glm-5.3"
+}

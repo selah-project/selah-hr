@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "A oni traže moju dušu ⟨da je unište⟩ — sići će u dubine zemlje.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "A oni"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "za propast"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "traže"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moju dušu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sići će"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "u dubine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:38.831432519Z",
+  "model": "glm-5.3"
+}

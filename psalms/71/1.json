@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "U tebe se, Jahve, zaklonih; ne daj da se ikada postidim.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "zaklonih se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "postidim se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ikada"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:43.215859069Z",
+  "model": "glm-5.3"
+}

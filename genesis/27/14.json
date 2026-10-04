@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I ode, i uze, i donese majci svojoj; pa majka njegova pripravi jela ukusna, kakva je ljubio otac njegov.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i donese"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "majci svojoj"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "i pripravi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majka njegova"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "jela ukusna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubio"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otac njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:19.816119682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Koljena mi klecaju od posta, i meso mi je oslabilo ⟨od⟩ masti.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "koljena mi"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "klecaju"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "od posta"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "i meso mi"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "oslabilo je"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od masti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.556404090Z",
+  "model": "glm-5.3"
+}

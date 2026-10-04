@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Ne dižite na visinu svojega roga, ne govorite s ukočenim vratom ⟨drsko⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "dižite"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na visinu"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "svojega roga"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "s ukočenim vratom"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨drsko⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.068532338Z",
+  "model": "glm-5.3"
+}

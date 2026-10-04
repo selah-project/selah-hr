@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A ja se uzdam u tebe, Jahve; rekoh: Elohe moj, ti si.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.138581753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I sinovi Rubenovi sagradiše ⟨את⟩ Heshbon i ⟨את⟩ Elale i ⟨את⟩ Kirjataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "I sinovi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenovi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sagradiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kirjataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjataim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:38.916090554Z",
+  "model": "glm-5.3"
+}

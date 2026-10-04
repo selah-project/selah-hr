@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Odavno znám iz tvojih svjedočanstava da si ih za vječnost utemeljio.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "odavno"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znám"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "iz tvojih svjedočanstava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vječnost"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "utemeljio si ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:07.211038300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I tražit ćete odande ⟨את⟩ Jahvu, Elohim svojega, i naći ćete ⟨ga⟩, ako ga tražite svim svojim srcem i svom svojom dušom.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "tražit ćete"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "naći ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ga tražite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "svojim srcem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "svojom dušom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:32.120136235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Zborovođi, prema Jedutunu. Mizmor Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutunu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.482748418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I izvede kao stado narod svoj, i povede ih kao krdo u pustinji.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "I izvede (put)"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kao stado"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "i povede ih"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kao krdo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:20.310728995Z",
+  "model": "glm-5.3"
+}

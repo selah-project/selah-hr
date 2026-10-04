@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Dokle ću snati planove u duši svojoj, tugu u srcu svojem svagda? Dokle će se neprijatelj moj uzdizati nada mnom?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ću snati"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "planove"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "u duši svojoj"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "u srcu svojem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "svagda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "će se uzdizati"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelj moj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.587086587Z",
+  "model": "glm-5.3"
+}

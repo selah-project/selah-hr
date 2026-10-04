@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A Ester reče: Čovjek protivnik i neprijatelj — taj zli Haman. A Haman se prestraši pred kraljem i kraljicom.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "protivnik"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "i neprijatelj"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taj"
+    },
+    {
+      "surface": "ווהמן",
+      "gloss": "a Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "prestraši se"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "i kraljicom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:31.623317409Z",
+  "model": "glm-5.3"
+}

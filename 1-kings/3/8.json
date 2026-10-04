@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A sluga je tvoj usred naroda tvojega kojega si izabrao, naroda brojnoga koji se ne može izmjeriti ni izbrojiti od mnoštva.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "A sluga je tvoj"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "naroda tvojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "si izabrao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "brojnoga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "može izmjeriti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "izbrojiti"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "od mnoštva"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:24.459170358Z",
+  "model": "glm-5.3"
+}

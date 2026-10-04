@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ ovna raskomada na komade svoje, i Moše učini da dimi ⟨את⟩ glava i ⟨את⟩ komadi i ⟨את⟩ loj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ovna"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovan"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "raskomada"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na komade svoje"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "učini da dimi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glava"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "komadi"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "komadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "loj"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "loj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:06.339753347Z",
+  "model": "glm-5.3"
+}

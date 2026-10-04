@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Blagoslivljat ću ⟨את⟩ Jahvu koji me savjetuje; i noću me poučavaju bubrezi moji.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Blagoslivljat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "me savjetuje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "noću"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "me poučavaju"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "bubrezi moji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:13.798743770Z",
+  "model": "glm-5.3"
+}

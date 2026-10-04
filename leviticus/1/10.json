@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A ako je od stada žrtva njegova, od ovčeva ili od kozjega roda, za paljenicu — muško bez mane neka prinese.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "žrtva njegova"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ovčeva roda"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kozjega roda"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "neka prinese"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:27.823952166Z",
+  "model": "glm-5.3"
+}

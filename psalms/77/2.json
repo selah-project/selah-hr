@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Glas moj k Elohimu, i vičem; glas moj k Elohimu, i on će mi ⟨uho⟩ prisloniti.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Glas moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "i vičem"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glas moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "i on će ⟨uho⟩ prisloniti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:00.779243503Z",
+  "model": "glm-5.3"
+}

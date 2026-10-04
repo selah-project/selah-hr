@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Kao trn koji je ušao u ruku pijanca, tako je poslovica u ustima luđaka.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "trn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ušao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "pijanca"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "i poslovica"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "u ustima"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "luđaka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:22.473098105Z",
+  "model": "glm-5.3"
+}

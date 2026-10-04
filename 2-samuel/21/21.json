@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I on je izazivao ⟨את⟩ Jisrael, pa ga udari Jehonatan, sin Šimeja, brata Davidova.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "i izazivao je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "pa ga udari"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeja"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:56.956538004Z",
+  "model": "glm-5.3"
+}

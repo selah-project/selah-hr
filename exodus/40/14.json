@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I ⟨את⟩ njegove sinove privedi, i obuci ⟨את⟩ ih košuljama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "privedi"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "i obuci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "košuljama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:40.468693828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Dodaj krivnju na njihovu krivnju, i neka ne uđu u tvoju cedek.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Dodaj"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "njihovu krivnju"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "neka ne uđu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "u tvoju cedek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:46.482372345Z",
+  "model": "glm-5.3"
+}

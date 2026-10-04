@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "U početku Elohim stvori ⟨את⟩ nebo i ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "U početku"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:15.496436022Z",
+  "model": "glm-5.3"
+}

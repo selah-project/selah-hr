@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Reći ću Jahvi: zaklon moj i utvrda moja, Elohim moj, njemu vjerujem.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "reći ću"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "zaklon moj"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i utvrda moja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vjerujem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:29.281467650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "U onaj dan pohodit će Jahve mačem svojim tvrdim i velikim i jakim Livijatana, zmiju bjegovnu, i Livijatana, zmiju iskrivljenu, te ubit će ⟨את⟩ tanina koji je u moru.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "יפפקד",
+      "gloss": "pohodit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "mačem svojim"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "tvrdom"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "i velikom"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "i jakim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livijatana"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmiju"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bjegovnu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livijatana"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmiju"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "iskrivljenu"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "te ubit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanina"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "tanina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בים",
+      "gloss": "u moru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:49.175292289Z",
+  "model": "glm-5.3"
+}

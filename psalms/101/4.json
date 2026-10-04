@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Srce iskrivljeno neka se odmakne od mene — zla neću znati.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "iskrivljeno"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "neka se odmakne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:11.089372954Z",
+  "model": "glm-5.3"
+}

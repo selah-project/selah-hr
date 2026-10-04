@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Tako sam te u svetosti gledao, da vidim snagu tvoju i slavu tvoju.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetosti"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "sam te gledao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "snagu tvoju"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "i slavu tvoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:06.773561706Z",
+  "model": "glm-5.3"
+}

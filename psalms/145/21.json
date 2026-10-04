@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Hvalu Jahvi neka govori moja usta, i neka blagoslovi sve tijelo ime njegovo sveto, uvijek i dovijeka.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "hvalu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "neka govori"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i neka blagoslovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegovo sveto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:29.128647602Z",
+  "model": "glm-5.3"
+}

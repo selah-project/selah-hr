@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 22:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A kad bi kćer kohenova bila udovica ili otpuštena i ne bi imala potomstva, te se vrati u dom oca svojega kao u mladosti svojoj, jest će od kruha oca svojega; ali nijedan tuđinac ne će jesti ⟨od njega⟩.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "a kći"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "udovica"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ili otpuštena"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "i potomstvo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nje"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "te se vrati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "כנעוריה",
+      "gloss": "kao u mladosti svojoj"
+    },
+    {
+      "surface": "מלחם",
+      "gloss": "od kruha"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jest će"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ali svaki"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđinac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "će jesti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:28.891054497Z",
+  "model": "glm-5.3"
+}

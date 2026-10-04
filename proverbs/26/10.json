@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Kao strijelac koji ranjava sve, takav je onaj koji najmi luđaka i onaj koji najmi prolaznike.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "strijelac ⟨mnogo⟩"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "ranjava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i onaj koji najmi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i najmi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "prolaznike"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:22.473369880Z",
+  "model": "glm-5.3"
+}

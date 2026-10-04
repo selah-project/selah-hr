@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Hvalite ga, nebesa nad nebesima i vode koje su iznad nebesa!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nad nebesima"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "i vode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:51.802812087Z",
+  "model": "glm-5.3"
+}

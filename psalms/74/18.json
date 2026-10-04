@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Sjeti se ovo: dušmanin je grdio Jahvu, i narod bezuman ga pogrdio ime tvoje.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sjeti se"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dušmanin"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "je grdio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bezuman"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "pogrdio"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:48.700499979Z",
+  "model": "glm-5.3"
+}

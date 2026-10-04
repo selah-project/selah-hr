@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I prinese od njega svoj prinos, ognjenu žrtvu Jahvi: ⟨את⟩ salo što pokriva ⟨את⟩ drob i ⟨את⟩ sve salo što je na drobu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svoj prinos"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ognjenu žrtvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "što pokriva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drob"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "drob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve salo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "drobu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:50.036897418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 12:20",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I usta David sa zemlje, i okupa se, i pomaza se, i preodjenu haljinu svoju, te uđe u dom Jahvin i pokloni se; potom dođe u dom svoj, i zatraži, te postaviše mu kruh, i jede.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "sa zemlje"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "i okupa se"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "i pomaže se"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "i preodjenu"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "haljinu svoju"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "te uđe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dom svoj"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "i zatraži"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "te postaviše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i jede"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:33.570940979Z",
+  "model": "glm-5.3"
+}

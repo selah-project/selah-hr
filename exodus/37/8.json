@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "jedan kerub na kraju s ove strane, i jedan kerub na kraju s one strane; iz Pomirilišta načini ⟨את⟩ kerube, na dvama njegovim krajevima.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s ove strane"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "i kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s one strane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Pomirilišta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerube"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na dvama"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "njegovim krajevima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:19.157986669Z",
+  "model": "glm-5.3"
+}

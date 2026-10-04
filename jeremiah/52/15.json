@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "A od siromaha naroda i ⟨את⟩ ostatka naroda što je ostao u gradu i ⟨את⟩ prebjega što su prebjegli kralju babilonskomu, i ⟨את⟩ ostatka mnoštva izvede u sužanjstvo Nevuzaradan, zapovjednik tjelesne straže.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "a od siromaha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ostatka naroda"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "što je ostao"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prebjega"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "prebjega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što su"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "prebjegli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonskomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ostatka mnoštva"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatka"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "izvede u sužanjstvo"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zapovjednika"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tjelesne straže"
+    }
+  ],
+  "timestamp": "2026-10-04T18:36:29.542014298Z",
+  "model": "glm-5.3"
+}

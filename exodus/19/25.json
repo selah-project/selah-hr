@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I siđe Moše ⟨אל⟩ narodu i reče im.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:48.557064274Z",
+  "model": "glm-5.3"
+}

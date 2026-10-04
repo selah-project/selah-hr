@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer ima riječi mnogo koje umnožavaju hevel; što preostaje čovjeku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnogo"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "umnožavaju"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "preostaje"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "čovjeku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:47.816913840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Oči sviju gledaju k tebi, i ti daješ njima ⟨את⟩ hranu njihovu u vrijeme njeno.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sviju"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "gledaju"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "i ti"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "daješ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hranu njihovu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hranu njihovu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "u vrijeme njeno"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:56.208340304Z",
+  "model": "glm-5.3"
+}

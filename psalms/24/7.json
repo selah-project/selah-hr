@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Podignite, vrata, glave svoje, i podignite se, dovjetni ulazi, i neka uđe kralj slave!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "podignite"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "glave svoje"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "i podignite se"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovjetni"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "i neka uđe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slave"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.751594100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Otvorit ću u paraboli usta svoja, izreći ću zagonetke iz drevnih vremena.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Otvorit ću"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "u paraboli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta svoja"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "izreći ću"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "zagonetke"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iz"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "drevnih vremena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:07.566075429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I opet upita David Jahvu, i odgovori ga Jahve te reče: Ustani, siđi u Keilu, jer ja predajem ⟨את⟩ Filistejce u ruku tvoju.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "i opet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "upita"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "odgovori ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "רד",
+      "gloss": "siđi"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "u Keilu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predajem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejce"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u ruku tvoju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:27.162487510Z",
+  "model": "glm-5.3"
+}

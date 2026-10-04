@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I sebi Cor utvrdi ⟨את⟩ uporište, i nakupi srebra kao praha, a zlata kovanoga kao blata ulica.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "utvrdi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cor"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "uporište"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "nakupi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kao praha"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "zlata kovanoga"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "kao blata"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ulica"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:52.063339106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Svi se oni u te uzdaju da im daš hranu u njezino vrijeme.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u te"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "uzdaju se"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da daš"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "u njezino vrijeme"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:16.862537184Z",
+  "model": "glm-5.3"
+}

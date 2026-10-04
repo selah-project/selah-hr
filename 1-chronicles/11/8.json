@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I sagradi grad unaokrug, od Milo do unaokrug; a Joab oživi ⟨את⟩ ostatak grada.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sagradi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "unaokrug"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "unaokrug"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "a Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "oživi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostatak"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:07.815640569Z",
+  "model": "glm-5.3"
+}

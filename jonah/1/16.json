@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I ljudi se pobojiše velikim strahom ⟨את⟩ Jahvu, te prineseše žrtvu Jahvi i položiše zavjete.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "i pobojiše se"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "strahom"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "te prineseše"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "i položiše"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "zavjete"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:11.722828054Z",
+  "model": "glm-5.3"
+}

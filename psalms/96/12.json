@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 96,
+  "translation": "Neka poskoči polje i sve što je na njemu; tada neka klicaju sva stabla šumska.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "neka poskoči"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בו",
+      "gloss": "je na njemu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "neka klicaju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "stabla"
+    },
+    {
+      "surface": "יער",
+      "gloss": "šumska"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:27.167921931Z",
+  "model": "glm-5.3"
+}

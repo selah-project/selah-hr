@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I uzeše ⟨את⟩ Avšaloma i baciše ⟨את⟩ ga u šumu, u onu veliku jamu, i nasipaše nad njime vrlo velik nasip kamenja; a sav Jisrael pobježe, svaki k šatoru svomu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "i baciše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "u šumu"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "u šumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "jamu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "i nasipaše"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njime"
+    },
+    {
+      "surface": "גל",
+      "gloss": "nasip"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamenja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "k šatoru svomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:54.293248012Z",
+  "model": "glm-5.3"
+}

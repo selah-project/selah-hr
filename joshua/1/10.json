@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zapovjedi Jošua ⟨את⟩ nadglednicima naroda rekavši:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I zapovjedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nadglednicima naroda"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "nadglednicima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:48.722245141Z",
+  "model": "glm-5.3"
+}

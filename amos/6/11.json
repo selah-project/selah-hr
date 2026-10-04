@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer gle, Jahve zapovijeda, i ⟨bit će⟩ udaren veliki kuća u krhotine, a kuća mala u pukotine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijeda"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i udaren"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuća"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "u krhotine"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "a kuća"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mala"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "u pukotine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:47.572145692Z",
+  "model": "glm-5.3"
+}

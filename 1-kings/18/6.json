@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I razdijeliše među sobom ⟨את⟩ zemlju da je prođu: Ahav pođe jednim putem sam, a Obadjihu pođe drugim putem sam.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "i razdijeliše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "među sobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "da prođu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pođe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednim"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "a Obadjihu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pođe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednim"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:08.159402150Z",
+  "model": "glm-5.3"
+}

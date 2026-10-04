@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I stadoše trkači, svaki sa svojim oružjem u ruci, od ramena desnoga krila ⟨ha-bajit⟩ do ramena lijevoga krila, uz žrtvenik i uz Kuću, oko kralja unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stadoše"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "trkači"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "sa svojim oružjem"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "od ramena"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "krila ⟨ha-bajit⟩"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desnoga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ramena"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "krila ⟨ha-bajit⟩"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "lijevoga"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "uz žrtvenik"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "i uz Kuću"
+    },
+    {
+      "surface": "על",
+      "gloss": "oko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:24.003575222Z",
+  "model": "glm-5.3"
+}

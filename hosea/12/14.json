@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I prorokom izvede Jahve ⟨את⟩ Jisrael iz Micrajima, i prorokom bi čuvan.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "i prorokom"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "izvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "i prorokom"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "bi čuvan"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:43.048128011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I propast ćete među narodima, i progutat će vas ⟨את⟩ zemlja neprijatelja vaših.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "i propast ćete"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "i progutat će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "zemlja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "neprijatelja vaših"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:38.663283718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ne poželi kuću bližnjega svojega; ne poželi ženu bližnjega svojega, ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, nijedne stvari koja je bližnjega tvojega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "poželi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "poželi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ni sluge njegova"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ni sluškinje njegove"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "ni vola njegova"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "ni magarca njegova"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nijednu stvar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "je bližnjega tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:17.462225474Z",
+  "model": "glm-5.3"
+}

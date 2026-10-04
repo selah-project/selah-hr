@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Jahve, na nebesima ⟨je⟩ hesed tvoj, vjernost tvoja do oblaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "na nebesima"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "vjernost tvoja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblaka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:02.216096629Z",
+  "model": "glm-5.3"
+}

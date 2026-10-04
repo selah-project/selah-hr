@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "i neka prinesu žrtve hvale, i neka pripovijedaju njegova djela s radosnim pjevanjem!",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "i neka prinesu žrtve"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hvale"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "i neka pripovijedaju"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "njegova djela"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s radosnim pjevanjem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:01.202824287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Zakle se Adonaj Jahve u svojoj svetosti: evo, dani dolaze na vas, i odnijet će vas ⟨את⟩ udicama, a ostatak vaš ribljim loncima.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Zakle se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "u svojoj svetosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "evo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dani"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dolaze"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "odnijet će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "udicama"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "ostatak vaš"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "loncima"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "ribljim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:54:04.941816659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot s njezinim pašnjacima i ⟨את⟩ Almon s njezinim pašnjacima — gradova četiri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njezine pašnjake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "s njezinim pašnjacima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njezine pašnjake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "s njezinim pašnjacima"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:21:55.391635117Z",
+  "model": "glm-5.3"
+}

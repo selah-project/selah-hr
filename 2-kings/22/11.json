@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I bijaše, kad kralj ču ⟨את⟩ riječi knjige Tore, razdrije ⟨את⟩ halje svoje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi knjige Tore"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjige"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "razdrije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halje svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "halje svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:16.846935662Z",
+  "model": "glm-5.3"
+}

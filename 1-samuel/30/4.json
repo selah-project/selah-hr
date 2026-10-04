@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Tada David i narod koji bijaše ⟨את⟩ s njim podigoše ⟨את⟩ svoj glas i plakahu, dok u njima ne bijaše više snage za plakati.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "podigoše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj glas"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i plakahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne bijaše"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "כח",
+      "gloss": "snage"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "za plakati"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:10.165042886Z",
+  "model": "glm-5.3"
+}

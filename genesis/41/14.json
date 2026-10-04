@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I posla Paro te dade zvati ⟨את⟩ Jozefa; pohitaše ga iz zdenca, pa se obrija, preodjene haljine svoje i dođe pred Paroa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dade zvati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "pohitaše ga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "zdenca"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "obrija"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "preodjene"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:39.410675598Z",
+  "model": "glm-5.3"
+}

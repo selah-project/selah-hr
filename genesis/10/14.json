@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Patrusimce i ⟨את⟩ Kasluhimce, iz kojih izađoše Filišćani, i ⟨את⟩ Kaftorimce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Patrusimce"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusimci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kasluhimce"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhimci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iz kojih"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izađoše"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kaftorimce"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorimci"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:23.074501348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Posuda od glinare u kojoj se ⟨את⟩ skuha bit će razbijena; a ako je skuhana u posudi od mjedi, izribat će se i isplahnuti u vodi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "posuda"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "od glarine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojoj"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "se skuha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bit će razbijena"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "u posudi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od mjedi"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "skuhana"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "izribat će se"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "isplahnuti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.269161483Z",
+  "model": "glm-5.3"
+}

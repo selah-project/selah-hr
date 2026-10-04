@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Istraga i sprijeda stisnu me, i položi na mene ⟨את⟩ dlan svoj.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Istraga"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "i sprijeda"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "stisnu me"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "dlan svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.654332963Z",
+  "model": "glm-5.3"
+}

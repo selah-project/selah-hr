@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Vrati zlo na dušmane moje; u svojoj istini istrijebi ih.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "na dušmane moje"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "u svojoj istini"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "istrijebi ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:57.875391343Z",
+  "model": "glm-5.3"
+}

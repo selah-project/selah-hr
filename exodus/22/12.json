@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako rastrgnuto bude rastrgnuto, neka ga donese ⟨kao⟩ svjedoka ⟨za⟩ ono rastrgnuto; neće nadoknaditi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "rastrgnuto"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "bude rastrgnuto"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "neka ga donese"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svjedoka"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ono rastrgnuto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nadoknaditi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:31.573394449Z",
+  "model": "glm-5.3"
+}

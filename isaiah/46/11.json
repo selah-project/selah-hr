@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Zovem iz istoka grabljivicu, iz daleke zemlje čovjeka moje odluke: da, rekoh je, da, dovest ću je; sazdah je, da, i učinit ću je.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Zovem"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "iz istoka"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "grabljivicu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daleke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "moje odluke"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rekoh je"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "dovest ću je"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "sazdah je"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "učinit ću je"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:28.863816743Z",
+  "model": "glm-5.3"
+}

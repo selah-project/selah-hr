@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Od ⟨את⟩ tebe hvala moja u velikoj zajednici; zavjete svoje izvršit ću pred onima koji ga se boje.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ tebe"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "hvala moja"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zajednici"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velikoj"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "zavjete svoje"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "izvršit ću"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "onima koji ga se boje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:56.347746829Z",
+  "model": "glm-5.3"
+}

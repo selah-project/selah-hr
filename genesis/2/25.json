@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I bijahu oboje goli, čovjek i njegova žena, i ne postidješe se.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "i bijahu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oboje"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "goli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i njegova žena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "postidješe se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:25.260969478Z",
+  "model": "glm-5.3"
+}

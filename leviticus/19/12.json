@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I ne kunite se imenom mojim na laž, i oskvrnjuješ ⟨את⟩ ime Elohim svojega; ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kunite se"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "imenom mojim"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "na laž"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "i oskvrnjuješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:51.964778101Z",
+  "model": "glm-5.3"
+}

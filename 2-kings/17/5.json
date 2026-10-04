@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I dođe kralj Ašura na svu zemlju, i dođe Šomronu, i opsjedao ga tri godine.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "opsjedao"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godine"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:42.755655121Z",
+  "model": "glm-5.3"
+}

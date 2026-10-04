@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Plemići naroda okupljaju se ⟨s⟩ narodom Elohimova Avrahama, jer Elohimu pripadaju štitovi zemlje — silno je uzvišen.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Plemići"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "okupljaju se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "štitovi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "silno"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "uzvišen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:32.452217648Z",
+  "model": "glm-5.3"
+}

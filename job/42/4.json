@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Slušaj, molim, i ja ću govoriti; pitat ću te, a ti mi objavi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slušaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ću govoriti"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "pitat ću te"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "a ti mi objavi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:40:46.792481391Z",
+  "model": "glm-5.3"
+}

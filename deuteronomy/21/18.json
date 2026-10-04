@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Ako koji čovjek ima sina tvrdoglavog i buntovnoga — ne sluša glasa oca svojega ni glasa matere svoje, te ga oni kazne, a on ih ne posluša —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "koji čovjek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "tvrdoglavog"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "i buntovnoga"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sluša"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ni glasa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matere svoje"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "te ga kazne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:22.980288481Z",
+  "model": "glm-5.3"
+}

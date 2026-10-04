@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Sjeti se kako je kratak ⟨moj⟩ život — na što si isprazno stvorio sve sinove ljudske?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sjeti se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "kratak ⟨je⟩ život"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "isprazno"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "si stvorio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:35.798718633Z",
+  "model": "glm-5.3"
+}

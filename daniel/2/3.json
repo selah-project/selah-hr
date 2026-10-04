@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče im kralj: San sanjah, i moja se ruah uznemiri ⟨da⟩ upoznam ⟨את⟩ san.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sanjah"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "i uznemiri se"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da upoznam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:43.587749735Z",
+  "model": "glm-5.3"
+}

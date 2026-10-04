@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "Mnogo su me tlačili od mladosti moje, ali me nisu mogli svladati.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mnogo"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "su me tlačili"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mladosti moje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su mogli svladati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.910719183Z",
+  "model": "glm-5.3"
+}

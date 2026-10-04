@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Od lažne stvari drži se daleko, i nevinoga i pravednoga ne ubij, jer ja ne opravdavam zloga.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "drži se daleko"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "i nevinoga"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "i pravednoga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ubij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "opravdavam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zloga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:09.973047566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče kralj: Požurite ⟨את⟩ Hamana da se izvrši ⟨את⟩ želja Esterina. I dođe kralj i Haman na gozbu koju pripremi Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Požurite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da se izvrši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "želja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "želja"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "I dođe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "i Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "gozbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "pripremi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:55.853445584Z",
+  "model": "glm-5.3"
+}

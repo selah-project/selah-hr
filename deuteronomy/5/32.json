@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I čuvajte činiti kao što je zapovjedio Jahve, Elohim vaš, ⟨את⟩ ⟨vas⟩; ne skrećite ni desno ni lijevo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvajte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "skrećite"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desno"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ni lijevo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:04.373453081Z",
+  "model": "glm-5.3"
+}

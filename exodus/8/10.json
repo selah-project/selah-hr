@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I natrpaše ih ⟨את⟩ u gomile, u gomile, i smrdje ⟨je⟩ zemlja.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "i natrpaše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gomile"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "u gomile"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "u gomile"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "i smrdje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:31.677527798Z",
+  "model": "glm-5.3"
+}

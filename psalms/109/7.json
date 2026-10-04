@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Kad mu se sudi, neka iziđe osuđen, i molitva njegova neka bude ⟨za⟩ grijeh.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "kad mu se sudi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "neka iziđe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "osuđen"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "i molitva njegova"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "za grijeh"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.772821139Z",
+  "model": "glm-5.3"
+}

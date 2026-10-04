@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "To su određena vremena Jahvina, sveta zvanja, koja ćete zvati ⟨את⟩ njih u njihovo vrijeme.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "određena vremena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "sveta zvanja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ćete zvati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "u njihovo vrijeme"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:47.264300614Z",
+  "model": "glm-5.3"
+}

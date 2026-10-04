@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 1:44",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i kralj posla ⟨את⟩ s njim ⟨את⟩ Cadoka svećenika i ⟨את⟩ Natana proroka i Benajahu, sina Jehojadina, i Krećane i Plećane, i posadiše ⟨את⟩ ga na kraljevu mazgu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoka svećenika"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Natana proroka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "i Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojade"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i Krećani"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "i Plećani"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "i posadiše ga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "mazgu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:03.029245831Z",
+  "model": "glm-5.3"
+}

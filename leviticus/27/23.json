@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "i izračunat će mu svećenik ⟨את⟩ iznos tvoga vrednovanja do jobelove godine, i on će dati ⟨את⟩ tvoje vrednovanje toga dana kao svetu stvar Jahvi.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "i izračunat će"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iznos tvoga vrednovanja"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "iznos"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "tvoga vrednovanja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "godine"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "jobelove"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dati će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje vrednovanje"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "tvoje vrednovanje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tega dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetu stvar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:19.494267373Z",
+  "model": "glm-5.3"
+}

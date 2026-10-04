@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Napušteni su gradovi Aroera; stadima će pripadati i ležat će ⟨tamo⟩, a nitko ⟨neće⟩ plašiti.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "napušteni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradovi"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroera"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "stadima"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "će pripadati"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "i ležat će"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nitko"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "plašiti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:19.035166925Z",
+  "model": "glm-5.3"
+}

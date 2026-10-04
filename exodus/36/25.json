@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I za drugu stranu Miškana, sa strane sjeverne, načini dvadeset dasaka.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "i za stranu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa strane"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sjevera"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dasaka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:12.797945289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A sada ću otkriti ⟨את⟩ sramotu njezinu pred očima ljubavnika njezinih, i nitko je neće izbaviti iz ruke moje.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ću otkriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sramotu njezinu"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "sramotu njezinu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očima"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "ljubavnika njezinih"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i nitko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "će je izbaviti"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz ruke moje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:55.654620628Z",
+  "model": "glm-5.3"
+}

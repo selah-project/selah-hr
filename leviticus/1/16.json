@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I neka ukloni ⟨את⟩ njegovu volju s perjem svojim, i neka je baci uz žrtvenik, s istočne strane, na mjesto pepela.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "i neka ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "volju"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "njegovu volju (mišinicu)"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "s perjem svojim"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "i neka je baci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uz žrtvenik"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "s istočne strane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pepela"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.866722934Z",
+  "model": "glm-5.3"
+}

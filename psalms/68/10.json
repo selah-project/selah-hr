@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Pljusak slobodnih darova prosipaš, Elohime; svoju baštinu, kad je bila umorna, ti si je utvrdio.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "pljusak"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "slobodnih darova"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "prosipaš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "svoju baštinu"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "kad je bila umorna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "si je utvrdio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:21.514820171Z",
+  "model": "glm-5.3"
+}

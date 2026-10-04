@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I zapovjedi Jehošua ⟨את⟩ svećenicima rekavši: Uzađite iz Jordana.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenicima"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "uzađite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:51.058278992Z",
+  "model": "glm-5.3"
+}

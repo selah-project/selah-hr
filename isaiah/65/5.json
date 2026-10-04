@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Koji govore: Drži se dalje od mene, ne prilazi mi, jer sam te posvetio; ti su dim u nosu mojemu, oganj koji gori sav dan.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Koji govore"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "prilazi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "približuj se"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "sam te posvetio"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dim"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "u nosu mojemu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "יקדדת",
+      "gloss": "koji gori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:24.410815687Z",
+  "model": "glm-5.3"
+}

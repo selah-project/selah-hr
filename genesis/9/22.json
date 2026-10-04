@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Ham, otac Kenanov, vidje ⟨את⟩ golotinju oca svojega, i kazа dvojici braće svoje vani.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenanov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golotinju"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golotinju"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "i kaza"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dvojici"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braće svoje"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "vani"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:03.483502189Z",
+  "model": "glm-5.3"
+}

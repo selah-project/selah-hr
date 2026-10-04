@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Nije tako zločestih: nego su kao pljeva koju ruah raznosi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "zločestih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kao pljeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "raznosi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:27.708766594Z",
+  "model": "glm-5.3"
+}

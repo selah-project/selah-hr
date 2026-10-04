@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Učini sa mnom znak za dobro, i neka vide oni koji me mrze i neka se postide, jer si ti, Jahve, pomogao mi i utješio me.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Učini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "za dobro"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i neka vide"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "oni koji me mrze"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "i neka se postide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "pomogao si mi"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "i utješio si me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:59.279876486Z",
+  "model": "glm-5.3"
+}

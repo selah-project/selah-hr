@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Idi i skupi starješine Jisraelove, pa reci njima: Jahve, Elohim otaca vaših, pokazao se meni — Elohim Avrahamov, Jicakov i Jaakovljev — govoreći: Obišao sam ⟨את⟩ vas i ⟨את⟩ ono što se čini vama u Micrajimu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starješine Jisraelove"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "pa reci"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "otaca vaših"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pokazao se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamov"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "i Jaakovljev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "obišao"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "sam obišao"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ono što se čini vama"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ono što se čini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:11.107084755Z",
+  "model": "glm-5.3"
+}

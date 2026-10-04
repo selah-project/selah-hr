@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I staviti ćeš turban na njegovu glavu, i staviti ćeš ⟨את⟩ svetu krunu na turban.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "i staviti ćeš"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovu glavu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "i staviti ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetu krunu"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "krunu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:45.385878379Z",
+  "model": "glm-5.3"
+}

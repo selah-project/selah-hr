@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I zbori Moše ⟨את⟩ blagdane Jahvine sinovima Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i zbori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blagdane Jahvine"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "blagdane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:14.874091490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "tada će ga njegov gospodar dovesti pred ⟨את⟩ Elohima i pristaviti ga ⟨את⟩ uz vrata ili uz dovratnik, i njegov će mu gospodar probušiti ⟨את⟩ uho šilom, i služit će mu dovijeka.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "dovest će ga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "njegov gospodar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "pristavit će ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "dovratnik"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "i probušit će"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "njegov gospodar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uho"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "njegovo uho"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "šilom"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i služit će"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:50.940490152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Svi su to sinovi Davidovi, osim sinova priležnica, i Tamar ⟨bijaše⟩ njihova sestra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "priležnica"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "i Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "njihova sestra"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:10.163408546Z",
+  "model": "glm-5.3"
+}

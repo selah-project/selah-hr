@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "A vi slušajte riječ Jahvinu, sav izgnani narod koji sam poslao iz Jerušalajima u Babilon.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "A vi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izgnani narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sam poslao"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iz Jerušalajima"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "u Babilon"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:26.925493204Z",
+  "model": "glm-5.3"
+}

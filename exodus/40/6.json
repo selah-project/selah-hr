@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ žrtvenik za paljenice ⟨ispred⟩ ulaza u Miškan, šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "za paljenice"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:48.653130917Z",
+  "model": "glm-5.3"
+}

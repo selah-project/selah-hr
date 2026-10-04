@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I uze ⟨את⟩ posudu, i izli pred njega, ali on ne htjede jesti. I reče Amnon: Iztjerajte svakoga čovjeka od mene! I iziđe svaki čovjek od njega.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posudu"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "posudu"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "i izli"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njega"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ali on ne htjede"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Iztjerajte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.138455520Z",
+  "model": "glm-5.3"
+}

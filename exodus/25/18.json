@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I načinišće dva keruvima od zlata, kovana izdjelana načinišće ⟨את⟩ njih, s dva kraja kaporeta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načinit ćeš"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvima"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kovana izdjelana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "načinit ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (dva keruvima)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "s dva"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporeta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:21.399212249Z",
+  "model": "glm-5.3"
+}

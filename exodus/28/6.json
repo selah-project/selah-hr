@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I neka načine ⟨את⟩ efod — od zlata, modroplave tkanine i purpura, crvene gubine boje i upredena bijela lana — djelo umjetnika tkača.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i neka načine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modroplava tkanina"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "gubina (crvena)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "crvena boja"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i bijeli lan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "upreden"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "umjetnika tkača (iskusno tkano)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:29.168317372Z",
+  "model": "glm-5.3"
+}

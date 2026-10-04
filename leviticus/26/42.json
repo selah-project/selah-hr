@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I spomenut ću se ⟨את⟩ svoga saveza s Jaakovom, i također ⟨את⟩ svoga saveza s Jicakom, i također ⟨את⟩ svoga saveza s Avrahamom spomenut ću se; i ⟨את⟩ zemlju ću se spomenuti.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "i spomenut ću se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga saveza s Jaakovom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoga saveza"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "s Jaakovom"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga saveza s Jicakom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoga saveza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "s Jicakom"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga saveza s Avrahamom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoga saveza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "s Avrahamom"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "spomenut ću se"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "i zemlju"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "spomenut ću se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:59.006930157Z",
+  "model": "glm-5.3"
+}

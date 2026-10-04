@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I primili su Židovi ⟨את⟩ ono što su započeli činiti i ⟨את⟩ ono što im napisao Mordecai.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "i primili su"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Židovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što su započeli činiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "započeli su"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ono što im napisao Mordecai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napisao"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:56.255973370Z",
+  "model": "glm-5.3"
+}

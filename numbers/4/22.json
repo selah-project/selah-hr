@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Podigni ⟨את⟩ glave sinova Geršonovih, i onih, po domu otaca njihovih, po obiteljima njihovim.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Podigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glave"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršonovih"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onih"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca njihovih"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po obiteljima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:19.870863555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I načini motke od drva šitimova, i obloži ih zlatom.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitimova"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (motke)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.869540619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I bude ti javljeno, i čuješ, te istražiš dobro, i gle — istina je, utvrđena ⟨je⟩ stvar: počinjena je ta gnusoba u Jisraelu.",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "i bude javljeno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "i čuješ"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "te istražiš"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istina"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "utvrđena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "počinjena je"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:59.964326176Z",
+  "model": "glm-5.3"
+}

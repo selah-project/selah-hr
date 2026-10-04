@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Eno, ne drijema i ne spava čuvar Jisraelov.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "drijema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "spava"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "čuvar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.186460996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Sve gradove koje ćete dati Levijevim sinovima: četrdeset i osam gradova, njih ⟨את⟩ i ⟨את⟩ njihova predgrađa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ćete dati"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Levijevim sinovima"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "i osam"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "njih ⟨את⟩",
+      "marks": "gradove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihova predgrađa"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "njihova predgrađa"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:14.745849961Z",
+  "model": "glm-5.3"
+}

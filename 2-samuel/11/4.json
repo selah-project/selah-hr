@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I posla David glasnike i uze je, i ona dođe k njemu, i on leže s njome — a ona se čišćaše od svoje nečistoće — i vrati se u svoj dom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "i uze je"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "i leže"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s njome"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "se čišćaše"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "od svoje nečistoće"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:19.943541743Z",
+  "model": "glm-5.3"
+}

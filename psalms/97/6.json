@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": " Neba objaviše njegov cedek, i svi narodi vidješe slavu njegovu.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "objaviše"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "njegov cedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slavu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:33.731631645Z",
+  "model": "glm-5.3"
+}

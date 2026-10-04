@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Jahve Elohim Cevaot, poslušaj molitvu moju, prigni uho, Elohe Jaakovljev. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitvu moju"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prigni uho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljev"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.177019375Z",
+  "model": "glm-5.3"
+}

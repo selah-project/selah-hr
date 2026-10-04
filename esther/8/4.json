@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I kralj pruži Ester ⟨את⟩ zlatno žezlo; pa usta Ester i stade pred kraljem.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "i pruži"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatno žezlo"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatno"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "pa usta"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:44.621718954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 1:24",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I vidješe izvidnici čovjeka kako izlazi iz grada, pa mu rekoše: Pokaži nam, molimo, ⟨את⟩ ulaz u grad, pa ćemo ti iskazati hesed.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "izvidnici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "kako izlazi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "pa rekoše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "Pokaži nam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulaz u grad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "pa ćemo iskazati"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:51.155543716Z",
+  "model": "glm-5.3"
+}

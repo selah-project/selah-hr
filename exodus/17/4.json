@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I viknu Moše Jahvi i reče: Što ću učiniti ovomu narodu? Još malo pa će me kamati.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "I viknu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi ⟨k⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ovomu narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovomu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Još"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "pa će me kamati"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:56.120504696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "A Celofhad, sin Hêferov, nije imao sinova, nego kćeri; a imena kćeri Celofhadovih ⟨jesu⟩ Mahla, Noa, Hogla, Milka i Tirca.",
+  "tokens": [
+    {
+      "surface": "וצלפחד",
+      "gloss": "A Celofhad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hêferov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היו",
+      "gloss": "imao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a imena"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Celofhadovih"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "i Noa"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "Hogla"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "i Tirca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:15.513924792Z",
+  "model": "glm-5.3"
+}

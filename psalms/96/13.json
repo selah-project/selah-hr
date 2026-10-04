@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 96,
+  "translation": "Pred licem Jahve, jer dolazi, jer dolazi suditi zemlju: sudit će tevel u cedeku i narode u svojoj vjernosti.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "suditi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sudit će"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "i narode"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "u svojoj vjernosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:55.636617161Z",
+  "model": "glm-5.3"
+}

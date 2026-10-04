@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I dogodi se, kad kralj Hizkijahu to ču, da razdje ⟨את⟩ haljine svoje, pokri se kostrijeti i uđe u dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "razdje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "pokri se"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "kostrijeti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:32.310825824Z",
+  "model": "glm-5.3"
+}

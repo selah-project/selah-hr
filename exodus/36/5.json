@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I rekoše Mošeu govoreći: Narod donosi mnogo više no što je potrebno za službu radnje koju je Jahve zapovjedio izvršiti ⟨את⟩ nju.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨Mošeu⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "donose mnogo više"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "za donošenje"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "no što je potrebno"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "za službu"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "radnje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "izvršiti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (radnju)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:57.852311621Z",
+  "model": "glm-5.3"
+}

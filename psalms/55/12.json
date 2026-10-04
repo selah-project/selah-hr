@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "propasti su u sredini njezinoj i ne napuštaju trga njezina tlača i prijevara.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "propasti"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "u sredini njezinoj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "napuštaju"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "trg njezin"
+    },
+    {
+      "surface": "תך",
+      "gloss": "tlača"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "i prijevara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.915304400Z",
+  "model": "glm-5.3"
+}

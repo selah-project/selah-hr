@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Milosrdan i milostiv Jahve, spor na gnjev i velik hesedom.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Milosrdan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "i milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "spor"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "na gnjev"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i velik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:54.568835703Z",
+  "model": "glm-5.3"
+}

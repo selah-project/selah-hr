@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I čovjek koji dâ ležaj svoj sa životinjom: smrću neka se pogubi, a ⟨את⟩ životinju zakoljite.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dâ"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ležaj svoj"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa životinjom"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka se pogubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "životinju"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "životinju"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "zakoljite"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:52.662608625Z",
+  "model": "glm-5.3"
+}

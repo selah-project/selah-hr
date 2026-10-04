@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "⟨את⟩ zavjese dvorišta, ⟨את⟩ stupove njegove i ⟨את⟩ podnožja njegova, i ⟨את⟩ zastor vrata dvorišta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavjese dvorišta"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "zavjese"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stupove njegove"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "stupove njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "podnožja njegova"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "podnožja njegova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zastor"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zastor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:08.463742198Z",
+  "model": "glm-5.3"
+}

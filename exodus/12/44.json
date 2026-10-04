@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "A svaki rob, kupljen čovjekov za srebro, i obreži ⟨את⟩ ga — tada neka jede od njega.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a svaki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjekov"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "kupljen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "i obreži"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka jede"
+    },
+    {
+      "surface": "בו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:48.909338127Z",
+  "model": "glm-5.3"
+}

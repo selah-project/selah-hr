@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I dade Hizkija ⟨את⟩ svega srebra što se našlo u Domu Jahvinu i u riznicama Domà kraljeva.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga srebra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "što se našlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u Domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "i u riznicama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Domà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:30.854919287Z",
+  "model": "glm-5.3"
+}

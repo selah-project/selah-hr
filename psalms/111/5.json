@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Hranu dade onima koji ga se boje; zauvijek će spominjati savez svoj.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "onima koji ga se boje"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "će spominjati"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savez svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.051497617Z",
+  "model": "glm-5.3"
+}

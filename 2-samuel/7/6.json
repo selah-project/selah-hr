@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jer nisam stanovao u domu od dana kad izvedoh ⟨את⟩ sinove Jisraelove iz Micrajima do današnjega dana, nego sam hodao u šatoru i u Miškanu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "nisam stanovao"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "kad izvedoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nego sam bio"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "hodeći"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šatoru"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "i u Miškanu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:57.991650474Z",
+  "model": "glm-5.3"
+}

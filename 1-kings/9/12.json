@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I iziđe Hiram iz Cora da vidi ⟨את⟩ gradove koje mu je dao Šelomo, i ne bijahu pravi u očima njegovim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "iz Cora"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gradove"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "bijahu pravi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:47.140591550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I stavi u kovčeg ⟨את⟩ svjedočanstvo koje ću ti dati.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svjedočanstvo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svjedočanstvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću dati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.870024449Z",
+  "model": "glm-5.3"
+}

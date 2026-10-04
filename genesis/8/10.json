@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I pričeka još sedam drugih dana, te opet posla ⟨את⟩ golubicu iz kovčega.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i pričeka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugih"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "te opet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golubicu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "golubicu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kovčega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:59.467890169Z",
+  "model": "glm-5.3"
+}

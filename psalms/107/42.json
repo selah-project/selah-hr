@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Vidjet će pravednici i veselit će se, i sva zloća zatvorit će usta svoja.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "vidjet će"
+    },
+    {
+      "surface": "יששרים ישרים",
+      "gloss": "pravednici"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "i veselit će se"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zloća"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "zatvorit će"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "usta svoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:21.753733964Z",
+  "model": "glm-5.3"
+}

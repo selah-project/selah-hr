@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I popisa ⟨את⟩ mladiće poglavara pokrajina, te ih bijaše dvjesto trideset i dva; a poslije njih popisa ⟨את⟩ sav narod, sve sinove Jisraelove, sedam tisuća.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i popisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladiće poglavara pokrajina"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "poglavara"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "pokrajina"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i bijaše ih"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvjesto"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "a poslije njih"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "popisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:15.243675637Z",
+  "model": "glm-5.3"
+}

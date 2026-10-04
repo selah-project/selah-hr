@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I Jahve izbavi toga dana ⟨את⟩ Jisraela, i boj se prebaci sve do ⟨את⟩ Bet-Avena.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "I izbavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "i boj"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "se prebaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Avena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Avena"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:14.642809727Z",
+  "model": "glm-5.3"
+}

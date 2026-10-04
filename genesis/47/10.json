@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I blagoslovi Jaakov ⟨את⟩ Paroa, i iziđe ispred Paroa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:17.282580037Z",
+  "model": "glm-5.3"
+}

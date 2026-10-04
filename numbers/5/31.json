@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "i čovjek će biti čast od krivnje, a ona žena nosit će ⟨את⟩ svoju krivnju.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "i bit će čist"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "od krivnje"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "a žena"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nosit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju krivnju"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "svoju krivnju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:51.585463649Z",
+  "model": "glm-5.3"
+}

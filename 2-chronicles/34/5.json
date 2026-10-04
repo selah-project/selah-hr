@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I kosti svećenika spalio je na njihovim žrtvenicima, te očisti ⟨את⟩ Judu i ⟨את⟩ Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "i kosti"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalio je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "njihovim žrtvenicima"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "te očisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:29.660599309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A sinovi Keture, inoče Avrahamove, koje rodi: ⟨את⟩ Zimran i Jokšan i Medan i Midjan i Jišbak i Šuah. A sinovi Jokšanovi: Ševa i Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keture"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "inogoća"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamove"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "koje rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "i Jokšan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "i Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "i Midjan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "i Jišbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "i Šuah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokšanovi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "i Dedan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:26.761916062Z",
+  "model": "glm-5.3"
+}

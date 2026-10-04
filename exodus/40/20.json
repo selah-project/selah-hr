@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I uze te položi ⟨את⟩ Svjedočanstvo u Kovčeg, i namjesti ⟨את⟩ motke na Kovčeg, i postavi ⟨את⟩ pomirilište na Kovčeg odozgor.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "te položi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svjedočanstvo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i namjesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "odozgor"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.429803500Z",
+  "model": "glm-5.3"
+}

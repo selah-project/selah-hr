@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "A Jisrael ljubio je ⟨את⟩ Jósséfa više nego sve sinove svoje, jer bijaše mu sin starosti; i načini mu košulju dugu (s rukavima).",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "a Jisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósséfa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósséfa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego sve"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove svoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starosti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "košulju"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "dugu (s rukavima)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.588539008Z",
+  "model": "glm-5.3"
+}

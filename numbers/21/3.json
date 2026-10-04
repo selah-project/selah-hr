@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Jahve posluša glas Jisraelov i dade ⟨את⟩ Kenaanca, i zatroše ⟨את⟩ njih i ⟨את⟩ gradove njihove; i prozva se ime mjesta toga Horman.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I posluša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanca"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "i zatroše"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gradove njihove"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "gradove njihove"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta toga"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horman"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:17.870429186Z",
+  "model": "glm-5.3"
+}

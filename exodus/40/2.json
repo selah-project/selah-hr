@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "U prvi mjesec, prvoga dana mjeseca, podigni ⟨את⟩ Miškan šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvoga dana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "podigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan šatora sastanka"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.608700866Z",
+  "model": "glm-5.3"
+}

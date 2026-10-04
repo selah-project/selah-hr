@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Ti, Jahve, ne zadrži svoje milosrđe od mene; hesed tvoj i vjernost tvoja neka me vazda čuvaju.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "zadrži"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svoje milosrđe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "i vjernost tvoju"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vazda"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "neka me čuvaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:00.135665637Z",
+  "model": "glm-5.3"
+}

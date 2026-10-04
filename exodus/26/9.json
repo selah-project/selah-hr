@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I sastaviš ⟨את⟩ pet zavjesa posebno, a ⟨את⟩ šest zavjesa posebno, i preklopiš šestu zavjesu spreda prema licu šatora.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "i sastaviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pet zavjesa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "posebno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "šest zavjesa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "posebno"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "i preklopiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šestu zavjesu"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "šesta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šatora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:47.583797231Z",
+  "model": "glm-5.3"
+}

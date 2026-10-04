@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I Avijam počinu s ocima svojim, i sahraniše ga ⟨את⟩ u gradu Davidovu; i zavlada Asa, sin njegov, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "I počinu"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i sahraniše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "u gradu Davidovu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i zavlada"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:23.894518227Z",
+  "model": "glm-5.3"
+}

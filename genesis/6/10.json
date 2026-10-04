@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I Noa rodi tri sina: ⟨את⟩ Šema, ⟨את⟩ Hama i ⟨את⟩ Jafeta.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "I rodi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hama"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jafeta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafeta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:05.323871478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Zaronih u duboko blato i nema uporišta; dođoh u dubine voda i bujica me odnese.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "zaronih"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "u"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "duboko blato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "uporišta"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "dođoh"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "u dubine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "i bujica"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "odnese me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.573474394Z",
+  "model": "glm-5.3"
+}

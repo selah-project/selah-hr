@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I zaposjest će Jahve ⟨את⟩ Judu kao svoj dio na svetoj zemlji, i opet će izabrati Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "i zaposjest će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "kao svoj dio"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetoj"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "i izabrati će"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:58.321568036Z",
+  "model": "glm-5.3"
+}

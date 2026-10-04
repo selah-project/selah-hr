@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A Šelah življaše trideset godina i rodi ⟨את⟩ Evera.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "A Šelah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "življaše"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evera"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:04.533051596Z",
+  "model": "glm-5.3"
+}

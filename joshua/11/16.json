@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I uze Jehošua svu tu zemlju: gorski kraj i sav Neguev i svu zemlju Gošena i Šefelu i Aravu i goru Jisraelovu i njezinu Šefelu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu tu zemlju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gorski kraj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav Neguev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Neguev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu zemlju Gošena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Gošena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šefelu"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Šefelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aravu"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Aravu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "goru Jisraelovu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "i njezinu Šefelu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:17.665581394Z",
+  "model": "glm-5.3"
+}

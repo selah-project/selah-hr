@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I sagradiše sinovi Gada ⟨את⟩ Divon i ⟨את⟩ Atarot i ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "i sagradiše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Divon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:45.036131097Z",
+  "model": "glm-5.3"
+}

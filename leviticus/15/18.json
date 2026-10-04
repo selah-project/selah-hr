@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I žena s kojom legne muškarac ⟨את⟩ nje, ⟨izljev⟩ sjemena — neka se obadvoje okupaju u vodi i bit će nečisti do večeri.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "i žena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s kojom"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "legne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muškarac"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju — ženu"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "izljev"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "neka se obadvoje okupaju"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "i bit će nečisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:09.222022987Z",
+  "model": "glm-5.3"
+}

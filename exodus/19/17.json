@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I izvede Moše ⟨את⟩ narod u susret Elohimu, iz tabora, i postaviše se podno gore.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "u susret"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "i postaviše se"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "podno"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gore"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:18.810304713Z",
+  "model": "glm-5.3"
+}

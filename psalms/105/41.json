@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Otvori stijenu i potekoše vode, tekle su u suhim krajevima kao rijeka.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "i potekoše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tekle su"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "u suhim krajevima"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kao rijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:44.916325537Z",
+  "model": "glm-5.3"
+}

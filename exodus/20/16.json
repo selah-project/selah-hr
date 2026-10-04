@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ne svjedoči lažno protiv svoga bližnjega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svjedoči"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "protiv svoga bližnjega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨kao svjedok⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažno"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:10.186263639Z",
+  "model": "glm-5.3"
+}

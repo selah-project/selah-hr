@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato sam i ja ⟨את⟩ vas učinio prezrenima i poniženima pred svim narodom, jer ne čuvate ⟨את⟩ mojih putova i gledate lice ⟨u⟩ Tori.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "zato sam i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "učinio sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "prezrenima i poniženima"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "prezrenima"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "i poniženima"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pred svim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "čuvate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojih putova"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mojih putova"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "i gledate"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lice"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "u Tori"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:29.806691252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Ruah Adonaja Jahve ⟨je⟩ na meni, jer me Jahve pomazao ⟨את⟩ mene da navijestim poniznima, poslao me da povežem slomljenoga srca, da proglasim sužnjevima slobodu i zatočenicima otvaranje tamnice,",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na meni"
+    },
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "משח",
+      "gloss": "pomazao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "da navijestim"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "poniznima"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "poslao me"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "da povežem"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "slomljenoga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "da proglasim"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "sužnjevima"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "slobodu"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "i zatočenicima"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otvaranje"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "tamnice"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:58.346675036Z",
+  "model": "glm-5.3"
+}

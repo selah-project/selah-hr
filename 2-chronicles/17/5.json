@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I utvrdi Jahve ⟨את⟩ kraljevstvo u ruci njegovoj, i sav Judea donese dar Jehošafatu, i bjese mu bogatstva i časti u izobilju.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "i utvrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i donese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judea"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Jehošafatu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bjese"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogatstva"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "i časti"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "u izobilju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:52.429079940Z",
+  "model": "glm-5.3"
+}

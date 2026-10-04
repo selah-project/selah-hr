@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I skupi David ⟨את⟩ sav narod te ode u Rabu, i bije se protiv nje, i osvoji je.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "te ode"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "u Rabu"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i bije se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "protiv nje"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "i osvoji je"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:51.531890085Z",
+  "model": "glm-5.3"
+}

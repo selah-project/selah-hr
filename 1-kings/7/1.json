@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ svoj dom sagradi Šelomo trinaest godina, i dovrši ⟨את⟩ sav svoj dom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trinaest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "trinaest"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "i dovrši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav svoj dom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:51.011205977Z",
+  "model": "glm-5.3"
+}

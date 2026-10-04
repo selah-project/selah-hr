@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Spomeni se, Jahve, sinova Edomovih, na dan Jerušalajima ⟨את⟩, koji su govorili: «Porušite, porušite do temelja njezina!»",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "spomeni se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomovih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "koji su govorili"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "porušite"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "porušite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "temelja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njezina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:18.775079292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Evo, dao sam ⟨את⟩ lice tvoje kao kremen nasuprot licu njihovu, ⟨את⟩ i čelo tvoje kao kremen nasuprot čelu njihovu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice tvoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "tvrdo"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "licu njihovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "čelo tvoje"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "i čelo tvoje"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tvrdo"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "čelu njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:42.957627784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "jer ovaj je Elohim, Elohim naš, u vijek i dovijeka — on će nas voditi preko smrti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "u vijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "će nas voditi"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:46.524340524Z",
+  "model": "glm-5.3"
+}

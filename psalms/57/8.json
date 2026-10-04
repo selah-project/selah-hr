@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Pripravljeno je srce moje, Elohime, pripravljeno je srce moje: pjevat ću i slaviti!",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Pripravljeno je"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pripravljeno je"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "i slaviti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:16.155670935Z",
+  "model": "glm-5.3"
+}

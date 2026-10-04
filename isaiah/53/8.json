@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Od prisile i od suda odveden je — a za ⟨את⟩ njegov naraštaj tko će promisliti? Jer je odsječen iz zemlje živih; zbog prijestupa naroda mojega, rana njemu.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "od prisile"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "i od suda"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "odveden je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegov naraštaj"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "njegov naraštaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "će promisliti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "odsječen je"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živih"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "zbog prijestupa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:30.352405612Z",
+  "model": "glm-5.3"
+}

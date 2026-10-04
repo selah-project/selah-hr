@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I raskomadat će ga na dijelove, i ⟨את⟩ glavu njegovu i ⟨את⟩ loj njegov; i svećenik će ih poredati na drva koja su na oganju koji je na oltaru.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "i raskomadat će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "na dijelove (njega)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na dijelove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "glavu njegovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "loj njegov"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "loj njegov"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "i poredat će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (dijelove, glavu i loj)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltaru"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:38.427742461Z",
+  "model": "glm-5.3"
+}

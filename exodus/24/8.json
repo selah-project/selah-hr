@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I uze Moše ⟨את⟩ krv, i pokropi njome narod, i reče: Gle, krv saveza koji je Jahve sklopio s vama o svim ovim riječima.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "i pokropi"
+    },
+    {
+      "surface": "על",
+      "gloss": "njome… po"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječima"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:19.232418187Z",
+  "model": "glm-5.3"
+}

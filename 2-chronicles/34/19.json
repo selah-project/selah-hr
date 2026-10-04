@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I dogodi se, kad kralj ču ⟨את⟩ riječi Tore, da razdere ⟨את⟩ haljine svoje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi Tore"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "razdere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:57.973285610Z",
+  "model": "glm-5.3"
+}

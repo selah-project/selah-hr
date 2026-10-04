@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I zaboraviše ⟨את⟩ Jahvea, Elohim svojega, i proda ih u ruku Sisere, zapovjednika vojske Hacora, i u ruku Filištejske, i u ruku kralja moavskoga, i oni se bijahu protiv njih.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "i zaboraviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "i proda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisere"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjednika"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacora"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i u ruku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištejske"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "i u ruku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moavskoga"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i bijahu se"
+    },
+    {
+      "surface": "בם",
+      "gloss": "protiv njih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:01.858311621Z",
+  "model": "glm-5.3"
+}

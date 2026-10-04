@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I propast će sav dom Ahabov, i istrijebit ću Ahabu ⟨onoga koji⟩ mokri ⟨uz⟩ zid, i zatvorenoga i napuštenoga, u Jisraelu.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "i propast će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabov"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i istrijebit ću"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "mokri"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "uz zid"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "i zatvorenoga"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "i napuštenoga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:49.142904451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Odvojite se iz sredine ove zajednice, a ja ću ih uništiti u trenutku.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Odvojite se"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "a ja ću uništiti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "u trenutku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:47.900751104Z",
+  "model": "glm-5.3"
+}

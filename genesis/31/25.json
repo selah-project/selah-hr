@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I sustigne Lavan ⟨את⟩ Jaakova; Jaakov bijaše razapeo svoj šator na gori, a Lavan razape ⟨את⟩ šatore svoje braće na gori Giladu.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "i sustigne"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "bijaše razapeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj šator"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svoj šator"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "a Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "razape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šatore svoje braće"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoje braće"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:08.479953716Z",
+  "model": "glm-5.3"
+}

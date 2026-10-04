@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "ni koji svezuje čini, ni koji ispituje duhove iz podzemlja i poznavatelje duhova, ni koji traži ⟨od⟩ mrtvih.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ni koji svezuje"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "čini"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ni koji ispituje"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "duhove iz podzemlja"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "poznavatelje duhova"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ni koji traži"
+    },
+    {
+      "surface": "אל",
+      "gloss": "od"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtvih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:50.779478988Z",
+  "model": "glm-5.3"
+}

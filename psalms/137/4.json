@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Kako da pjevamo ⟨את⟩ pjesmu Jahvinu na tuđem tlu?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "kako"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "da pjevamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pjesmu Jahvinu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tlu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.949942453Z",
+  "model": "glm-5.3"
+}

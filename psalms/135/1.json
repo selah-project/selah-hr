@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Hvalite Jah! Hvalite ⟨את⟩ ime Jahvino, hvalite, sluge Jahvine!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahvino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:02.483180128Z",
+  "model": "glm-5.3"
+}

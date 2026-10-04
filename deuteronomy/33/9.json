@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Koji reče ocu svojemu i majci svojoj: Nisam ga vidio, i ⟨את⟩ braću svoju nisam prepoznao, i ⟨את⟩ sinove svoje ne pozna, jer čuvaše riječ tvoju i savez tvoj držahu.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "koji reče"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ocu svojemu"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "i majci svojoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ga vidio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "braću svoju"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "prepoznao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinove svoje"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinove svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "čuvaše"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "riječ tvoju"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "i savez tvoj"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "držahu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:29.156885848Z",
+  "model": "glm-5.3"
+}

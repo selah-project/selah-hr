@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Farao se razgnjevi na svoje sluge i dade mene u tamnicu, u kuću starješine kuhara — mene i ⟨את⟩ starješinu pekara.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "razgnjevi se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svoje sluge"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mene"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "u tamnicu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "שר",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kuhara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "starješinu pekara"
+    },
+    {
+      "surface": "שר",
+      "gloss": "starješinu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pekara"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:27.894467115Z",
+  "model": "glm-5.3"
+}

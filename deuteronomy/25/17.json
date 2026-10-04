@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Sjeti se ⟨את⟩ onoga što ti učini Amalek putem, kad ste izlazili iz Micrajima.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sjeti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što ti učini Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "kad ste izlazili"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:29.450427986Z",
+  "model": "glm-5.3"
+}

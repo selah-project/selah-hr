@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I otpusti Jahve Elohim ⟨את⟩ njega iz vrta edenskoga, da obrađuje ⟨את⟩ zemlju iz koje je uzet.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "i otpusti njega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "iz vrta"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "edenskoga"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da obrađuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "את האדמה"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "je uzet"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iz nje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:31.657724933Z",
+  "model": "glm-5.3"
+}

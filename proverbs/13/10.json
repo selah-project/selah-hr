@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Samo iz oholosti rađa ⟨se⟩ svađa, a s ⟨את⟩ onima koji se savjetuju — mudrost.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "iz oholosti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rađa"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "svađa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "s onima koji se savjetuju"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "onima koji se savjetuju"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:22.372205841Z",
+  "model": "glm-5.3"
+}

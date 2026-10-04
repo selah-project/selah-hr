@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I usta Šemuël i pope se iz Gilgala u Gib'u Binjaminovu; i prebroji Šaul ⟨את⟩ narod koji se nađe s njime — oko šest stotina ljudi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i pope se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "u Gib'u"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminovu"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i prebroji"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "koji se nađu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "oko šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:03.889067068Z",
+  "model": "glm-5.3"
+}

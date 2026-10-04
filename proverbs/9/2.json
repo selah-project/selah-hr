@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Zaklala je svoj klanjenik, pomiješala je svoje vino, dapače, postavila je svoj stol.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Zaklala je"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "svoj klanjenik"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "pomiješala je"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "svoje vino"
+    },
+    {
+      "surface": "אף",
+      "gloss": "dapače"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "postavila je"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "svoj stol"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:59.134438990Z",
+  "model": "glm-5.3"
+}

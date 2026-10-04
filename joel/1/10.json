@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Opustošen je polje, ožalošćena je zemlja, jer je opustošeno žito, osramoćen je mošt, iznemoglo je ulje.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "opustošen"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ožalošćena"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "opustošeno"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "žito"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "osramoćen"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mošt"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "iznemoglo"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ulje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:19.450991905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "i upravih ⟨את⟩ lice svoje ka Adonaju, Elohimu, tražeći molitvu i zaklinjanja, u postu, vreći i pepelu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "upravih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražeći"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitvu"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "i zaklinjanja"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "u postu"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "vreći"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "pepelu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:50:46.164751853Z",
+  "model": "glm-5.3"
+}

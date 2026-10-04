@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 8:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I pohvalih ja ⟨את⟩ radost, jer nema dobra za čovjeka pod suncem osim jesti i piti i veseliti se — i to ga prati u trudu njegovu dane života njegova, koje mu dao Elohim pod suncem.",
+  "tokens": [
+    {
+      "surface": "ושבחתי",
+      "gloss": "i pohvalih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "radost"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "radost"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "za čovjeka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(osim)"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "i piti"
+    },
+    {
+      "surface": "ולשמוח",
+      "gloss": "i veseliti se"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i to"
+    },
+    {
+      "surface": "ילונו",
+      "gloss": "ga prati"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "u trudu njegovu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "života njegova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:08.780233323Z",
+  "model": "glm-5.3"
+}

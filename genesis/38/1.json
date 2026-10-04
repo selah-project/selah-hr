@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I u to se vrijeme dogodi da siđe Jehuda od braće svoje, i skreni ⟨את⟩ k nekom čovjeku Adulamcu, ime mu Hirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "od braće svoje"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braće svoje"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i skreni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adulamac"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ime mu"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirah"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:58.002882549Z",
+  "model": "glm-5.3"
+}

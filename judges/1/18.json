@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zaposjede Jehuda ⟨את⟩ Azzu i ⟨את⟩ među njezino, i ⟨את⟩ Aškelon i ⟨את⟩ među njezino, i ⟨את⟩ Ekron i ⟨את⟩ među njezino.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "i zaposjede"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "među njezino"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "među njezino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aškelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "među njezino"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "među njezino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "među njezino"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "među njezino"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.160625235Z",
+  "model": "glm-5.3"
+}

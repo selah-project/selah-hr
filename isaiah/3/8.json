@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer posrnu Jerušalajim, a Jisrael pade — jer jezik njihov i djela njihova ⟨su⟩ protiv Jahve, prkoseći očima slave njegove.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "posrnu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jisrael"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jezik njihov"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "i djela njihova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "prkoseći"
+    },
+    {
+      "surface": "עני",
+      "gloss": "očima"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slave njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:59.166411371Z",
+  "model": "glm-5.3"
+}

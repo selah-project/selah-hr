@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A k meni dođe riječ ⟨kao ukradena⟩, i uho mi primi tek šapat njezin.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "a k meni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "⟨kao ukradena⟩"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i primi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "uho mi"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "tek šapat"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "njezin"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:42.220132021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I uziđe Joosef da pokopa ⟨את⟩ oca svojega, i uziđoše ⟨את⟩ s njim sve sluge Parohove, starci doma njegova i svi starci zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "I uziđe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "da pokopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i uziđoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "sve sluge Parohove, starci doma njegova i svi starci zemlje micrajske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohove"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starci"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "doma njegova"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:42.696412484Z",
+  "model": "glm-5.3"
+}

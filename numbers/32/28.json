@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I zapovjedi Moše o njima ⟨את⟩ Elazaru svećeniku i ⟨את⟩ Jehošuu, sinu Nunovu, i ⟨את⟩ glavare otakovih domova plemena sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o njima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazara svećenika"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "glavare otakovih domova"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavare"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otakovih domova"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:37.660049971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I pade Avram na lice svoje, i razgovaraše Elohim s ⟨את⟩ njime govoreći:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "I pade"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i razgovaraše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njime"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:14.428604634Z",
+  "model": "glm-5.3"
+}

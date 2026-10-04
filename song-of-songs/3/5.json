@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zaklinjem ⟨את⟩ vas, kćeri Jerušalajimske, gazelama ili košutama poljskim: ne budite ⟨את⟩ ljubav probudili ni je probudili, dok joj ⟨ne bude⟩ volja!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "zaklinjem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajimske"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "gazelama"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "košutama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljskim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "budite probudili"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "je probudili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljubav"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ljubav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "joj ⟨ne bude⟩ volja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:13.645968914Z",
+  "model": "glm-5.3"
+}

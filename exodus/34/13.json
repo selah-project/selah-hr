@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Jer njihove žrtvenike porušite ⟨את⟩, a njihove stupove smrskate ⟨את⟩, a njegove ašere posiječete ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove žrtvenike"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "njihove žrtvenike"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "porušite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihove stupove"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "njihove stupove"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "smrskate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegove ašere"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "njegove ašere"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "posiječete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:16.705786890Z",
+  "model": "glm-5.3"
+}

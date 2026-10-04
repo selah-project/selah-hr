@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pokloni se Bat Ševa i pade nicice pred kraljem, a kralj reče: Što je tebi?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "i pade nicice"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pred kraljem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:31.757377727Z",
+  "model": "glm-5.3"
+}

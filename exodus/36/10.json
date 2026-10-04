@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I spoji ⟨את⟩ pet zavjesa jednu s drugom, i pet zavjesa spoji jednu s drugom.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "i spoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pet zavjesa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "drugom"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "spoji"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "drugom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:31.811272753Z",
+  "model": "glm-5.3"
+}

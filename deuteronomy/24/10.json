@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad dáš svomu bližnjemu zajam od bilo čega, ne ulazi u njegovu kuću uzeti zalog njegov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "dáš zajam"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "svomu bližnjemu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "zajam"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "od bilo čega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovu kuću"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "uzeti zalog"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "zalog njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:02.305249954Z",
+  "model": "glm-5.3"
+}

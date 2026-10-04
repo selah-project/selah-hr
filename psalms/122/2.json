@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Noge nam stoje na vratima tvojim, Jerušalajime.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Noge nam"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "na vratima tvojim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.407409211Z",
+  "model": "glm-5.3"
+}

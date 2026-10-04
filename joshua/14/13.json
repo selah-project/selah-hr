@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I blagoslovi ga Jehošua, i dade ⟨את⟩ Hevron Kalebu, sinu Jefuneovu, u baštinu.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "i blagoslovi ga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefuneovu"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "u baštinu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:34.629179118Z",
+  "model": "glm-5.3"
+}

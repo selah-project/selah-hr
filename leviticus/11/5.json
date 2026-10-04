@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ pečinorskog zeca, jer žvace ⟨žvaku⟩, a kopito ne rascjepljuje — nečist je vama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pečinorski zec"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "pečinorski zec"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "žvaci"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "a kopito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "rascjepljuje"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:02.954290309Z",
+  "model": "glm-5.3"
+}

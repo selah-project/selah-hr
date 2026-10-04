@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I ukloni posvećene bludnike iz zemlje, i odstrani ⟨את⟩ sve kumire koje načiniše oci njegovi.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "posvećene bludnike"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i odstrani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve kumire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "kumire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oci njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:09.305644366Z",
+  "model": "glm-5.3"
+}

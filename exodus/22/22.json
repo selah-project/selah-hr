@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako ga doista ugnjetavaš — ako mi zbilja zavapi, zavapi li, čut ću, doista ću čuti vapaj njegov.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "doista ugnjetavaš"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ugnjetavaš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "zbilja zavapi"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "zavapi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "čut ću"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "doista ću čuti"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "vapaj njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:26.193129592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Svi su usijani kao peć, i proždriješe ⟨את⟩ svoje suce; svi im kraljevi padoše — nema tko me zove među njima.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "usijani su"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kao peć"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i proždriješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje suce"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "svoje suce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "im kraljevi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tko zove"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "među njima"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:33.777711889Z",
+  "model": "glm-5.3"
+}

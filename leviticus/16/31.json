@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Šabat potpunog odmora ⟨to je⟩ vama, i mučit ćete ⟨את⟩ svoje duše — naredba vječna.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "potpunog odmora"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "i mučit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "naredba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:37.915690814Z",
+  "model": "glm-5.3"
+}

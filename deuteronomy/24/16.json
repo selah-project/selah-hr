@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Neka se ne pogube očevi zbog sinova, a sinovi neka se ne pogube zbog otaca; svatko za svoj grijeh neka se pogubi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "očevi"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otaca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "za svoj grijeh"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogubi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:29.377799854Z",
+  "model": "glm-5.3"
+}

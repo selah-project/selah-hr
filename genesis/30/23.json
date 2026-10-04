@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I zanese te rodi sina, i reče: Elohim je uklonio ⟨את⟩ sramotu moju.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "i zanese"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "te rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "uklonio je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sramotu moju"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "sramotu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:10.462934208Z",
+  "model": "glm-5.3"
+}

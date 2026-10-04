@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Uhvati štit i ⟨את⟩ oklop ⟨je moj⟩, i ustani u pomoć moju.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Uhvati"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "štit"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "i oklop"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "i ustani"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "u pomoć moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:08.881891862Z",
+  "model": "glm-5.3"
+}

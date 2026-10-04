@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Kad su djevice skupljene drugi put, Mordecai je sjedio na kraljevskim vratima.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "kad su skupljene"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "djevice"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi put"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjedio je"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na vratima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:40.984214807Z",
+  "model": "glm-5.3"
+}

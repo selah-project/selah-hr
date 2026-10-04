@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 60,
+  "translation": "Kad se borio s ⟨את⟩ Aramom Naharajim i s ⟨את⟩ Aramom Covom, i vratio se Joav te udario ⟨את⟩ Edom u dolini Soli — dvanaest tisuća.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "kad se borio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharajim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Cova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i vratio se"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udario"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "u dolini"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:49.338141764Z",
+  "model": "glm-5.3"
+}

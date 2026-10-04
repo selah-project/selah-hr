@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Stražari ⟨njegovi⟩ ⟨su⟩ slijepi svi, ne znaju ništa; svi su psi nijemi, ne mogu lajati; sanjari, ležeći, ljube drijemati.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "stražari"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slijepi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "nijemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "mogu"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "lajati"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "sanjari"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "ležeći"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ljube"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "drijemati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:08.027862858Z",
+  "model": "glm-5.3"
+}

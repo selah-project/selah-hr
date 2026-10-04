@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pođe Jehuda ⟨את⟩ ⟨s⟩ Šimonom, bratom svojim, i poraziše ⟨את⟩ Kanaanca što je živio u Cefatu, i dadoše je ⟨u⟩ potpuni zalogaj ⟨את⟩; i prozvaše ime grada Horma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s⟩",
+      "marks": "Šimonom"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimonom"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratom svojim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i poraziše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "što je živio"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "u Cefatu"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "i dadoše ⟨u⟩ potpuni zalogaj"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozvaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.160121358Z",
+  "model": "glm-5.3"
+}

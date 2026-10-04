@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I potrča k Eliju i reče: Evo me, jer si me zvao. A on reče: Nisam zvao; vrati se, lezi. I ode te legne.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "i potrča"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "si zvao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zvao"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "te legne"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:32.472784349Z",
+  "model": "glm-5.3"
+}

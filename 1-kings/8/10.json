@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I bijaše, kad su svećenici izišli iz svetišta, da je oblak napunio ⟨את⟩ dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "kad su izišli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetišta"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "da je oblak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napunio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:44.227553669Z",
+  "model": "glm-5.3"
+}

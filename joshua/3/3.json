@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "i zapovjediše ⟨את⟩ narodu govoreći: Kad vidite ⟨את⟩ kovčeg saveza Jahve, Elohim vašega, i svećenike Levite kako ⟨את⟩ ga nose, i vi ćete se pokrenuti s mjesta svojega i poći ćete za njim.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "zapovjediše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "kad vidite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg saveza Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "i svećenike"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levite"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "kako nose"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "i vi"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "ćete se pokrenuti"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "s mjesta svojega"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "poći ćete"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:09.303079613Z",
+  "model": "glm-5.3"
+}

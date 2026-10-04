@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Reče lijenčina: Lav je vani, usred ulica bit ću ubijen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reče"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lijenčina"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Lav"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "vani"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "ulica"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "bit ću ubijen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:32.547513336Z",
+  "model": "glm-5.3"
+}

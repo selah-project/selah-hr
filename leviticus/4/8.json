@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I neka odvoji ⟨את⟩ svu salo junčeta žrtve za grijeh s njega: ⟨את⟩ salo što pokriva utrobu, i ⟨את⟩ sve salo što je na utrobi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu salo junčeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junčeta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "neka odvoji"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "s njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salo što pokriva utrobu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "što pokriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve salo što je na utrobi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:25.812832301Z",
+  "model": "glm-5.3"
+}

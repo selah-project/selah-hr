@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Od prijetnje tvoje, Elohe Jaakovov, obuzeti su snom ⟨i⟩ kola i konji.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Od prijetnje tvoje"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "obuzeti su snom"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kola"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "i konji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:43.584162975Z",
+  "model": "glm-5.3"
+}

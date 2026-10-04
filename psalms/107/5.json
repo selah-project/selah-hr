@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Gladni i žedni, duša im se u njima prikrijena povija.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "gladni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "žedni"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "duša im"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "prikrijena povija"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:10.856753928Z",
+  "model": "glm-5.3"
+}

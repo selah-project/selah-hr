@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Zborovođi, uz gudaće instrumente, mizmor Asafu, pjesma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "uz gudaće instrumente"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:29.309202068Z",
+  "model": "glm-5.3"
+}

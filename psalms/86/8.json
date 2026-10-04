@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Nema kao što si ti među Elohimima, Adonaj, i nema djela kao što su tvoja djela.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nema"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao što si ti"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "među Elohimima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "djela kao što su tvoja djela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:34.454093644Z",
+  "model": "glm-5.3"
+}

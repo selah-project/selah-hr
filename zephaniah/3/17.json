@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jahve, Elohim tvoj, u tvojoj je sredini, junak što spašava; radovat će se nad tobom u veselju, zašutjet će u svojoj ljubavi, klicat će nad tobom u pjesmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "u tvojoj sredini"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junak"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "što spašava"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tobom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "u veselju"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "zašutjet će"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "u svojoj ljubavi"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "klicat će"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tobom"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "u pjesmi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:03.081025740Z",
+  "model": "glm-5.3"
+}

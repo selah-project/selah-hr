@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I uzet ćeš ⟨את⟩ dvije kamena šohama, i urezat ćeš na njih imena sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvije kamena šohama"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamena"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "šohama"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "i urezat ćeš"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:04.680004986Z",
+  "model": "glm-5.3"
+}

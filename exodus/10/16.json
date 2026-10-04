@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Tada faraon pozva hitno Mošea i Aharona i reče: Sagriješih Jahvi, Elohimu vašemu, i vama.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "pozva hitno"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "pozvati"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Sagriješih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu vašemu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "i vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:13.456556346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A on odgovori i reče: Zar da ne pazim izgovoriti ⟨את⟩ ono što Jahve stavi u moja usta?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što Jahve stavi u moja usta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "u moja usta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(pazim izgovoriti)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "pazim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "izgovoriti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:19.790948589Z",
+  "model": "glm-5.3"
+}

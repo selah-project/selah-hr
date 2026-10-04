@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "A reče Esav: Imam ⟨dovoljno⟩, brate moj; neka bude tebi ono što je tvoje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(meni)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dovoljno"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brate moj"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:43.454458784Z",
+  "model": "glm-5.3"
+}

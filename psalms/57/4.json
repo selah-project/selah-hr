@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Poslat će ⟨iz⟩ neba i spasit će me; pogrđuje me onaj što dahće za mnom. Sela. Poslat će Elohim svoj hesed i svoju vjernost.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Poslat će"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "⟨iz⟩ neba"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "i spasit će me"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "pogrđuje"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "onaj što dahće za mnom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Poslat će"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "i svoju vjernost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:36.036167345Z",
+  "model": "glm-5.3"
+}

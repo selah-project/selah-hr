@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Ne koriste riznice bezakonja, a cedek izbavlja od smrti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "koriste"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "riznice"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezakonja"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a cedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "izbavlja"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:01.350108238Z",
+  "model": "glm-5.3"
+}

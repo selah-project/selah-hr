@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I dođe ocu svojemu i reče: Oče! A on reče: Evo me; tko si ti, sinko moj?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ocu svojemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Oče"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Evo me"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinko moj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:16.076626176Z",
+  "model": "glm-5.3"
+}

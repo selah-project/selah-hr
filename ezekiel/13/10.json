@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Upravo zato što su zaveli ⟨את⟩ moj narok govoreći: Mir! a mira nema — i on gradi zid, a oni ga mažu žbukom mlitavom.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "zato"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "upravo što"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "zaveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir!"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gradi"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "zid"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "mažu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "žbuka mlitava"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "žbukom mlitavom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:59.444127811Z",
+  "model": "glm-5.3"
+}

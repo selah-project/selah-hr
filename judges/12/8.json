@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I po njemu sudi ⟨את⟩ Jisrael Ivcan iz Beit-Lehema.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po njemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivcan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lehema"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:30.275318654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "A Josip reče: Dajte svoju stoku, i dat ću vam ⟨za⟩ vašu stoku, ako je srebro nestalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "svoju stoku"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "za vašu stoku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nestalo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:33.973176606Z",
+  "model": "glm-5.3"
+}

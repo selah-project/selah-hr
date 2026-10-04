@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I upita ⟨את⟩ dvorjane Farahove koji bijahu ⟨את⟩ s njim u tamnici doma gospodara njegova, govoreći: Zašto su lica vaša zla danas?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvorjane Farahove"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "dvorjane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farahove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "u tamnici"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodara njegova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "lica vaša"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:43.456714393Z",
+  "model": "glm-5.3"
+}

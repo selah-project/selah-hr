@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "i zovi me u dan tjeskobe: ja ću te izbaviti, i ti ćeš me proslaviti.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "i zovi me"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskobe"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ja ću te izbaviti"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "i ti ćeš me proslaviti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:08.517939800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I otkad dođoh k Parou da govorim u ime tvoje, zlo je učinio ⟨ovomu⟩ narodu ovome, a izbaviti nisi izbavio ⟨את⟩ narod tvoj.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "i otkad"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "dođoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parou"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "da govorim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "u ime tvoje"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo je učinio"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "a izbaviti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "nisi izbavio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod tvoj"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "narod tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:17.109544093Z",
+  "model": "glm-5.3"
+}

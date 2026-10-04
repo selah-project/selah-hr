@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 93,
+  "translation": "Digoše rijeke, Jahve, digoše rijeke glas svoj, dižu rijeke buku svoju.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "digoše"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "digoše"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dižu"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "buku svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:40.889404055Z",
+  "model": "glm-5.3"
+}

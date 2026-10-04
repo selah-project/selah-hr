@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I iziđe Hatak ⟨את⟩ Mordekaju, na trg grada koji je pred kraljevskim vratima.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "trg"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vratima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:14.549972987Z",
+  "model": "glm-5.3"
+}

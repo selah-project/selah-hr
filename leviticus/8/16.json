@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uze ⟨את⟩ sav loj koji je na utrobi, i ⟨את⟩ režanj jetre, i ⟨את⟩ oba bubrega, i ⟨את⟩ loj njihov, i Moše ih sažga na oltaru.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav loj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "loj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "utrobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "režanj jetre"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "režanj"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jetre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "oba bubrega"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "oba"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bubrega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "loj njihov"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "loj njihov"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "i sažga ih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltaru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:36.859082225Z",
+  "model": "glm-5.3"
+}

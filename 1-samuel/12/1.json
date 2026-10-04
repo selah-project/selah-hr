@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče Šemuel svemu Jisraelu: Evo, poslušah vaš glas u svemu što ste mi rekli, i dadoh vam kralja nad vama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "poslušah"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "vaš glas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ste rekli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "dadoh kralja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:31.848985181Z",
+  "model": "glm-5.3"
+}

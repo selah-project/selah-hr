@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I razderi se žrtvenik, i prosu se pepeo s žrtvenika, po znamenju koje dade čovjek Elohimov po riječi Jahvinoj.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "i žrtvenik"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "razderi se"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "i prosu se"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pepeo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "po znamenju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:30.846987953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A ovo je povijest Terahova: Terah rodi ⟨את⟩ Avrama, ⟨את⟩ Nahora i ⟨את⟩ Harana; a Haran rodi ⟨את⟩ Lota.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "povijest"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahova"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "a Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:08.194036228Z",
+  "model": "glm-5.3"
+}

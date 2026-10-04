@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I imat ćeš lopaticu uz svoj opasač; i kad sjedneš vani, iskopaj njome, pa se vrati i pokrij ⟨את⟩ svoj izmet.",
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "i lopaticu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "imat ćeš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ćeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "svoj opasač"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kad sjedneš"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "vani"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "iskopaj"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njome"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "pa se vrati"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "i pokrij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj izmet"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "svoj izmet"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:28.928703397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Kloni se zla i čini dobro; traži mir i idi za njim.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "kloni se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i čini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "i idi za njim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:57.502061096Z",
+  "model": "glm-5.3"
+}

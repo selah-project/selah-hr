@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Evo, oduzimam vam ⟨את⟩ potomstvo i razasut ću izmet po vašim licima, izmet vaših blagdana, i ono će ⟨את⟩ vas odnijeti sa sobom.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "גער",
+      "gloss": "oduzimam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potomstvo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "razasut ću"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "izmet"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vašim licima"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "izmet"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "vaših blagdana"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "odnijeti će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (svećenike)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa sobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:20.812654357Z",
+  "model": "glm-5.3"
+}

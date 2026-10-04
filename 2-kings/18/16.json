@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "U to vrijeme odsiječe Hizkija ⟨את⟩ vrata Hrama Jahvina i ⟨את⟩ obloge koje bijaše obložio Hizkija, kralj Jude, i dade ih kralju Ašura.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "to"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "odsiječe"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrata Hrama Jahvina"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Hrama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obloge"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "obloge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "bijaše obložio"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "i dade ih"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:30.855083358Z",
+  "model": "glm-5.3"
+}

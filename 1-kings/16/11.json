@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I bijaše, kad se zakraljio, čim sjede na prijestolje svoje, udari ⟨את⟩ sav dom Bašin; ne ostavi mu nijednoga koji mokri uz zid, ni rođaka njegovih ni prijatelja njegovih.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kad se zakraljio"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "čim sjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "prijestolje svoje"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav dom Bašin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "koji mokri"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "uz zid"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ni rođaka njegovih"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ni prijatelja njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:21.983098067Z",
+  "model": "glm-5.3"
+}

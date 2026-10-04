@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Neka učini Paroh i postavi nadzornike nad zemljom, i neka oduzme petinu ⟨את⟩ zemlje Micrajima u sedam godina obilja.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "neka učini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "nadzornike"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i neka oduzme petinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje Micrajima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "u sedam"
+    },
+    {
+      "surface": "שני",
+      "gloss": "godina"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "obilja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:53.300438166Z",
+  "model": "glm-5.3"
+}

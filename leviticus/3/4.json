@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ⟨את⟩ dvije bubregе i ⟨את⟩ loj koji je na njima, koji je na slabima, i ⟨את⟩ privjesak na jetri — na bubrezima neka ga ukloni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dvije bubregе"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bubregе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "loj"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "loj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "na njima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "slabima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "privjesak na jetri"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "privjesak"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jetri"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "bubrezima"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "neka ga ukloni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:12.440634349Z",
+  "model": "glm-5.3"
+}

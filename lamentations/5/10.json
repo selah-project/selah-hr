@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Koža nam se, poput peći, ugroženo uskrutila od žara gladi.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "koža nam"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "poput peći"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "uskrutila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "žara"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gladi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:13.555427694Z",
+  "model": "glm-5.3"
+}

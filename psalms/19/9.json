@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Uredbe Jahvine prave su, razveseljuju srce; zapovijed Jahve čista je, prosvjetljuje oči.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prave su"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "razveseljuju"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "čista je"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "prosvjetljuje"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:55.512955893Z",
+  "model": "glm-5.3"
+}

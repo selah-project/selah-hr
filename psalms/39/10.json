@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Zašutio sam, ne otvaram svoja usta, jer ti si to učinio.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "zašutio sam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otvaram"
+    },
+    {
+      "surface": "פי",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:24.932487255Z",
+  "model": "glm-5.3"
+}

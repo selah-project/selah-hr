@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I pruži Avraham ⟨את⟩ ruku svoju i uze ⟨את⟩ nož da zakolje ⟨את⟩ sina svojega.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i pruži"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nož"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nož"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "da zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina svojega"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:50.106818469Z",
+  "model": "glm-5.3"
+}

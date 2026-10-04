@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Tko oblikova El-a i lijeva lik, da ne bi ni od čega koristio?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "oblikova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-a"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "i lik"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "lijeva"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "koristio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:29.737230040Z",
+  "model": "glm-5.3"
+}

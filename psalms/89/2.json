@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Hesed Jahvin pjevat ću dovijeka, ustima svojim javit ću tvoju vjernost naraštaju i naraštaju.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaju"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "javit ću"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvoju vjernost"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ustima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:37.702388678Z",
+  "model": "glm-5.3"
+}

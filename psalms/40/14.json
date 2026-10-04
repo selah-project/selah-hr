@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Sviđaj se, Jahve, da me izbaviš; Jahve, u pomoć mojoju pohiti!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "sviđaj se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "da me izbaviš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "u pomoć moju"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pohiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:11.160286064Z",
+  "model": "glm-5.3"
+}

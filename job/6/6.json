@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Može li se jesti ono bez okusa, bez soli? Ima li kakva okusa u slini od snova?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Može li se jesti"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ono bez okusa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ima li"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "kakva okusa"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "u slini"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "od snova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:36.773849409Z",
+  "model": "glm-5.3"
+}

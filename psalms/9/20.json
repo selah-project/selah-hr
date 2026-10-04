@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Ustani, Jahve, ne dâ da smrtnik pobijedi; neka se narodi sudе pred licem tvojim.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ustani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "pobijedi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "sude se"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "licem tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:09.298392305Z",
+  "model": "glm-5.3"
+}

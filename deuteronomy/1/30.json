@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jahve, Elohim vaš, koji ide pred vama — on će se boriti za vas, sav onako kako je učinio ⟨את⟩ s vama u Micrajimu pred očima vašim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "koji ide"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "će se boriti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sav onako kako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama",
+      "marks": "s vama"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "pred očima vašim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:48.357330993Z",
+  "model": "glm-5.3"
+}

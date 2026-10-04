@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I prijeđoše ⟨את⟩ Jordan, i utaboriše se u Aroeru, s desne strane grada koji ⟨je⟩ usred potoka Gada, i do Jaazera.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "i prijeđoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i utaboriše se"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "u Aroeru"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "s desne strane"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potoka"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazera"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:08.117230293Z",
+  "model": "glm-5.3"
+}

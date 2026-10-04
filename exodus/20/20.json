@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče Moše narodu: Ne bojte se, jer je došao ⟨את⟩ vas iskušati Elohim, i da strah ⟨njegov⟩ bude pred licem vašim, da ne griješite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "da"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "iskušati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "i da"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "strah njegov"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "licem vašim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "griješite"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:24.283387693Z",
+  "model": "glm-5.3"
+}

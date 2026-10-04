@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "⟨את⟩ tvoje zakone čuvat ću; ne ostavi me posve!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje zakone"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvoje zakone"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "čuvat ću"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ostavi me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "posve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "do kraja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:30.642476643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I usta poslije njega Jair, Giladac, i sudio je ⟨את⟩ Jisrael dvadeset i dvije godine.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "poslije njega"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladac"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "i sudio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i dvije"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:36.776833049Z",
+  "model": "glm-5.3"
+}

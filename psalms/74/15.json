@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Ti si raskrstio izvor i potok, ti si isušio rijeke stalne.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "raskrstio"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "izvor"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "i potok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "isušio"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "stalne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:42.366543810Z",
+  "model": "glm-5.3"
+}

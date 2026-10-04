@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Zamalo me uništiše na zemlji, a ja ne ostavih Tvoje naredbe.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "zamalo"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "me uništiše"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ostavih"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tvoje naredbe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:24.285121568Z",
+  "model": "glm-5.3"
+}

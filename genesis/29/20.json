@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I služio Jaakov za Rahelu sedam godina, i učiniše mu se kao nekoliko dana, jer ju je ljubio.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "i služio"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "za Rahelu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i učiniše se"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kao dani"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "nekoliko"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jer ju je ljubio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (Rahelu)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:18.557067114Z",
+  "model": "glm-5.3"
+}

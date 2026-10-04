@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Domišljat vidi zlo i sakrije se, a naivni prođu i bit će kažnjeni.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "domišljat"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "i sakrije se"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "a naivni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prođu"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "i bit će kažnjeni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:23.225435692Z",
+  "model": "glm-5.3"
+}

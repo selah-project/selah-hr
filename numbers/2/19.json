@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 2:19",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i njegova četa i njegovi popisani: četrdeset tisuća i pet stotina.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i njegova četa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i njegovi popisani"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:41.716985035Z",
+  "model": "glm-5.3"
+}

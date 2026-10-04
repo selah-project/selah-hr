@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Tada ćeš razbiti ⟨את⟩ krčag pred očima ljudi koji idu s tobom.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "ćeš razbiti"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "krčag"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očima"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "koji idu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:25:48.991313095Z",
+  "model": "glm-5.3"
+}

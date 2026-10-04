@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Joab i Abišaj, brat njegov, ubiše Avnera zato što ⟨את⟩ je bio ubio ⟨את⟩ Asaela, brata njihova, u Givonu, u boju.",
+  "tokens": [
+    {
+      "surface": "וזאב",
+      "gloss": ""
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "A Joab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "i Abišaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brat njegov"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ubiše"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato što"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "המית",
+      "gloss": "⟨את⟩ je bio ubio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaela"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaela"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "brata njihova"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "u Givonu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:37.655811352Z",
+  "model": "glm-5.3"
+}

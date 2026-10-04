@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Rijeka — njezini rukavci vesele grad Elohimov, svete Miškane Elijonove.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Rijeka"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "njezini rukavci"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vesele"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svete"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Miškane"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijonove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:16.153084388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "deset gojne govedi i dvadeset govedi s paše, i sto sitne stoke, osim jelena i košuta i jelenaca i utovljenih ptica.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "gojne"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "s paše"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sitne stoke"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "jelena"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "i košuta"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "i jelenaca"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "i ptica"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "utovljenih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:07.777407499Z",
+  "model": "glm-5.3"
+}

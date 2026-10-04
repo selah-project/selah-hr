@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Svi narodi opkoliše me — u Ime Jahve, sigurno ću ih posjeći.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "opkoliše me"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u Ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ću ih posjeći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:28.064531118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Ljubitelji moji i prijatelji moji nasuprot rani mojoj stoje, i bližnji moji izdaleka stoje.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ljubitelji moji"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "i prijatelji moji"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "rani mojoj"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "i bližnji moji"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "izdaleka"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:04.222502192Z",
+  "model": "glm-5.3"
+}

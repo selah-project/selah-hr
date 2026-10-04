@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Koliko je dana sluge tvojega? Kad ćeš izvršiti sud nad progoniteljima mojim?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "koliko"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dana"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluge tvojega"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "izvršit ćeš"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "nad progoniteljima mojim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:23.946137794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I opet doda Ester i progovori pred kraljem, i pade pred noge njegove, i plakaše, i moljaše ga da ukloni ⟨את⟩ zloću Hamana Agađanina i ⟨את⟩ naum njegov što ga bijaše smislio protiv Jehudijaca.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "i opet doda"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "i progovori"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "i pade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "noge njegove"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "i plakaše"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "i moljaše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "da ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zloću Hamana"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "zloću"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agađanina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naum njegov"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "naum njegov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "bijaše smislio"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jehudijaca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:44.621453046Z",
+  "model": "glm-5.3"
+}

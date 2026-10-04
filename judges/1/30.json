@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Zebulun ne istjera ⟨את⟩ stanovnike Kitrona ni ⟨את⟩ stanovnike Nahalola, pa je Kanaanac živio usred njega i postaše daćari.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "istjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike Kitrona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike Nahalola"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalola"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa je živio"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanac"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "usred njega"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "postaše"
+    },
+    {
+      "surface": "למס",
+      "gloss": "daćari"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:05.215247303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I zakolje ⟨את⟩ janje žrtve prijestupa, i svećenik uzme od krvi žrtve prijestupa i stavi na resku desnoga uha onoga koji se čisti, na palac njegove desne ruke i na palac njegove desne noge.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "i zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "janje žrtve prijestupa"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "žrtve prijestupa"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "žrtve prijestupa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "resku"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "onoga koji se čisti"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desnoga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "palac"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegove ruke"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "palac"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desne"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:02.633879244Z",
+  "model": "glm-5.3"
+}

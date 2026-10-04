@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I obavit će svećenik ⟨את⟩ žrtvu za grijeh, i okajat će onoga koji se čisti od nečistoće njegove, a potom će zaklati ⟨את⟩ žrtvu paljenicu.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i obavit će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu za grijeh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtvu za grijeh"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i okajat će"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "onoga koji se čisti"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "od nečistoće njegove"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "će zaklati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:40.774698058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Tada usta Ijov, razdera ⟨את⟩ svoj ogrtač, obrija ⟨את⟩ svoju glavu, pade na zemlju i pokloni se.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "razdera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj ogrtač"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "svoj ogrtač"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "obrija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju glavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "svoju glavu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:21.454170751Z",
+  "model": "glm-5.3"
+}

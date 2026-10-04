@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I siđoše desetorica braće Jósefovih kupiti žito iz Micrajima.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "i siđoše"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braće"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefovih"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "desetorica"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kupiti"
+    },
+    {
+      "surface": "בר",
+      "gloss": "žito"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:40.821480590Z",
+  "model": "glm-5.3"
+}

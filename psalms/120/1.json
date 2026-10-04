@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Pjesma uzlaza. Jahvu u svojoj tjeskobi zazvah, i on mi se odazva.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "u svojoj tjeskobi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zazvah"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "i on mi se odazva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.354050671Z",
+  "model": "glm-5.3"
+}

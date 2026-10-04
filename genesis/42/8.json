@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Jer Josef prepoznade ⟨את⟩ svoju braću, a oni njega ne prepoznaše.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "prepoznade"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju braću"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoju braću"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "prepozaše ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.535520621Z",
+  "model": "glm-5.3"
+}

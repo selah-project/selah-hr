@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Nego ubiti ćeš ga ubiti: tvoja ruka neka bude prva na njemu da ga usmrtiš, a ruka svega naroda ⟨neka bude⟩ potonja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ubiti"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ćeš ga ubiti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoja ruka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "prva"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da ga usmrtiš"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "a ruka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "potonja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:04.499977438Z",
+  "model": "glm-5.3"
+}

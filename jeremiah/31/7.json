@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Jer ovako reče Jahve: Zapjevajte Jaakovu od radosti, kliknite na čelu naroda! Dajte čuti hvalu i recite: Spasi, Jahve, ⟨את⟩ svoj narod, ⟨את⟩ Ostatak Jisraela!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "zapjevajte"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "od radosti"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "kliknite"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na čelu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "dajte čuti"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i recite"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ostatak Jisraela"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "Ostatak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:56.512828297Z",
+  "model": "glm-5.3"
+}

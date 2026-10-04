@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Jednom je Elohim govorio, dvaput ovo cuo: da je snaga Elohimu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Jednom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvaput"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "cuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עז",
+      "gloss": "snaga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:46.874803094Z",
+  "model": "glm-5.3"
+}

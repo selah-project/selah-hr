@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I usta David i prijeđe on i šest stotina ljudi koji bijahu s njime k Akišu, sinu Maokovu, kralju Gata.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i prijeđe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akišu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maokovu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:02.020965023Z",
+  "model": "glm-5.3"
+}

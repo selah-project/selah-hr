@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Filištejac: Izazvao sam danas ⟨את⟩ bojne redove Jisraela; dajte mi čovjeka, pa da se borimo zajedno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filištejac"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "izazvao sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojne redove Jisraela"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "bojne redove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "pa da se borimo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:16.451144007Z",
+  "model": "glm-5.3"
+}

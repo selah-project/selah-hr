@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 114,
+  "translation": "More je vidjelo ⟨i⟩ pobjeglo, Jordan se vratio natrag.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "More"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "je vidjelo"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "i pobjeglo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "se vratio"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "natrag"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:47.235451306Z",
+  "model": "glm-5.3"
+}

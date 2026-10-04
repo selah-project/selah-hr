@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Ovo je živina koju ćete jesti: govedo, janje od ovaca i janje od koza.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "živina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ćete jesti"
+    },
+    {
+      "surface": "שור",
+      "gloss": "govedo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "janje"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "od ovaca"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i janje"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "od koza"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:18.883197176Z",
+  "model": "glm-5.3"
+}

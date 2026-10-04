@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Ruke njihove, ali ne opipavaju; noge njihove, ali ne hode; ne mrmljaju grlom svojim.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke njihove"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "opipavaju"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "noge njihove"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "hode"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mrmljaju"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "grlom svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:59.345107171Z",
+  "model": "glm-5.3"
+}

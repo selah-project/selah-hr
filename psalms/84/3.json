@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Duša mi čezne, da, i iščekuje dvore Jahvine; srce moje i tijelo moje kliču k živomu Elu.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "da, i"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "iščekuje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Duša mi"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "dvore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "i tijelo moje"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kliču"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živomu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.991722063Z",
+  "model": "glm-5.3"
+}

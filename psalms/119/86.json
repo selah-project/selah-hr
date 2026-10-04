@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Sve Tvoje zapovijedi ⟨jesu⟩ vjernost; lažno me progone — pomozi mi!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Tvoje zapovijedi"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "vjernost"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažno"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "me progone"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "pomozi mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:24.284964971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I svrši Moše govoriti ⟨את⟩ sve te riječi svemu Jisraelu.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i svrši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:44.961163949Z",
+  "model": "glm-5.3"
+}

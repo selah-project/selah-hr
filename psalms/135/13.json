@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Jahve, ime tvoše ⟨je⟩ dovijeka; Jahve, spomen tvoj ⟨je⟩ naraštaju i naraštaju.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoše"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "spomen tvoj"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.839572973Z",
+  "model": "glm-5.3"
+}

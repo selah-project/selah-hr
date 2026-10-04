@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Jisraele, uzdaj se u Jahvu! On je pomoć njihova i štit njihov.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "uzdaj se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvu"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pomoć njihova"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "i štit njihov"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:18.578007521Z",
+  "model": "glm-5.3"
+}

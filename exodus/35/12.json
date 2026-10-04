@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "⟨את⟩ Kovčeg i ⟨את⟩ motke njegove, ⟨את⟩ pomirilište i ⟨את⟩ zastor zavjese.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "motke njegove"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "motke njegove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zastor"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "zastor"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "zavjese"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:00.857276737Z",
+  "model": "glm-5.3"
+}

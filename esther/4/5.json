@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pozva Estera ⟨את⟩ Hataka, ⟨jednoga⟩ od dvorana kraljevih koje je postavio pred nju, i naredi mu ⟨da ide⟩ Mordekaju, da dozna što je ovo i zašto je ovo.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatka"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "od dvorana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "postavio"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "pred nju"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "i naredi mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨da ide⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaju"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da dozna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je ovo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "je"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:14.549463593Z",
+  "model": "glm-5.3"
+}

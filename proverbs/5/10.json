@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "da se ne nasite tuđi snage tvoje, i da trud tvoj ne bude u kući nepoznata",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da se ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasite"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuđi"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "snage tvoje"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "i trud tvoj"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "nepoznata"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:30.106418039Z",
+  "model": "glm-5.3"
+}

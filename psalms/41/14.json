@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Blagoslovljen Jahve, Elohim Jisraelov, od vjekovnosti i do vjekovnosti. Amein i amein.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim Jisraelov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "od vjekovnosti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "vjekovnosti"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amein"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "i amein"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:41.564377525Z",
+  "model": "glm-5.3"
+}

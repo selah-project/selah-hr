@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I stave ⟨את⟩ njega u čuvanje, jer nije bilo razjašnjeno što će se učiniti s njime.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "stave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega — čovjeka koji je skupljao drva"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "u čuvanje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "razjašnjeno"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "će se učiniti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "s njime"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:43.351546233Z",
+  "model": "glm-5.3"
+}

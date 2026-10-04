@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Oni ⟨će⟩ lutati tražeći hranu; ako se ne najedu, gunđaju ⟨cijelu⟩ noć.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "lutati"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "za hranom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se najedu"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "gunđaju noć"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:34.922382950Z",
+  "model": "glm-5.3"
+}

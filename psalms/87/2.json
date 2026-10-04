@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "Jahve ljubi vrata Ciona više od svih Miškana Jaakovljevih.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više od svih"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljevih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:30.558094001Z",
+  "model": "glm-5.3"
+}

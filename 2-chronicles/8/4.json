@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I sagradi ⟨את⟩ Tadmor u pustinji i ⟨את⟩ sve gradove za skladišta koje je sagradio u Hamatu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve gradove za skladišta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "za skladišta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradio"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "u Hamatu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:28.544784204Z",
+  "model": "glm-5.3"
+}

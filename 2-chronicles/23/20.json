@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 23:20",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I uze ⟨את⟩ zapovjednike stotina i ⟨את⟩ odličnike i ⟨את⟩ upravitelje u narodu i ⟨את⟩ sav narod zemlje, i uvede kralja iz doma Jahvina, i uđoše kroz gornja vrata doma kraljeva, i posjediše kralja na prijestolje kraljevstva.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovjednike stotina"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "zapovjednike"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "odličnike"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "odličnike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "upravitelje"
+    },
+    {
+      "surface": "המושלים",
+      "gloss": "upravitelje"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "u narodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav narod zemlje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "i uvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i uđoše"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kroz"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "gornja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ויושיבו",
+      "gloss": "i posjediše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstva"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:40.804023045Z",
+  "model": "glm-5.3"
+}

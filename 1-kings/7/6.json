@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I načini ⟨את⟩ dvoranu stupova, pedeset lakata dužine i trideset lakata širine; a dvorana pred njima, i stupovi i debeo greda ⟨krov⟩ pred njima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dvoranu"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "dvorana"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stupova"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dužine"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "širine"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "a dvorana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "i stupovi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "i debeo greda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:26.921857775Z",
+  "model": "glm-5.3"
+}

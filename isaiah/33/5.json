@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Uzvišen je Jahve, jer stanuje u visini; napunio je Cion sudom i cedekom.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "uzvišen je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "stanuje"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "u visini"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napunio je"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sudom"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "i cedekom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:20.285697813Z",
+  "model": "glm-5.3"
+}

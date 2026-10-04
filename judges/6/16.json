@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče mu Jahve: Jer ću biti s tobom, i udarit ćeš ⟨את⟩ Midjan kao jednoga čovjeka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ću biti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "udarit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kao čovjeka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:44.481990600Z",
+  "model": "glm-5.3"
+}

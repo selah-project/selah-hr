@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I siđe kći Paroova da se opere uz rijeku, a sluškinje njezine hodahu uz rub rijeke; i ugleda ⟨את⟩ kovčeg među trskom, pa posla ⟨את⟩ sluškinju svoju i ona ga uze.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroova"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "da se opere"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rijeku"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "a sluškinje njezine"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "hodahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rub"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ugleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "među"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "trskom"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluškinju svoju"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "sluškinju svoju"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "i ona ga uze"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.982455115Z",
+  "model": "glm-5.3"
+}

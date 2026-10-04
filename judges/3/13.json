@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I skupi k sebi ⟨את⟩ sinove Amona i Amaleka, pa ode i udari ⟨את⟩ Jisrael, te posjedoše ⟨את⟩ grad palmi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Amona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "i Amaleka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "pa ode"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "te posjedoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad palmi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:00.280455554Z",
+  "model": "glm-5.3"
+}

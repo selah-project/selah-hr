@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče kralju: Istina bijaše riječ koju sam čula u svojoj zemlji o tvojim riječima i o svojoj mudrosti tvojoj.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Istina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sam čula"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "u svojoj zemlji"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvojim riječima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "svojoj mudrosti tvojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:03.317525229Z",
+  "model": "glm-5.3"
+}

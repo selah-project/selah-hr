@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "A za drugu stranu Miškana, na sjevernoj strani: dvadeset dućana.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "a za stranu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na strani"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sjevernoj"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "dućana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:09.604033218Z",
+  "model": "glm-5.3"
+}

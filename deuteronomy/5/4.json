@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Lice s licem govoraše Jahve s vama na gori, iz sredine ognja.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "lice"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "s licem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:13.220588626Z",
+  "model": "glm-5.3"
+}

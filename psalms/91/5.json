@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Nećeš se bojati strašila noćnoga ni strijele što leti danju,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nećeš"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bojati se"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "strašila"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noćnoga"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "strijele"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "što leti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:26.453327629Z",
+  "model": "glm-5.3"
+}

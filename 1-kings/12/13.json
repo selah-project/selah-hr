@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I odgovori kralj narodu ⟨את⟩ oštro, i napusti ⟨את⟩ savjet staraca koji su mu savjetovali.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "oštro"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "i napusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savjet staraca"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "savjet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "staraca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "su mu savjetovali"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:37.913507133Z",
+  "model": "glm-5.3"
+}

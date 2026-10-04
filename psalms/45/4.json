@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Opaši mač svoj uz bedro, junče; sjaj tvoj i veličanstvo tvoje.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "opaši"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "mač svoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bedro"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junče"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sjaj tvoj"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "i veličanstvo tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:14.422115523Z",
+  "model": "glm-5.3"
+}

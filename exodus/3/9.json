@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sada, gle, vika sinova Jisraelovih dolazi k meni; vidio sam i ⟨את⟩ pritisak kojim Micrajimci pritišću ⟨את⟩ njih.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "i sada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "vika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pritisak"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "pritisak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "pritišću"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:22.577601524Z",
+  "model": "glm-5.3"
+}

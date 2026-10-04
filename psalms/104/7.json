@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Od prijetnje tvoje bježe, od glasa groma tvojega žure ⟨se> udaljiti.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Od"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "prijеtnje tvoje"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "bježe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasa"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "groma tvojega"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "žure se udaljiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:14.427599744Z",
+  "model": "glm-5.3"
+}

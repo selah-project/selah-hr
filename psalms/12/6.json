@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Zbog pustošenja ubogih, zbog stenjanja siromašnih — sad ću ustati, reče Jahve; postavit ću ⟨את⟩ onoga koji uzdiše u spasenje.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "zbog pustošenja"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ubogih"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "zbog stenjanja"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "siromašnih"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sad"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ću ustati"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavit ću"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "u spasenje"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "onoga koji uzdiše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨za njim⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.120237604Z",
+  "model": "glm-5.3"
+}

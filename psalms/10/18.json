@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "da sudiš siročetu i potlačenomu, da više ne straši čovjek ⟨iz⟩ zemlje.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "da sudiš"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "siročetu"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "i potlačenomu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "više"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dulje"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "straši"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨iz⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:48.554701981Z",
+  "model": "glm-5.3"
+}

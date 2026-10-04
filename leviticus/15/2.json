@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Govorite sinovima Jisraelovim i recite im: Svaki čovjek, kad mu bude tekao sluzav iz njegova tijela, zbog toga toka nečist je on.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Govorite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "i recite"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "זב",
+      "gloss": "tekao sluzav"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "iz njegova tijela"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zbog toga toka"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:17.890975645Z",
+  "model": "glm-5.3"
+}

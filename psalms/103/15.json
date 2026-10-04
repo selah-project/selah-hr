@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Čovjek je, poput trave, dani njegovi; poput cvijeta poljskoga, tako cvate.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "poput trave"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dani njegovi"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "poput cvijeta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljskoga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "cvate"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:25.680977686Z",
+  "model": "glm-5.3"
+}

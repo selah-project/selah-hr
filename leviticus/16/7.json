@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I uzme ⟨את⟩ dva jarca i postavi ⟨את⟩ ih pred Jahvu, na ulazu u Šator sastanka.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva jarca"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "jarci (sufiksni aleph-tav)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "u Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:13.612086806Z",
+  "model": "glm-5.3"
+}

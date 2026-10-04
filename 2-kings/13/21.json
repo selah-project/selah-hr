@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 13:21",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dogodi se, dok su pokapali jednog čovjeka, gle, opaziše ⟨את⟩ četu, te baciše ⟨את⟩ čovjeka u grob Elišin; a kad je čovjek sišao i dodirnuo kosti Elišine, oživje i usta na noge svoje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "pokopavahu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "opaziše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "četa"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "četa"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "te baciše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "u grob"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kad je sišao"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dodirnuo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "בעצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišine"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "oživje"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "noge svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:11.468952278Z",
+  "model": "glm-5.3"
+}

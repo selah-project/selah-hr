@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče Avšalom Hušaju: Je li to tvoj hesed prema ⟨את⟩ prijatelju svojemu? Zašto nisi pošao ⟨s⟩ ⟨את⟩ prijateljem svojim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hušaju"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je li to"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijatelju svojemu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "prijatelju svojemu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "pošao si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijateljem svojim"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "prijateljem svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:55.758446931Z",
+  "model": "glm-5.3"
+}

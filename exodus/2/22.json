@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I rodi sina, i prozva ⟨את⟩ ime njegovo Geršom, jer reče: Došljak bijah u tuđoj zemlji.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geršom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "גר",
+      "gloss": "došljak"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bijah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "tuđoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:49.502447409Z",
+  "model": "glm-5.3"
+}

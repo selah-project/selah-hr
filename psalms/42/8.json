@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Bezdan bezdanu zove zaglušnom bukom slapova tvojih; svi tvoji valovi i tvoji vali nada me prođoše.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Bezdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bezdanu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bezdan"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "zove"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "zaglušnom bukom"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "slapova tvojih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "valovi tvoji"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "i vali tvoji"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prođoše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:40.309018556Z",
+  "model": "glm-5.3"
+}

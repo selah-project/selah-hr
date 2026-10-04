@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Halelu-Jah! Blago čovjeku koji se boji Jahve, ⟨את⟩; u njegove zapovijedi uživa veoma.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "koji se boji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "u njegove zapovijedi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "uživa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.631733395Z",
+  "model": "glm-5.3"
+}

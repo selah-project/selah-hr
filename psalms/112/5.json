@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Dobar je čovjek koji je milostiv i posuđuje: ravnala se svoje stvari po pravu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "milostiv"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "i posuđuje"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ravnala se"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "svoje stvari"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "po pravu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.307636520Z",
+  "model": "glm-5.3"
+}

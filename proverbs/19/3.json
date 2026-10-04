@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ludost čovjeka iskrivljuje njegov put, i na Jahvu se srdi njegovo srce.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ludost"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "iskrivljuje"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njegov put"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "srdi se"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "njegovo srce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:20.212811039Z",
+  "model": "glm-5.3"
+}

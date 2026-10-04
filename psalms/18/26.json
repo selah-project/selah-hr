@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Prema čovjeku heseda hesed iskazuješ, prema savršenu si savršen.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "prema"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "čovjeku heseda"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "hesed iskazuješ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "prema"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "savršenu"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "si savršen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:19.546066251Z",
+  "model": "glm-5.3"
+}

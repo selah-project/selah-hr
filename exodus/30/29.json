@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I posvetit ćeš ⟨את⟩ njih, i bit će svetinja nad svetinjama; sve što ih se dotakne bit će sveto.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "i posvetit ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (posuđe žrtvenika)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetinja"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetinjama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "što se dotakne"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bit će sveto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:23.496660535Z",
+  "model": "glm-5.3"
+}

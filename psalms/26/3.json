@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jer je hesed tvoj pred očima mojim, i hodih u istini tvojoj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "očima mojim"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "hodih"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "u istini tvojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:14.633417921Z",
+  "model": "glm-5.3"
+}

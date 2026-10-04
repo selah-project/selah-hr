@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Lutnje moje ti si prebrojio; suze moje stavi u mješinu svoju — nisu li u knjizi tvojoj?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "lutnje moje"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "ti si prebrojio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "suze moje"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "u mješinu svoju"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nisu li"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "u knjizi tvojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.498555297Z",
+  "model": "glm-5.3"
+}

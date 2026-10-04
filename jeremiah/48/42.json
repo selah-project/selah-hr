@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "I istrijebit će se Moab ⟨da ne bude⟩ narod, jer se uzvisio protiv Jahve.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "i istrijebit će se"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨da ne bude⟩ narod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "uzvisio se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:34:25.732684213Z",
+  "model": "glm-5.3"
+}

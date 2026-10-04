@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "A Šemuel bijaše mrtav, i sav je Jisrael ožalio njega, i pokopaše ga u Rami, u njegovu gradu. A Šaul bijaše uklonio zacijarke i ⟨את⟩ vještice iz zemlje.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "A Šemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "bijaše mrtav"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ožalio je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "pokopaše ga"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "u Rami"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "u njegovu gradu"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "A Šaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "bijaše uklonio"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "zacijarke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vještice"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "vještice"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "iz zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:00.839038101Z",
+  "model": "glm-5.3"
+}

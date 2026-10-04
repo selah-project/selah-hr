@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Jer si dragocjen u očima mojim, čašćen si, i ja ljubim te; zato dajem ljude umjesto tebe i narode umjesto života tvojega.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "dragocjen si"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima mojim"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "čašćen si"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "ljubim te"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "dajem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "umjesto tebe"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i narode"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "umjesto"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "života tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:03.433774734Z",
+  "model": "glm-5.3"
+}

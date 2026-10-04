@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I načiniš pedeset kopči od mjedi, i uvedeš ⟨את⟩ kopče u petlje, i sastaviš ⟨את⟩ šator, i bude ⟨jedan⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načiniš"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kopči"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od mjedi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "i uvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopče"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "kopče"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "u petlje"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "i sastaviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šator"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨jedan⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:47.584479148Z",
+  "model": "glm-5.3"
+}

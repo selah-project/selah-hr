@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I privedeš ⟨את⟩ bika pred Šator sastanka, i Aharon i sinovi njegovi položit će ⟨את⟩ ruke svoje na glavu bika.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "privedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bika"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "položit će"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i sinovi njegovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke svoje"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:59.564410700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I David se sakri u polje. I dođe mlađak, i kralj sjede uz jelo da blaguje.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "sakri se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mlađak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sjede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "jelo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "da blaguje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:30.659304619Z",
+  "model": "glm-5.3"
+}

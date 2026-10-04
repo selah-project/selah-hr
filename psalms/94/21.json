@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Skupe se na život pravednika i nevinu krv osude.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "skupe se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "i krv"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinu"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "osude"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.111030608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Proglasiše post i posadiše ⟨את⟩ Navota na čelu naroda.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "proglasiše"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "i posadiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na čelu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:49.644089077Z",
+  "model": "glm-5.3"
+}

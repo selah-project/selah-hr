@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče: Jednu malu molbu ja tražim od tebe — ne odbij lice moje. I reče joj kralj: Traži, majko moja, jer ja neću odbiti lice tvoje.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "molba"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "malu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "tražim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ tebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odbij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice moje"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice moje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "traži"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majko moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ću odbiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice tvoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:44.832459284Z",
+  "model": "glm-5.3"
+}

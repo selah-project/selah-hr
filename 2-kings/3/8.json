@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče: Kojo ćemo se putem uspeti? A on reče: Putem pustinje Edoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kojo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ćemo se uspeti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:48.354003158Z",
+  "model": "glm-5.3"
+}

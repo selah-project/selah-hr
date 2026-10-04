@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Neka sinovi Jisraelovi obave ⟨את⟩ pashu u njezino vrijeme.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "neka obave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pashu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pashu"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "u njezino vrijeme"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:09.494125263Z",
+  "model": "glm-5.3"
+}

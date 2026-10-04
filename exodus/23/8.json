@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Mit ne uzimaj, jer mit oslijepljuje bistre i izvrće riječi pravednih.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "mit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzimaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "oslijepljuje"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "bistre"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "i izvrće"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:09.974285815Z",
+  "model": "glm-5.3"
+}

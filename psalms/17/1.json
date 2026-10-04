@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Molitva Davidova. Čuj cedek, Jahve, prisluhni mom vapaju, prikloni uho mojoj molitvi — ⟨molitvi⟩ bez usana prijevare.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Molitva"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mom vapaju"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prikloni uho"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojoj molitvi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usana"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevare"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.436738219Z",
+  "model": "glm-5.3"
+}

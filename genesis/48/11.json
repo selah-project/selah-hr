@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "I reče Jisrael Jousefu: Vidjeti lice tvoje nisam se nadao, a gle, Elohim me dade vidjeti ⟨את⟩ i ⟨את⟩ sjeme tvoje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jousefu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "se nadao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "dade vidjeti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjeme tvoje"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sjeme tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:15.994614127Z",
+  "model": "glm-5.3"
+}

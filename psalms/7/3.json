@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Da ne razdere kao lav dušu moju, kidajući ⟨je⟩, a da nikoga nema ⟨tko bi⟩ izbavio.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "razdere"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kao lav"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "kidajući"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "tko bi izbavio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:13.288224505Z",
+  "model": "glm-5.3"
+}

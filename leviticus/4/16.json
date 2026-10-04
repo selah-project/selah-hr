@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I neka pomazanik svećenik unese krvi bika u šator sastanka.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "i neka unese"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pomazanik"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:05.396412619Z",
+  "model": "glm-5.3"
+}

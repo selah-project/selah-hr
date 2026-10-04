@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I voda tečeše unaokolo oko žrtvenika, i ⟨את⟩ jarak napuni vodom.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i tečeše"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "oko žrtvenika"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarak"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "jarak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:17.862587276Z",
+  "model": "glm-5.3"
+}

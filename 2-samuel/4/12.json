@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I zapovjedi David ⟨את⟩ mladićima, pa ih ubiše, i odsijekoše ⟨את⟩ njihove ruke i ⟨את⟩ njihove noge, te ih objesiše nad bazenom u Hevronu; a ⟨את⟩ glavu Iš-Bošeta uzeli su i sahranili u grobnicu Avnerovu u Hevronu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladiće"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladiće"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "pa ih ubiše"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "i odsijekoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove ruke"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "njihove ruke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihove noge"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "njihove noge"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "te ih objesiše"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bazenom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "glavu Iš-Bošeta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Iš-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bošeta"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeli su"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i sahranili"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "u grobnicu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerovu"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:59.771773336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Od glasa neprijatelja, od tlačenja zloga, jer ruše na me nepravdu i u gnjevu me progone.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Od glasa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "tlačenja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zloga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ruše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "און",
+      "gloss": "nepravdu"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "i u gnjevu"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "me progone"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:11.108799305Z",
+  "model": "glm-5.3"
+}

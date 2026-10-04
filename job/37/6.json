@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer snijegu kaže: Budi na zemlji, i kiši ⟨rosi⟩, i kiši pljuskovima svoje snage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "snijegu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kaže"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Budi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i kiši"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "⟨rosi⟩"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i kiši"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "pljuskovima"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "svoje snage"
+    }
+  ],
+  "timestamp": "2026-10-04T19:39:14.316335626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Kada dolazite da se pokažete pred licem mojim — tko je to zatražio iz ruke vaše? Da gazite dvorišta moja!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "dolazite"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da se pokažete"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pred licem mojim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "je zatražio"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "iz ruke vaše"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "da gazite"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "dvorišta moja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:23.591653173Z",
+  "model": "glm-5.3"
+}

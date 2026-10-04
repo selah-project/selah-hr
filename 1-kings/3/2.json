@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Samo narod prinosi ⟨žrtve⟩ na uzvišicama, jer nije bio sagrađen dom Imenu Jahvinu do onih dana.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "prinosi ⟨žrtve⟩"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na uzvišicama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "bio sagrađen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "onih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:41.317030831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A kad graditelji postaviše ⟨את⟩ temelj hrama Jahvina, postaviše svećenike, odjevene ⟨u⟩ trube, i Levite, sinove Asafove, s cimbalima, da hvale ⟨את⟩ Jahvu, po ruci Davida, kralja Jisraelova.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "i postaviše temelj"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "graditelji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temelj hrama Jahvina"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "i postaviše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "odjevene"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "u trube"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i Levite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafove"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "s cimbalima"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "da hvale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:54:37.163151177Z",
+  "model": "glm-5.3"
+}

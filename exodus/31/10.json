@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ odijela tkanja, i ⟨את⟩ sveta odijela za Aharona svećenika, i ⟨את⟩ odijela njegovih sinova za svećeničku službu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "odijela tkanja"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "odijela"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tkanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sveta odijela"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "odijela"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sveta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "za Aharona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "odijela sinova"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "odijela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovih sinova"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za svećeničku službu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.397958985Z",
+  "model": "glm-5.3"
+}

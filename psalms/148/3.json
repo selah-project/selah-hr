@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Hvalite ga, sunce i mjeseco, hvalite ga, sve zvijezde svjetla!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "i mjeseco"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "zvijezde"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:51.802696770Z",
+  "model": "glm-5.3"
+}

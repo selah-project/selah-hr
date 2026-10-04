@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "i lutaše od naroda do naroda i od kraljevstva k drugomu narodu.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "i lutaše"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "od naroda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "i od kraljevstva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugomu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:08.637163437Z",
+  "model": "glm-5.3"
+}

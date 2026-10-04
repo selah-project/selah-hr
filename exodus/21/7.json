@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A ako koji čovjek proda ⟨את⟩ svoju kćer za sluškinju, neka ne izlazi kao što izlaze robovi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "proda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju kćer"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "svoju kćer"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "za sluškinju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kao što izlaze"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "robovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:50.940775058Z",
+  "model": "glm-5.3"
+}

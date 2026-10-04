@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče Akis svojim slugama: Evo, vidite čovjeka koji je pomahnitao; zašto ste ⟨את⟩ ga doveli k meni?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svojim slugama"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vidite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "koji je pomahnitao"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ste doveli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:48.797925784Z",
+  "model": "glm-5.3"
+}

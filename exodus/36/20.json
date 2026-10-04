@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I načini ⟨את⟩ daske za Miškan od drveta šitim ⟨עומדים⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daske"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "daske"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Miškan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drveta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojeće"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:48.607590742Z",
+  "model": "glm-5.3"
+}

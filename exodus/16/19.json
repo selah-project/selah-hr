@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče Moše njima: nitko neka ne ostavlja od njega do jutra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "neka ne ostavlja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:32.554947518Z",
+  "model": "glm-5.3"
+}

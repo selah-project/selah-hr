@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I reče im Jaakov: Braćo moja, odakle ste? A oni rekoše: iz Harana smo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Braćo moja"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odakle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a rekoše"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "iz Harana"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "smo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:37.274909522Z",
+  "model": "glm-5.3"
+}

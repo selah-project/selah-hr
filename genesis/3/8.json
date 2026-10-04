@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I čuše ⟨את⟩ glas Jahve Elohima, kako hoda vrtom za ruah dana, i sakri se čovjek i njegova žena od lica Jahve Elohima među drvećem vrta.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kako hoda"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "vrtom"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "za ruah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "i sakri se"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i njegova žena"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od lica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "među"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvećem"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vrta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:03.778042448Z",
+  "model": "glm-5.3"
+}

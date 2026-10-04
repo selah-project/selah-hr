@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ukloniše sinovi Jisraelovi ⟨את⟩ Baale i ⟨את⟩ Aštarte, i služili su ⟨את⟩ Jahvi, njemu jedinomu.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "i ukloniše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aštarte"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Aštarte"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i služili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "njemu jedinomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:19.778862656Z",
+  "model": "glm-5.3"
+}

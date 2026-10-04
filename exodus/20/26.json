@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ne penji se stepenicama na žrtvenik moj, da se ne otkrije golotinja tvoja na njemu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "penji se"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "stepenicama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "žrtvenik moj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrije se"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "golotinja tvoja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:12.600558823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će odvesti tebe i kralja kojega postaviš nad sobom k narodu koji nisi poznavao ni ti ni oci tvoji, i služit ćeš ondje drugim bogovima, drvu i kamenu.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "odvesti će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "postaviš"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad sobom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznavao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni ti"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "ni oci tvoji"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "i služit ćeš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamenu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:35.793793970Z",
+  "model": "glm-5.3"
+}

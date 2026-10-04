@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jahvi je ⟨je⟩ spasenje; tvoj je blagoslov na tvome narodu. Sela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "spasenje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvome narodu"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "tvoj blagoslov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:40.929723839Z",
+  "model": "glm-5.3"
+}

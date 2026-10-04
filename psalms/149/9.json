@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Da izvrše na njima sud zapisan — to je čast svima hesedovcima njegovim. Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "da izvrše"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na njima"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "zapisan"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "čast"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hesedovcima njegovim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:27.109271537Z",
+  "model": "glm-5.3"
+}

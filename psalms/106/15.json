@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I dade im njihovu molbu, ali posla mršavost u njihovu dušu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "njihovu molbu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "mršavost"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "u njihovu dušu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.357805006Z",
+  "model": "glm-5.3"
+}

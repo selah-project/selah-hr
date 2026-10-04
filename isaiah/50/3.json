@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Zaodijevam nebesa crninom, i kostrijet im za pokrov stavljam.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Zaodijevam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "crninom"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "i kostrijet"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "stavljam"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "za pokrov im"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:00.222214543Z",
+  "model": "glm-5.3"
+}

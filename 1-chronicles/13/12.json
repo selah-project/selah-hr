@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I pobojа se David ⟨את⟩ Elohimа onoga dana govoreći: Kako da donesem k sebi ⟨את⟩ kovčeg Elohimov?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "pobojа se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimа"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimа"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "da donesem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:08.431319863Z",
+  "model": "glm-5.3"
+}

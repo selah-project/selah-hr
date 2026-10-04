@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I uzet ćeš ⟨את⟩ ulje pomazanja i pomazat ćeš ⟨את⟩ Miškan i ⟨את⟩ sve što je u njemu; posvetit ćeš ⟨את⟩ njega i ⟨את⟩ sve posuđe njegovo, i bit će svet.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomazat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što je u njemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i posvetit ćeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve posuđe njegovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "posuđe njegovo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:33.514962289Z",
+  "model": "glm-5.3"
+}

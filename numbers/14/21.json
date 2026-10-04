@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Ali živ sam ja, i slava će Jahvina napuniti ⟨את⟩ svu zemlju.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ sam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i napuniti će"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:25.262585098Z",
+  "model": "glm-5.3"
+}

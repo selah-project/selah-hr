@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I obložiš ⟨את⟩ njega zlatom čistim: ⟨את⟩ vrh njegov i ⟨את⟩ zidove njegove unaokrug i ⟨את⟩ rogove njegove; i načiniš mu vijenac od zlata unaokrug.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "i obložiš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (žrtvenik)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrh njegov"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "vrh njegov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zidove njegove"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "zidove njegove"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokrug"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "rogove njegove"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "rogove njegove"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i načiniš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vijenac"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "od zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokrug"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:17.658664586Z",
+  "model": "glm-5.3"
+}

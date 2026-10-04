@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Nije tako učinio ni jednome narodu, a prava svoja — nisu ih upoznali. Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nije"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ni jednome"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "a prava svoja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ih upoznali"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.516312816Z",
+  "model": "glm-5.3"
+}

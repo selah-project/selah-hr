@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dogodi se, dok je jedan obarao gredu, da je ⟨את⟩ željezo palo u vodu; i on povika te reče: Ah, gospodaru moj! A ono je bilo ⟨posuđeno⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "obarao"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "gredu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "željezo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "željezo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "palо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "i povika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru moj"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ono"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "posuđeno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:07.498933097Z",
+  "model": "glm-5.3"
+}

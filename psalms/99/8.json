@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 99,
+  "translation": "Jahve, Elohim naš, ti si im odgovarao, El koji nosi ⟨krivnju⟩ bio si im, i osvetnik nad djelima njihovim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "si im odgovarao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koji nosi ⟨krivnju⟩"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bio si"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "i osvetnik"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "djelima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:15.168636617Z",
+  "model": "glm-5.3"
+}

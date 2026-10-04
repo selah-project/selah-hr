@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "A on mu reče: Hajde, molim te, pogledaj ⟨את⟩ kako je braći tvojoj i ⟨את⟩ kako je stadi, pa mi javi riječ. I posla ga iz doline Hevrona, i dođe u Šekem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hajde"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kako je braći tvojoj"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kako je"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "braći tvojoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kako je stadi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kako je"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stadi"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "pa mi javi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "i posla ga"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "iz doline"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "u Šekem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:17.633827552Z",
+  "model": "glm-5.3"
+}

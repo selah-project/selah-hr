@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bude mu tako: narod ga pregazi na vratima i umrije.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "pregazi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (sufiks -o)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na vratima"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:46.529075547Z",
+  "model": "glm-5.3"
+}

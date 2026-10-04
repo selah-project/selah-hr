@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Izjela me moja ljubomora, jer su zaboravili tvoje riječi moji neprijatelji.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "izjela me"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "moja ljubomora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "su zaboravili"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvoje riječi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "moji neprijatelji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:32.385611905Z",
+  "model": "glm-5.3"
+}

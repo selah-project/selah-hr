@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ona ode od njega, i zatvori vrata za sobom i za svojim sinovima; oni su prinosili ⟨posuđe⟩ k njoj, a ona je izlijevala.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "i ona ode"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "od ⟨את⟩ njega",
+      "marks": "on (Eliša)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "i zatvori"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "za sobom"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i za"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "svojim sinovima"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "su prinosili"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njoj"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "je izlijevala"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:52.141574055Z",
+  "model": "glm-5.3"
+}

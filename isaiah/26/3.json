@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Oslonjenu namjeru čuvaš ti: mir, mir — jer se u tebe uzda.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "namjeru"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "oslonjenu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "čuvaš ti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "uzda"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:01.865929808Z",
+  "model": "glm-5.3"
+}

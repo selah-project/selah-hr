@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Urlaju tlačitelji tvoji usred zbora tvojega; postavili su znakove svoje ⟨kao⟩ znakove.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Urlaju"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tlačitelji tvoji"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "zbora tvojega"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "postavili su"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "znakove svoje"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "znakove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:52.599589502Z",
+  "model": "glm-5.3"
+}

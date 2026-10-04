@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "A vi znate da svim svojim silom služih oca vašega ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "znate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "svojom silom"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "služih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca vašega"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "oca vašega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:44.081039132Z",
+  "model": "glm-5.3"
+}

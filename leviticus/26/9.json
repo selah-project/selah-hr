@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I okrenut ću se k vama, i učinit ću vas plodnima, i umnožit ću vas, i uspostavit ću ⟨את⟩ svoj savez ⟨את⟩ s vama.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "i okrenut ću se"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vama"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "i učinit ću vas plodnima"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "i umnožit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "i uspostavit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj savez"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svoj savez"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:46.190718769Z",
+  "model": "glm-5.3"
+}

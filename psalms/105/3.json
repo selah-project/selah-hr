@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Hvalite se imenom svetim njegovim; neka se raduje srce onih koji traže Jahvu!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Hvalite se"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "imenom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetim njegovim"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "onih koji traže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.212540546Z",
+  "model": "glm-5.3"
+}

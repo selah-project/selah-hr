@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I zašto obeshrabrujete ⟨את⟩ srce sinova Jisraelovih da ne prijeđu u zemlju koju im je dao Jahve?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "obeshrabrujete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce sinova Jisraelovih"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "da ne prijeđu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:32.277831757Z",
+  "model": "glm-5.3"
+}

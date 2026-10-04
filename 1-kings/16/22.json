@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Ali narod koji bijaše za Omrijem nadjača ⟨את⟩ narod koji bijaše za Tibnijem, sinom Ginatovim; i Tibni umrije, i Omri zavlada.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nadjača"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrijem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod koji bijaše za Tibnijem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibnijem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinom"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginatovim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i zavlada"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:58.576743016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ujutro posiji ⟨את⟩ svoje sjeme, i uveče ne ostavljaj svoju ruku, jer ne znaš hoće li uspjeti ovo ili ono, ili će li oboje jednako biti dobra.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "posiji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sjeme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "svoje sjeme"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "i uveče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ostavljaj"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hoće li"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "uspjeti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oboje"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "jednako"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "biti dobra"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:11.470619553Z",
+  "model": "glm-5.3"
+}

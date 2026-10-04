@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I reče Farah Josi: Ja sam Farah, i bez tebe nitko neće dići ⟨את⟩ svoju ruku ni ⟨את⟩ svoju nogu u svoj zemlji Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sam Farah"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "i bez tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "će dići"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju nogu"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "svoju nogu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:57.811086752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I učini dobro Elohim babicama; i narod se umnoži i veoma ojača.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "učini dobro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "babicama"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "umnoži se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ojača"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:48.671440735Z",
+  "model": "glm-5.3"
+}

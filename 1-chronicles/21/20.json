@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I obazre se Arnan i vidje ⟨את⟩ anđela, a njegova četiri sina s njime ⟨bijahu⟩ skriveni; a Arnan vršaše pšenicu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I obazre se"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anđela"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anđela"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "a četvero"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinova njegovih"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "skriveni"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "a Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "vršaše"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pšenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:42.949781461Z",
+  "model": "glm-5.3"
+}

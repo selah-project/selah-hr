@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Zar će se pripovijedati u grobu hesed tvoj, vjernost tvoja u Avdadonu?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "zar će se pripovijedati"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "u grobu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "vjernost tvoja"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "u Avdadonu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.147557037Z",
+  "model": "glm-5.3"
+}

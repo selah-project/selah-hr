@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I vrati se kralj i dođe do Jardena, a Juda dođe u Gilgal da iziđe u susret kralju, da provede ⟨את⟩ kralja preko ⟨את⟩ Jardena.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I vrati se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardena"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "u Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da ide"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "u susret"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "da provede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardena"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardena"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:33.393743027Z",
+  "model": "glm-5.3"
+}

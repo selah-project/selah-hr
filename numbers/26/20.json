@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I bijahu sinovi Judini po svojim obiteljima: od Šele obitelj Šelanaca; od Perca obitelj Percajevaca; od Zeraha obitelj Zerahačevaca.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "I bijahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judini"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "od Šele"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Šelanaca"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "od Perca"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Percajevaca"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "od Zeraha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "obitelj"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahačevaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:38.879795822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ostavit ću usred tebe narod siromašan i nejak, i oni će se zakloniti u ime Jahve.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "ostavit ću"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "usred tebe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromašan"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "i nejak"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "zaklonit će se"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:46.280564247Z",
+  "model": "glm-5.3"
+}

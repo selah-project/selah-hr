@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I vinograd svoj ne ogoljuj, i bobice vinograda svojega ne brši: siromahu i došljaku ostavi ⟨את⟩ njih. Ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "i vinograd svoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ogoljuj"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "i bobice"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vinograda svojega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "brši"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "i došljaku"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:51.964434594Z",
+  "model": "glm-5.3"
+}

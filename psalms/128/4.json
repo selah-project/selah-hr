@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 128,
+  "translation": "Eto, tako će biti blagoslovljen čovjek koji se boji Jahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jer⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "će biti blagoslovljen"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "koji se boji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:49.909767814Z",
+  "model": "glm-5.3"
+}

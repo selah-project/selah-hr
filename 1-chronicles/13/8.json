@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A David i sav Jisrael igrahu pred Elohimom sa svom silom, i pjesmama, i harfama, i nevelima, i bubnjevima, i cimbalima, i trubama.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "igrahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa svom"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silom"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "i pjesmama"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "i harfama"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "i nevelima"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "i bubnjevima"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "i cimbalima"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "i trubama"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:33.559855781Z",
+  "model": "glm-5.3"
+}

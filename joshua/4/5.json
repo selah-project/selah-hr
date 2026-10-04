@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 4:5",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče im Jehošua: Prijeđite pred kovčegom Jahve, Elohim vašega, u sredinu Jordana, i podignite svaki sebi po jedan kamen na svoje rame, po broju plemena sinova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Prijeđite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčegom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vašega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sredinu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "והרימו",
+      "gloss": "i podignite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "po jedan"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "svoje rame"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "po broju"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:36.216657912Z",
+  "model": "glm-5.3"
+}

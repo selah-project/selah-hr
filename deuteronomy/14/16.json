@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "⟨את⟩ kukuviju, i ⟨את⟩ veliku sovu, i lapavca,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuviju"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kukuviju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "veliku sovu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "veliku sovu"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "i lapavca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:27.240318712Z",
+  "model": "glm-5.3"
+}

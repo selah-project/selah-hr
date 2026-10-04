@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "Jer ti si moja nada, Adonaj Jahve, moje uzdanje od moje mladosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "moja nada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "moje uzdanje"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od moje mladosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:26.447803932Z",
+  "model": "glm-5.3"
+}

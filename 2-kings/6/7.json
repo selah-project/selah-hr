@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče: Podigni ⟨sebi⟩. I on pruži ruku svoju i uze ga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "podigni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sebi⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i pruži"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "i uze ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:07.499429709Z",
+  "model": "glm-5.3"
+}

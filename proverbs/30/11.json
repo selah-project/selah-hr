@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Naraštaj koji psuje oca svojega, a ⟨את⟩ majke svoje ne blagoslivlja.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "psuje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "majke svoje"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslivlja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:13.628486872Z",
+  "model": "glm-5.3"
+}

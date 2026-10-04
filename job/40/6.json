@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I odgovori Jahve ⟨את⟩ Ijovu iz oluje i reče:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijova"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijova"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "iz"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "oluje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    }
+  ],
+  "timestamp": "2026-10-04T19:39:32.167694930Z",
+  "model": "glm-5.3"
+}

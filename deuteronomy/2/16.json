@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I bi, kad su svi ljudi ratnici pomrli iz sredine naroda,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "su pomrli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ratnici"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pomrli"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:31.341840651Z",
+  "model": "glm-5.3"
+}

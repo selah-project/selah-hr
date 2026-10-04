@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I zapovjedi o njemu Paroh ljudima, te oni otpremiše ⟨את⟩ njega i ⟨את⟩ ženu njegovu i ⟨את⟩ sve što imaše.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "o njemu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "te otpremiše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ženu njegovu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što imaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imaše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:12.558109255Z",
+  "model": "glm-5.3"
+}

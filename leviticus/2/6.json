@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Izlomi je na komade i izlij po njoj ulje — to je minha.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "izlomi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "komade"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "na komade"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "i izlij"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "po njoj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:42.275323470Z",
+  "model": "glm-5.3"
+}

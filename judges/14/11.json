@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I bi, kad ga vidješe ⟨את⟩, te uzeše trideset drugova, i biše ⟨את⟩ s njim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "kad vidješe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Šimšona)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "uzeše"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "drugova"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "biše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "s njim (Šimsonom)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:19.002902639Z",
+  "model": "glm-5.3"
+}

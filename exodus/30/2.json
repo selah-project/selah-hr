@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Lakat neka mu je dužina i lakat širina — četvrtast neka bude — a dva lakta visina; iz njega ⟨neka izlaze⟩ njegovi rogovi.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i lakat"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "širina"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "četvrtast"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "i dva lakta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "visina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz njega"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "njegovi rogovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:17.658341754Z",
+  "model": "glm-5.3"
+}

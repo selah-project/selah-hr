@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I učinit ću u tebi ⟨את⟩ ono što nisam učinio i ⟨את⟩ ono čemu ravno više neću učiniti, zbog svih tvojih grozota.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "i učinit ću"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što nisam učinio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nisam učinio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ono čemu ravno više neću učiniti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ravno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "יען",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "tvojih grozota"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:47.804050782Z",
+  "model": "glm-5.3"
+}

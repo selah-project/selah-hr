@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Djela bezakonja nadvladaše me; a što se tiče naših prijestupa — ti ćeš ih pokriti.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "bezakonja"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "nadvladaše"
+    },
+    {
+      "surface": "מני",
+      "gloss": "me"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naših prijestupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ćeš ih pokriti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:11.361451566Z",
+  "model": "glm-5.3"
+}

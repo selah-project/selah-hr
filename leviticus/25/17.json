@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I ne tlačite čovjek ⟨את⟩ bližnjega svojega, i bojat ćeš se Elohima svojega; jer ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tlačite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bližnjega svojega"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "i bojat ćeš se"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohima svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:56.257979211Z",
+  "model": "glm-5.3"
+}

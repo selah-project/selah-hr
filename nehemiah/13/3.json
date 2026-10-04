@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I bijaše, kad su čuli ⟨את⟩ Toru, da odijeliše svu mješavinu od Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "kad su čuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toru"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "da odijeliše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mješavinu"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "od Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:09.004324635Z",
+  "model": "glm-5.3"
+}

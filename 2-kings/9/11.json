@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Tada iziđe Jehu k slugama gospodara svojega, i reče mu ⟨jedan od njih⟩: Je li mir? Zašto dođe ovaj ludak k tebi? A on im reče: Vi znate ⟨את⟩ čovjeka i ⟨את⟩ govor njegov.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "a Jehu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "je li mir"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "ludak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "govor njegov"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "govor njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:36.104367312Z",
+  "model": "glm-5.3"
+}

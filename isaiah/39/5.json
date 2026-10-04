@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I reče Ješajahu Hizkijahu: Čuj riječ Jahvea Cebaot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:21.383802681Z",
+  "model": "glm-5.3"
+}

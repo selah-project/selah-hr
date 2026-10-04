@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "tada ćeš ti slušati s neba i činiti, i sudit ćeš ⟨את⟩ sluge svoje: proglasiti krivim krivca da mu se vrati put njegov na glavu njegovu, i proglasiti pravednim pravednika da mu se da po pravednosti njegovoj.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tada ćeš ti"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "slušati"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "s neba"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i činiti"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "i sudit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "proglasiti krivim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivca"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da se vrati"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "put njegov"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na glavu njegovu"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "i proglasiti pravednim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da mu se da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "po pravednosti njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:14.984932088Z",
+  "model": "glm-5.3"
+}

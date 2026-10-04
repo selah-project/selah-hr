@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Jahve pohodi ⟨את⟩ Saru kao što je rekao, i učini Jahve Sari kao što je obećao.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "I Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "pohodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "obećao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:48.123653945Z",
+  "model": "glm-5.3"
+}

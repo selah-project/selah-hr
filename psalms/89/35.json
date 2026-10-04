@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Neću oskvrnuti svojega saveza, ni ono što izlazi iz mojih usana neću promijeniti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "oskvrnuti"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svojega saveza"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ni ono što izlazi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iz mojih usana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "promijeniti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:28.909596477Z",
+  "model": "glm-5.3"
+}

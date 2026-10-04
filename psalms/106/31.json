@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I ubraja mu se za cedek, naraštaju i naraštaju, sve do vijeka.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "i ubraja mu se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "za cedek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:11.207402593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Ja sam ⟨za⟩ mir; a kad govorim, oni su za rat.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za rat"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:38.518536266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "A jezik će moj izgovarati tvoj cedek, tvoj hvalospjev cijeli dan.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "A jezik će moj"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "izgovarati"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvoj cedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvoj hvalospjev"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:09.755011411Z",
+  "model": "glm-5.3"
+}

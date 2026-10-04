@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Neka ne bude u tebe tuđega boga, i ne klanjaj se bogu nekome tuđemu!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka ne bude"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boga"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "klanjaj se"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "bogu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:25.563651786Z",
+  "model": "glm-5.3"
+}

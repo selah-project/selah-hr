@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 99,
+  "translation": "Moše i Aharon među svećenicima njegovim, i Šemuel među onima koji zazivlju ime njegovo — zazivali su Jahvu, i on im odgovori.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "među svećenicima njegovim"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "i Šemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "među onima koji zazivlju"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "zazivali su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(prema)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "im odgovori"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:15.168360163Z",
+  "model": "glm-5.3"
+}

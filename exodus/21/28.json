@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I ako vo naveže ⟨את⟩ čovjeka ili ⟨את⟩ ženu te umre, vo se neka kamenuje ⟨kamenuje⟩, i neka se ne jede ⟨את⟩ njegovo meso, a vlasnik će biti nevin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i ako"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "naveže rogom"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "te umre"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "neka kamenuje"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "⟨kamenuje⟩"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se jede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo meso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegovo meso"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a vlasnik"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevin"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:23.797055780Z",
+  "model": "glm-5.3"
+}

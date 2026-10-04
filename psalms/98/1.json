@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Pjesma. Pjevajte Jahvi pjesmu novu, jer čudesa učini, spasenje mu donesoše desnica njegova i sveta mišica njegova.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "čudesa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "spasenje donesoše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "desnica njegova"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "i mišica"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sveta njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:03.196378425Z",
+  "model": "glm-5.3"
+}

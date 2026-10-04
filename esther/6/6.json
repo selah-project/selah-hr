@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 6:6",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I uđe Haman, pa mu reče kralj: Što učiniti čovjeku u kom kralj nalazi užitak da ga časti? A Haman reče u srcu svome: Komu bi kralj radije iskazao čast nego meni?",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "I uđe"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učiniti"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalazi užitak"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "da ga časti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu svome"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Komu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "bi radije iskazao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "čast"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "radije"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nego meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:06.763304981Z",
+  "model": "glm-5.3"
+}

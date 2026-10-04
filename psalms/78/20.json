@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Eno, udario je stijenu i potekla je voda, potoci su se razlili; može li i kruh dati, može li pripraviti meso narodu svojemu?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "eno"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udario je"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "i potekla je"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "i potoci"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "razlili su se"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "može li i"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "moći"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "može li"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "pripraviti"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "narodu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.908308996Z",
+  "model": "glm-5.3"
+}

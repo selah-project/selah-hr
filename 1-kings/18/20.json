@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I posla Ahav među sve sinove Jisraelove, i sabra ⟨את⟩ proroke na goru Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "među sve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "i sabra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroke"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:32.071448254Z",
+  "model": "glm-5.3"
+}

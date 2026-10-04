@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "A ja sam Jahve, Elohim tvoj, od zemlje Micrajima; opet ću te nastaniti u šatorima, kao u dane moeda.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "od zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ću te nastaniti"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "u šatorima"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kao u dane"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moeda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:05.972256802Z",
+  "model": "glm-5.3"
+}

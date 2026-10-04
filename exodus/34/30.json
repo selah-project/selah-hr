@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I vidje Aharon i svi sinovi Jisraelovi ⟨את⟩ Mošea, i gle, koža lica njegova zračila je, i bojahu mu se prići k njemu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "zračila"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koža"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lica njegova"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bojahu mu se"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "prići"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:44.616691444Z",
+  "model": "glm-5.3"
+}

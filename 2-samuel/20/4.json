@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče kralj Amasaju: Sakupi mi ⟨את⟩ ljude Judine ⟨za⟩ tri dana, a ti ovdje ostani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasaju"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "sakupi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude Judine"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judine"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovdje"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ostani"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:14.082044675Z",
+  "model": "glm-5.3"
+}

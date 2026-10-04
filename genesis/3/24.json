@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I istjera ⟨את⟩ čovjeka, i naseli istočno od vrta edenskoga ⟨את⟩ keruvime i ⟨את⟩ plamen mača koji se okreće, da čuva ⟨את⟩ put drveta života.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "i istjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "האדם"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "i naseli"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "istočno"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "od vrta"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "edenskoga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "הכרבים"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "להט החרב"
+    },
+    {
+      "surface": "להט",
+      "gloss": "plamen"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "koji se okreće"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "דרך עץ החיים"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:31.657934823Z",
+  "model": "glm-5.3"
+}

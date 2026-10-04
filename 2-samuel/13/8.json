@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I ode Tamar u kuću Amnona, brata svojega, a on ležaše; te uze ⟨את⟩ tijesto i zamijesi ga, i ispeče lebibote ⟨kolače⟩ pred očima njegovim, i skuha ⟨את⟩ lebibote.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ležaše"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tijesto"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "tijesto"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "i zamijesi ga"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "i ispeče lebibote"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pred očima njegovim"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "i skuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebibote"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "lebibote"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:43.048744065Z",
+  "model": "glm-5.3"
+}

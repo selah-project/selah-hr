@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Prijestup zločestca govori u srcu mome: nema straha od Elohima pred očima njegovim.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "govori ⟨proročki⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestup"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "zločestca"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "u"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srcu mome"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "straha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "očima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:02.804878319Z",
+  "model": "glm-5.3"
+}

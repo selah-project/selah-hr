@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Milostiv je Jahve i cedek, i Elohim naš milosrdan je.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "i cedek"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "i Elohim naš"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "milosrdan je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.979564920Z",
+  "model": "glm-5.3"
+}

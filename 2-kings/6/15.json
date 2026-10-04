@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A sluga čovjeka Elohimova rano ustade da ustane i iziđe, i gle — vojska s konjima i bojnim kolima opkoli ⟨את⟩ grad. I reče njegov mladić njemu: Jao, gospodaru moj! Što ćemo?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "rano ustade"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "da ustane"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "opkoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "s konjima"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i bojnim kolima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "njegov mladić"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Jao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodaru moj"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "što"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ćemo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:37.536770872Z",
+  "model": "glm-5.3"
+}

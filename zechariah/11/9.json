@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I rekoh: Neću pasti ⟨את⟩ vas — umiruća neka umre, nestajuća neka nestane, a preostale neka pojedu svaka meso svoje susjede.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "umiruća"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "neka umre"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "nestajuća"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "neka nestane"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "a preostale"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "neka pojedu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "svaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "svoje susjede"
+    }
+  ],
+  "timestamp": "2026-10-04T19:01:37.496605060Z",
+  "model": "glm-5.3"
+}

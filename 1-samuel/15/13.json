@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I dođe Šemuël k Šaulu, a Šaul mu reče: Blagoslovljen budi od Jahveta! Izvršio sam ⟨את⟩ riječ Jahvinu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "budi ti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "od Jahveta"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "Izvršio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ Jahvinu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:55.475660693Z",
+  "model": "glm-5.3"
+}

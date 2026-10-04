@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Jer ti si Elohim, utvrda moja; zašto me odbacio? Zašto tugujući idem pod tlačenjem neprijatelja?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "utvrda moja"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "me odbacio"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "tugujući"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "idem"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "pod tlačenjem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:46.665503838Z",
+  "model": "glm-5.3"
+}

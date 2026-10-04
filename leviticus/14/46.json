@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tko uđe u kuću za sve dane dok je zaključana, nečist je do večeri.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "tko uđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "dok je zaključana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨njega⟩",
+      "marks": "kuću (objekt zatvaranja)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nečist je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:13.075153423Z",
+  "model": "glm-5.3"
+}

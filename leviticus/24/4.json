@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Na svijećnjaku čistom uređivat ⟨את⟩ žižke pred Jahvom neprestano.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svijećnjaku"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "čistom"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "uređivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žižke"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "žižke"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:53.132687590Z",
+  "model": "glm-5.3"
+}

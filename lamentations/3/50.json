@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "dok Jahve ne pogleda i ne vidi s nebesa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ne pogleda (izviruje)"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i ne vidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s nebesa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:46.368145768Z",
+  "model": "glm-5.3"
+}

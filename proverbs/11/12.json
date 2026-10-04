@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Tko prezire svoga bližnjega, nema razuma, a čovjek razumnosti šuti <א>.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "prezire"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "svoga bližnjega"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "nema \/ liši se"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca \/ razuma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a čovjek"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "razumnosti"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "šuti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:17.011384017Z",
+  "model": "glm-5.3"
+}

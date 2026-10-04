@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Jahve, uzdignuta je ruka tvoja — neće vidjeti; neka vide i neka se postide, revnost ⟨naroda⟩, čak i oganj tvojih tlačitelja neka ih proguta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "uzdignuta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "neka vide"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "i neka se postide"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "revnost"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨naroda⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "čak i"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "tvojih tlačitelja"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "neka ih proguta"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:59.476494462Z",
+  "model": "glm-5.3"
+}

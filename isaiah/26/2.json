@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Otvorite vrata, i neka uđe narod pravedni, čuvar vjernosti.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "otvorite"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i neka uđe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedni"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvar"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "vjernosti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:46.524852344Z",
+  "model": "glm-5.3"
+}

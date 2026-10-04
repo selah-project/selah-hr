@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Uz rijeke Bavela ondje smo sjedili, da, plakali smo kad smo se sjetili ⟨את⟩ Cijona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sjedili smo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "plakali smo"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "kad smo se sjetili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijona"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijona"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.949320116Z",
+  "model": "glm-5.3"
+}

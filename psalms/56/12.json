@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "U Elohimu uzdam se, ne bojim se — što mi čovjek može učiniti?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bojim se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "može učiniti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.499124411Z",
+  "model": "glm-5.3"
+}

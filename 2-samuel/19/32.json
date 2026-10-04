@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A Barzilaj Giladac siđe iz Rogelima i prijeđe s kraljem ⟨את⟩ Jordan, da ga isprati preko Jordana.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "a Barzilaj"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladac"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "iz Rogelima"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "i prijeđe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "s kraljem"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "da ga isprati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "preko Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:32.884020361Z",
+  "model": "glm-5.3"
+}

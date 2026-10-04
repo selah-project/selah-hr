@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I popi od vina, i opija se, i razotkri se usred šatora svojega.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "i popi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "i opija se"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "i razotkri se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "šatora svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:03.483146738Z",
+  "model": "glm-5.3"
+}

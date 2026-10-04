@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "I rekoh: samo da me tama prekrije, i noć — ⟨neka bude⟩ svjetlost oko mene.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tama"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "prekrije me"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noć"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "oko mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.254376053Z",
+  "model": "glm-5.3"
+}

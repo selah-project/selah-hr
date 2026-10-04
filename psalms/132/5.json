@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Dok ne nađem mjesto za Jahvu, prebivališta za Silnoga Jaakova.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok ne"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nađem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahvu"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "prebivališta"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "za Silnoga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.351164968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A sada čuvaj se, molim te: ne pij vina ni žestokoga pića i ne jedi ništa nečisto.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "pij"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "žestokoga pića"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "jedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ništa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:10.610311604Z",
+  "model": "glm-5.3"
+}

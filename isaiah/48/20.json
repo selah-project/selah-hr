@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 48:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Iziđite iz Babela, pobjegnite iz Kasdim; glasom radosti objavite, razglasite ovo, pronesite ⟨את⟩ to do kraja zemlje; recite: Otkupi Jahve ⟨את⟩ sluge svojega Jaakova!",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "Iziđite"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "iz Babela"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "pobjegnite"
+    },
+    {
+      "surface": "מכשדים",
+      "gloss": "iz Kasdim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasom"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "objavite"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "razglasite"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הוציאוה",
+      "gloss": "pronesite ⟨את⟩ to",
+      "marks": "ovo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "recite"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Otkupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sluge svojega Jaakova",
+      "marks": "sluge svojega Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:56.520734651Z",
+  "model": "glm-5.3"
+}

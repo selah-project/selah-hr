@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "⟨את⟩ koga će poučiti znanju, i ⟨את⟩ koga će naučiti razumjeti poruku? Onima otkoenima od mlijeka, odmaknutima od prsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koga"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "poučiti"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "znanju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "koga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "razumjeti"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "poruku"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "otkojenima"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "od mlijeka"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "odmaknutima"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "od prsa"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:22.302884575Z",
+  "model": "glm-5.3"
+}

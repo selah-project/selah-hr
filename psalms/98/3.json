@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Sjeti se heseda svojega i vjernosti svoje domu Jisraelovu; vidješe svi krajevi zemlje ⟨את⟩ spasenje Elohimova našega.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Sjeti se"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heseda svojega"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "i vjernosti svoje"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krajevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spasenje Elohimova našega"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "spasenje"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimova našega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:03.196732828Z",
+  "model": "glm-5.3"
+}

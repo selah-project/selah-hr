@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Vodio si svoj narod kao stado, rukom Mošeovom i Aharonovom.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "vodio si"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kao stado"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovom"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharonovom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:09.891072519Z",
+  "model": "glm-5.3"
+}

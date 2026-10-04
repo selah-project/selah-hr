@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A ako čovjek nađe u polju zaručenu ⟨את⟩ djevojku pa je čovjek zgrabi i legne s njom, tada neka umre samo onaj čovjek koji je legao s njom — on sam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaručenu djevojku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djevojku"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "zaručenu"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "zgrabi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "legne"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "neka umre"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "legao"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "on sam"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:47.813965477Z",
+  "model": "glm-5.3"
+}

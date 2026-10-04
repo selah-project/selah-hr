@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Kao ubojstvom u kostima mojim grde me protivnici moji, kad mi govore cijeli dan: Gdje je Elohim tvoj?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Kao ubojstvom"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "u kostima mojim"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "grde me"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "protivnici moji"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "kad govore"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Gdje"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:23.464002588Z",
+  "model": "glm-5.3"
+}

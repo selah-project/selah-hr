@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Za miris su tvoja ulja dobra, tvoje je ime kao ulje razliveno — zato te djjevojke ljube.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "za miris"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "tvoja ulja"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "razliveno"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "stoga"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "djjevojke"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ljube te"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:27.497094568Z",
+  "model": "glm-5.3"
+}

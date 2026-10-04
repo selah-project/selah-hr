@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dotače njome moja usta, i reče: Gle, ovo dotače tvoje usne — i uklonjena je tvoja krivnja, i tvoj grijeh je pokriven.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "i dotače"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotače"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tvoje usne"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "i uklonjena je"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tvoja krivnja"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "i tvoj grijeh"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "je pokriven"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:28.563769683Z",
+  "model": "glm-5.3"
+}

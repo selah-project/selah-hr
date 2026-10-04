@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 123,
+  "translation": "Smiluj nam se, Jahve, smiluj nam se, jer smo odveć siti prezira.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Smiluj nam se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "smiluj nam se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "odveć"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "smo siti"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "prezira"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:36.490538682Z",
+  "model": "glm-5.3"
+}

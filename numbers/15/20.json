@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Početak vašega tijesta, jednu halu, podignut ćete kao prinos uzdignuća; kao prinos gumna, tako je podignite ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "početak"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "vašega tijesta"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "halu"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "podignut ćete"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "prinos uzdignuća"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "kao prinos"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gumna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "podignite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (halu)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:59:58.035862298Z",
+  "model": "glm-5.3"
+}

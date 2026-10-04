@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Oprat ću u nevinosti ruke svoje i obilazit ću ⟨את⟩ žrtvenik tvoj, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Oprat ću"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "u nevinosti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "i obilazit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik tvoj"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "žrtvenik tvoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:04.006544838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 4:12",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Zato ću ovako učinititi tebi, Jisraele; i budući da ću ovo učinititi tebi, spremi se za susret Elohimu svome, Jisraele!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "budući"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "הכון",
+      "gloss": "spremi se"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "za susret"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:07.471771524Z",
+  "model": "glm-5.3"
+}

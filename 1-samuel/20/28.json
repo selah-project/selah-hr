@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A Jehonatan odgovori ⟨את⟩ Šaula: David me ponovno, žarko zamolio ⟨da ide⟩ do Bet-Lehema.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "žarko zamolio"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ponovno zamolio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehema"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:20.201004922Z",
+  "model": "glm-5.3"
+}

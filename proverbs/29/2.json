@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Kad je pravednika mnogo, narod se raduje; kad bezbožnik vlada, narod uzdiše.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kad je ... mnogo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "kad ... vlada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnik"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "uzdiše"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:54.324731772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A on reče: Tvoj sam glas čuo u vrtu i pobojah se, jer sam go, pa se sakrih.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj glas"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "tvoj glas"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sam čuo"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "u vrtu"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "i pobojah se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "go"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja ⟨sam⟩"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "pa se sakrih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.560179510Z",
+  "model": "glm-5.3"
+}

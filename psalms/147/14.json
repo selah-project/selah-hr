@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Onaj koji mirom čini tvoju među, sitom pšenice te nasiti.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "čini"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tvoju među"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mirom"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sitom"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "te nasiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.436528149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 5:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I čuše Pelešćani da su pomazali ⟨את⟩ Davida za kralja nad Jisraelom, pa podigoše svi Pelešćani da traže ⟨את⟩ Davida; a David doču ⟨to⟩ te siđe u tvrđavu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelešćani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "pomazali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "podigoše se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelešćani"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "da traže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a doču"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "te siđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "tvrđavu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:10.689211266Z",
+  "model": "glm-5.3"
+}

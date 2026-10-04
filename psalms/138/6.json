@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 138,
+  "translation": "Jer je uzvišen Jahve, a ponizna vidi, i ohologa izdaleka poznaje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רם",
+      "gloss": "uzvišen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "a ponizna"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "i ohologa"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "izdaleka"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "poznaje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.159150468Z",
+  "model": "glm-5.3"
+}

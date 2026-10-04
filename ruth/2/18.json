@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I ponijela je ⟨to⟩ i došla u grad, i vidje svekrva njezina ⟨את⟩ ono što je pokupila; i iznijela je i dala njoj ⟨את⟩ ono što joj je preostalo od sitosti.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "i ponijela je"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i došla je"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "i vidjela je"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "svekrva njezina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je pokupila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "je pokupila"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "i iznijela je"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "i dala je"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što joj je preostalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "preostalo joj je"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "od sitosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:24.646608015Z",
+  "model": "glm-5.3"
+}

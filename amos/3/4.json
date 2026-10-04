@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zar će lav rijati u šumi a da nema plijena? Zar će mladi lav dati svoj glas iz svoga brloga, osim ako nije što ulovio?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Zar će rijati"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lav"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "u šumi"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "a da nema plijena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨njemu⟩"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Zar će dati"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "mladi lav"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "iz svoga brloga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ulovio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:55.509999431Z",
+  "model": "glm-5.3"
+}

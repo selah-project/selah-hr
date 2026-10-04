@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I zapovjedi kralj ⟨את⟩ Joabu i ⟨את⟩ Abišaju i ⟨את⟩ Itaju govoreći: Nježno — zbog mene — s mladićem, s Avšalomom. I sav narod ču kad kralj zapovjedi ⟨את⟩ sve knezove o stvari Avšalomovoj.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Abišaja"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abišaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Itaja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itaju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nježno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zbog mene"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "s mladićem"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "s Avšalomom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ču"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "kad zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve knezove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:45.927675217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I pope se i izvidješe ⟨את⟩ zemlju od pustinje Cina do Rehova, do ulaza u Hamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "i pope se"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "i izvidješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "od pustinje"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Cina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehova"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "do ulaza"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "u Hamat"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:17.347118093Z",
+  "model": "glm-5.3"
+}

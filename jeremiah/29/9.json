@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer u laži oni prorokuju vama u ime moje; ja ih nisam poslao, riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "u laži"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prorokuju"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "u ime moje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "nisam ih poslao"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:38.901602223Z",
+  "model": "glm-5.3"
+}

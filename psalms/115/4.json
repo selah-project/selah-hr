@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Kumiri njihovi ⟨od⟩ srebra i zlata, djelo ruku čovječjih.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "kumiri njihovi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječjih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:47.518094090Z",
+  "model": "glm-5.3"
+}

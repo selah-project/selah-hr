@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "E, krv njezina nije bila unesena ⟨את⟩ u svetinju iznutra; jedite je zacijelo u svetinji, kao što sam zapovjedio.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "bila unesena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv njezina"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "krv njezina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinju"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "zacijelo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je ⟨את⟩",
+      "marks": "u svetinji"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetinji"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "sam zapovjedio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:57.430749183Z",
+  "model": "glm-5.3"
+}

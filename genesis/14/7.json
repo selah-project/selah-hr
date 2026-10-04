@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I vratiše se te dođoše k En-Mišpatu — to je Kadeš — i potkoše ⟨את⟩ sve polje Amalečana, i također ⟨את⟩ Emorejca koji je sjedio u Hacecon-Tamaru.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "I vratiše se"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "te dođoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mišpatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeš"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i potkoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve polje Amalečana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalečana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorejca"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejca"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "koji je sjedio"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "u Hacecon"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamaru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:14.911513410Z",
+  "model": "glm-5.3"
+}

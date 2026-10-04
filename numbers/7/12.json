@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bi onaj koji prinese prvoga dana ⟨את⟩ svoj prinos: Nahšon, sin Amminadavov, od plemena Jehudina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "onaj koji prinese"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj prinos"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svoj prinos"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahšon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadavov"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "od plemena"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:33.704843172Z",
+  "model": "glm-5.3"
+}

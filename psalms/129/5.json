@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "Neka se postide i neka uzmaknu natrag svi koji mrze Cion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "neka se postide"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "i neka uzmaknu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "koji mrze"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:09.142732493Z",
+  "model": "glm-5.3"
+}

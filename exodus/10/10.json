@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče im: Tako bio Jahve s vama kako ću vas ja pustiti, vas i vašu djecu! Gledajte — jer je zlo pred vašim licem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ću pustiti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "vašu djecu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vašu djecu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gledajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vašim licem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:01.894106679Z",
+  "model": "glm-5.3"
+}

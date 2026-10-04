@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pozva Moše sve starješine Jisraela pa im reče: Izvucite i uzmite sebi stada za svoje obitelji i zakoljite ⟨את⟩ Pésah.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "izvucite"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "i uzmite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stada"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "za svoje obitelji"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "i zakoljite"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésah"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:02.189377683Z",
+  "model": "glm-5.3"
+}

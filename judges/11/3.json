@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 11:3",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I pobježe Jiftah ispred braće svoje, i nastani se u zemlji Tov; i skupiše se k Jiftahu ljudi prazni, i izlažahu s njim.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braće svoje"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nastani se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tov"
+    },
+    {
+      "surface": "ויתלקטו",
+      "gloss": "skupiše se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftahu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "prazni"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "izlažahu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:33.062714022Z",
+  "model": "glm-5.3"
+}

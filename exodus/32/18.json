@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A on reče: nije to glas ⟨jauka⟩ junaka ni glas ⟨jauka⟩ pobijeđenih — glas pjesme ja čujem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "jauka"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "junaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "jauka"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "pobijeđenih"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "pjesme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "čujem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:33.037777239Z",
+  "model": "glm-5.3"
+}

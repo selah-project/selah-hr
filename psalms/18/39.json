@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Zdrobit ću ih i neće moći ustati, past će pod noge moje.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Zdrobit ću ih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "moći"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustati"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "past će"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "noge moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.536889705Z",
+  "model": "glm-5.3"
+}

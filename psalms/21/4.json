@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Jer ga srećeš blagoslovima dobrote, stavljaš na glavu njegovu krunu od čistoga zlata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "srećeš ga"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "blagoslovima"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrote"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "stavljaš"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "na glavu njegovu"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krunu"
+    },
+    {
+      "surface": "פז",
+      "gloss": "od čistoga zlata"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:27.535598566Z",
+  "model": "glm-5.3"
+}

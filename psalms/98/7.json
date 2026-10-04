@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Neka zagrmimore more i sve što je u njemu, svijet i stanovnici njegovi.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "zagrmimore"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i sve što je u njemu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijet"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "i stanovnici"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:52.273031674Z",
+  "model": "glm-5.3"
+}

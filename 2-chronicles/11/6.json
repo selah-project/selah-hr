@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I sagradi ⟨את⟩ Bet-Lehem i ⟨את⟩ Etam i ⟨את⟩ Tekou.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Lehem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Tekou"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekou"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:57.741026288Z",
+  "model": "glm-5.3"
+}

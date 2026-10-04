@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "I neka se vrate uvečer, neka laju kao pas i necešće kruže oko grada.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "i neka se vrate"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "uvečer"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "neka laju"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kao pas"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "i neka kruže"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "oko grada"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:34.922174107Z",
+  "model": "glm-5.3"
+}

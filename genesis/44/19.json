@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Gospodar moj pitao je ⟨את⟩ sluge svoje govoreći: Ima li vas otac ili brat?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Gospodar moj"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pitao je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otac"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brat"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:45.891463709Z",
+  "model": "glm-5.3"
+}

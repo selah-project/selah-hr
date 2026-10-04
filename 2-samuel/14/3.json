@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I uđi kralju i govori mu po ovim riječima.” I Joab stavi ⟨את⟩ riječi u njezina usta.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨kralju⟩"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječima"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovim"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "u njezina usta"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:16.125931590Z",
+  "model": "glm-5.3"
+}

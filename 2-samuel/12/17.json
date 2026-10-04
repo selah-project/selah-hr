@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ustaše starješine njegova doma nad njim da ga podignu sa zemlje, ali on ne htje, i nije jeo s njima ⟨את⟩ kruha.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i ustaše"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegova doma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "da ga podignu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "htje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "jeo je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:33.570317873Z",
+  "model": "glm-5.3"
+}

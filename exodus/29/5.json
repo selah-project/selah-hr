@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I uzet ćeš ⟨את⟩ odijela i obući ćeš ⟨את⟩ Aharona: ⟨את⟩ haljinu, ⟨את⟩ ogrtač efoda, ⟨את⟩ efod i ⟨את⟩ naprsnik, te ćeš mu opasati pojas efoda.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odijela"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "odijela"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "i obući ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljinu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "haljinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ogrtač efoda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ogrtač"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naprsnik"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "naprsnik"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "i opasat ćeš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "pojas"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:45.385632727Z",
+  "model": "glm-5.3"
+}

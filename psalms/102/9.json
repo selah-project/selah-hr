@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Sav dan me sramote dušmani moji, oni koji bijesne protiv mene na me se zakleše.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "sramote me"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dušmani moji"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "oni koji bijesne"
+    },
+    {
+      "surface": "בי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "zakleše se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.141377204Z",
+  "model": "glm-5.3"
+}

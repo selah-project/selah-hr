@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "govoreći: \"Tebi ću dati ⟨את⟩ zemlju Kenaan, uže baštine vaše.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću dati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "uže"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "baštine vaše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:43.831838484Z",
+  "model": "glm-5.3"
+}

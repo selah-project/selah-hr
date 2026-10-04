@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Misli pravednika ⟨jesu⟩ pravo, a lukavštine zlih ⟨jesu⟩ prijevara.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "misli"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "lukavštine"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:23.262612714Z",
+  "model": "glm-5.3"
+}

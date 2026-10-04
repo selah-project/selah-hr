@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Jer ti si Jahve, Elijon nad svom zemljom, veoma si uzvišen nad svim bogovima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "uzvišen si"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:50.587145059Z",
+  "model": "glm-5.3"
+}

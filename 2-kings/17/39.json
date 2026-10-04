@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Nego Jahvu, Elohim vaš, bojte se, i on će izbaviti ⟨את⟩ vas iz ruke svih vaših neprijatelja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "će izbaviti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vaših neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:31.982041842Z",
+  "model": "glm-5.3"
+}

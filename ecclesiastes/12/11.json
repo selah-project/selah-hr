@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Riječi mudraca su kao bodlje i kao ◊čavli◊ zabijeni ⟨od⟩ gospodara zborova; dani su od jednoga pastira.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mudraca"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "kao bodlje"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "i kao ◊čavli◊"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "zabijeni"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "gospodara"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "zbora"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dani su"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "od pastira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:19.665694932Z",
+  "model": "glm-5.3"
+}

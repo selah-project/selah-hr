@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Bogatat vlada nad siromasima, a dužnik je rob čovjeku koji posuđuje.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Bogatat"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "nad siromasima"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "vlada"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a rob"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "dužnik"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "koji posuđuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:32.668666929Z",
+  "model": "glm-5.3"
+}

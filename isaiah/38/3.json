@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "i reče: Ah, Jahve, spomeni se ⟨את⟩ kako sam hodio pred tobom u vjernosti i srcem cijelim, i što je dobro u očima tvojim činio sam. I zaplaka Hizkija plačem velikim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "spomeni se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kako sam hodio… činio sam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "sam hodio"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "u vjernosti"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "i srcem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "cijelim"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "i što je dobro"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u očima tvojim"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "činio sam"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zaplaka"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plačem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:45.661702292Z",
+  "model": "glm-5.3"
+}

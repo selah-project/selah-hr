@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ustadoše njegovi sluge i sklopiše urotu, i udariše ⟨את⟩ Joaša u kući Milo, na silazu prema Sili.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i ustadoše"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "njegovi sluge"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "i sklopiše"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "urotu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaša"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaša"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "silazu"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sili"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:54.379934990Z",
+  "model": "glm-5.3"
+}

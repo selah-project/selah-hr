@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dogodi se ujutro, pri uznošenju mine, i gle: voda dolazi putem Edoma, i napuni se zemlja ⟨את⟩ vodom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "pri uznošenju"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mine"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napuni se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodom"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:57.014842092Z",
+  "model": "glm-5.3"
+}

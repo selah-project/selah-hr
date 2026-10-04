@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I kaza mu Mordekaj sve što ga zadesi, i ⟨את⟩ točan iznos srebra koji je Human rekao izvagati u riznice kraljeve, u vezi s Judejcima, da ih uništi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i kaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što ga zadesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "ga zadesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "iznos srebra"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "iznos"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Human"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "izvagati"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "riznice"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "u vezi s Judejcima"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "da ih uništi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:14.550409182Z",
+  "model": "glm-5.3"
+}

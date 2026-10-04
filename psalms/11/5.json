@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Jahve ispituje pravednika, a bezbožnika i onoga koji ljubi nasilje mrzi duša njegova.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ispituje"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "a bezbožnika"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "i onoga koji ljubi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "mrzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "duša njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:01.416018923Z",
+  "model": "glm-5.3"
+}

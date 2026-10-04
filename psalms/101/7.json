@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Neće stanovati usred doma mojega tko čini prijevaru; tko govori laži neće se održati pred očima mojim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stanovati će"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "doma mojega"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prijevaru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tko govori"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "laži"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "održat će se"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "očima mojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:28.638365845Z",
+  "model": "glm-5.3"
+}

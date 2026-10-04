@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "A vi, ostavljači Jahvea, zaboravljači ⟨את⟩ brdo svetosti moje, koji postavljate stol Gadu i napunjavate mješavinu Meniju.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "ostavljači"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "zaboravljači"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brdo svetosti moje"
+    },
+    {
+      "surface": "הר",
+      "gloss": "brdo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svetosti moje"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "koji postavljate"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gadu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "i napunjavate"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Meniju"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mješavinu vina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:03.793966297Z",
+  "model": "glm-5.3"
+}

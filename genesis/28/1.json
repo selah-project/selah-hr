@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I Jicak zovnu Jaakova i blagoslovi ⟨את⟩ njega, i zapovjedi mu, i reče mu: Ne uzimaj žene od kćeri Kenaana.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zovnu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "zapovjedi mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzimaj"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "od kćeri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:55.075141547Z",
+  "model": "glm-5.3"
+}

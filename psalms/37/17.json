@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer ruke će se zloćâca slomiti, a Jahve podupire pravednike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zloćâca"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "slomiti će se"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "a podupire"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:46.814811334Z",
+  "model": "glm-5.3"
+}

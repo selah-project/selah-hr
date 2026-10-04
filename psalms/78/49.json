@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Posla na njih žar gnjeva svojega, ogorčenost i srdžbu i tjeskobu — odasiljanje poslanika zlih.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Posla"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "žar"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gnjeva svojega"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ogorčenost"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "i srdžbu"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "i tjeskobu"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "odasiljanje"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "poslanika"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zlih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:20.310158694Z",
+  "model": "glm-5.3"
+}

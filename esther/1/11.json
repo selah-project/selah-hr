@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "da dovedu ⟨את⟩ kraljicu Vašti pred kralja s krunom kraljevstva, da pokažu narodima i knezovima ⟨את⟩ njezinu ljepotu, jer je lijepa izgleda bila.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "da dovedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljicu Vašti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljicu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "s krunom"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "da pokažu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "i knezovima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezinu ljepotu"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "njezinu ljepotu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "lijepa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "izgleda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bila"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:42.028551218Z",
+  "model": "glm-5.3"
+}

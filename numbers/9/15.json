@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "U dan podizanja ⟨את⟩ Miškana oblak je prekrio ⟨את⟩ Miškan, šator Svjedočanstva, i uvečer bijaše nad Miškanom kao privid ognja, sve do jutra.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "podizanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "prekrio"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstva"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "i uvečer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškanom"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kao privid"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:16.122701549Z",
+  "model": "glm-5.3"
+}

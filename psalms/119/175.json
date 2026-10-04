@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Neka živi duša moja i slavi tebe, a sudovi tvoji neka mi pomognu.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "neka živi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "i slavi tebe"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "a sudovi tvoji"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "neka mi pomognu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:04.236534439Z",
+  "model": "glm-5.3"
+}

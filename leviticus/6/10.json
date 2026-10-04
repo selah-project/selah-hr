@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ne smije se peći kvasno; kao njihov dio dao sam ⟨את⟩ nje iz svojih ognjenih prinosa; svet nad svetima ona je, kao žrtva za grijeh i kao žrtva za krivnju.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "smije se peći"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvasno"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "kao njihov dio"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nje"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "iz svojih ognjenih prinosa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kao žrtva za grijeh"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "i kao žrtva za krivnju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:36.666981479Z",
+  "model": "glm-5.3"
+}

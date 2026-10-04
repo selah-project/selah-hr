@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Kao mjesec utvrđen ⟨je⟩ zauvijek, i ⟨kao⟩ svjedok vjeran u oblacima. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "kao mjesec"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "utvrđen ⟨je⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i svjedok"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "u oblacima"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "vjeran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:31.369390920Z",
+  "model": "glm-5.3"
+}

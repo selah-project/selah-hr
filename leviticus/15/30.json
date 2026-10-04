@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I svećenik će jednu ⟨את⟩ učiniti žrtvom za grijeh, a jednu ⟨את⟩ žrtvom paljenicom, i svećenik će izmoliti pomirenje za nju pred Jahvom zbog tečenja nečistoće njezine.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i učinit će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "žrtvom za grijeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jednu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "žrtvom paljenicom"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i izmolit će pomirenje"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "za nju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "zbog tečenja"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "nečistoće njezine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:58.502577542Z",
+  "model": "glm-5.3"
+}

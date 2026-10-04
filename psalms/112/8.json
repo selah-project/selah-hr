@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 112,
+  "translation": "Učvršćeno srce njegovo — neće se bojati dok ne pogleda ⟨na⟩ svoje protvinike.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "učvršćeno"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce njegovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "će se bojati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": " pogleda"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "svoje protvinike"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.308147241Z",
+  "model": "glm-5.3"
+}

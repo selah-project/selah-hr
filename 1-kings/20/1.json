@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ben-Hadad, kralj Arama, skupi ⟨את⟩ svu svoju vojsku, a s njim trideset i dva kralja, konje i bojna kola; i pope se i opsjede Šomron, i bije se protiv ⟨את⟩ njega.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu svoju vojsku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "svoju vojsku"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "konje"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "bojna kola"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "pope se"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "opsjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "bije se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "protiv njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:06.965061668Z",
+  "model": "glm-5.3"
+}

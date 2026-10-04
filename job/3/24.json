@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer umjesto mojega kruha dolazi moj uzdah, i kao voda izlijevaju se moji krici.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "umjesto (pred)"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mojega kruha"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "moj uzdah"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "i izlijevaju se"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao voda"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "moji krici"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:49.723203649Z",
+  "model": "glm-5.3"
+}

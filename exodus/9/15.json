@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer sada bih poslao ⟨את⟩ svoju ruku i udario ⟨את⟩ tebe i ⟨את⟩ tvoj narod zarazom, i bio bi istrijebljen sa zemlje —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "bih poslao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "i udario"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj narod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvoj narod"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "zarazom"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "bio bi istrijebljen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:51.784438579Z",
+  "model": "glm-5.3"
+}

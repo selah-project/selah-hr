@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 150,
+  "translation": "Hvalite ga u tofu i plesu, hvalite ga u žicama i ugavu!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "u tofu"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "i plesu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "u žicama"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "i ugavu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:34.380330181Z",
+  "model": "glm-5.3"
+}

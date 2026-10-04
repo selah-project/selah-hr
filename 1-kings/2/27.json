@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Tako Šelomo otjera ⟨את⟩ Evjatara da ne bude svećenik Jahvi, da se ispuni ⟨את⟩ riječ Jahvina koju izreče o domu Elijevu u Šilu.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "otjera"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evjatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "da ne bude"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "da se ispuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izreče"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijevu"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "u Šilu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:40.870859181Z",
+  "model": "glm-5.3"
+}

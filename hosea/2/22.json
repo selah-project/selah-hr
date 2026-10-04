@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zaručit ću te sebi u vjernosti, i spoznat ćeš ⟨את⟩ Jahvu.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "zaručit ću te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "u vjernosti"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "i spoznat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:20.753090028Z",
+  "model": "glm-5.3"
+}

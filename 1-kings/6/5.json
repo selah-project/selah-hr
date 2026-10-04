@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I nadzida uz zid kuće η⟨pristanak⟩ prizidan prostor unaokolo, ⟨את⟩ zidove kuće unaokolo, hekalu i Deviru; i načini bočne odaje unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i nadzida"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "zid"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "prizidan prostor"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zidove kuće"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "zidove"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "hekalu"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "i Deviru"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "bočne odaje"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:28.836674471Z",
+  "model": "glm-5.3"
+}

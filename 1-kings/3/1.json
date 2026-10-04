@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I oženji se Šelomoh s Faraonom, kraljem Micrajima, i uze ⟨את⟩ kćer Faraonovu te je dovede u grad Davidov, dok ne svrši graditi ⟨את⟩ svoj dom i ⟨את⟩ dom Jahvin i ⟨את⟩ zid Jerušalajima unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "oženji se"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kćer Faraonova"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "dovede je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ne svrši"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zid Jerušalajima"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:41.316784271Z",
+  "model": "glm-5.3"
+}

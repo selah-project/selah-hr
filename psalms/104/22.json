@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Izasvane sunce, oni se skupe i u spilišta svoja legnu.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "izasvane"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "skupe se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i u"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "spilišta svoja"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "legnu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:00.591274529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I motrio je Šaul ⟨očima⟩ ⟨את⟩ Davida od toga dana i dalje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨očima⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "togа"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "i dalje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:49.577070791Z",
+  "model": "glm-5.3"
+}

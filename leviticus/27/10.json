@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ne smije je zamijeniti ni podmijeniti ⟨את⟩ nje — dobro za zlo ili zlo za dobro; a ako ipak podmijeni životinu za životinu, onda će ⟨on⟩ i njezina zamjena biti sveto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "smije je zamijeniti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "podmijeniti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nje"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "za zlo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "za dobro"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ipak podmijeni"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "podmijeni"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "životinju"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "za životinju"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "onda će"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "i njezina zamjena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:59.401730164Z",
+  "model": "glm-5.3"
+}

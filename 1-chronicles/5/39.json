@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I Šalum rodi ⟨את⟩ Hilikiju, a Hilikija rodi ⟨את⟩ Azarju.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "I Šalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilikiju"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilikiju"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "a Hilikija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarju"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:11.270282351Z",
+  "model": "glm-5.3"
+}

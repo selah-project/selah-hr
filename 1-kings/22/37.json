@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I umrije kralj, i dođe u Šomron, te pokopaše ⟨את⟩ kralja u Šomronu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "u Šomron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pokopaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "u Šomronu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:59.566131266Z",
+  "model": "glm-5.3"
+}

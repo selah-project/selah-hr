@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dogodi se nakon smrti Šaulove: David se vratio iz pobijanja ⟨את⟩ Amaleka i ostade u Ciklagu dva dana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulove"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vratio se"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "iz pobijanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i ostade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "u Ciklagu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:39.419419162Z",
+  "model": "glm-5.3"
+}

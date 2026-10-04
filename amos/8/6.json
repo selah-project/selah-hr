@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "da kupimo srebrom ⟨את⟩ slabe i ⟨את⟩ siromaha za sandale, i otpad od žita da prodajemo.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "da kupimo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "srebrom"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "slabe"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i siromaha"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "za"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sandale"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "i otpad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "od žita"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "da prodajemo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:47.959287786Z",
+  "model": "glm-5.3"
+}

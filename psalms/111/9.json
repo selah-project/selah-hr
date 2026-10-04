@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Otkupljenje posla svojem narodu, zauvijek zapovjedi svoj savez; sveto i strašno ime je njegovo.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "otkupljenje"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svojem narodu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svoj savez"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sveto"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "i strašno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime je njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:22.963404436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Ovo je naraštaj onih koji ga traže, koji traže lice tvoje — Jaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "koji ga traže"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "koji traže"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.751478154Z",
+  "model": "glm-5.3"
+}

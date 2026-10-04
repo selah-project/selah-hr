@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ču David te posla ⟨את⟩ Joaba i ⟨את⟩ svu vojsku, junake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I ču"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu vojsku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "junake"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:41.715290226Z",
+  "model": "glm-5.3"
+}

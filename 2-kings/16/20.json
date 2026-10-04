@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I Ahaz počinu s ocima svojim, i bijaše pokopan s ocima svojim u gradu Davidovu, i kraljevao je Hizkijahu, sin njegov, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i počinu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i bijaše pokopan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i kraljevao je"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:52.557163375Z",
+  "model": "glm-5.3"
+}

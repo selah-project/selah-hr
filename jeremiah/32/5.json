@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I Babilon će odvesti ⟨את⟩ Sidkiju, i tamo će biti dok ga pohodim — riječ Jahvina; jer ako se budete borili ⟨את⟩ protiv Kaldejaca, nećete uspjeti.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "i Babilon"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "će odvesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidkiju"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiju"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i tamo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "pohodim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Sidkija (na njemu)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "budete se borili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ protiv"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kaldejaca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "ćete uspjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:30:23.251074587Z",
+  "model": "glm-5.3"
+}

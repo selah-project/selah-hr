@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Zborovođi, mizmor Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:26.402300872Z",
+  "model": "glm-5.3"
+}

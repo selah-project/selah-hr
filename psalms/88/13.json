@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Hoće li se u tami znati za tvoja čudesa, i tvoj cedek u zemlji zaborava?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "hoće li se znati"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "u tami"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "tvoja čudesa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "i tvoj cedek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "zaborava"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:17.625794222Z",
+  "model": "glm-5.3"
+}

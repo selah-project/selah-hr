@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Dio kao dio neka jedu, osim onoga ⟨ što je dobiveno ⟩ od prodaje njegove očevine, po očinskim kućama.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "dio"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "kao dio"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "neka jedu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "od prodaje njegove očevine"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "očinskim kućama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:55.324527696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Sjeti se ⟨את⟩ onoga što učini Jahve, Elohim tvoj, Mirjami, na putu, kad ste izlazili iz Micrajima.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sjeti se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga što učini Jahve Mirjami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Mirjami"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "kad ste izlazili"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:02.305017573Z",
+  "model": "glm-5.3"
+}

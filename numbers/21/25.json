@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I uze Jisrael ⟨את⟩ sve te gradove, i nastani se Jisrael u svim gradovima Amorejaca, u Hešbonu i u svim njegovim kćerima.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve te gradove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i nastani se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradovima"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorejaca"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "u Hešbonu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i u svim"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "njegovim kćerima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:17.342148108Z",
+  "model": "glm-5.3"
+}

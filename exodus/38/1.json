@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I načini ⟨את⟩ žrtvenik paljenice od drva šitim: pet lakata njegova duljina i pet lakata njegova širina, pravokutan, i tri lakata njegova visina.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik paljenice"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova duljina"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pravokutan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "njegova visina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:03.614713400Z",
+  "model": "glm-5.3"
+}

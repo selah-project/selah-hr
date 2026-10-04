@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Ja sam Jahve, Elohim vaš, koji sam ⟨את⟩ vas izveo iz zemlje micrajske da vam dam ⟨את⟩ zemlju kanaansku, da budem vam Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "sam izveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da dam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju kanaansku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kanaansku"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da budem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:40.378397889Z",
+  "model": "glm-5.3"
+}

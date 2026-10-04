@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Prednjače pjevači, za njima svirači, usred djevojaka što bubnjaju u bubnjeve.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "prednjače"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pjevači"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za njima"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "svirači"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "djevojaka"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "što bubnjaju u bubnjeve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:58.415461088Z",
+  "model": "glm-5.3"
+}

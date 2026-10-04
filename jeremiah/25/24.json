@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "i ⟨את⟩ sve kraljeve Arava i ⟨את⟩ sve kraljeve miješanoga naroda koji prebivaju u pustinji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kraljeve Arava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kraljeve miješanoga naroda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "miješanoga naroda"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "koji prebivaju"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:42.958863403Z",
+  "model": "glm-5.3"
+}

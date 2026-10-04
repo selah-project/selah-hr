@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 93,
+  "translation": "Tvoja svjedočanstva čvrsto su potvrđena veoma; domu tvomu priliči svetost, o Jahve, za dugu vremena dana.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Tvoja svjedočanstva"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "čvrsto su potvrđena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "domu tvomu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "priliči"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "za dugu vremena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:55.402259683Z",
+  "model": "glm-5.3"
+}

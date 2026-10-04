@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I sav će narod čuti i bojati se, i neće više oholiti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "će čuti"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i bojati se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "oholiti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:15.410844744Z",
+  "model": "glm-5.3"
+}

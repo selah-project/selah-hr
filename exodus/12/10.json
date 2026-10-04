@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ne ostavljajte ništa od njega do jutra; što se ostane od njega do jutra, u oganju sažegnite.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ostavljajte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "što se ostane"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganju"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "sažegnite"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:37.950743011Z",
+  "model": "glm-5.3"
+}

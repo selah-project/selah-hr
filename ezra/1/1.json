@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 1:1",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I u prvoj godini Koreša, kralja Parasa, da se ispuni riječ Jahvina iz usta Jirmijahinih, probudi Jahve ⟨את⟩ duh (ruah) Koreša, kralja Parasa, te dade proći glas po svoj kraljevini svojoj, a i u pismu, rekavši:",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "I u prvoj godini"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "prvoj (jednoj)"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Koreša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasa"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "da se ispuni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz usta"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmijahinih"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "probudi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duh (ruah) Koreša"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh (ruah)"
+    },
+    {
+      "surface": "כרש",
+      "gloss": "Koreša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "te dade proći"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kraljevini svojoj"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "במכתב",
+      "gloss": "u pismu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    }
+  ],
+  "timestamp": "2026-10-04T19:53:31.462735615Z",
+  "model": "glm-5.3"
+}

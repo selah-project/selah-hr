@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 4:2",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pristupiše Zerubavelu i glavarima otaca te im rekoše: Da gradimo s vama, jer kao vi tražimo vašega Elohima, i ne prinosimo žrtava od dana Asar-Hadona, kralja Ašura, koji nas je doveo ovamo.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "i pristupiše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavelu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarima"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "otaca"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "te rekoše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "da gradimo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kao vi"
+    },
+    {
+      "surface": "נדרוש",
+      "gloss": "tražimo"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "vašega Elohima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "prinosimo žrtava"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "od dana"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Asar-"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "Hadona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "koji je doveo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nas"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovamo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:54:29.539732129Z",
+  "model": "glm-5.3"
+}

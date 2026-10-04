@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Mnoge su nevolje pravednika, ali ih Jahve iz svih njih izbavlja.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Mnoge"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "nevolje"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "iz svih njih"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "izbavlja ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:50.758509635Z",
+  "model": "glm-5.3"
+}

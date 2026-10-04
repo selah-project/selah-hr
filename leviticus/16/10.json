@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "A jarac na kojega je ispao goral za Azazel neka stane živ pred Jahvom, da se njime izvrši kippur, i da ga pošalje Azazelu u pustinju.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "a jarac"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kojega"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je ispao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goral"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "za Azazel"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "neka stane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se izvrši kippur"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "da pošalje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (jarca)"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azazelu"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "u pustinju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:58.773151897Z",
+  "model": "glm-5.3"
+}

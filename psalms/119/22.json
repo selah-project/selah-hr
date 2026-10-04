@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Otkotrljaj sa mene sramotu i prijezir, jer tvoje propovijedi čuvah.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Otkotrljaj"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sa mene"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sramotu"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "i prijezir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvoje propovijedi"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "čuvah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:51.228571378Z",
+  "model": "glm-5.3"
+}

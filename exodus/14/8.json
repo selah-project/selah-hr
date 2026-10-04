@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I Jahve otvrdnu ⟨את⟩ srce Paroa, kralja Micrajima, te on gonjaše za sinovima Jisraelovim, a sinovi Jisraelovi izlažahu podignute ruke.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "otvrdnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "gonjaše"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "izlažahu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "podignute ruke"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "podignute"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:44.049220572Z",
+  "model": "glm-5.3"
+}

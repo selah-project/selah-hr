@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Jahve njemu: Nadjenu mu ime Jizreel, jer još malo pa ću kazniti ⟨את⟩ krv Jizreela na domu Jehujevu i ukinut ću kraljevstvo doma Jisraelova.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Nadjenu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mu ime"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "pa ću kazniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv Jizreela"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krv"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehujevu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "i ukinut ću"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:31.558912884Z",
+  "model": "glm-5.3"
+}

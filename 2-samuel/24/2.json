@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I reče kralj Joabu, zapovjedniku vojske koji bijaše s njim: Prođi, molim, svim plemenima Jisraela od Dana do Beer Ševe i prebrojite ⟨את⟩ narod, da poznam broj ⟨את⟩ naroda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjedniku"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "prođi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemenima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Dana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševe"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "i prebrojite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "da poznam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "broj naroda"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "broj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.595564909Z",
+  "model": "glm-5.3"
+}

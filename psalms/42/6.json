@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Zašto si potištena, dušo moja, i zašto hučiš nada mnom? Čekaj Elohima, jer ću ga još slaviti: on je spasenje lica mojega.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "potištena si"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušo moja"
+    },
+    {
+      "surface": "وתהמי",
+      "gloss": "i hučiš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada mnom"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "čekaj"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "slavit ću ga"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "spasenje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lica njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:40.308689297Z",
+  "model": "glm-5.3"
+}

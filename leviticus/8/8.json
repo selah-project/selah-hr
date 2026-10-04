@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I stavi na njega ⟨את⟩ naprsnik, i postavi uz ⟨את⟩ naprsnik ⟨את⟩ Urim i ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naprsnik"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "naprsnik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "naprsnik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:43.283244323Z",
+  "model": "glm-5.3"
+}

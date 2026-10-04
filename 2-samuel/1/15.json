@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dozva David jednoga od mladića i reče: Pristupi, udari ga. I udari ga, te umrije.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i dozva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "od mladića"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "גש",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "udari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i udari ga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:54.295530230Z",
+  "model": "glm-5.3"
+}

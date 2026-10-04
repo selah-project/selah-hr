@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I uzeše Plještijci ⟨את⟩ kovčeg Elohimov, unesoše ga u dom Daguna i postaviše ga uz Daguna.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "I uzeše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plještijci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "unesoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (kovčeg)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daguna"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "i postaviše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (kovčeg)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daguna"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:00.404691598Z",
+  "model": "glm-5.3"
+}

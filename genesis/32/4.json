@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I posla Jaakov glasnike pred sobom svome bratu Esavu, u zemlju Seir, u polje Edoma.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred sobom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svome bratu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:45.781205301Z",
+  "model": "glm-5.3"
+}

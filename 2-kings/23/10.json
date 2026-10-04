@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I oskvrnu ⟨את⟩ Tofet, koji je u dolini sinova Hinomovih, da nitko ne bi provodio čovjek ⟨את⟩ svoga sina i ⟨את⟩ svoju kćer kroz oganj Molohu.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "i oskvrnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "u dolini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomovih"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "provodio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju kćer"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "svoju kćer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kroz oganj"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molohu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:42.894090388Z",
+  "model": "glm-5.3"
+}

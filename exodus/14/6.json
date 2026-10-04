@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I upregnu ⟨את⟩ svoja kola, i ⟨את⟩ svoj puk povede sa sobom.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "upregnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja kola"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "svoja kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj puk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoj puk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "povede"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa sobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:44.048924700Z",
+  "model": "glm-5.3"
+}

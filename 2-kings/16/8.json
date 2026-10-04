@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I uze Ahaz ⟨את⟩ srebro i ⟨את⟩ zlato nađeno u domu Jahvinu i u riznicama doma kraljeva, te posla kralju Asirije mito.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nađeno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "i u riznicama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirije"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mito"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:56.152748362Z",
+  "model": "glm-5.3"
+}

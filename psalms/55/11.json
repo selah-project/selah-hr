@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Danju i noću obilaze na njezinim zidinama, a bezakonje i nevolja u sredini njezinoj.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noću"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "obilaze"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "njezinim zidinama"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "a bezakonje"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "i nevolja"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "u sredini njezinoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.915128735Z",
+  "model": "glm-5.3"
+}

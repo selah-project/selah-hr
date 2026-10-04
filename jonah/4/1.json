@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I bi zlo Joni, zlo veliko, i on se rasrdi.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "bi zlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Joni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i rasrdi se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:17.712508810Z",
+  "model": "glm-5.3"
+}

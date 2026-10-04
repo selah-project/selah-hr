@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Čuo sam ⟨את⟩ mrmljanje sinova Jisraelovih; govori njima i reci: U sumrak jest ćete meso, a ujutro najest ćete se kruha — i znat ćete da sam ja Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrmljanje sinova Jisraelovih"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "mrmljanje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sumrak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jest ćete"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a ujutro"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "najest ćete se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i znat ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:03.474985554Z",
+  "model": "glm-5.3"
+}

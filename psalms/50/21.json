@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Ovo si učinio, a ja sam šutio; umislio si da sam ⟨takav⟩ kao ti — ukorit ću te i razložit ću ⟨to⟩ pred očima tvojim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "a ja sam šutio"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "umislio si"
+    },
+    {
+      "surface": "היות",
+      "gloss": "da sam"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨takav⟩"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao ti"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ukorit ću te"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "i razložit ću"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "pred očima tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:54.205845656Z",
+  "model": "glm-5.3"
+}

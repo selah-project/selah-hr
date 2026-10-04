@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "dan kad si stajao pred Jahvom, svojim Elohimom, na Horevu, kad mi reče Jahve: Saberi mi narod i daj im da čuju ⟨את⟩ moje riječi, da ih nauče bojati me se sve dane koje budu živi na zemlji, i da nauče ⟨את⟩ svoje sinove.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "si stajao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svojim Elohimom"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horevu"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kad reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Saberi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "i daj im da čuju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje riječi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ih"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "nauče"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "bojati me se"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene (objekt straha)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "nauče"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:03.951239295Z",
+  "model": "glm-5.3"
+}

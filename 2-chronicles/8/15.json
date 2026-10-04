@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ne odstupiše od zapovijedi kraljeve svećenici ni leviti, ni u kojemu predmetu, ni za riznice.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "odstupiše"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "od zapovijedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "על",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ni leviti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ni u kojemu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "predmetu"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ni za riznice"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:15.975120235Z",
+  "model": "glm-5.3"
+}

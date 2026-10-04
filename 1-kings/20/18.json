@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče: Ako su izišli za mir, uhvatite ih žive; a ako su izišli za boj, žive ih uhvatite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mir"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "su izišli"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "uhvatite ih"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za boj"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "su izišli"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ih uhvatite"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:07.212381462Z",
+  "model": "glm-5.3"
+}

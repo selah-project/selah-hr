@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 23:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I poduze svoju prispodobu i reče: Iz Arama vodi me Balak, kralj moapski, s gora istoka: Dođi, prokuni mi Jaakova, dođi, pogrdi Jisrael.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "poduze"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "svoju prispodobu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "vodi me"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapski"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "s gora"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "istoka"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "prokuni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "pogrdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:30.513306096Z",
+  "model": "glm-5.3"
+}

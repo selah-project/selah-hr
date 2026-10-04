@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Popusti od srdžbe i ostavi jarost; ne usijavaj se, samo zlu nauditi.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Popusti"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "od srdžbe"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "i ostavi"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "jarost"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "usijavaj se"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "zlu nauditi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:20.815414785Z",
+  "model": "glm-5.3"
+}

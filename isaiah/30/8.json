@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Sada dođi, zapiši to ⟨את⟩ s njima na ploču i ureži u knjigu, i neka bude za dan posljednji, za svjedočanstvo ⟨u budućnost⟩, dovijeka.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sada"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "zapiši"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ploču"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "u knjigu"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ureži"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i neka bude"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "posljednji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za svjedočanstvo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:17.825682603Z",
+  "model": "glm-5.3"
+}

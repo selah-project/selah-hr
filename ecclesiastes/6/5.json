@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer sunce nije vidio ni upoznao ⟨ga⟩; više mira ima ovaj negoli onaj.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "upoznao"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "negoli onaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:50.336617715Z",
+  "model": "glm-5.3"
+}

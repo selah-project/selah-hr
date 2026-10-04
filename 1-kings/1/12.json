@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A sada idi, savjetovat ću te, molim, savjetom, i izbavi život svoj i život sina svojega Šaloma.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "savjetovat ću te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "savjetom"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "i izbavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život svoj"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "život svoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "život sina"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šaloma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.653428431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I ne htjedoste uzći, nego se pobuniste protiv ⟨את⟩ usta Jahve, Elohim vašega.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "htjedoste"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "uzći"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "pobuniste se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta Jahvina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:25.605595327Z",
+  "model": "glm-5.3"
+}

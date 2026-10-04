@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Jer dok sam šutio, kosti su mi izjedoše se od mojega stenjanja cijeli dan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "dok sam šutio"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "izjedoše se"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "kosti moje"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "od mojega stenjanja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:23.153139343Z",
+  "model": "glm-5.3"
+}

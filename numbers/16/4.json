@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ču Moše, i pade na lice svoje.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i pade"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:32.642610481Z",
+  "model": "glm-5.3"
+}

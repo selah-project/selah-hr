@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I svaki sitni let ptica nečist je vama — ne smije se jesti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sitni let"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "smije se jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:15.301008562Z",
+  "model": "glm-5.3"
+}

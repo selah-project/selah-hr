@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I dogodi se poslije toga, te umrije Nahash, kralj sinova Amonovih, i zakralji se njegov sin umjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "te umrije"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i zakralji se"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "umjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:27.021055517Z",
+  "model": "glm-5.3"
+}

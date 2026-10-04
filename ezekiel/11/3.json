@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "koji govore: nije blizu ⟨je⟩; gradimo kuće! On ⟨je⟩ lonac, a mi smo meso.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "koji govore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "blizu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gradimo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "היא",
+      "gloss": "on ⟨je⟩"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "lonac"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi smo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    }
+  ],
+  "timestamp": "2026-10-04T18:39:09.028352381Z",
+  "model": "glm-5.3"
+}

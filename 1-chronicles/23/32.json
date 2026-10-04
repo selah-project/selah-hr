@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I neka čuvaju ⟨את⟩ stražu šatora određenoga vremena i ⟨את⟩ stražu Svetišta, i stražu sinova Ahrona, svoje braće, za službu doma Jahvina.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "i neka čuvaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stražu šatora određenoga vremena"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stražu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "određenoga vremena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stražu Svetišta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stražu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Svetišta"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "i stražu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "svoje braće"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "za službu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T20:05:27.853410732Z",
+  "model": "glm-5.3"
+}

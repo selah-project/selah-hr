@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Čuvaj, drži ⟨את⟩ zapovijedi Jahve, Elohim svojega, i njegova svjedočanstva i njegove uredbe koje ti je naredio.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Čuvaj"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "drži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "i njegova svjedočanstva"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "i njegove uredbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti je naredio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:05.397567520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I bi kovčeg Jahvin u polju Filištejskom sedam mjeseci.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištejskom"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mjeseci"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:15.967224542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "I reče mi: Sluga si moj ti, Jisraele, u kojemu ću se proslaviti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Slugom mojim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojemu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ću se proslaviti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:23.025992668Z",
+  "model": "glm-5.3"
+}

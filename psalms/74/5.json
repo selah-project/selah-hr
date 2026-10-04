@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Poznat bijaše kao onaj koji diže uvis, u gustiš drveta, sjekire oštre.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Poznat bijaše"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "kao onaj koji diže"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "uvis"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "u gustiš"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "sjekire oštre"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.521924318Z",
+  "model": "glm-5.3"
+}

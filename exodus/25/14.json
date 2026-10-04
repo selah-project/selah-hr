@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I stavi ⟨את⟩ motke u prstenove na bokovima kovčega, da se ⟨את⟩ kovčeg nosi njima.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "u prstenove"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "bokovima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kovčega"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da se nosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.869800171Z",
+  "model": "glm-5.3"
+}

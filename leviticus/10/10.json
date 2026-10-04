@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i da razlikujete između svetoga i običnoga, između nečistoga i čistoga,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "i da razlikujete"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetoga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "החל",
+      "gloss": "običnoga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nečistoga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "čistoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:21.051685082Z",
+  "model": "glm-5.3"
+}

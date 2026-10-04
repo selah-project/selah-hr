@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "i kenu koju je posadila desnica tvoja — i o sinu kojega si sebi učvrstio.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "i kenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "je posadila"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnica tvoja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "si učvrstio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:43.627042411Z",
+  "model": "glm-5.3"
+}

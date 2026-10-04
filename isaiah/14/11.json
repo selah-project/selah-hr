@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Spušten je u Šeol ponos tvoj, buka tvojih glazbala; pod tobom je prostrt crv, a crv ti je pokrov.",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "spušten je"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "u Šeol"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ponos tvoj"
+    },
+    {
+      "surface": "המית",
+      "gloss": "buka"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "tvojih glazbala"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pod tobom"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "prostrt je"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "crv"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "a pokrov tvoj"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "crv"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:59.741631627Z",
+  "model": "glm-5.3"
+}

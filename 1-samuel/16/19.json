@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I posla Šaul glasnike Jišaju te reče: Pošalji mi ⟨את⟩ Davida, sina svojega, koji je s ovcama.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "glasnike"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Pošalji"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "s ovcama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:47.679838580Z",
+  "model": "glm-5.3"
+}

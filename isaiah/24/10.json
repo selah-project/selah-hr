@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Razbijena je gradska bezobličnost, zatvoren je svaki dom ⟨od⟩ ulaza.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "razbijena je"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "gradska"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "bezobličnost"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zatvoren je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "od ulaza"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:00.510039150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jer san dolazi s mnoštvom briga, a glas luđaka s mnoštvom riječi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s mnoštvom"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "briga"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "a glas"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s mnoštvom"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "riječi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:46.430479127Z",
+  "model": "glm-5.3"
+}

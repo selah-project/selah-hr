@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Čuj, Elohime, moj vapaj, prisluhni mojoj molitvi!",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "čuj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "moj vapaj"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojoj molitvi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:01.739648199Z",
+  "model": "glm-5.3"
+}

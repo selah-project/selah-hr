@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "a ⟨את⟩ Izevel pojedit će psi u polju Jizreela, i neće biti ⟨tko da⟩ je pokopa. I otvori ⟨mladić⟩ vrata i pobježe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pojedit će"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i neće biti"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pokopa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "i pobježe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:36.104105316Z",
+  "model": "glm-5.3"
+}

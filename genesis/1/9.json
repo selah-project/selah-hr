@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Elohim: Neka se skupe vode ispod neba na jedno mjesto, i neka se pokaže kopno. I bi tako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "neka se skupe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "i neka se pokaže"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kopno"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:41.204841350Z",
+  "model": "glm-5.3"
+}

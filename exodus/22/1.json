@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako se u provali nađe kradljivac i bude udaren te umre, nema krvi ⟨za njega⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "u provali"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe se"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "kradljivac"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i bude udaren"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "te umre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.897349511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Kad se srce moje ukiseli, a bubrezi moji bodeše me —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ukiseli se"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "a bubrezi moji"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "bodeše me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:16.506880918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče Boaz: Onoga dana kad kupiš polje iz ruke Naomi, tada si ⟨את⟩ kupio i od Rut Moapke, žene mrtvoga, da podigneš ime mrtvoga na baštini njegovoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana kad"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "kupiš"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Rut Moapka, žena mrtvoga"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "Moapka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvoga"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "si kupio"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "da podigneš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvoga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "baštini njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:03.426154959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "oni vidješe djela Jahvina i njegova čudesa u dubini.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "i njegova čudesa"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "u dubini"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:01.203079787Z",
+  "model": "glm-5.3"
+}

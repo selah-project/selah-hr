@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I otvrdnu Paro srce ⟨את⟩ svoje i ovaj put, i ne pusti narod ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "i otvrdnu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svoje"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce svoje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "put"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:59.658498053Z",
+  "model": "glm-5.3"
+}

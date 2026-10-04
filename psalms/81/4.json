@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Potrubite u šofar pri mlađaku, u punom mjesecu, za dan našega blagdana.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Potrubite"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pri mlađaku"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "u šofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "u punom mjesecu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "našega blagdana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:39.671201071Z",
+  "model": "glm-5.3"
+}

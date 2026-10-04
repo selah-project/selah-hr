@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Dopustih se tražiti onima koji ⟨ne⟩ pitahu, nađoh se onima koji me ne tražahu; rekoh: Evo me, evo me, narodu koji ne zovaše ime moje.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "dopustih se tražiti"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "pitahu"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "nađoh se"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "tražahu me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo me"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zovaše"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ime moje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:31.244789045Z",
+  "model": "glm-5.3"
+}

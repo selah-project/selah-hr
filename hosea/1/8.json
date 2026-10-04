@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Kad odoji Lo-Ruhamah, zanijeti će i roditi sina.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "odoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "zanijeti će"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i roditi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:13.194259172Z",
+  "model": "glm-5.3"
+}

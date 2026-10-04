@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Neprijatelj je nestao, razvaline zauvijek; a gradove si iščupao — propade spomen njihov, njih ⟨same⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "je nestao"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "razvaline"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "a gradove"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "si iščupao"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "propade"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "spomen njihov"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:01.815117155Z",
+  "model": "glm-5.3"
+}

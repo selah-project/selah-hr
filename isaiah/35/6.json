@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Tada će hromi skočiti kao jelen, i jezik nijemoga pjevat će, jer će u pustinji provrijeti voda i potoci u stepi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "skočit će"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "kao jelen"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "hromi"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "i pjevat će"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nijemoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "provrijet će"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "i potoci"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "u stepi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:09.123312721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "Zahvaljujte gospodaru gospodara, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "gospodaru"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "gospodara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.070006318Z",
+  "model": "glm-5.3"
+}

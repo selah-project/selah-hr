@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I postavi ⟨את⟩ sluškinje i ⟨את⟩ djecu njihovu prve, i ⟨את⟩ Leu i djecu njezinu posljednje, i ⟨את⟩ Rahel i ⟨את⟩ Josipa posljednje.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluškinje"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sluškinje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "djecu njihovu"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "djecu njihovu"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "prve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Leu"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leu"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "i djecu njezinu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "posljednje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Josipa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "posljednje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:16.135926742Z",
+  "model": "glm-5.3"
+}

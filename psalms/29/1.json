@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Pjesma Davidova. Dajte Jahvi, sinovi Elowi, dajte Jahvi slavu i snagu!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Dajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elowi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slavu"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "i snagu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:10.181494705Z",
+  "model": "glm-5.3"
+}

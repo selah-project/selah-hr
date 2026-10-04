@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I uzet ćeš ⟨את⟩ ulje pomazanja i izlit ćeš na njegovu glavu, te pomazati ⟨את⟩ njega.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulje pomazanja"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "i izlit ćeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovu glavu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomazati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:45.386033439Z",
+  "model": "glm-5.3"
+}

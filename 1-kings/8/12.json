@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Tada reče Šelomoh: Jahve je rekao ⟨da⟩ želi prebivati u tami.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "⟨da⟩ želi prebivati"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "u tami"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:44.227874267Z",
+  "model": "glm-5.3"
+}

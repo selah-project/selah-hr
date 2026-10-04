@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I obuče Šaul ⟨את⟩ David svojim odijelom, i stavi kacigu od bronce na glavu njegovu, i obuče ga ⟨את⟩ oklopom.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "i obuče"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "svojim odijelom"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "kacigu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od bronce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "i obuče"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "oklop"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "oklopom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:09.246477589Z",
+  "model": "glm-5.3"
+}

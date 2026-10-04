@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Izmoren sam od uzdisanja svoga; svake noći potopljujem postelju svoju, suzama svojim rastapam ležaj svoj.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Izmoren sam"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "od uzdisanja svoga"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "potopljujem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svake"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "postelju svoju"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "suzama svojim"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ležaj svoj"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "rastapam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:14.837176283Z",
+  "model": "glm-5.3"
+}

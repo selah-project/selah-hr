@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "i utvrdi ⟨je⟩ Jaakovu za naredbu, Jisraelu za vječni savez,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "i utvrdi ⟨je⟩"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "za naredbu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "za savez"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:43.831557978Z",
+  "model": "glm-5.3"
+}

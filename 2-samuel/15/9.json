@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče mu kralj: Idi u miru. I ustade te ode u Hevron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "u miru"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i ustade"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "te ode"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "u Hevron"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:46.624799901Z",
+  "model": "glm-5.3"
+}

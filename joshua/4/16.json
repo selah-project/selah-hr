@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Zapovjedi ⟨את⟩ svećenicima koji nose kovčeg svjedočanstva, i neka uzidu iz Jordána.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenicima"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenicima"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "koji nose"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svjedočanstva"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "i neka uzidu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordána"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:45.630227489Z",
+  "model": "glm-5.3"
+}

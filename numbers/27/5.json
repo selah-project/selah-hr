@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I Moše iznese ⟨את⟩ njihov pravni predmet pred Jahvu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "iznese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihov pravni predmet"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "njihov pravni predmet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:53.206692738Z",
+  "model": "glm-5.3"
+}

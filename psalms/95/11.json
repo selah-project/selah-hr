@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "zato se zakleh u svojem gnjevu: neće ući u moj počinak!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "zato"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "zakleh se"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "u svojem gnjevu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "neće ući"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "moj počinak"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.307253865Z",
+  "model": "glm-5.3"
+}

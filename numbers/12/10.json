@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 12:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I oblak se odmaknu sa šatora, i gle, Mirjam gubava ⟨bijela⟩ kao snijeg; i okrenu se Aharon prema Mirjam, i gle, gubava.",
+  "tokens": [
+    {
+      "surface": "והענן",
+      "gloss": "i oblak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odmaknu se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "gubava"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "kao snijeg"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "i okrenu se"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "gubava"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:05.321694974Z",
+  "model": "glm-5.3"
+}

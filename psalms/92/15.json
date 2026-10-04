@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "Još će rađati u starosti, sočni i zeleni bit će.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Još"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "će rađati"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "u starosti"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "sočni"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "i zeleni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:19.144968877Z",
+  "model": "glm-5.3"
+}

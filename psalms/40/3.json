@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I izvede me iz zdence bučne, iz muljevitoga blata, i postavi noge moje na stijenu, utvrdi korake moje.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "i izvede me"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "iz zdence"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "bučne"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "iz blata"
+    },
+    {
+      "surface": "היון",
+      "gloss": "muljevitoga"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "noge moje"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "utvrdi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "korake moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:14.125857735Z",
+  "model": "glm-5.3"
+}

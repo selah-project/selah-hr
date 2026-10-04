@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I uzalud će nestati snaga vaša, jer zemlja vaša neće dati ⟨את⟩ plod svoj, i drveće zemlje neće dati ploda svojega.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "nestat će"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "uzalud"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "snaga vaša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jer neće"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dati"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "zemlja vaša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plod svoj"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "plod svoj"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "i drveće"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dati"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "plod svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:02.790695104Z",
+  "model": "glm-5.3"
+}

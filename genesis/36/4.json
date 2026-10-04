@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I Ada rodi Esavu ⟨את⟩ Elifaza, a Basmat rodi ⟨את⟩ Reuela.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaza"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaza"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "a Basmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuela"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:27.039767574Z",
+  "model": "glm-5.3"
+}

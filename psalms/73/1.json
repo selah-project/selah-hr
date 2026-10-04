@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Psalam Asafov. Zaista, dobar je Elohim Jisraelu, čistima srca.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalam"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Zaista"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "čistima"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:13.817820643Z",
+  "model": "glm-5.3"
+}

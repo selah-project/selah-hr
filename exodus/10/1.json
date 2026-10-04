@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče Jahve Mošeu: Uđi k faraonu, jer sam ja otvrdnuo ⟨את⟩ srce njegovo i ⟨את⟩ srce slugu njegovih, da bih stavio znamenja svoja ova u sredinu njegovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "otvrdnuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce njegovo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce njegovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "srce slugu njegovih"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugu njegovih"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bih"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "stavio"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "znamenja svoja"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ova"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "u sredinu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:15.072303564Z",
+  "model": "glm-5.3"
+}

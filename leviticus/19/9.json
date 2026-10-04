@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I kad žanjete ⟨את⟩ žetvu vaše zemlje, ne dovršuj do kraja rub svojega polja, i pokupljeno žetve svoje ne sabiraj.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "i kad žanjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žetvu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetvu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "vaše zemlje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "dovršuj do kraja"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "rub"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "svojega polja"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "u žetvi"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "i pokupljeno"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "žetve svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "sabiraj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:51.964050086Z",
+  "model": "glm-5.3"
+}

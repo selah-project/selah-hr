@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I uzimali ⟨את⟩ njihove kćeri sebi za žene, a ⟨את⟩ svoje kćeri davali njihovim sinovima, i služili ⟨את⟩ njihovim bogovima.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzimali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove kćeri"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "njihove kćeri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "za žene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje kćeri"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "svoje kćeri"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "davali"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "njihovim sinovima"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "i služili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovim bogovima"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "njihovim bogovima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:30.313761158Z",
+  "model": "glm-5.3"
+}

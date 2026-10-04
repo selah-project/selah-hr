@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I dođe kralj iz Damaska, i vidje kralj ⟨את⟩ žrtvenik, pa pristupi kralj žrtveniku i prinese na njemu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "iz Damaska"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "pa pristupi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "על",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:49.279928576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I reče Moše narodu: Opremite između vas ⟨את⟩ ljude za vojsku, i neka budu na Midjancima, da izvrše ⟨את⟩ osvetu Jahvinu na Midjancima.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨narodu⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Opremite"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ između vas",
+      "marks": "ljude"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "za vojsku"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i neka budu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjancima"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da izvrše"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "⟨את⟩ osvetu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "na Midjancima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:35.446625625Z",
+  "model": "glm-5.3"
+}

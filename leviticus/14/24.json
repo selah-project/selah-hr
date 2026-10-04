@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I uzet će svećenik ⟨את⟩ janje naknadnice i ⟨את⟩ log ulja, i svećenik će ih mahnuti kao prinos mahani pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "janje naknadnice"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "naknadnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "log ulja"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "i mahnut će"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "prinos mahani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:47.786491330Z",
+  "model": "glm-5.3"
+}

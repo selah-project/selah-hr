@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "i poslušaš ⟨u⟩ nebu ⟨את⟩ njihovu molitvu i ⟨את⟩ njihovu prošnju, i učiniš njihov pravo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "i poslušaš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovu molitvu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "njihovu molitvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihovu prošnju"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "njihovu prošnju"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i učiniš"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "njihov pravo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:06.357647647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I kralj Šelomo posla Benajahua, sina Jehojadina, ⟨rukom njegovom⟩, i on ga udari te umrije.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojade"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "udari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "umrije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:40.870324362Z",
+  "model": "glm-5.3"
+}

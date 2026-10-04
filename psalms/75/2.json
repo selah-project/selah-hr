@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Zahvaljujemo ti, Elohime, zahvaljujemo, jer je blizu tvoje ime; pripovijedaju tvoja čudesa.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "zahvaljujemo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "zahvaljujemo"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "jer je blizu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "pripovijedaju"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tiva čudesa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.399585870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Mladići i djevice, starci zajedno s dječacima,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mladići"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i također"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "djevice"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zajedno s"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dječacima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:32.774094014Z",
+  "model": "glm-5.3"
+}

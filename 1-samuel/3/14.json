@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zato sam se zakleo domu Elijevu: neka se krivnja doma Elijeva ne iskupi žrtvom ni ⟨את⟩ mihom ⟨את⟩ nikada zauvijek.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "zakleo sam se"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijevu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako \/ neka"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "iskupi se"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijeva"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "žrtvom"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ni minhom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:27.827375872Z",
+  "model": "glm-5.3"
+}

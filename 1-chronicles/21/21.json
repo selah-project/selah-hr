@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dođe David do Arnana; Arnana pogleda i vidje ⟨את⟩ Davida, te iziđe iz gumna i pokloni se Davidu licem do zemlje.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnana"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "pogleda"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "iziđe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gumna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "pokloni se"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "licem"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:32.080887969Z",
+  "model": "glm-5.3"
+}

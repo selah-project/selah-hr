@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I kralj Babilona postavi za kralja ⟨את⟩ Matanju, strica njegova, umjesto njega, i promijeni mu ⟨את⟩ ime u Sidkija.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "postavi za kralja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanju"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "strica njegova"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "umjesto njega"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i promijeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:26.339662065Z",
+  "model": "glm-5.3"
+}

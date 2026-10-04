@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "A ⟨את⟩ narod preseli u gradove, od jednoga kraja međe Micrajima do kraja njegova.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "preseli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u gradove"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "u gradove"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od kraja"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "međa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "kraja njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:53.757562392Z",
+  "model": "glm-5.3"
+}

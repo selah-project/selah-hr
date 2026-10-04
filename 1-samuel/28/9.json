@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "A žena mu reče: Eno, ti znaš ⟨את⟩ ono što je učinio Šaul, kako je istrijebio ⟨את⟩ zazivače duša i ⟨את⟩ gatare iz zemlje; zašto onda postavljaš zamku mojem životu, da me pogubiš?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je učinio Šaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "istrijebio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zazivače duša"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "zazivače duša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "gatare"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "gatare"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "zašto onda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "postavljaš zamku"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mojem životu"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "da me pogubiš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:22.309588122Z",
+  "model": "glm-5.3"
+}

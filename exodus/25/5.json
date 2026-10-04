@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "i kožu ovnova obojani crveno, i kožu tahaša, i drvca šitima;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "i kožu"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "obojani crveno"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "i kožu"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahaša"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "i drvca"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:34.450604270Z",
+  "model": "glm-5.3"
+}

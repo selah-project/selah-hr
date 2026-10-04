@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Zato što nisu dočekali ⟨את⟩ vas kruhom i vodom na putu kad ste izlazili iz Micrajima, i što unajmiše protiv tebe ⟨את⟩ Bileama, sina Beorova, iz Petora Arama Naharajima, da te prokune.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zato što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "radi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "dočekali"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "בלחם"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "kruhom"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "i vodom"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "kad ste izlazili"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i što"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "unajmiše"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "protiv tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beorova"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "iz Petora"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajima"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "da te prokune"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:16.272580494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 30:19",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I ne nedostajaše im ništa, od malena do velika, do sinova i kćeri, i od plijena, i sve što su uzeli sebi — sve to povrati David.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "nedostajaše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "malena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "i od plijena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "uzeli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sve to"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "povrati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:53.642812287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Buka ⟨se diže⟩ iz grada, glas iz hrama, glas Jahve koji uzvraća plaću svojim neprijateljima.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "buka"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iz grada"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "iz hrama"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "koji uzvraća plaću"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "plaću"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "svojim neprijateljima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:24.074307122Z",
+  "model": "glm-5.3"
+}

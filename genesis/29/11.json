@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I poljubi Jaakov Rahelu, pa podiže ⟨את⟩ svoj glas i zaplaka.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "poljubi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahelu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj glas"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "zaplaka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:00.992979946Z",
+  "model": "glm-5.3"
+}

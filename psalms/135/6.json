@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Sve što Jahve htjede, učini ⟨to⟩ u nebu i na zemlji, u morima i svim dubinama.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "htjede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "u nebu"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na zemlji"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "u morima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svim"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dubinama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:22.833108477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "I hranio bi ga ⟨mašću⟩ pšenice, i medom iz stijene zasitio bih te.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "i hranio bi ga"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "⟨mašću⟩ od najboljega"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "i iz stijene"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "medom"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "zasitio bih te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:17.638243835Z",
+  "model": "glm-5.3"
+}

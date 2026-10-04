@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I svaki čovjek kod kojega bi nađeno ⟨את⟩ s njim modro i purpur i crveni grimiz i lan i kozja dlaka i ovnove kože crvene i kože od tahasa — doniješe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nađeno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "kod njega — vlasnika materijala"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modro"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i crv"
+    },
+    {
+      "surface": "שני",
+      "gloss": "grimiz"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i lan"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "i kozji"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "i kože"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ovnove"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "crvene"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "i kože"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "od tahasa"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "doniješe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:18.496311280Z",
+  "model": "glm-5.3"
+}

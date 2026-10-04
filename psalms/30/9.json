@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Tebi, Jahve, zazivat ću, i Adonaju ⟨čit ću⟩ se ⟨moliti⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zazivat ću"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "molit ću se ⟨za milost⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:51.786516268Z",
+  "model": "glm-5.3"
+}

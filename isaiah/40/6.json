@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Glas govori: Zovi! A reče: Što da zovem? Sve je tijelo travina, i sva je ljupkost njegova cvijet poljski.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Zovi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "da zovem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Sve"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "travina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ljupkost njegova"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "cvijet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljski"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:18.813107642Z",
+  "model": "glm-5.3"
+}

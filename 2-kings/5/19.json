@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče mu: Idi u miru. I otide od njega ⟨את⟩ jednu daljinu zemlje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "u miru"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i otide"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "od njega ⟨את⟩",
+      "marks": "Eliša, od kojega se otidalo"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "jednu daljinu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:14.144092205Z",
+  "model": "glm-5.3"
+}

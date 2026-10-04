@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 9:13",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče im loza: Da li da prestanim ⟨s⟩ ⟨את⟩ svojim moštom, koji razveseljuje Elohim i ljude, i da odem njišući se nad drvećem?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "loza"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "da prestanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim moštom"
+    },
+    {
+      "surface": "תירושי",
+      "gloss": "svojim moštom"
+    },
+    {
+      "surface": "המשמח",
+      "gloss": "koji razveseljuje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i ljude"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "i da odem"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "njišući se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drvećem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:48.021753407Z",
+  "model": "glm-5.3"
+}

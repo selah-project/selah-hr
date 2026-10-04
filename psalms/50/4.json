@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Zazvat će nebesa odozgor i zemlju, da sudi ⟨את⟩ narodu svojem.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Zazvat će"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "odozgor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "da sudi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narodu svojem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:20.614615540Z",
+  "model": "glm-5.3"
+}

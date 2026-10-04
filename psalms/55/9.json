@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Požurio bih svoj bijeg — meni ⟨je⟩ pobjeći od ruaha olujnoga, od vihora.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "požurio bih"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "bijeg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "od ruaha"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "olujnoga"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "od vihora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.914786693Z",
+  "model": "glm-5.3"
+}

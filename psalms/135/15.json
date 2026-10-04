@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Kumiri naroda ⟨su⟩ srebro i zlato, djelo ruku čovječjih.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "kumiri"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječjih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.839989960Z",
+  "model": "glm-5.3"
+}

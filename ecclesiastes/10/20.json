@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Čak ni u svojim mislima ne proklinji kralja, i u odajama svoje spavaće sobe ne proklinji bogataša, jer ptica neba odnosit će ⟨את⟩ glas, a onaj što ima krila kazat će stvar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Čak"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "u svojim mislima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "proklinji"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "i u odajama"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "svoje spavaće sobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "proklinji"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogataša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "odnosit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a onaj što ima"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "krila"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kazat će"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:31.420882495Z",
+  "model": "glm-5.3"
+}

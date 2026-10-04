@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Stizat će vam žetva do berbe grožđa, a ⟨את⟩ berba grožđa do ⟨את⟩ sjetve; jest ćete svoj kruh do sitosti i stanovat ćete u sigurnosti u svojoj zemlji.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "stizat će"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "žetva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berba grožđa"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "berba grožđa"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "a berba grožđa"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "stizat će do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjetve"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjetve"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "jest ćete"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do sitosti"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "stanovat ćete"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "u sigurnosti"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "u svojoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:07.731278883Z",
+  "model": "glm-5.3"
+}

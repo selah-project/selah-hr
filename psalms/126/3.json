@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 126,
+  "translation": "Veliko je djelo učinio Jahve s nama — bijasmo veseli.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Veliko je djelo učinio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s nama"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "bijasmo"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "veseli"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:10.438115586Z",
+  "model": "glm-5.3"
+}

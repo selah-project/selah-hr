@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Činio sam sud i cedek — ne ostavi me onima koji me tlače.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "činio sam"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "i cedek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ostavi me"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "onima koji me tlače"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:28.097923438Z",
+  "model": "glm-5.3"
+}

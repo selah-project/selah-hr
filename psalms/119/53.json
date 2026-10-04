@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Gorući gnjev obuze me zbog zlikovaca što napuštaju tvoju Toru.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "gorući gnjev"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "obuze me"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "zbog zlikovaca"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "što napuštaju"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoju Toru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:52.590617557Z",
+  "model": "glm-5.3"
+}

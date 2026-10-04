@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I vrati ⟨את⟩ nadpodrumača na njegovo točenje, i dade pehar na dlan Paroov.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nadpodrumača"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadpodrumač"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "točilaca"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "njegovo točenje"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "pehar"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:35.179016767Z",
+  "model": "glm-5.3"
+}

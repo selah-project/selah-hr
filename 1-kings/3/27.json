@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I odgovori kralj i reče: Podajte njoj ⟨את⟩ živo dijete, a mrtva ne usmrtite — ona je majka njegova.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "I odgovori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Podajte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živo dijete"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a mrtva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "usmrtite"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majka njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:44.513112536Z",
+  "model": "glm-5.3"
+}

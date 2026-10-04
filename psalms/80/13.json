@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Zašto si porušio njene plotove, te je trgaju svi koji putem prolaze?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "si porušio"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "njene plotove"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "te je trgaju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "koji prolaze"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:43.626346805Z",
+  "model": "glm-5.3"
+}

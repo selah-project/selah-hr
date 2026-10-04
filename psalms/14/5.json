@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Tamo ih obuze ⟨je⟩ strah velik, jer Elohim ⟨je⟩ u naraštaju pravedniku.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tamo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "obuze ih strah"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strah velik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "u naraštaju"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedniku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:16.887039499Z",
+  "model": "glm-5.3"
+}

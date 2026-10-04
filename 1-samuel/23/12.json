@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I reče David: Hoće li predati gospodari Keile ⟨את⟩ mene i ⟨את⟩ moje ljude u ruku Šaulovu? A Jahve reče: Predat će.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Hoće li predati"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "gospodari"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje ljude"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "moje ljude"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Predat će"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:48.324737305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Neka se zamrače oči njihove, da ne vide, i bedra njihova stalno neka podrhtavaju.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Neka se zamrače"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "oči njihove"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "da ne vide"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "i bedra njihova"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "neka podrhtavaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:27.960008203Z",
+  "model": "glm-5.3"
+}

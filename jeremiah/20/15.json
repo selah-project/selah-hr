@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Proklet čovjek onaj koji javi ⟨את⟩ ocu mojemu i reče: Rodio ti se sin muški, ⟨i obradova ga⟩ velikom radošću.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "javi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocu mojemu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ocu mojemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Rodio se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muški"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "obradova"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "radujući ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:25:31.380570679Z",
+  "model": "glm-5.3"
+}

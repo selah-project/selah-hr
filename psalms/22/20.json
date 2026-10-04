@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A ti, Jahve, ne budi daleko, snago moja, u pomoć mi požuri.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "budi daleko"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "snago moja"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "u pomoć mi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "požuri"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:12.318736271Z",
+  "model": "glm-5.3"
+}

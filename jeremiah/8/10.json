@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Zato ću dati ⟨את⟩ žene njihove drugima, polja njihova onima koji će ih naslijediti; jer od najmanjega do najvećega svi se daruju grabljivošću, od proroka do svećenika svi čine prijevaru.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću dati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žene njihove"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "žene njihove"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "drugima"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "polja njihova"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "onima koji će ih naslijediti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od najmanjega"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "najvećega"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "svi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "daruju se grabljivošću"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "grabljivosti"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "od proroka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čine"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "prijevaru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:45.131134472Z",
+  "model": "glm-5.3"
+}

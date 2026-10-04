@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I pođe drugim putem i ne vrati se putem kojim je došao u Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je došao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.831501564Z",
+  "model": "glm-5.3"
+}

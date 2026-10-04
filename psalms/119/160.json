@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Početak tvoje riječi istina je, i dovijeka sva tvoja pravedna pravda.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "početak"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvoje riječi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istina"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "i dovijeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravda"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvoja pravedna"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.570363606Z",
+  "model": "glm-5.3"
+}

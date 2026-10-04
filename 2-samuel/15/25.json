@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče kralj Sadoku: Vrati ⟨את⟩ kovčeg Elohimov u grad. Ako nađem milost u očima Jahve, on će me vratiti i pokazati mi ga i ⟨את⟩ njegovo prebivalište.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Sadoku"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nađem"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "on će me vratiti"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "i pokazati mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prebivalište"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "prebivalište"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:46.817504442Z",
+  "model": "glm-5.3"
+}

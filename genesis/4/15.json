@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče mu Jahve: Zato, tko god ubije Kajina, sedamput će se osvetiti. I postavi Jahve Kajinu znak, da ga ne bi ubio tko god da ga nađe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tko god"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ubije"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajina"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sedamput"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "osvetit će se"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajinu"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ubije"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tko god"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "da ga nađe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:12.142743118Z",
+  "model": "glm-5.3"
+}

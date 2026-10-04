@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Jahve je dio baštine moje i čaša moja; ti držiš moju sudbinu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dio"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "baštine moje"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "i čaša moja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "držiš"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "moju sudbinu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:13.798287669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Idi, jedi s radošću svoj kruh i pij s dobrim srcem svoje vino, jer su već Elohimu omiljela ⟨את⟩ tvoja djela.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedi"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radošću"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "i pij"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "s srcem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrim"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "svoje vino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "već"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "omiljela su"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoja djela"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvoja djela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:54.336838199Z",
+  "model": "glm-5.3"
+}

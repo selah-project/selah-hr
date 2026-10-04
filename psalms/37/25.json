@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Mlad sam bio, i ostario sam, ali nisam vidio pravednika napuštena ni njegovo sjeme da prosi kruha.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mlad sam bio"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bio sam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ostario sam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nisam"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "napuštena"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ni njegovo sjeme"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "da prosi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:44.637387985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "A ako ne poslušate nas da se obrežete, uzet ćemo ⟨את⟩ svoju kćer i otići ćemo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslušate"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "da se obrežete"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "uzet ćemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju kćer"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "svoju kćer"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "otići ćemo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:06.538111303Z",
+  "model": "glm-5.3"
+}

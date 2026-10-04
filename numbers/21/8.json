@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče Jahve Mošeu: Načini sebi žeravca i postavi ⟨את⟩ ga na zastavu; i bit će: svaki ujedeni koji vidi ⟨את⟩ njega — živjet će.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "žeravca"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "žeravca"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נס",
+      "gloss": "zastavu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "ujedeni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "koji vidi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "žeravca"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "živjet će"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:52.028495229Z",
+  "model": "glm-5.3"
+}

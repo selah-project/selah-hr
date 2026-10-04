@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Blagoslovljen Jahve, jer je divno učinio svoj hesed prema meni u gradu opsade.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "divno učinio"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "prema meni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "opsade"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:49.699112689Z",
+  "model": "glm-5.3"
+}

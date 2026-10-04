@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Sedam dana nosit će ih svećenik <koji> ⟨je⟩ umjesto njega, od njegovih sinova, koji ulazi u Šator sastanka da služi u svetištu.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "nosit će ih"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "umjesto njega"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "od njegovih sinova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "da služi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetištu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:15.436603502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I poraziše ⟨את⟩ njega i ⟨את⟩ sinove njegove i ⟨את⟩ sav narod njegov, dok mu ne preosta nitko — nitko preživjeli — i zaposjednu ⟨את⟩ zemlju njegovu.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i poraziše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "Og"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod njegov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod njegov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "preosta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nitko preživjeli"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "i zaposjednu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju njegovu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zemlju njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:52.509399738Z",
+  "model": "glm-5.3"
+}

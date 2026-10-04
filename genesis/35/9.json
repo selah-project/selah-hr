@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Elohim se javi Jaakovu još jednom, kad je dolazio iz Padan-Arama, i blagoslovi ⟨את⟩ ga.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "javi se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još jednom"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "kad je dolazio"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "iz Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Arama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (Jaakova)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:57.608290168Z",
+  "model": "glm-5.3"
+}

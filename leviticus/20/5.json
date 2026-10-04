@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ja ću upraviti ⟨את⟩ lice svoje protiv toga čovjeka i protiv njegove obitelji, te ću istrijebiti ⟨את⟩ njega i ⟨את⟩ sve koji bludne za njim, da bi bludnili za Molekom, iz sredine njihova naroda.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "i upravit ću"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "protiv čovjeka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "i protiv obitelji njegove"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i istrijebit ću"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega — čovjeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve koji bludne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "koji bludne"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "da bi bludnili"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekom"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "naroda njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:24.311412433Z",
+  "model": "glm-5.3"
+}

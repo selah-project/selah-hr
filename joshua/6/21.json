@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I posvetiše za uništenje ⟨את⟩ sve što bijaše u gradu, od čovjeka do žene, od djeteta do starca, i do vola i janjeta i magarca, oštricom mača.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "i posvetiše za uništenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što bijaše u gradu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od djeteta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starca"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i janjeta"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "i magarca"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:15.664660366Z",
+  "model": "glm-5.3"
+}

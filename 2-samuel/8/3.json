@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I udari David ⟨את⟩ Hadadezera, sina Rehobova, kralja Cobe, kad je polazio vratiti svoju ruku na Rijeku.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezera"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobova"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cobe"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "kad je polazio"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "vratiti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "na Rijeku"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:35.227007667Z",
+  "model": "glm-5.3"
+}

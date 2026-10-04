@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I progovori David Jahvi ⟨את⟩ riječi ove pjesme u dan u koji ⟨את⟩ ga izbavi Jahve iz šake svih njegovih neprijatelja i iz šake Šaulove.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I progovori"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi ove pjesme"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pjesme"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "izbavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "iz šake svih njegovih neprijatelja i iz šake Šaulove"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "iz šake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "njegovih neprijatelja"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "i iz šake"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:10.704500616Z",
+  "model": "glm-5.3"
+}

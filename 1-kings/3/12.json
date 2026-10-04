@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "evo, učinio sam po riječima svojim ⟨tvojim⟩; evo, dao sam ti srce mudro i razumno, kakva kao ti nije bilo prije tebe, ni poslije tebe neće ustati kao ti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "učinio sam"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "po riječima svojim ⟨tvojim⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudro"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "i razumno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prije tebe"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "ni poslije tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ustati"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:15.847646883Z",
+  "model": "glm-5.3"
+}

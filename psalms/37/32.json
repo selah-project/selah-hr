@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Zli vreba pravednika i traži da ga ubije.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "vreba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zli"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "i traži"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da ga ubije"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:44.171467090Z",
+  "model": "glm-5.3"
+}

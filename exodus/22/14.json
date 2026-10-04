@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako je vlasnik njegov s njim, neće nadoknaditi; ako je najamnik ⟨to⟩, došao je ⟨u zamjenu⟩ za najamninu svoju.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "vlasnik njegov"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nadoknaditi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najamnik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao je"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "za najamninu svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:42.959135838Z",
+  "model": "glm-5.3"
+}

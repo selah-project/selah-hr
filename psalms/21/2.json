@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Jahve, u svojoj snazi kralj se raduje, i u tvojemu izbavljenju koliko se veseli!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "u svojoj snazi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "i u tvojemu izbavljenju"
+    },
+    {
+      "surface": "מה",
+      "gloss": "koliko"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "veseli se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "usrdno"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:46.614322544Z",
+  "model": "glm-5.3"
+}

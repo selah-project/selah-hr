@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I vratiše se poslanici k njemu, a on im reče: Što je ovo, da ste se vratili?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "i vratiše se"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "poslanici"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je ovo"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "da ste se vratili"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:41.509696657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I zapovjedi Moše ⟨את⟩ narodu toga dana govoreći:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tega dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:19.040219267Z",
+  "model": "glm-5.3"
+}

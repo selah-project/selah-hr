@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "i položi ⟨את⟩ ruke svoje na njega i naredi mu, kako je govorio Jahve po ruci Mošeovoj.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke svoje"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "i naredi mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po ruci"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:23.889959460Z",
+  "model": "glm-5.3"
+}

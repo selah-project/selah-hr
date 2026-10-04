@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Neka ti se ne gadi Edomac, jer je brat tvoj; neka ti se ne gadi Micrajac, jer si bio stranac u njegovoj zemlji.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "neka ti se ne gadi"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomac"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "neka ti se ne gadi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Micrajac"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גר",
+      "gloss": "stranac"
+    },
+    {
+      "surface": "היית",
+      "gloss": "si bio"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "u njegovoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:16.273132844Z",
+  "model": "glm-5.3"
+}

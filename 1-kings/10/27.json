@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dade kralj ⟨את⟩ srebro u Jerušalajimu kao kamenje, a ⟨את⟩ cedrove dade kao divlje smokve koje su u Šefeli, u izobilju.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kao kamenje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cedrove"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cedrove"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kao divlje smokve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "u Šefeli"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "u izobilju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:34.467278093Z",
+  "model": "glm-5.3"
+}

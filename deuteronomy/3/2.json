@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Jahve meni: Ne boj ⟨את⟩ ga se, jer sam u tvoju ruku predao ⟨את⟩ njega i ⟨את⟩ sav njegov narod i ⟨את⟩ njegovu zemlju; i učinit ćeš njemu kao što si učinio Sihonu, kralju Emoraca, koji je stanovao u Hešbonu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga — Oga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvoju ruku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sam predao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega — Oga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav njegov narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njegov narod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu zemlju"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegovu zemlju"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i učinit ćeš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoraca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "stanovao"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "u Hešbonu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:22.954767743Z",
+  "model": "glm-5.3"
+}

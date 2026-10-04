@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I kao svjetlost jutra kad sunce izlazi, jutro bez oblaka — od sjaja, iz kiše, zelen trava iz zemlje.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "i kao svjetlost"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "oblaka"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "od sjaja"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "iz kiše"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zelen trava"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:13.898716998Z",
+  "model": "glm-5.3"
+}

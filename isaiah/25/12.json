@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "i utvrdu, uzvisinu zidova tvojih, oborit će, ponizit će, srušit će do zemlje, sve do praha.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "i utvrdu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "uzvisinu"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "zidova tvojih"
+    },
+    {
+      "surface": "השח",
+      "gloss": "oborit će"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "ponizit će"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "srušit će"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "do zemlje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "praha"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:01.879665279Z",
+  "model": "glm-5.3"
+}

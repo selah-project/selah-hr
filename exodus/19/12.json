@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I odijelit ćeš ⟨את⟩ narod unaokolo govoreći: Čuvajte se da ne uzlazite na goru niti dotičete njezin kraj; tko god dotakne goru, smrću će umrijeti.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "i odijelit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "čuvajte se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "uzlaziti"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na goru"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "niti doticati"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "njezin kraj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tko god"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dotakne"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "će umrijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:10.557552115Z",
+  "model": "glm-5.3"
+}

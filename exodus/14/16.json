@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A ti podigni ⟨את⟩ svoj štap i ispruži ⟨את⟩ svoju ruku nad more te ga raspolovi, pa neka uđu sinovi Jisraela nasred mora po suhom tlu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "podigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj štap"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "svoj štap"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "i ispruži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "te ga raspolovi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "pa neka uđu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nasred"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suhom tlu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:17.995879391Z",
+  "model": "glm-5.3"
+}

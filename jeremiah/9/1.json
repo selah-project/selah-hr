@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Tko bi mi dao u pustinji prenoćište putnicima, i ostavio bih ⟨את⟩ svoj narod i otišao od ⟨את⟩ njih! Jer svi su preljubnici, zajed izdajica.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "יִתְּנֵ֣נִי",
+      "gloss": "bi mi dao"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֗ר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "מְלוֹן",
+      "gloss": "prenoćište"
+    },
+    {
+      "surface": "אֹֽרְחִ֔ים",
+      "gloss": "putnicima"
+    },
+    {
+      "surface": "וְאֶֽעֶזְבָ֗ה",
+      "gloss": "i ostavio bih"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עַמִּ֗י",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "וְאֵלְכָ֖ה",
+      "gloss": "i otišao bih"
+    },
+    {
+      "surface": "מֵֽאִתָּ֑ם",
+      "gloss": "od ⟨את⟩ njih"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כֻלָּם֙",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מְנָאֲפִ֔ים",
+      "gloss": "preljubnici"
+    },
+    {
+      "surface": "עֲצֶ֖רֶת",
+      "gloss": "zajed"
+    },
+    {
+      "surface": "בֹּגְדִֽים",
+      "gloss": "izdajica"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:50.054739778Z",
+  "model": "glm-5.3"
+}

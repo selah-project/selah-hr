@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i njegova četa i njihovi popisani ⟨broje⟩ četiri i sedamdeset tisuća i šest stotina.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "i njegova četa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "i njihovi popisani"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "i sedamdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:25.165256265Z",
+  "model": "glm-5.3"
+}

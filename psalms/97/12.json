@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Radujte se, pravednici, u Jahvi, i hvalite ⟨ga⟩ pri spomenu njegove svetosti!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "radujte se"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednici"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvi"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "i hvalite"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "pri spomenu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegove svetosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:50.587625746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Zborovođi, na osmini, psalam Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "osmini"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:00.514493348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ali u tvoje dane neću učiniti, radi Davida, oca tvojega; iz ruke tvojega sina rastrgat ću je.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ali"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "u tvoje dane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "učiniti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvojega sina"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "rastrgat ću je"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:56.099098792Z",
+  "model": "glm-5.3"
+}

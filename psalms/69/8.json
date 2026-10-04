@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Jer radi tebe podnijeh sramotu, sramota prekri lice moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "radi tebe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podnijeh"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sramotu"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "prekri"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:27.971997854Z",
+  "model": "glm-5.3"
+}

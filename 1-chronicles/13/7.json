@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I povezu ⟨את⟩ kovčeg Elohimov na novim kolima iz doma Avinadavovog; a Uza i njegov brat Ahio vodiše kola.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "i povezu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kola"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nova"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavovog"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "a Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i njegov brat"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "vodiše"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kola"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:33.559683049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I stave ⟨את⟩ nju i ⟨את⟩ sve posude njezine u pokrov od kože tahša, i stave na nosilu.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "i stave"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve posude njezine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "posude njezine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokrov"
+    },
+    {
+      "surface": "עור",
+      "gloss": "od kože"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahš"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i stave"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "nosilu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:41.737453723Z",
+  "model": "glm-5.3"
+}

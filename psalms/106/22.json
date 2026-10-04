@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "čudesa u zemlji Hamovoj, strašna djela na moru Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "čudesa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamovoj"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "strašna djela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moru"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:42.426524934Z",
+  "model": "glm-5.3"
+}

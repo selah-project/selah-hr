@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "A potom pristupiše svi sinovi Jisraelovi, i zapovjedi im ⟨את⟩ sve što je Jahve govorio ⟨s⟩ ⟨את⟩ njim na gori Sinaj.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zatim"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "pristupiše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "zapovjedi im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:44.617072599Z",
+  "model": "glm-5.3"
+}

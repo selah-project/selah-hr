@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "Dođite, poklonimo se i prignimo koljena, blagoslivljajmo pred Jahvom, stvoriteljem našim.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "dođite"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "poklonimo se"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "i prignimo koljena"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "blagoslivljajmo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "stvoriteljem našim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:41.197334466Z",
+  "model": "glm-5.3"
+}

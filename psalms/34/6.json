@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Pogledajte k njemu i zasjat ćete, i lica vam se neće postidjeti.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "pogledajte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "i zasjat ćete"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "i lica vam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "postidjeti se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:49.021810031Z",
+  "model": "glm-5.3"
+}

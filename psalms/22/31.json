@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Potomstvo će mu služiti; kazivat će se o Adonaju rodu ⟨budućemu⟩.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "će mu služiti"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kazivat će se"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "o Adonaju"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "rodu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:33.313668007Z",
+  "model": "glm-5.3"
+}

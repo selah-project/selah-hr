@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "kralj Eglona, jedan; kralj Gezera, jedan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezera"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:32.331220630Z",
+  "model": "glm-5.3"
+}

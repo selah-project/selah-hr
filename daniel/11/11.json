@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 11:11",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I razjari se kralj južni, te izađe i bori se s njime, s kraljem sjevernim; a on iskače mnoštvo veliko, i mnoštvo bude predano u ruku njegovu.",
+  "tokens": [
+    {
+      "surface": "ויתמרמר",
+      "gloss": "i razjari se"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "južni"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "te izađe"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "i bori se"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "sjevernim"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "a iskače"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mnoštvo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i bude predano"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "mnoštvo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:52:42.059317128Z",
+  "model": "glm-5.3"
+}

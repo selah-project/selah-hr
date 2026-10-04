@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Nakon tih događaja kralj Ahašveroš uzvisi ⟨את⟩ Hamana, sina Hamdate Agađanina, i podiže ga, i postavi ⟨את⟩ njegovo prijestolje iznad svih dostojanstvenika koji su ⟨את⟩ s njim.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tih događaja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "uzvisi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdate"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agađanina"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "i podiže ga"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo prijestolje"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegovo prijestolje"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dostojanstvenika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:01.330944183Z",
+  "model": "glm-5.3"
+}

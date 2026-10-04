@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I mladići se umore i izmore, i mladi posrćući posrću.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "i umore se"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mladići"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "i izmore"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "i mladi"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "posrćući"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "posrću"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:49.100712209Z",
+  "model": "glm-5.3"
+}

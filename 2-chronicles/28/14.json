@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I ostavi naoružani ⟨את⟩ sužnjeve i ⟨את⟩ plijen pred knezovima i svim zborom.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "i ostavi"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "naoružani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužnjeve"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "sužnjeve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "plijen"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knezovima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svim"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zborom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:36.323975054Z",
+  "model": "glm-5.3"
+}

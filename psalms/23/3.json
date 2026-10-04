@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Dušu mi vraća, vodi me stazama cedeka ⟨radi⟩ imena svojega.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Dušu mi"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "vraća"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "vodi me"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "stazama"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨radi⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "imena svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:30.293833326Z",
+  "model": "glm-5.3"
+}

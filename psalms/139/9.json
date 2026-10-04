@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Ako uzmem krila zore, nastanim li se na kraju mora —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "uzmem"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krila"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zore"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "nastanim se"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.253950405Z",
+  "model": "glm-5.3"
+}

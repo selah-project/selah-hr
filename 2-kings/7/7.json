@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Tada ustaše i pobjegoše u sumrak, te ostaviše ⟨את⟩ šatore svoje i ⟨את⟩ konje svoje i ⟨את⟩ magarce svoje — tabor kakav bijaše — i pobjegoše za život svoj.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "tada ustaše"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "i pobjegoše"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "u sumrak"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "te ostaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šatore svoje"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "šatore svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "konje svoje"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "konje svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "magarce svoje"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "magarce svoje"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakav"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i pobjegoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "život svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:07.449445319Z",
+  "model": "glm-5.3"
+}

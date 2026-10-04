@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Koji udari ⟨את⟩ prvence Micrajima, od čovjeka do stoke.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Koji udari"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "prvence"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "stoke"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:22.833437945Z",
+  "model": "glm-5.3"
+}

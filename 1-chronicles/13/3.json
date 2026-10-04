@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i dovedimo k sebi ⟨את⟩ kovčeg Elohim našega, jer ga nismo tražili u dane Šaulove.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "i dovedimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Elohim našega"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "nismo tražili"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulove"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:23.483335491Z",
+  "model": "glm-5.3"
+}

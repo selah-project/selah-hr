@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Kad dovrši pomirenje ⟨את⟩ Svetišta i ⟨את⟩ Šatora sastanka i ⟨את⟩ žrtvenika, neka privede ⟨את⟩ jarca živoga.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Kad dovrši"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "pomirenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svetišta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Svetišta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šatora sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "žrtvenika"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "neka privede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarca živoga"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:25.286654272Z",
+  "model": "glm-5.3"
+}

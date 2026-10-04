@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer vi znate ⟨את⟩ kako smo boravili u zemlji Micrajim, i ⟨את⟩ kako smo prolazili kroza sred naroda koje ste prošli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kako smo boravili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "smo boravili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kako smo prolazili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "smo prolazili"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kroza sred"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ste prošli"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:39.961655881Z",
+  "model": "glm-5.3"
+}

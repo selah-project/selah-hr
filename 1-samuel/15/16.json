@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tada Šemuel reče Šaulu: Stani, i objavit ću ti ⟨את⟩ ono što mi je Jahve rekao ovu noć. I on mu reče: Govori.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tada reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "stani"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "i objavit ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ovu noć"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Govori"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:03.472015671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I čovjek koji uzme ⟨את⟩ ženu i ⟨את⟩ majku njezinu — razvrat je to: u oganj neka spale ⟨את⟩ njega i ⟨את⟩ njih, da ne bude razvrata među vama.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "majku njezinu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "majku njezinu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "razvrat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganj"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "neka spale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "i ⟨את⟩ njih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "razvrata"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "među vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:52.662436871Z",
+  "model": "glm-5.3"
+}

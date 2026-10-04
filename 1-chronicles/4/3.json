@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A ovo ⟨je⟩ ⟨od⟩ oca Etama: Jizreel, Jišma i Jidbaš; a ime sestre njihove ⟨bilo je⟩ Celelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A ovo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etama"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Jišma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "i Jidbaš"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "sestre njihove"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Celelponi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:48.440475099Z",
+  "model": "glm-5.3"
+}

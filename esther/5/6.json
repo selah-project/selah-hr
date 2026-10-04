@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče kralj Ester pri gozbi vina: Što je molba tvoja, i dat će ti se; a što je želja tvoja? Do polovice kraljevstva — i bit će učinjeno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "pri gozbi"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "molba tvoja"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "i dat će ti se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a što"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "želja tvoja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovice"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "i bit će učinjeno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:55.853806134Z",
+  "model": "glm-5.3"
+}

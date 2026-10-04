@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A Barak joj reče: Ako pođeš sa mnom, idem; a ako ne pođeš sa mnom, neću poći.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pođeš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "idem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pođeš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "poći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:04.976980386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I David i sav dom Jisraelov dizahu ⟨את⟩ kovčeg Jahvin uz klicanje i glas šofara.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "dizahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg Jahvin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "uz klicanje"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "i uz glas"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:36.648857703Z",
+  "model": "glm-5.3"
+}

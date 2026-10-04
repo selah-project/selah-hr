@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I donesu sinovi Aharonovi ⟨את⟩ krv k njemu, i umoči prst svoju u krv, i položi je na rogove žrtvenika, a ⟨את⟩ krv izli na podnožje žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "i donesu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "i umoči"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "prst svoju"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "u krv"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i položi je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "izli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "podnožje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.366437802Z",
+  "model": "glm-5.3"
+}

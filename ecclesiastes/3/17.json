@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Rekoh ja u srcu svojemu: ⟨את⟩ pravednika i ⟨את⟩ opakoga sudit će Elohim, jer vrijeme je za svaku želju i za svako djelo ondje.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Rekoh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "u srcu svojemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pravednika"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "opakoga"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "opakoga"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sudit će"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme je"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svaku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "želju"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svako"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:43.656541587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Zapovjedi ⟨את⟩ sinovima Jisraela neka uzmu k tebi ulja maslinova, čista, tučenoga, za svjetiljku, da se diže žižak neprestano.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinovima Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "neka uzmu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "זית",
+      "gloss": "maslinova"
+    },
+    {
+      "surface": "זך",
+      "gloss": "čista"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tučenoga"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "za svjetiljku"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "da se diže"
+    },
+    {
+      "surface": "נר",
+      "gloss": "žižak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:53.132292745Z",
+  "model": "glm-5.3"
+}

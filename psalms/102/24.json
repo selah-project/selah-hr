@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Ponizio je na putu moju snagu, skratio je dane moje.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ponizio je"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "moju snagu"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "skratio je"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:48.252319549Z",
+  "model": "glm-5.3"
+}

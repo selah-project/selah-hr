@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I nasuka se koraba u sedmome mjesecu, sedamnaestoga dana u mjesecu, na gore araratske.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "nasuka se"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "koraba"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmome"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sedam(nastoga)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "araratske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:37.758615613Z",
+  "model": "glm-5.3"
+}

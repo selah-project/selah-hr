@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Ne tako: idite sada vi muškarci i služite Jahvi, jer to vi tražite. I otjera ih ispred lica faraonova.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vi muškarci"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "tražite"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "i otjera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ispred ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:01.894319642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ovo je povijest Šema: Šem bijaše sin od sto godina kad je rodio ⟨את⟩ Arpakšada, dvije godine poslije potopa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ovo je"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "povijest"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kad je rodio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakšada"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšada"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dvije godine"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.278007486Z",
+  "model": "glm-5.3"
+}

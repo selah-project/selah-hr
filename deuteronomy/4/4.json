@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A vi, koji se držite Jahve, Elohim vašega, živi ste svi vi danas.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "koji se držite"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vašega"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi ste"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "svi vi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:24.249682660Z",
+  "model": "glm-5.3"
+}

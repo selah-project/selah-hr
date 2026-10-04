@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Svi mi kao stado zalutaslmo, svatko na svoj put se okrenusmo, i Jahve je na nj svalio ⟨את⟩ bezakonje nas svih.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "svi mi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kao stado"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "zalutaslmo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "na svoj put"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "se okrenusmo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "svalio"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bezakonje nas svih"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bezakonje"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nas svih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:30.351943784Z",
+  "model": "glm-5.3"
+}

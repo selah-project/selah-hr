@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče: Otvori prozor prema istoku. I on otvori, i reče Eliša: Ispali. I on ispali. A on reče: Strelica spasenja Jahvina, i strelica spasenja protiv Arama; i udarat ćeš ⟨את⟩ Aram u Afeku, dok ga sasvim ne istrijebiš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Otvori"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "prozor"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "prema istoku"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Ispali"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "i on ispali"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "strelica"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "spasenja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "i strelica"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "spasenja"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "protiv Arama"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "i udarat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "u Afeku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sasvim ne istrijebiš"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:09.152670765Z",
+  "model": "glm-5.3"
+}

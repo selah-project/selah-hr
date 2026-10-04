@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Mrzio sam zbor zločinaca i s opakima neću sjediti.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Mrzio sam"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zločinaca"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "opakima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sjediti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:04.006150621Z",
+  "model": "glm-5.3"
+}

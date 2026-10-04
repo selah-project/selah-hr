@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načini dva keruba od zlata; kovana radu načini ⟨אתם⟩, s dvaju krajeva Pomirilišta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruba"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kovana radu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "njih (dva keruba)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "s dvaju"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "krajeva"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Pomirilišta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:19.157818896Z",
+  "model": "glm-5.3"
+}

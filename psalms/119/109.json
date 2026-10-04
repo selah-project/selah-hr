@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Duša je moja neprestano u ruci mojoj, a Tvoje Tore nisam zaboravio.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "u ruci mojoj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a Tvoje Tore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nisam zaboravio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:37.066112329Z",
+  "model": "glm-5.3"
+}

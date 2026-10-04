@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Živ sam ja, riječ Jahvina, Adonaj Elohim: ako ne — na mjestu kralja koji ⟨את⟩ ga je zakraljio, čiju je ⟨את⟩ kletvu prezreo i čiji je prekršio ⟨את⟩ savez, ⟨את⟩ s njim usred Babela umrijet će.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "koji je zakraljio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "koji je zakraljio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čiju"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "je prezreo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kletvu"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "kletvu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i čiji"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "je prekršio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "umrijet će"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:40:48.436321330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Od glasa uzdisanja mojega prionuše kosti moje uz tijelo moje.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "od glasa"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "uzdisanja mojega"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "prionuše"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": " kosti moje"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "uz tijelo moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.977634370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Čuvaj moje zapovijedi i živi, i moju Toru ⟨kao⟩ zjenicu oka svojega.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "i živi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "i moja Tora"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kao zjenica"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oka svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:49.670019945Z",
+  "model": "glm-5.3"
+}

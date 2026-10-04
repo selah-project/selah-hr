@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Uzađite k meni i pomozite mi, pa da udarimo ⟨את⟩ Giv'on, jer sklopi mir ⟨את⟩ Jehošuom i ⟨את⟩ sinovima Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "uzađite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "i pomozite mi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "pa da udarimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "sklopi mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinovi Jisraelovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:17.605301271Z",
+  "model": "glm-5.3"
+}

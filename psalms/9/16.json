@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Potonuše narodi u jamu koju su iskopali; u mrežu koju su sakrili, uhvaćena je njihova noga.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "potonuše"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "u jamu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "koju su iskopali"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "u mrežu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "koju"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "su sakrili"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "uhvaćena je"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "njihova noga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:03.081015788Z",
+  "model": "glm-5.3"
+}

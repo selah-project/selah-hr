@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Pobjegli ispred mača, pođite, ne stojte! Sjetite se iz daleka ⟨את⟩ Jahve, i neka Jerušalajim uzđe na srce vaše.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "Pobjegli"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ispred mača"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "pođite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "stojte"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Sjetite se"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "iz daleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajim"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "neka uzđe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srce vaše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:35:50.356975339Z",
+  "model": "glm-5.3"
+}

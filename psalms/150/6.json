@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 150,
+  "translation": "Svaki dah nek slavi Jah, hvalite Jah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Svaki"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "dah"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "nek slavi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:31.556155053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Čujte ⟨את⟩ riječ koju govori Jahve o vama, dome Jisraelov.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Čujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "o vama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:22.018290671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bit će vam taj dan za spomen, i slavit ćete ga kao blagdan Jahvi; kroz naraštaje vaše — vječna naredba: slavit ćete ga.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taj dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "za spomen"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "i slavit ćete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (blagdan)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kao blagdan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kroz naraštaje vaše"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "naredba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječna"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "slavit ćete ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:45.346428692Z",
+  "model": "glm-5.3"
+}

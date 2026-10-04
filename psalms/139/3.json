@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Moju stazu i moj počinak razabireš, sa svim mojim putima upoznat si.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Moju stazu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "i moj počinak"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "razabireš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sa svim"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mojim putima"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "upoznat si"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:00.291541005Z",
+  "model": "glm-5.3"
+}

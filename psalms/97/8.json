@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": " Ču Cion i radova se, i kćeri Jude veselje se zbog sudova tvojih, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ču"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "i radova se"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "i veselje se"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sudova tvojih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:33.731943163Z",
+  "model": "glm-5.3"
+}

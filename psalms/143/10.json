@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Nauči me činiti volju tvoju, jer ti si Eloah moj; ruah tvoja dobra ⟨je⟩, ona me vodi u zemlji ravnici.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Nauči me"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "volju tvoju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah moj"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruah tvoja"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ona me vodi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ravnice"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.793503563Z",
+  "model": "glm-5.3"
+}

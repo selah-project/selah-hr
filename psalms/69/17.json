@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Odgovori mi, Jahve, jer je dobar tvoj hesed; po množini svojih milosrđa obrati se k meni.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Odgovori mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "po množini"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svojih milosrđa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "obrati se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.188973810Z",
+  "model": "glm-5.3"
+}

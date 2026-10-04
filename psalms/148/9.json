@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Planine i sve uzvišice, stabla voćka i svi cedrovi,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "planine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "uzvišice"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stabla"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "voćka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:32.773532164Z",
+  "model": "glm-5.3"
+}

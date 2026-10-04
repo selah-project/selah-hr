@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I prinijet će svećenik ⟨את⟩ žrtvu paljenicu i ⟨את⟩ minhu na žrtvenik, i okajat će ga svećenik, i bit će čist.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "i prinijet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "minhu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtvenik"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i okajat će"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i bit će čist"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:40.774837892Z",
+  "model": "glm-5.3"
+}

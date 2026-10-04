@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Pogledaj me i smiluj mi se, jer sam sam i nevoljan ja.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "i smiluj mi se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "i nevoljan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:54.625869022Z",
+  "model": "glm-5.3"
+}

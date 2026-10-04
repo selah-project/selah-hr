@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Onaj koji sjedi na nebesima smije se, Adonaj ih izruguje.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Onaj koji sjedi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesima"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "smije se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "izruguje"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:17.161297425Z",
+  "model": "glm-5.3"
+}

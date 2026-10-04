@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I pozva Moše sav Jisrael te im reče: Slušaj, Jisraele, ⟨את⟩ uredbe i ⟨את⟩ pravilâ koja ja danas govorim u vaše uši; i naučite ih, i čuvajte ih da ih izvršujete.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slušaj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uredbe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "uredbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pravila"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pravila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "u vaše uši"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "i naučite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvajte"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "da ih izvršujete"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:13.220126867Z",
+  "model": "glm-5.3"
+}

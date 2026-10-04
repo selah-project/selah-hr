@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I kad je ona došla pred kralja, reče ⟨se⟩ uz pismo: neka se vrati njegova zla namisao, koju je smislio protiv Judejaca, na njegovu glavu; i objesiše njega ⟨את⟩ i ⟨את⟩ njegove sinove na drvo.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "i kad je došla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pismo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "neka se vrati"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "njegova namisao"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "je smislio"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judejaca"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovu glavu"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "i objesiše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drvo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:26.555287449Z",
+  "model": "glm-5.3"
+}

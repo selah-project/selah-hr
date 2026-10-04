@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Ženu ćeš zaručiti, a drugi će je čovjek obljubiti; kuću ćeš sagraditi, i nećeš u njoj stanovati; vinograd ćeš posaditi, i nećeš ga ⟨koristiti⟩.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "ćeš zaručiti"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a čovjek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "će je obljubiti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ćeš sagraditi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nećeš"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "stanovati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinograd"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ćeš posaditi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nećeš"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "⟨koristiti⟩ ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:59.172488373Z",
+  "model": "glm-5.3"
+}

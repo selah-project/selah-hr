@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Moše reče sinovima Jisraelovim da obave ⟨את⟩ pashu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "da obave"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pashu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:09.494441601Z",
+  "model": "glm-5.3"
+}

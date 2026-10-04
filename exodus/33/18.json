@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče: Pokaži mi, molim, ⟨את⟩ svoju slavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "pokaži mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju slavu"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "svoju slavu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:49.232609887Z",
+  "model": "glm-5.3"
+}

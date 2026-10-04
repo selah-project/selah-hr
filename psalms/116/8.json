@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Jer si izbavio dušu moju od smrti, ⟨את⟩ oko moje od suza, ⟨את⟩ nogu moju od posrnuća.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "si izbavio"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko moje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "suza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nogu moju"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nogu moju"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "od posrnuća"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.980012989Z",
+  "model": "glm-5.3"
+}

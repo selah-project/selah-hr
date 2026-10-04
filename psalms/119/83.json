@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Jer postadoh kao mješina u dimu; tvojih propisa nisam zaboravio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "postadoh"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "kao mješina"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "u dimu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvojih propisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zaboravio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:23.945978194Z",
+  "model": "glm-5.3"
+}

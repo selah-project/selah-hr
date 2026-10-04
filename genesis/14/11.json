@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I uzeše ⟨את⟩ svu imovinu Sodome i Gomore i ⟨את⟩ svu njihovu hranu, i otiđoše.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu imovinu Sodome i Gomore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "imovinu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodome"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "i Gomore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu njihovu hranu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i otiđoše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:11.665574834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "⟨את⟩ jednoga janjca pripremi ujutro, a ⟨את⟩ drugoga janjca pripremi između večeri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoga janjca"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janjca"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "pripremi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "drugoga janjca"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janjca"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "pripremi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:50.399262Z",
+  "model": "glm-5.3"
+}

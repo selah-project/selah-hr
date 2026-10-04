@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I bojaše se Šaul pred Davidom, jer Jahve bijaše s njim, a od Šaula se bijaše odvratio.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i bojaše se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "a od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odvratio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:49.577694944Z",
+  "model": "glm-5.3"
+}

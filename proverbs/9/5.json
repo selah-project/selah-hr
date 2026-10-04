@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Dođite, jedite ⟨את⟩ kruh moj, i pijte ⟨את⟩ vino koje sam pomiješala.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Dođite"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "⟨את⟩ kruh moj"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "i pijte"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "⟨את⟩ vino"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "koje sam pomiješala"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:00.983461622Z",
+  "model": "glm-5.3"
+}

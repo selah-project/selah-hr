@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I Jahve Elohim pusti dubok san na čovjeka, i on zaspa; i uze jednu od njegovih rebara, i zatvori meso na njezino mjesto.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dubok san"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "zaspa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "od njegovih rebara"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "zatvori"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "na njezino mjesto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.577370888Z",
+  "model": "glm-5.3"
+}

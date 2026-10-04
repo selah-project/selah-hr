@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Jehošua: Po ovome ćete znati da je El živi među vama i da će istjerati — doista istjerati — ispred vas ⟨את⟩ Kanaanca i ⟨את⟩ Hitita i ⟨את⟩ Hivijca i ⟨את⟩ Perižanina i ⟨את⟩ Gargašanina i Amorejca i Jebusejca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "po ovome"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "ćete znati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živi"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "i doista istjerati"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "istjerati"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ispred vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hitita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hivijca"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivijca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Perižanina"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perižanina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Gargašanina"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Gargašanina"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "i Amorejca"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusejca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:56.030244926Z",
+  "model": "glm-5.3"
+}

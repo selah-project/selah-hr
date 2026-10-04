@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "U ono će vrijeme — riječ Jahvina — iznijeti ⟨את⟩ kosti kraljeva Jude i ⟨את⟩ kosti njezinih knezova, i ⟨את⟩ kosti svećenika, i ⟨את⟩ kosti proroka, i ⟨את⟩ kosti stanovnika Jerušalajima iz njihovih grobova.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "u ono će vrijeme"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "iznijeti će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosti"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kosti knezova"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "njezinih knezova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kosti svećenika"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kosti proroka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kosti stanovnika"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "iz njihovih grobova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:43.193264510Z",
+  "model": "glm-5.3"
+}

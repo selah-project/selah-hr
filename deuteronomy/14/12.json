@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A ovo je što ne smijete jesti od njih: orao, potra i aznijah.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "A ovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orao"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "potra"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "aznijah"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:18.670070149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i naučite ⟨את⟩ ih ⟨את⟩ sinove svoje, da govore o njima, kad sjediš u domu svome, i kad ideš putem, i kad liježeš i kad ustaješ.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "i naučite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove svoje"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "sinove svoje"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "da govore"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o njima"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kad sjediš"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u domu svome"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "i kad ideš"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "i kad liježeš"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "i kad ustaješ"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:37.064455513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I iznese ⟨את⟩ Ašeru iz doma Jahvina, izvan Jerušalajima, do potoka Kidrona, i spali ⟨je⟩ ondje u potoku Kidronu, i satre je u prah, i baci ⟨את⟩ njezin prah na grobove sinova naroda.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iznese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašeru"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ašeru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potoka"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidrona"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "u potoku Kidronu"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "u potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "i satre"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "u prah"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i baci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin prah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "njezin prah"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grob"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:07.628945163Z",
+  "model": "glm-5.3"
+}

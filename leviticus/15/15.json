@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I neka svećenik prinese ⟨את⟩ njih — jednu za žrtvu okaljanosti, a drugu za paljenicu — i neka svećenik izvrši pomirnicu za njega pred Jahvom zbog njegova toka.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i neka prinese"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (dvije ptice)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "za žrtvu okaljanosti"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "a drugu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i neka izvrši pomirnicu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "zbog njegova toka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:06.268707652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "⟨Onaj⟩ koji otkupljuje iz jame tvoj život, ⟨onaj⟩ koji te kruni hesedom i smilovanjem.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "koji otkupljuje"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "iz jame"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "tvoj život"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "koji te kruni"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedom"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "i smilovanjem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:04.223208538Z",
+  "model": "glm-5.3"
+}

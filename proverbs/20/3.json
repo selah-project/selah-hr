@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Čast je čovjeku uzdržati se od svađe, a svaki luđak upada u svađu.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "čast je"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "uzdržati se"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "od svađe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a svaki"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "luđak"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "upada u svađu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:28.610171824Z",
+  "model": "glm-5.3"
+}

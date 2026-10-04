@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Jer ja znam da je Jahve velik, i da je naš gospodar nad svim bogovima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "i naš gospodar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nad svim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:22.832855281Z",
+  "model": "glm-5.3"
+}

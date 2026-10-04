@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I prinese ⟨את⟩ minh ‎— napuni svoju šaku iz nje i kadî je na žrtveniku, osim jutarnje žrtve paljenice.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "svoju šaku"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iz nje"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "i kadî"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutarnje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:08.009418943Z",
+  "model": "glm-5.3"
+}

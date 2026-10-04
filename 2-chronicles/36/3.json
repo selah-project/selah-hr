@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I svrgnu ga kralj Micrajima u Jerušalajimu, i kazni ⟨את⟩ zemlju sa sto talenata srebra i talentom zlata.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "svrgnu ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "kazni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "i talentom"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:18.375982194Z",
+  "model": "glm-5.3"
+}

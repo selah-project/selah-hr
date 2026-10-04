@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče kralj: Skreni, stani ovdje. I on skrenu i stade.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "סב",
+      "gloss": "skreni"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stani"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovdje"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i skrenu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stade"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:20.035782237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Pred njim će klečati stanovnici pustara, a njegovi neprijatelji prah će lizati.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "će klečati"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "stanovnici pustara"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "a njegovi neprijatelji"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "će lizati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:25.873822662Z",
+  "model": "glm-5.3"
+}

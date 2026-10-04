@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Blagoslovljen bit ćeš više nego svi narodi; neće biti u tebi nerotkinje ni nerotkinje ⟨niti⟩ među stokom tvojom.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit ćeš"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego svi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "nerotkinja ⟨muška⟩"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ni nerotkinja"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "i među stokom tvojom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:19.033822328Z",
+  "model": "glm-5.3"
+}

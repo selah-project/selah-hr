@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A ako mi napraviš žrtvenik od kamenja, ne graditi ga od tesanoga kamena, jer ako digneš mač svoj na nj, oskvrnit ćeš ga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "od kamenja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "napraviš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ga (žrtvenik)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "od tesanoga kamena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "mač svoj"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "digneš"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "oskvrnit ćeš ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:12.600351657Z",
+  "model": "glm-5.3"
+}

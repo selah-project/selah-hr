@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I ode te nađe ⟨את⟩ njegovo mrtvo tijelo bačeno na putu, i magarac i lav stoje uz mrtvo tijelo; lav nije pojeo ⟨את⟩ mrtvo tijelo niti rastrgao ⟨את⟩ magarca.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "te nađe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo mrtvo tijelo"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "njegovo mrtvo tijelo"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "bačeno"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "i magarac"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "i lav"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "mrtvo tijelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pojeo"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtvo tijelo"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "mrtvo tijelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "rastrgao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magarca"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "magarca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:13.511000183Z",
+  "model": "glm-5.3"
+}

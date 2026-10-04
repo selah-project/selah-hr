@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Nek' ustane Elohim, nek' se rasprše njegovi neprijatelji, i neka pobjegnu oni koji ga mrze ispred njegova lica.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "nek' ustane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "nek' se rasprše"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "njegovi neprijatelji"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "i neka pobjegnu"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "oni koji ga mrze"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ispred njegova lica"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:13.022894577Z",
+  "model": "glm-5.3"
+}

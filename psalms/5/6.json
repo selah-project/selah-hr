@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Neće se oduprijeti oholi pred tvojim očima; mrziš sve koji čine ništavost.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "oduprijeti se"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "oholi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvojim očima"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "mrziš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "koji čine"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:58.120126361Z",
+  "model": "glm-5.3"
+}

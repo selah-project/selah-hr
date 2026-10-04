@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I Amacjahu se osnaži te povede ⟨את⟩ svoj narod i ode u dolinu Soli, i udari ⟨את⟩ sinove Seirove — deset tisuća.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "i Amacjahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "se osnaži"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "povede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dolinu"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Seirrove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:29.721549638Z",
+  "model": "glm-5.3"
+}

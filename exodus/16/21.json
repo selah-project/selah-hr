@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I skupljaše ga jutrom ujutro, svaki koliko bi pojeo; a kad bi sunce zagrijalo, rastopilo bi se.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "i skupljaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (manu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "jutrom"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "prema mjeri"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jela svoga"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "i zagrijalo se"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "i rastopilo se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:04.885388328Z",
+  "model": "glm-5.3"
+}

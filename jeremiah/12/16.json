@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 12:16",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bit će: ako dobro nauče ⟨את⟩ putove naroda mojega, zaklinjati se u ime moje — Živ mi Jahve — kao što naučiše ⟨את⟩ narod moj zaklinjati se u Baala, tada će se izgraditi usred naroda mojega.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "I bit će"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "למד",
+      "gloss": "dobro nauče"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "nauče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putove naroda mojega"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "putove"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "להשבע",
+      "gloss": "zaklinjati se"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "u ime moje"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "naučiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod moj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "להשבע",
+      "gloss": "zaklinjati se"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "u Baala"
+    },
+    {
+      "surface": "ונבנו",
+      "gloss": "izgradit će se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:36.593482937Z",
+  "model": "glm-5.3"
+}

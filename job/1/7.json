@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Jahve Satani: Otkud dolaziš? I odgovori Satan ⟨את⟩ Jahvi i reče: Od lutanja po zemlji i od šetnje po njoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "otrud"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dolaziš"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "od lutanja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "i od šetnje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:39.449160013Z",
+  "model": "glm-5.3"
+}

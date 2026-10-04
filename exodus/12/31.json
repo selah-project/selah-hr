@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I dozva Mošea i Aharona u noći i reče: Ustajte, izađite iz sredine naroda mojega, i vi i sinovi Jisraelovi, i idite, služite ⟨את⟩ Jahvu kako ste rekli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i dozva"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharona"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "u noći"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Ustajte"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "izađite"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "i idite"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "kako ste rekli"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:18.593703980Z",
+  "model": "glm-5.3"
+}

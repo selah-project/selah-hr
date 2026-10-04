@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ljubio sam ⟨את⟩ vas — reče Jahve — a vi rekoste: „U čemu si nas ljubio?” Zar brat nije Esav Jaakovu? — riječ Jahvina — a Jaakova sam ljubio, ⟨את⟩ Jaakova.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ljubio sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "a vi rekoste"
+    },
+    {
+      "surface": "במה",
+      "gloss": "U čemu"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "si nas ljubio"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Zar"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "a ljubio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:05.186243167Z",
+  "model": "glm-5.3"
+}

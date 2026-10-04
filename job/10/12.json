@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Život i hesed si mi učinio, i briga mi je čuvala ruah moju.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Život"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "i briga ⟨tvoja⟩"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "je čuvala"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruah moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:47.697276167Z",
+  "model": "glm-5.3"
+}

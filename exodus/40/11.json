@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I pomazat ćeš ⟨את⟩ umivaonik i ⟨את⟩ postolje njegovo, i posvetit ćeš ⟨את⟩ ga.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomazat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umivaonik"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "postolje njegovo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "postolje njegovo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "i posvetit ćeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:33.515492847Z",
+  "model": "glm-5.3"
+}

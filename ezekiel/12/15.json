@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I znat će da sam ja Jahve kad ih raspršim ⟨את⟩ među narode i razaspe⟨את⟩m po zemljama.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "i znat će"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "kad raspršim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narode"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "i razaspem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "po zemljama"
+    }
+  ],
+  "timestamp": "2026-10-04T18:39:04.814509302Z",
+  "model": "glm-5.3"
+}

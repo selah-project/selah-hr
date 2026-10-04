@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I Jahve će spasiti ⟨את⟩ šatore Jude prvo, da se slava doma Davidova i slava stanovnika Jerušalajima ne uzvisuje nad Judom.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "i spasit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šatore Jude"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "šatore"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "prvo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "uzvisuje se"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "slava"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "i slava"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stanovnika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:35.852371680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Ovo se spominjem i izlijevam dušu svoju nada se, jer prelazih s mnoštvom, vodih ih do doma Elohimova, glasom radostna krika i zahvale, mnoštvom što slavi blagdan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "spominjam"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "i izlijevam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu svoju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "prelazih"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "s mnoštvom"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "vodih ih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasom"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "radostna krika"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "i zahvale"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mnoštvom"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "slavi blagdan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:40.308427790Z",
+  "model": "glm-5.3"
+}

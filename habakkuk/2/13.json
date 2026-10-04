@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zašto ne? Gle, ⟨את⟩ to čini Jahve Cebaot: narodi se muče za oganj, i plemena se od nemila praznine iznemogu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "zašto ne?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "to čini Jahve Cebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "muče se"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i plemena"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "od"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "praznine"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "iznemogu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:07.552843558Z",
+  "model": "glm-5.3"
+}

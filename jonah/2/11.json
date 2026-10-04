@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče Jahve ribi, i ona izbljuva ⟨את⟩ Jonu na kopno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ribi"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "i izbljuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kopno"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:42.793337981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I prinese ⟨את⟩ žrtvu naroda, pa uze ⟨את⟩ jarca, žrtvu za grijeh koja je za narod, zakla ga i očisti ga za grijeh kao prvoga.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarca"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtvu za grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "zakla ga"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "očisti ga za grijeh"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kao prvoga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:55.043927883Z",
+  "model": "glm-5.3"
+}

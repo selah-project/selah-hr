@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše, dok bijaše David ⟨את⟩ s Edomom, kad se uspe Joav, knez vojske, da pokopa pobijene, te udari svakog muškarca u Edomu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "dok bijaše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ s"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "kad se uspe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knez"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "da pokopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pobijene"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "pobijene"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "te udari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakog"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarca"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "u Edomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.607266154Z",
+  "model": "glm-5.3"
+}

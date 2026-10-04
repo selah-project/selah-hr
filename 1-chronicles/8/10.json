@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ⟨את⟩ Jeuca i ⟨את⟩ Šakju i ⟨את⟩ Mirmaha; to su sinovi njegovi, poglavari rodovā.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jeuca"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šakju"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Šakju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Mirmaha"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "poglavari"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "rodovā"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:02.549694862Z",
+  "model": "glm-5.3"
+}

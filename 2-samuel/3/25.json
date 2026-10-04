@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Znaš ⟨את⟩ Avnera, sina Nerova: došao je da te zavede i da dozna ⟨את⟩ tvoj izlazak i ⟨את⟩ tvoj ulazak, i da dozna ⟨את⟩ sve što činiš.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Znaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nerova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "da te zavede"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao je"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "i da dozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj izlazak"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "tvoj izlazak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tvoj ulazak"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "tvoj ulazak"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "i da dozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činiš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:27.724997606Z",
+  "model": "glm-5.3"
+}

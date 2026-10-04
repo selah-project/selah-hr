@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ne boj se od iznenadnoga straha ni od propasti zlikovaca kad dođe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "od straha"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "iznenadnoga"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ni od propasti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dođe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:54.068890689Z",
+  "model": "glm-5.3"
+}

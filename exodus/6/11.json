@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Uđi, govori Parou, kralju micrajimskomu, da pusti ⟨את⟩ sinove Jisraelove iz svoje zemlje.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimskomu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "da pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iz svoje zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:17.613583958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ne ispita ⟨od⟩ Jahve, pa ga usmrti i preusmjeri ⟨את⟩ kraljevstvo Davidu, sinu Jišajevu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ispita"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "pa ga usmrti"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i preusmjeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajevu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:50.962012865Z",
+  "model": "glm-5.3"
+}

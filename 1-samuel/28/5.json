@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I vidje Šaul ⟨את⟩ tabor Pelištimljana, i prestraši se, i srce mu veoma zadrhta.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Pelištimljana"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimljana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i prestraši se"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "i zadrhta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srce mu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:12.227296307Z",
+  "model": "glm-5.3"
+}

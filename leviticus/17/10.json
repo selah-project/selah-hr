@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A tko god od doma Jisraelova ili od stranaca koji borave među njima bude jeo bilo kakvu krv — ja ću upraviti svoje lice protiv te duše što jede krv i istrijebit ću je iz sredine njezina naroda.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A tko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "god"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "od doma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ili od"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "stranaca"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "koji borave"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "među njima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bude jeo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bilo kakvu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ja ću upraviti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svoje lice"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "protiv duše"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "što jede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i istrijebit ću"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ je",
+      "marks": "je — duša koja jede krv"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "njezina naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:22.837843672Z",
+  "model": "glm-5.3"
+}

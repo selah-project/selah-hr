@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I zapovjedi Moše ⟨את⟩ sinova Jisraelovih po nalogu Jahve, rekavši: Pravo govori pleme sinova Josipovih.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinova Jisraelovih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nalogu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipovih"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "govori"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:13.962795733Z",
+  "model": "glm-5.3"
+}

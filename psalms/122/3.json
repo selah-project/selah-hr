@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Jerušalajim, sagrađen kao grad koji je sebi spojen u jedno.",
+  "tokens": [
+    {
+      "surface": "יירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "sagrađen"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kao grad"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "koji je spojen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "u jedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.407551908Z",
+  "model": "glm-5.3"
+}

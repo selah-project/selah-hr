@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I posvetiše ⟨את⟩ Kedeš u Galileji, u brdu Naftaliju, i ⟨את⟩ Šekem u brdu Efrajimovu, i ⟨את⟩ Kirjat-Arbu — to jest Hebron — u brdu Judinu.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "i posvetiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeš"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeš"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "u Galileji"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "u brdu"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftaliju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "u brdu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kirjat-Arbu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "u brdu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:30.368181728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "U onaj dan izvršit ću na Eliju ⟨את⟩ sve što sam rekao o njegovu domu, počet ću i svršiti.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "izvršit ću"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što sam rekao o njegovu domu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sam rekao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovu domu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "počet ću"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "i svršiti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:01.308854308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 11:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "koju zapovjedih vašim ocima onoga dana kad sam ih izveo iz zemlje micrajske, iz peći željezne, rekavši: Slušajte glas moj i činite ⟨את⟩ ⟨ih⟩ po svemu što vam zapovjedit ću, i bit ćete mi narodom, a ja ću vam biti Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "zapovjedih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vašim ocima"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vašim ocima"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "kad sam izveo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "iz peći"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "željezne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "glas moj"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i činite"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "riječi saveza"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "zapovjedit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "i bit ćete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ću biti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:53.806129579Z",
+  "model": "glm-5.3"
+}

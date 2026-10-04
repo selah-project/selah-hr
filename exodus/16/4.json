@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče Jahve Mošeu: Evo, ja ću vam kišom slati kruh s neba; i neka izlazi narod i sakuplja koliko je za dan, dan za danom, da ih iskušam hoće li hoditi po moji Tori ili neće.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "kišom slati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "neka izlazi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "i sakuplja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "koliko je"
+    },
+    {
+      "surface": "יום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "dan za danom"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "ih iskušam"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "hoće li hoditi"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "po moji Tori"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:44.310505090Z",
+  "model": "glm-5.3"
+}

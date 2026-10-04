@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I Esaš potrča u susret njemu, i zagrli ga, i pade na vrat njegov, i poljubi ga, i plakahu.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "i potrča"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaš"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "u susret njemu"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "i zagrli ga"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i pade"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "vrat njegov"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "i poljubi ga"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i plakahu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:16.136221286Z",
+  "model": "glm-5.3"
+}

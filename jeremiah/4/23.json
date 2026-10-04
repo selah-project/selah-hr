@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Gledah ⟨את⟩ zemlju, i gle: pustota i praznina; i k nebesima — i svjetla njihova nema.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gledah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pustota"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "i praznina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesima"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "svjetla njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:09.269154132Z",
+  "model": "glm-5.3"
+}

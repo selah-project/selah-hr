@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Dok ne dođoh u svetišta Elowa, spoznah ⟨את⟩ njihov svršetak.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dok ne"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "dođoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svetišta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "spoznah"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "⟨את⟩ njihov svršetak"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:14.926686902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "A Jisrael reče: Zašto mi učiniste zlo objavljujući onom čovjeku da imate još brata?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "učiniste zlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "objavljujući"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imate"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:48.588155960Z",
+  "model": "glm-5.3"
+}

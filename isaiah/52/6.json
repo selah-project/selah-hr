@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Zato će narod moj znati ime moje; zato će u onaj dan znati da sam ja onaj koji govori — evo me!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znati će"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "koji govori"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo me"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:13.533170094Z",
+  "model": "glm-5.3"
+}

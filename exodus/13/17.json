@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I dogodi se, kad faraon otpusti ⟨את⟩ narod, da Elohim ne povede ⟨את⟩ njih putem zemlje Pelišćana, jer je ⟨to⟩ blizu; jer reče Elohim: da se narod ne bi pokolebao kad vidi rat i vratio se u Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kad otpusti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "povede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelišćana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blizu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "pokoleba se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "kad vide"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i vrate se"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "u Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:38.230366337Z",
+  "model": "glm-5.3"
+}

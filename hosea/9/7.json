@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 9:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Došli su dani pohoda, došli su dani naplate; znat će to Jisrael: lud je prorok, mahnit je čovjek ruha — zbog mnoštva bezakonja tvojega i velikoga je neprijateljstva.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "došli su"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "הפקדה",
+      "gloss": "pohoda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "došli su"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "השלם",
+      "gloss": "naplate"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znat će"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "lud"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "mahnit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bezakonja tvojega"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "i velikoga"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "neprijateljstva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:59.284300514Z",
+  "model": "glm-5.3"
+}

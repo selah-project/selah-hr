@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Pretvori ⟨את⟩ vode njihove u krv i usmrti ⟨את⟩ ribu njihovu.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Pretvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vode njihove"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "vode njihove"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "u krv"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i usmrti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ribu njihovu"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ribu njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:58.012885913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "I bi Jahve meni ⟨je⟩ za utvrdu, i Elohim moj za stijenu utočišta moga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "za utvrdu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i Elohim moj"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "za stijenu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "utočišta moga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.111285409Z",
+  "model": "glm-5.3"
+}

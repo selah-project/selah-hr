@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Nećeš se s njima združiti u ukopu, jer si upropastio svoju zemlju, svoj narod pobio; neće se dovijeka spomenuti sjeme zlotvora.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nećeš"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "združiti se"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "u ukopu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "upropastio"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "pobio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "spomenuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlotvora"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:52.537817104Z",
+  "model": "glm-5.3"
+}

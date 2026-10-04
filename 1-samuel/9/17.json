@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I vidje Šemuel ⟨את⟩ Šaula, a Jahve mu odgovori: Evo čovjeka o kojemu sam ti govorio; on će vladati mojim narodom.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "i vidje Šemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "mu odgovori"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kojemu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sam govorio"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "on"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "će vladati"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "mojim narodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:16.328991514Z",
+  "model": "glm-5.3"
+}

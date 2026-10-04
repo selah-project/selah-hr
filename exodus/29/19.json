@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I uzet ćeš ⟨את⟩ ovna drugoga, i Aharon i sinovi njegovi položit će ⟨את⟩ ruke svoje na glavu ovna.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovna drugoga"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "i položit će"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i sinovi njegovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruke svoje"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:36.758308345Z",
+  "model": "glm-5.3"
+}

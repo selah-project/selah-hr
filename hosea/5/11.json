@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Efrajim je tlačen, satrljen ⟨u⟩ pravu, jer je htio ići za zapovijeđu.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "tlačen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "satrljen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "u pravu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "htio je"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ići"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "צו",
+      "gloss": "zapovijeđu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:35.484405357Z",
+  "model": "glm-5.3"
+}

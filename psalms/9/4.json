@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Kad se neprijatelji moji vrate natrag, posrnut će i propasti pred licem tvojim.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Kad se… vrate"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "neprijatelji moji"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "posrnut će"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "i propasti"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred licem tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:22.376514249Z",
+  "model": "glm-5.3"
+}

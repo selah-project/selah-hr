@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Sav je čovjek vidio ⟨את⟩ nj; smrtnik gleda izdaleka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njega",
+      "marks": null
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "gleda"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "izdaleka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:58.825385436Z",
+  "model": "glm-5.3"
+}

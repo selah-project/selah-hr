@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Postaviše nad njih nadzornike radnih nameta da ih tlače teretima njihovim; i izgradi spremišne gradove faraonu: ⟨את⟩ Pitom i ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Postaviše"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njih"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "nadzornike"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "radnih nameta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "tlače"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "teretima njihovim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i izgradi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "spremišne"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:20.046694472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I žabe će se ukloniti od tebe, i iz tvojih kuća, i od tvojih slugu, i od tvojega naroda; samo u rijeci će ostati.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "i uklonit će se"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "i iz tvojih kuća"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "i od tvojih slugu"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "i od tvojega naroda"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "u rijeci"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "će ostati"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:36.521661338Z",
+  "model": "glm-5.3"
+}

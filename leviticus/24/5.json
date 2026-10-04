@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Uzet ćeš bijelo brašno i ispeći ćeš ⟨את⟩ dvanaest kruhova: dvije desetine ⟨efe⟩ neka bude jedan kruh.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzet ćeš"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bijelo brašno"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ispeći ćeš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dvanaest kruhova"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "חלות",
+      "gloss": "kruhova"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetine ⟨efe⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:19.777594561Z",
+  "model": "glm-5.3"
+}

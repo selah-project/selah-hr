@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče sav zbor da se tako učini, jer je stvar pravedna u očima svega naroda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da se učini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pravedna"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:23.483492996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Eno, urota će se urotiti, ali ne od mene ⟨את⟩; tko god se uroti s tobom, na tebe će pasti.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "eno"
+    },
+    {
+      "surface": "גור",
+      "gloss": "urota"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "urotit će se"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "od mene"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "גר",
+      "gloss": "uroti se"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "će pasti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:51.928867063Z",
+  "model": "glm-5.3"
+}

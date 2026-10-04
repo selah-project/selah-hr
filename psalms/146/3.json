@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Ne uzdajte se u knezove, u sina čovječjega, u kojega nema spasenja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "uzdajte se"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "u knezove"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "u sina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječjega"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "u kojega nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "spasenja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.452293829Z",
+  "model": "glm-5.3"
+}

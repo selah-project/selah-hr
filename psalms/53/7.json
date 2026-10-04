@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Tko bi dao iz Cijona spasenje Jisraelu! Kad Elohim povrati sužanjstvo svoga naroda, neka se Jaakov raduje, neka se Jisrael veseli!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bi dao"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "iz Cijona"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "spasenje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Kad povrati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sužanjstvo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoga naroda"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "neka se veseli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:08.638407456Z",
+  "model": "glm-5.3"
+}

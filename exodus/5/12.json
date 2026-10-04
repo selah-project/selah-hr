@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I rasprši se narod po svoj zemlji Micrajima da skuplja klješće ⟨za⟩ slamu.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "i rasprši se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "da skuplja"
+    },
+    {
+      "surface": "קש",
+      "gloss": "klješće"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "⟨za⟩ slamu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:03.291558068Z",
+  "model": "glm-5.3"
+}

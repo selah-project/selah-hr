@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad se nađe čovjek koji krade neku dušu od svoje braće, od sinova Jisraelovih, i s njom postupi nasilno pa je proda, taj kradljivac neka umre, i zlo iskorijeniš iz svoje sredine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se nađe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "koji krade"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "od svoje braće"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "postupi nasilno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "pa je proda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "neka umre"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "taj kradljivac"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taj"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "iskorijeniš"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iz svoje sredine"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:22.477717987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I vidjet će svećenik, i gle: uzdignuće bijelo na koži, i ono je pretvorilo dlaku u bijelu, i živo sirovo meso u uzdignuću —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidjet će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "uzdignuće"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bijelo"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na koži"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "i ono"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "je pretvorilo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dlaku"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "u bijelu"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "i oživljavanje"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živog"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "u uzdignuću"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:25.016534798Z",
+  "model": "glm-5.3"
+}

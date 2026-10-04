@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Nedužnost i pravda neka me čuvaju, jer se u tebe uzdam.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "nedužnost"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "i pravda"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "neka me čuvaju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "uzdam se u tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:38.791960920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I posla Jahve ⟨את⟩ Jerubbaala i ⟨את⟩ Bedana i ⟨את⟩ Jiftaha i ⟨את⟩ Šmuela, te vas izbavi iz ruke neprijatelja vaših sa svih strana, i stanovaste u sigurnosti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaala"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Bedana"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jiftaha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šmuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuela"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "te izbavi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "neprijatelja vaših"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa svih strana"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "i stanovaste"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "u sigurnosti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:01.858751448Z",
+  "model": "glm-5.3"
+}

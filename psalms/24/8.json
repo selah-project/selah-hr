@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Tko je ovaj kralj slave? Jahve, silan i junak, Jahve, junak u boju!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "silan"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "i junak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junak"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "u boju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.751718777Z",
+  "model": "glm-5.3"
+}

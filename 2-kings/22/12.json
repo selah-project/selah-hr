@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I zapovjedi kralj ⟨את⟩ Hilkiju svećenika i ⟨את⟩ Ahikama sina Šafanova, i ⟨את⟩ Akora sina Mikajina, i ⟨את⟩ Šafana pisara i ⟨את⟩ Asaju slugu kraljev, govoreći:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiju svećenika"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafanova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Akora sina Mikajina"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akora"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikajina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šafana pisara"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafana"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pisara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Asaju slugu kraljeva"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaju"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slugu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:16.847112165Z",
+  "model": "glm-5.3"
+}

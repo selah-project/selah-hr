@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Nado mnom prođoše tvoji žestoki gnjevi, tvoji užasi uništiše me.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "nado mnom"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prođoše"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "tvoji žestoki gnjevi"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "tvoji užasi"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "uništiše me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:04.312839395Z",
+  "model": "glm-5.3"
+}

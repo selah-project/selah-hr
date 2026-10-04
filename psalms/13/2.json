@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Dokle ćeš me, Jahve, zaboravljati — zauvijek? Dokle ćeš skrivati ⟨את⟩ lice svoje od mene?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ćeš me zaboravljati"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ćeš skrivati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:26.586923355Z",
+  "model": "glm-5.3"
+}

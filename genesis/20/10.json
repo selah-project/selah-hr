@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A Avimeleh reče Avrahamu: Što si vidio, da si učinio ⟨את⟩ stvar ovu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "si vidio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stvar ovu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:43.609250398Z",
+  "model": "glm-5.3"
+}

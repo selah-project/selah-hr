@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Šalomoh sagradi ⟨את⟩ Gezer i ⟨את⟩ Bet-Horon donji.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i sagradi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "donji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:00.659352562Z",
+  "model": "glm-5.3"
+}

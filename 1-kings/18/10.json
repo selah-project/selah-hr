@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Živ mi bio Jahve, Elohim tvoj, nema naroda ni kraljevstva gdje gospodar moj nije slao ⟨tebe⟩ da te traži; a kad bi rekli: Nema ga, zakleo bi ⟨את⟩ kraljevstvo i ⟨את⟩ narod da te ne nađu.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "ni kraljevstva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "slao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodar moj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "da te traži"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a kad bi rekli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema ga"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "zakleo bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "te nađu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:04.812539383Z",
+  "model": "glm-5.3"
+}

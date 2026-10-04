@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I načiniš naprsnik suda, rad umjetnički tkan, kao rad efoda načiniš ga: od zlata, od modroga preliva, od grimiza i od skerleta i od predenoga lana — načiniš ⟨את⟩ njega.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načiniš"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "naprsnik"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "suda"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "umjetnički tkan"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kao rad"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "načiniš ga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modroga preliva"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "grimiza"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "skerleta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "skerleta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "predenoga lana"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "predenoga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "načiniš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "naprsnik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:29.311411086Z",
+  "model": "glm-5.3"
+}

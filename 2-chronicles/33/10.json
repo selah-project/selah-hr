@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I govoraše Jahve Manašeu i njegovu narodu, ali ne poslušaše.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Manašeu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaše"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njegovu narodu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "poslušaše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:33.926173149Z",
+  "model": "glm-5.3"
+}

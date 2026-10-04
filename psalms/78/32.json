@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Unatoč svemu tomu još griješiše i ne vjerovaše u čudesa njegova.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "unatoč svemu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "griješiše"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "vjerovaše"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "u čudesa njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:16.894822455Z",
+  "model": "glm-5.3"
+}

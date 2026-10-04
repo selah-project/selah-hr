@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Jer nisam stanovao u domu od dana kada sam izveo ⟨את⟩ Jisrael, do današnjega dana, i bio sam od šatora do šatora i od Miškana ⟨do Miškana⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "stanovao"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kada"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "sam izveo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "i bio sam"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "od šatora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "i od Miškana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:36.176699039Z",
+  "model": "glm-5.3"
+}

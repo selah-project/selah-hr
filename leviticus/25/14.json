@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A kad prodaješ prodaju bližnjemu svomu ili kupuješ iz ruke bližnjega svoga, ne tlačite čovjek ⟨את⟩ brata svojega.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "prodaješ"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "prodaju"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "bližnjemu svomu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kupuješ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "bližnjega svoga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tlačite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:35.541804814Z",
+  "model": "glm-5.3"
+}

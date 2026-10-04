@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I David nariče ⟨את⟩ tu tužaljku nad Šaulom i nad Jehonatanom, sinom njegovim.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "nariče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu tužaljku"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "tužaljku"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "וועל",
+      "gloss": "i nad"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinom njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:11.984530570Z",
+  "model": "glm-5.3"
+}

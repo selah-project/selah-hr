@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I uze Avimelek ovce i goveda, sluge i sluškinje, i dade Avrahamu; i vrati mu ⟨את⟩ Saru, ženu njegovu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "i goveda"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "i sluge"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "i sluškinje"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:59.244295207Z",
+  "model": "glm-5.3"
+}

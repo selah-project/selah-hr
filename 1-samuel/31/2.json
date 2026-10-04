@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I prilijepiše se Filistejci uz Šaula i uz sinove njegove, i udariše Filistejci ⟨את⟩ Jonatana i ⟨את⟩ Avinadava i ⟨את⟩ Malkišuu, sinove Šaulove.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "I prilijepiše se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uz Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatana"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Avinadava"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Malkišuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-šuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:21.441230317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I spališe ⟨את⟩ dom Elohimov, i razvališe ⟨את⟩ zid Jerušalajima, i sve njegove dvorove spališe ognjem, a sve njegove dragocjene predmete uništiše.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "i spališe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Elohimov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "i razvališe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zid Jerušalajima"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "njegove dvorove"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spališe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "njegove dragocjene"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "uništiše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:10.899389126Z",
+  "model": "glm-5.3"
+}

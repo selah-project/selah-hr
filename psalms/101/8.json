@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Svakoga jutra istrijebit ću sve zle zemlje, da istrijebim iz grada Jahvina sve koji čine ništavilo.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "svakoga jutra"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "istrijebit ću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "zle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "da istrijebim"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iz grada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "koji čine"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavilo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:28.638508752Z",
+  "model": "glm-5.3"
+}

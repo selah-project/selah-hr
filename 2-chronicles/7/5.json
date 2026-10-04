@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I prinese kralj Šelomo ⟨את⟩ žrtvu goveda dvadeset i dvije tisuće, i sitnoga blaga sto dvadeset tisuća; i posvetiše ⟨את⟩ dom Elohimov kralj i sav narod.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu goveda"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "i dvije"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i sitnoga blaga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "i posvetiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Elohimov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:08.127264387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I slušat ćeš glas Jahve, Elohima svojega, i vršit ćeš ⟨את⟩ zapovijedi njegove i ⟨את⟩ uredbe njegove koje ja danas tebi zapovijedam.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "i slušat ćeš"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svoj"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i vršit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi njegove"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "zapovijedi njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "uredbe njegove"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "uredbe njegove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "zapovijedam ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:19.040076290Z",
+  "model": "glm-5.3"
+}

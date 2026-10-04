@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A tko griješi protiv mene, nasilno čini ⟨protiv⟩ duše svoje; svi koji me mrze ljube smrt.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "A tko griješi protiv mene"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilno čini"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "duše svoje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "koji me mrze"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ljube"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:30.530218902Z",
+  "model": "glm-5.3"
+}

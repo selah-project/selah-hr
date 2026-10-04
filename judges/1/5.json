@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I nađoše ⟨את⟩ Adoni-Bezeka u Bezegu, i bije se s njime, i poraziše ⟨את⟩ Kanaanca i ⟨את⟩ Perižanca.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "i nađoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "u Bezegu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "i bije se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i poraziše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanac"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Perižanac"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perižanac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:04.628427686Z",
+  "model": "glm-5.3"
+}

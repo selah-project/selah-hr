@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Da bezbožni čovjek ne kraljuje, da narod ne zapadne u zamke.",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "da ne kraljuje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "bezbožni"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "da ne zapadne u zamke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T19:39:11.882393368Z",
+  "model": "glm-5.3"
+}

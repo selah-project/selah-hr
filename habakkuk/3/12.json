@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "U srdžbi koračaš po zemlji, u gnjevu vršeš narode.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "u srdžbi"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "koračaš"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "באף",
+      "gloss": "u gnjevu"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "vršeš"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:45.478133785Z",
+  "model": "glm-5.3"
+}

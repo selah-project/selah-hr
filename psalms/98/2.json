@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Objavi Jahve spasenje svoje, pred očima naroda otkri cedek svoj.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "Objavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "spasenje svoje"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očima"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otkri"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "cedek svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:03.196583565Z",
+  "model": "glm-5.3"
+}

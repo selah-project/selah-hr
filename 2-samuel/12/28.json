@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "A sada skupi ⟨את⟩ ostatak naroda, utabori se pred gradom i zauzmi ga, da ne bih ga ja zauzeo i da se ime moje ne bi nazvalo po njemu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostatak naroda"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostatak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "i utabori se"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gradom"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "i zauzmi ga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bih"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "ja zauzeo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "i neka se nazove"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "po njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:12.933028345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I sretoše ⟨את⟩ Mošea i ⟨את⟩ Aharona — stajahu nasuprot njima — kad su izlazili od ⟨את⟩ faraona.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "i sretoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stajahu"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "nasuprot njima"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "kad su izlazili"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:58.272765875Z",
+  "model": "glm-5.3"
+}

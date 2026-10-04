@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I poživi Enoš, pošto rodi ⟨את⟩ Kenana, osamsto petnaest godina, i rodi sinove i kćeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "poživi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoš"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pošto"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenana"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "naest"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "osamsto"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "osamsto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "kćeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:55.285603800Z",
+  "model": "glm-5.3"
+}

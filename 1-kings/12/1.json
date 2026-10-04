@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ode Rehavam u Šekem, jer je u Šekem došao sav Jisrael da ga zakralji ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "u Šekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "u Šekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je došao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "da zakralji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (njega)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:45.134628069Z",
+  "model": "glm-5.3"
+}

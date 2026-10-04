@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I nazvat će vas blaženima ⟨אתכם⟩ svi narodi, jer ćete vi biti zemlja mile želje, reče Jahve Cebaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "i nazvat će blaženima"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ćete biti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mile želje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:38.847771308Z",
+  "model": "glm-5.3"
+}

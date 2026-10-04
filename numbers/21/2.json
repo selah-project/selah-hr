@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I zavjetova Jisrael zavjet Jahvi i reče: Ako zaista dadneš ⟨את⟩ ovaj narod u moju ruku, zatrt ću ⟨את⟩ gradove njihove.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "I zavjetova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zavjet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "zaista dadneš"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dadneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovaj narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "u moju ruku"
+    },
+    {
+      "surface": "ווהחרמתי",
+      "gloss": "zatrt ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gradove njihove"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "gradove njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:17.870243672Z",
+  "model": "glm-5.3"
+}

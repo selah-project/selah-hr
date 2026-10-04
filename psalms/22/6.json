@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "K tebi su vapili i izbjegli su se; u tebe su se uzdali i nisu se postidjeli.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "vapili su"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "i izbjegli su se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "uzdali su se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "postidjeli su se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.302795207Z",
+  "model": "glm-5.3"
+}

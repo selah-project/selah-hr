@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče mu Jahve: Što je to u tvojoj ruci? A on reče: Štap.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "što je to"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u tvojoj ruci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "štap"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:41.069625788Z",
+  "model": "glm-5.3"
+}

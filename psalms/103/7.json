@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Upoznaje svoje putove Mošea, sinovima Jisraela svoja djela.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Upoznaje"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svoje putove"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "svoja djela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:54.568680713Z",
+  "model": "glm-5.3"
+}

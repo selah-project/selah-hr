@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I svaka životinja koja rasklapa papak i razdjeljuje razdjelj na dva papka i preživa među životinjama — ⟨את⟩ nju ćete jesti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i svaka"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "životinja"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "koja rasklapa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "papak"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "i razdjeljuje"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "razdjelj"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dva"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "papka"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "preživa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨preživano⟩"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "među životinjama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ćete jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:17.412124541Z",
+  "model": "glm-5.3"
+}

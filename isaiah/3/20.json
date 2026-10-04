@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "nakit za glavu, i lančiće za gležnjeve, i pojaš, i kutije za mirisne stvari, i amulete.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "nakit za glavu"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "lančiće za gležnjeve"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "pojaš"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "kutije"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "za mirisne stvari"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "amulete"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:48.212217896Z",
+  "model": "glm-5.3"
+}

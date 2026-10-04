@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I služit će mu svi narodi, i sinu njegovu, i sinu sina njegova, dok ne dođe vrijeme zemlje njegove, i on sam; i njemu će služiti narodi mnogi i kraljevi veliki.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "I služit će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njemu",
+      "marks": "svi narodi služe njega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinu njegovu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinu njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinu sina njegova"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina njegova"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ne dođe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zemlje njegove"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sam"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i služit će"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "i kraljevi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "veliki"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:02.859367937Z",
+  "model": "glm-5.3"
+}

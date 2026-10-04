@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Neka se postide i neka se veoma prestraše svi neprijatelji moji, neka se vrate, neka se postide u tren oka.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "neka se postide"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "i neka se prestraše"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelji moji"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "neka se vrate"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "neka se postide"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "u tren oka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:48.502199640Z",
+  "model": "glm-5.3"
+}

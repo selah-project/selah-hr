@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Ervat sestre oca tvojega ne otkrivaj, jer je ona ⟨tijelo⟩ oca tvojega.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ervat"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrivaj"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "⟨tijelo⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:33.437153300Z",
+  "model": "glm-5.3"
+}

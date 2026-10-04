@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I srce faraona ojača te ne otpusti ⟨את⟩ sinove Jisraelove, kako bijaše rečio Jahve rukom Mošeovom.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ojača"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "otpusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bijaše rečio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeovom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:35.109695866Z",
+  "model": "glm-5.3"
+}

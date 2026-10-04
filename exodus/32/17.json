@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I ču Jehošua ⟨את⟩ glas naroda u njegovu klicanju, pa reče Mošeu: glas boja u taboru!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "u njegovu klicanju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boja"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "u taboru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:33.037484230Z",
+  "model": "glm-5.3"
+}

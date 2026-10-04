@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I oni što ulazahu, muško i žensko od svega mesa, uđoše kao što naredi Elohim ⟨את⟩ njega; i zatvori Jahve ⟨את⟩ vrata za njim.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "i oni što ulazahu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "i žensko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svega"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uđoše"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "naredi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Noa)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "i zatvori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za njim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:20.467173411Z",
+  "model": "glm-5.3"
+}

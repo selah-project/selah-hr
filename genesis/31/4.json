@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I posla Jaakov ⟨i poruči⟩ te pozva Rahel i Leu u polje, kod svoga stada.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla ⟨i poruči⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "te pozva"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "i Leu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kod"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "svoga stada"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:27.587897375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Rano ujutro ustaše i zakleše se jedan drugome; Jicak ih otpusti, i oni odoše ⟨את⟩ od njega u miru.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ustaše rano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "i zakleše se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "drugome"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i otpusti ih"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ od njega",
+      "marks": "od njega"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "u miru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:34.279284560Z",
+  "model": "glm-5.3"
+}

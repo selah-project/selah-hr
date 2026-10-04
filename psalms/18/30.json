@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jer s tobom natječem ⟨את⟩ četu, i s Elohim svojim preskačem zid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "natječem"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "četu"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "i s Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "preskačem"
+    },
+    {
+      "surface": "שור",
+      "gloss": "zid"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:08.568702230Z",
+  "model": "glm-5.3"
+}

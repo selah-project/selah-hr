@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A na velikaše sinova Jisraelovih ne pruži ruke svoje; i gledahu ⟨את⟩ Elohim, te jedoše i piše.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "velikaše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pruži"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "i gledahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "te jedoše"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "i piše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:01.606377535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I neka se uzdaju u tebe oni koji poznaju tvoje ime, jer nisi napustio one koji te traže, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "i neka se uzdaju"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "oni koji poznaju"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "napustio si"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "one koji te traže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.501049181Z",
+  "model": "glm-5.3"
+}

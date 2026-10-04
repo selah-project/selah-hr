@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Neka ti da prema srcu tvomu, i savjet sav tvoj neka ispuni.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "neka da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "prema srcu tvomu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "savjet tvoj"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "neka ispuni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:29.695946494Z",
+  "model": "glm-5.3"
+}

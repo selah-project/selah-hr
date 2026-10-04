@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Zahvaljivat ću Jahvi ⟨izdašno⟩ ustima svojim, i usred mnoštva hvalit ću ga.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "zahvaljivat ću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨izdašno⟩"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ustima svojim"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "i usred"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "hvalit ću ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:45.851058686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Za smijeh rekoh: ludost je; a za radost: što to čini?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Za smijeh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ludost je"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "a za radost"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:48.245351554Z",
+  "model": "glm-5.3"
+}

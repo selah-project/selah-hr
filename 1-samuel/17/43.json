@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Filistejac Davidu: Zar sam pas što ti k meni dolaziš sa štapovima? I Filistejac prokle ⟨את⟩ Davida svojim <bog>ovima.<\/bog>",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejac"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolaziš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "sa štapovima"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "i prokle"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "svojim bogovima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:25.076120911Z",
+  "model": "glm-5.3"
+}

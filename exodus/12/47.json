@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Sva zajednica Jisraela neka čini ⟨את⟩ njega.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zajednica"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "neka čine"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Pèsah)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:56.384514975Z",
+  "model": "glm-5.3"
+}

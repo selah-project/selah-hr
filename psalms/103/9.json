@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Neće dovijeka se prepirati, niti će zauvijek čuvati ⟨svoj⟩ gnjev.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "prepirati se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "čuvati gnjev"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.978279896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 5:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I dogodi se, kad svećenici iziđoše iz svetoga mjesta — jer se svi svećenici koji su se ondje našli posvetiše, ne bijaše ⟨potrebe⟩ čuvati redoslijed odjela —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "kad iziđoše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetoga mjesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "koji su se našli"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "posvetiše"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne bijaše"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "čuvati"
+    },
+    {
+      "surface": "למחלקות",
+      "gloss": "redoslijed odjela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:35.601706885Z",
+  "model": "glm-5.3"
+}

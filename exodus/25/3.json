@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A ovo je prinos koji ćete uzeti od ⟨את⟩ njih: zlato i srebro i bronca,",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "A ovo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "je prinos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ćete uzeti"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od ⟨את⟩ njih"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "i srebro"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "i bronca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:09.718159848Z",
+  "model": "glm-5.3"
+}

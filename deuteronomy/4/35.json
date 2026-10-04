@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Tebi je bilo pokazano da znaš: Jahve ⟨je⟩ Elohim, nema drugoga osim njega.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "je bilo pokazano"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da znaš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "osim njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:26.681055431Z",
+  "model": "glm-5.3"
+}

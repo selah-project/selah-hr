@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I zavidiše Mošeu u taboru, i Aharonu, svetom Jahvinu.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "zaviđahu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "u taboru"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svetom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.357919555Z",
+  "model": "glm-5.3"
+}

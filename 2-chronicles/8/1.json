@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dogodi se na koncu dvadeset godina u kojima je Šelomo sagradio ⟨את⟩ dom Jahvin i ⟨את⟩ svoj dom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na koncu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojima"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:28.544134068Z",
+  "model": "glm-5.3"
+}

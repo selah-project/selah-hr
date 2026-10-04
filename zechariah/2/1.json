@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I podigoh ⟨את⟩ svoje oči i vidjet ću — i gle, četiri roga.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "i podigoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "ווארא",
+      "gloss": "i vidjet ću"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "roga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:46.246488657Z",
+  "model": "glm-5.3"
+}

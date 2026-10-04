@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ustah ujutro da dojenim ⟨את⟩ svoga sina, a gle — mrtav. I promatrah ga ujutro, a gle — nije bio moj sin kojega sam rodila.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "i ustah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "da dojenim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtav"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "i promatrah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "moj sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "sam rodila"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:18.141089052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A Hazael, kralj Arama, ugnjetavao je ⟨את⟩ Jisraela sve dane Jehoahazove.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "a Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ugnjetavao je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:11.469212389Z",
+  "model": "glm-5.3"
+}

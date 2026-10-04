@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I čuh glas Adonaja koji govoraše: Koga da pošaljem, i tko će poći za nas? A ja rekoh: Evo mene, pošalji mene!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "i čuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas Adonaja"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koga"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "da pošaljem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "će poći"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za nas"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a ja rekoh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo mene"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "pošalji mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:28.563992495Z",
+  "model": "glm-5.3"
+}

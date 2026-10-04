@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I uzađe čovjek Elcana i sav njegov dom, da žrtvuje Jahvi ⟨את⟩ žrtvu godišnjih dana i ⟨את⟩ svoj zavjet.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i uzađe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elcana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegov dom"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "da žrtvuje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu godišnjih dana"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "godišnjih dana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj zavjet"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "svoj zavjet"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:47.649217865Z",
+  "model": "glm-5.3"
+}

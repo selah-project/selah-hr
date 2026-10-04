@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Zborovođi, „Al-tašhet“, Davidov mikhtam, kad je Šaul poslao ⟨ljude⟩ i čuvali su ⟨את⟩ kuću da ga ubiju.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "uništi (Al-tašhet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kad je poslao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "i čuvali su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da ga ubiju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:23.127729283Z",
+  "model": "glm-5.3"
+}

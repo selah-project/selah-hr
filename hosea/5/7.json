@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Protiv Jahve izdajnički postupiše, jer rodili su tuđu djecu; sada će ih mjesec požderati ⟨את⟩ s njihovim dijelovima.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "protiv Jahve"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "izdajnički postupiše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "djecu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuđu"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "rodili su"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "požderat će ih"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mjesec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove dijelove"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "s njihovim dijelovima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:08.585850563Z",
+  "model": "glm-5.3"
+}

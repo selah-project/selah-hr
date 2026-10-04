@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Jer riječ Jahvinu prezre i ⟨את⟩ zapovijed njegovu prekrši — istriježena neka bude istriježena ta duša; krivnja njezina na njoj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "prezre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijed njegovu"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "zapovijed njegovu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "prekrši"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "istriježena"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "neka bude istriježena"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta duša"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "krivnja njezina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:09.067259253Z",
+  "model": "glm-5.3"
+}

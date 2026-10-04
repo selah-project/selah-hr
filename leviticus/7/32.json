@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ desno pleće dat ćete kao prinos svećeniku, od žrtava svojih zahvalnica.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "desno pleće"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pleće"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "desno"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dat ćete"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kao prinos"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "od žrtava"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "svojih zahvalnica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:53.313733823Z",
+  "model": "glm-5.3"
+}

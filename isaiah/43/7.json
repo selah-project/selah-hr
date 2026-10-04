@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Svaki koji se zove mojim imenom, i za moju slavu: stvorio sam ga, oblikovao ga, da, načinio ga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "koji se zove"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mojim imenom"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "i za moju slavu"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "stvorio sam ga"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "oblikovao ga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "načinio ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:31.259230562Z",
+  "model": "glm-5.3"
+}

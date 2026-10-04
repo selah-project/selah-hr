@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i svećenik ga vidi, i gle, ranica se promijenila u bijelo, pa neka svećenik proglasi ⟨את⟩ ranicu čistom — čista je.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "i vidi ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "promijenila se"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranica"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "u bijelo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "pa neka proglasi čistom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranicu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranicu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:49.000463185Z",
+  "model": "glm-5.3"
+}

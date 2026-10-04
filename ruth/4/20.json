@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Aminadab rodi ⟨את⟩ Nahšona, a Nahšon rodi ⟨את⟩ Salmu.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahšona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahšona"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "a Nahšon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:03.584256053Z",
+  "model": "glm-5.3"
+}

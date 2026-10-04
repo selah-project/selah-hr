@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče kralj: Smrtću ćeš umrijeti, Ahimeleče, ti i sav dom oca tvojega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtću"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ćeš umrijeti"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleče"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:36.966080842Z",
+  "model": "glm-5.3"
+}

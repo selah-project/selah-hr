@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Vidješe povorke tvoje, Elohime, povorke El mojega, kralja mojega, u svetosti.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "povorke tvoje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "povorke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mojega"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralja mojega"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:58.415195739Z",
+  "model": "glm-5.3"
+}

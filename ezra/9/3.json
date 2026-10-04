@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Kad sam čuo ⟨את⟩ tu riječ, razdrao sam svoje ruho i svoj gornji plašt, i iščupao sam dlake sa svoje glave i svoje brade, i sjeo sam zgrožen.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "kad sam čuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "razdrao sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ruho"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "svoje ruho"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "i svoj gornji plašt"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "i iščupao sam"
+    },
+    {
+      "surface": "משער",
+      "gloss": "dlake sa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "svoje glave"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i svoje brade"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "i sjeo sam"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "zgrožen"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:07.051491265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I Jaakov zamijeni ⟨את⟩ Rahelu, pa reče: Služit ću ti sedam godina za Rahelu, kćer tvoju mlađu.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "i zamijeni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelu"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "služit ću ti"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "za Rahelu"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "kćer tvoju"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "mlađu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:18.556701466Z",
+  "model": "glm-5.3"
+}

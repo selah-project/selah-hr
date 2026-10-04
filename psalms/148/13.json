@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "Neka hvale ⟨את⟩ ime Jahvino, jer je njegovo ime samo uzvišeno; njegovo je veličanstvo nad zemljom i nebom.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "neka hvale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahvino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "uzvišeno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "njegovo veličanstvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "i nebom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:40.883521623Z",
+  "model": "glm-5.3"
+}

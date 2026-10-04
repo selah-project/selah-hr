@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I okrenuše se te otidoše, i postaviše ⟨את⟩ djecu i ⟨את⟩ stoku i ⟨את⟩ imovinu pred sobom.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "i okrenuše se"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "te otidoše"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i postaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djecu"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "djecu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "imovinu"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "imovinu"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred sobom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:28:49.894619475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 42:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I reče im Jirmejahu prorok: Čuh vas; evo mene, molit ću se Jahvi, Elohimu vašemu, po riječima vašim; i bit će: svaku riječ koju vam Jahve odgovori ⟨את⟩, priopćit ću vam — neću vam uskratiti ni jedne riječi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo mene"
+    },
+    {
+      "surface": "מתפלל",
+      "gloss": "molit ću se"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu vašemu"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "po riječima vašim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "priopćit ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אמנע",
+      "gloss": "uskratiti"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni jedne riječi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:32:30.744725361Z",
+  "model": "glm-5.3"
+}

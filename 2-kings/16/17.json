@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 16:17",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I kralj Ahaz odsiječe ⟨את⟩ okvire ⟨את⟩ postolja i ukloni s njih ⟨את⟩ umivaonike, a ⟨את⟩ more skinu s brončanih volova koji bijahu pod njim, te ⟨את⟩ ga postavi na popločanje od kamena.",
+  "tokens": [
+    {
+      "surface": "ויקצץ",
+      "gloss": "odsiječe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okvire"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "okvire"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "postolja"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "s njih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umivaonike"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umivaonike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "skinu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "brončanih volova"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "brončanih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "pod njim"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מרצפת",
+      "gloss": "popločanje"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "od kamena"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:52.556634984Z",
+  "model": "glm-5.3"
+}

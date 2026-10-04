@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ veliku dvoranu obloži drvetom čempresa i prekri je dobrim zlatom, i podiže na njoj palmove stupove i lance.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "veliku dvoranu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dvoranu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvetom"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "čempresa"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "prekri je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrim"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njoj"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmovi stupovi"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "lanci"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:07.270474653Z",
+  "model": "glm-5.3"
+}

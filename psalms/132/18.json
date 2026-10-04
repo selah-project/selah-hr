@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Njegove neprijatelje obući ću u sramotu, a njegov će vijenac na njemu procvjetati.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Njegove neprijatelje"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "obući ću"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "u sramotu"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "a na njemu"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "će procvjetati"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "njegov vijenac"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:51.463813181Z",
+  "model": "glm-5.3"
+}

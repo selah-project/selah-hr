@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "I bojat će se na zapadu ⟨את⟩ ime Jahvino, i od izlaska sunca ⟨את⟩ slavu njegovu; jer tjeskoba će doći kao rijeka, ruah Jahvina će je potjerati.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "i bojat će se"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "na zapadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahvino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "i od izlaska"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slavu njegovu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slavu njegovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "će doći"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "kao rijeka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tjeskoba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "će je potjerati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:52.166304965Z",
+  "model": "glm-5.3"
+}

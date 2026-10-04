@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i ⟨את⟩ janje neka vratičetverostruko, jer je učinio ⟨את⟩ ovu stvar i nije se smilovao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "janje"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "janje"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "neka vrati"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "četverostruko"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨koji⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu stvar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i zbog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toga što"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "se smilovao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:58.599712135Z",
+  "model": "glm-5.3"
+}

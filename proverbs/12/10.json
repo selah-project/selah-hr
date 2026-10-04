@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Pravednik zna dušu svoje živine, a smilovanja zlih okrutna su.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "svoje živine"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "a smilovanja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlih"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "okrutna su"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:21.130456321Z",
+  "model": "glm-5.3"
+}

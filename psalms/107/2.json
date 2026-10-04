@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Neka kažu otkupljeni Jahvini, koje je otkupio iz ruke neprijatelja,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "neka kažu"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "otkupljeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "otkupio ih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "צר",
+      "gloss": "neprijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:13.006079656Z",
+  "model": "glm-5.3"
+}

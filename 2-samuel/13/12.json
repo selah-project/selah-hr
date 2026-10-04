@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A ona mu reče: Ne, brate moj, ne siluj me, jer se tako ne čini u Jisraelu; ne čini ⟨את⟩ te sramote!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a ona reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brate moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "siluj me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sramote"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "sramote"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.139076041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Eno, zadrži vode, i osuše se; pošalje ih, i prevrate zemlju.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "eno"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "zadrži"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "i osuše se"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "pošalje ih"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "i prevrate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:57.133033531Z",
+  "model": "glm-5.3"
+}

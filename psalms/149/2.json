@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Neka se raduje Jisrael u Stvoritelju svojem, sinovi Ciona neka kliču u Kralju svojem.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "u Stvoritelju svojem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "neka kliču"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "u Kralju svojem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:39.951296027Z",
+  "model": "glm-5.3"
+}

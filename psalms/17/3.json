@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Iskušao si mi srce, pohodio si me noću, pročistio si me — nećeš naći ništa; odlučio sam da moja usta ne prijeđu ⟨preko zloga nauma⟩.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Iskušao si"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mi srce"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "pohodio si"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "pročistio si me"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nećeš"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "naći"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ništa ⟨zloga nauma⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "prijeđe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.437071669Z",
+  "model": "glm-5.3"
+}

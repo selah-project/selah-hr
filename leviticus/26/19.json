@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I slomit ću ⟨את⟩ oholost snage vaše, i dat ću ⟨את⟩ nebo vaše kao željezo, i ⟨את⟩ zemlju vašu kao mjed.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "slomit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oholost snage vaše"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "oholost"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "snage vaše"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebo vaše"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "nebo vaše"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kao željezo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju vašu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "zemlju vašu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kao mjed"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:02.790421162Z",
+  "model": "glm-5.3"
+}

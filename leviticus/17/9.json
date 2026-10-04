@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "i ne donese ga na ulaz Šatora sastanka da ga prinese Jahvi — taj čovjek bit će odstranjen iz svoga naroda.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "donese"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da prinese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga — žrtva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "bit će odstranjen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taj"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "iz svoga naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:22.837553178Z",
+  "model": "glm-5.3"
+}

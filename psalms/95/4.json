@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "Čija je u ruci dubina zemlje, i visine gora ⟨su⟩ njegove.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "čija"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dubine"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "i visine"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:10.052043265Z",
+  "model": "glm-5.3"
+}

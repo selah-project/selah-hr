@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Erwat kćeri žene oca tvojega, rođene ocu tvojemu — ona je sestra tvoja: ne otkrivaj njezinu ervu.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "erva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "rođene"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ocu tvojemu"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "sestra tvoja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrivaj"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "njezinu ervu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:33.437048041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I zovnu faraon Mošea i Ahrona i reče: Izmolite Jahvi da ukloni ⟨הצפרדעים⟩ žabe od mene i od naroda mojega, i pustit ću ⟨את⟩ narod da žrtvuje Jahvi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zovnu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "i Aharonu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "izmolite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "da ukloni"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "i od naroda mojega"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "i pustit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "da žrtvuje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:55.690823332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A faraon mu reče: „Šta ti je nedostajalo kod mene, kad eto tražiš otići u svoju zemlju?“ A on odgovori: „Ništa, ali svakako me otpusti.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "מה",
+      "gloss": "šta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "nedostajalo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kod mene"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "kad eto"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tražiš"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "otići"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ništa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "svakako"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "me otpusti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:07.859411666Z",
+  "model": "glm-5.3"
+}

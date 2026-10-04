@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Jer ružnoća je pred Jahvom svatko tko čini ovo, i zbog tih ružnoća Jahve, tvoj Elohim, protjeruje ⟨את⟩ njih ispred tebe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ružnoća"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svatko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "i zbog"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tih ružnoća"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "protjeruje"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ispred tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:50.779660661Z",
+  "model": "glm-5.3"
+}

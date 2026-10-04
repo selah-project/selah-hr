@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "⟨את⟩ salo jedete i ⟨את⟩ runo oblačite, ugojenu zakoljete, ⟨את⟩ stado ne pasete.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "runo"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "runo"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "oblačite"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ugojenu"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "zakoljete"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pasete"
+    }
+  ],
+  "timestamp": "2026-10-04T18:46:11.045152257Z",
+  "model": "glm-5.3"
+}

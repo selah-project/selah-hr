@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Čuvao sam Tvoje naredbe i Tvoja svjedočanstva, jer su svi moji putovi pred Tobom.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "čuvao sam"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tvoje naredbe"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "i Tvoja svjedočanstva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moji putovi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pred Tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:13.251001390Z",
+  "model": "glm-5.3"
+}

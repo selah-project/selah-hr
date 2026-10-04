@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "A on reče: Dobro, neka bude po vašim riječima — onaj s kojim bude nađen ⟨את⟩, taj će biti moj rob, a vi ćete biti nekrivi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dobo… također"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "po vašim riječima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onaj s kojim"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bude nađen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim (nađen s njim)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ćete biti"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nekrivi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.773096258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče Elohim: Neka provrve vode rojem živoga bića, i ptice neka lete nad zemljom, po licu prostranstva neba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "neka provrve"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "roj"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bića"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živoga"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "i ptice"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "neka lete"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "prostranstva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.158055948Z",
+  "model": "glm-5.3"
+}

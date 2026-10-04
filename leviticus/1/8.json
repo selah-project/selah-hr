@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I razmijeste sinovi Aharonovi, svećenici, ⟨את⟩ dijelove: ⟨את⟩ glavu i ⟨את⟩ loj, na drva koja su na ognju koji je na žrtveniku.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "i razmijeste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijelove"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dijelove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "loj"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "loj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja su"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.627319840Z",
+  "model": "glm-5.3"
+}

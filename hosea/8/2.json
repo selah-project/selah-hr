@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "K meni će vikati: 'Elohe moj, mi te, Jisraele, znamo!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "će vikati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "mi te znamo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:09.903718714Z",
+  "model": "glm-5.3"
+}

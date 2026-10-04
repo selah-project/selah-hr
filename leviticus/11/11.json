@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I gnusoba neka su vam: od njihova se mesa ne smijete hraniti, i ⟨את⟩ njihovu strvinu ćete držati ⟨za⟩ gnusobu.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "i gnusoba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka su"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "od njihova mesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihovu strvinu"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "njihovu strvinu"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "držat ćete gnusobom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:46.955969836Z",
+  "model": "glm-5.3"
+}

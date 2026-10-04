@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I iziđe Moše i Aharon ispred faraona, i Moše zavapi Jahvi zbog žaba koje bijaše dao na faraona.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "i zavapi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bijaše dao"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "na faraona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:36.521824850Z",
+  "model": "glm-5.3"
+}

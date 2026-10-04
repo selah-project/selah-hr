@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "I dogodi se, poslije tih stvari, da ⟨netko⟩ reče Jozefu: Evo, otac ti je bolestan. I uze ⟨את⟩ svoja dva sina sa sobom, ⟨את⟩ Menašea i ⟨את⟩ Efrajima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jozefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otac tvoj"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bolestan je"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja dva sina"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sina njegova"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa sobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menašea"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:55.477858530Z",
+  "model": "glm-5.3"
+}

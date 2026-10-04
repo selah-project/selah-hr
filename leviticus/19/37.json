@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I čuvali ćete sve moje ustanove i sve moje sudove, i činit ćete ⟨את⟩ ih: ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvali ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve moje ustanove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje ustanove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve moje sudove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moje sudove"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i činit ćete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:40.449285549Z",
+  "model": "glm-5.3"
+}

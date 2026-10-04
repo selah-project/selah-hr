@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A Esav reče: Eno, idem na smrt — a čemu meni prvorodstvo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "idem"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na smrt"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a čemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "prvorodstvo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:15.546575028Z",
+  "model": "glm-5.3"
+}

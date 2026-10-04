@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "tako ih progonej vihorom svojim i olujom svojom ih prestraši!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ih progonej"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "vihorom svojim"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "i olujom svojom"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ih prestraši"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:32.010602738Z",
+  "model": "glm-5.3"
+}

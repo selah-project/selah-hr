@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ Ofir, i ⟨את⟩ Havila, i ⟨את⟩ Jobab. Svi ovi bijahu sinovi Joktana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Havila"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:15.675381371Z",
+  "model": "glm-5.3"
+}

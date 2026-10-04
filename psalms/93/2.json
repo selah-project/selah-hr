@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 93,
+  "translation": "Čvrsto stoji prijestolje tvoje ⟨od tada⟩, ⟨od⟩ vječnosti si ti.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "čvrsto stoji"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "prijestolje tvoje"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "⟨od tada⟩"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "⟨od⟩ vječnosti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:40.889229228Z",
+  "model": "glm-5.3"
+}

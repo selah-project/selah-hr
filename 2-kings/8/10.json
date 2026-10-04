@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče mu Eliša: Idi, reci: Živjet ćeš, doista živjet ćeš; ali Jahve mi pokaza da će on doista umrijeti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨njemu⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živjet"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ćeš, doista živjet ćeš"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ali mi pokaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מות",
+      "gloss": "umrijet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "će doista"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:05.755145135Z",
+  "model": "glm-5.3"
+}

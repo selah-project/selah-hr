@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Jahve, Adonaj naš, kako je divno ime tvoje po svoj zemlji!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaj naš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "divno"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:48.263471172Z",
+  "model": "glm-5.3"
+}

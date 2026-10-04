@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A Moše neka pristupi sam k Jahvi, a oni neka ne pristupe, i narod neka ne uzlazi s njim.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "a neka pristupi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "neka ne pristupe"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "neka ne uzlazi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.912266104Z",
+  "model": "glm-5.3"
+}

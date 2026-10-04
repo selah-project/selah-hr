@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I zašto ćete otežati ⟨את⟩ svoja srca kao što otežiše Micrajimci i Par'o ⟨את⟩ svoje srce? Nije li, kad se izigravao s njima, poslaše ih — i odoše?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "ćete otežati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja srca"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svoja srca"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "otežiše"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "i Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje srce"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ne li"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "izigravao se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "poslaše ih"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:50.355853885Z",
+  "model": "glm-5.3"
+}

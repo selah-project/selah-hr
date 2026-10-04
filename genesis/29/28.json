@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I učini Jaakov tako te ispuni taj tjedan, i dade mu ⟨את⟩ Rahelu, kćer svoju, njemu za ženu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "te ispuni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tjedan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taj"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelu"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kćer svoju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:33.476957771Z",
+  "model": "glm-5.3"
+}

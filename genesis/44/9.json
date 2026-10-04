@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "S kim od tvojih slugu bude nađen ⟨את⟩, neka umre, a i mi ćemo biti gospodaru robovi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "s kim"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bude nađen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim (nađen s njim)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "od tvojih slugu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "neka umre"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ćemo biti"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "gospodaru"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "robovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:03.772789280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Pokaži nam, Jahve, hesed svoj, i spasenje svoje daj nama!",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Pokaži nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed svoj"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "i spasenje svoje"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.998768144Z",
+  "model": "glm-5.3"
+}

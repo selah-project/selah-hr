@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I ljudi Babela načiniše ⟨את⟩ Sukot-Benot, i ljudi Kuta načiniše ⟨את⟩ Nergala, i ljudi Hamata načiniše ⟨את⟩ Ašimu.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "i ljudi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "i ljudi"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergala"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergala"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "i ljudi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašimu"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ašimu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:05.175954955Z",
+  "model": "glm-5.3"
+}

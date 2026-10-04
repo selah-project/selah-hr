@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A doista, ako sam i pogriješio, moja zabuna ostaje ⟨sa⟩ ⟨את⟩ mnom.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "a i"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "doista"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "pogriješio sam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨sa⟩ mnom",
+      "marks": "moja zabuna"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ostaje"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "moja zabuna"
+    }
+  ],
+  "timestamp": "2026-10-04T19:35:31.902039159Z",
+  "model": "glm-5.3"
+}

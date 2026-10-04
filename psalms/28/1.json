@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Davidu. Tebi, Jahve, zazivam ⟨tekst⟩; stijeno moja, ne budi nijem prema meni, da ne bi zašutio prema meni i da ne budem kao oni koji silaze u jamu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zazivam"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijeno moja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "budi nijem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prema meni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "zašutio"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "prema meni"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "i da ne budem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kao"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "onima koji silaze"
+    },
+    {
+      "surface": "בור",
+      "gloss": "u jamu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:59.146299575Z",
+  "model": "glm-5.3"
+}

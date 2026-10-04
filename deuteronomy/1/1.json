@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ovo su riječi koje Moše govori svemu Jisraelu s onu stranu Jordana, u pustinji, u Arabi, nasuprot Sufu, između Parana i Tofela, Lavana, Haserota i Di-Zahava.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svomu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "u Arabi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofela"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "Haserota"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "i Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahava"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:03.033627250Z",
+  "model": "glm-5.3"
+}

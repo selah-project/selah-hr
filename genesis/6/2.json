@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "i sinovi Elohimovi vidješe ⟨את⟩ kćeri ljudske, da su lijepe, i uzimaše sebi žena iz svih koje izabraše.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kćeri ljudske"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "lijepe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "su"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "uzimaše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žena"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "izabraše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:40.374864140Z",
+  "model": "glm-5.3"
+}

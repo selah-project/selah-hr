@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Hodit ću pred licem Jahve u zemljama živih.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "hodit ću"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "u zemljama"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:17.021935890Z",
+  "model": "glm-5.3"
+}

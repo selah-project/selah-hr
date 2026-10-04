@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I ne uzimajte otkup za život ubojice koji je kriv ⟨za smrt⟩, jer će se sigurno pogubiti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "uzimajte"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "otkup"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "za život"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ubojice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kriv"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨za smrt⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pogubiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:06.329300455Z",
+  "model": "glm-5.3"
+}

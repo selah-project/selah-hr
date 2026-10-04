@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I uđoše u savez da traže ⟨את⟩ Jahvu, Elohim otaca svojih, svim srcem svojim i svom dušom svojom.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i uđoše"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "u savez"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "da traže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "dušom svojom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:30.011735991Z",
+  "model": "glm-5.3"
+}

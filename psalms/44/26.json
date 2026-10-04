@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Jer je naša nefesh pala do praha, naše se tijelo prilijepilo uz zemlju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "pala je"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "do praha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naša nefesh"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "prilijepilo se"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "uz zemlju"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "naše tijelo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:31.500508710Z",
+  "model": "glm-5.3"
+}

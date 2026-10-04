@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I učini Jahve ⟨את⟩ tu stvar sutradan, i umrije sva stoka Micrajima, a od stoke sinova Jisraelove ne umrije ni jedna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu stvar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stoka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "a od stoke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umrije"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ni jedna"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:14.235073374Z",
+  "model": "glm-5.3"
+}

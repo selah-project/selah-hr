@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I stavi ⟨את⟩ motke u prstenove na bokovima Kovčega, da se ⟨את⟩ Kovčeg nosi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "u prstenove"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "bokovima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčega"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da se nosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:19.157462747Z",
+  "model": "glm-5.3"
+}

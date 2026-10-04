@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Nakon što pobijedi ⟨את⟩ Sihona, kralja Emoraca, koji je sjedio u Hešbonu, i ⟨את⟩ Oga, kralja Bašana, koji je sjedio u Aštaretu u Edreiju.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "što pobijedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihona, kralja Emoraca"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoraca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sjedio"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "u Hešbonu"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "Oga, kralja Bašana"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sjedio"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "u Aštaretu"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "u Edreiju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:03.034467581Z",
+  "model": "glm-5.3"
+}

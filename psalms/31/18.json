@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Jahve, dа me ne bude stid, jer tebe sam zvao; neka se postide zli, neka umuknu ⟨u⟩ Šeol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "da me ne bude stid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tebe sam zvao"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "neka se postide"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zli"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "neka umuknu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨u⟩ Šeol"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:03.437026540Z",
+  "model": "glm-5.3"
+}

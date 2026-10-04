@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Natanu proroku i Benajahu i giborima i Šalomu, bratu njegovu, ne sazva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natanu proroku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroku"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "i Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gibore"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "giborima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Šaloma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šaloma"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratu njegovu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sazva"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.653018150Z",
+  "model": "glm-5.3"
+}

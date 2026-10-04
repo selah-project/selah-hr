@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Elohe moj, nada me potištena je duša moja; zato te se spominjem iz zemlje jordanske i s Hermona, s gore Micar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "potištena je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "te se spominjem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "jordanske"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "i Hermona"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "s gore"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Micar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:40.308879211Z",
+  "model": "glm-5.3"
+}

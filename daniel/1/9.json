@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dade Elohim ⟨את⟩ Daniela za hesed i za samilost pred glavarom eunuha.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniela"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniela"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "za hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "i za samilost"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שר",
+      "gloss": "glavarom"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:09.512943831Z",
+  "model": "glm-5.3"
+}

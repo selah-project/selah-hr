@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Kad sjedneš jesti ⟨את⟩ ⟨sa⟩ moćnikom, promišljeno razluči ⟨את⟩ ono što je pred tobom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sjedneš"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨sa⟩",
+      "marks": "moćnikom"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "moćnikom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "razluči"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "promišljeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što je pred tobom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:16.073030337Z",
+  "model": "glm-5.3"
+}

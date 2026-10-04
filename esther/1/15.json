@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Po datu — što učiniti kraljici Vašti, jer nije izvršila ⟨את⟩ zapovijedi kralja Ahašveroša rukom eunuha?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "po datu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učiniti"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kraljici"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "על",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "izvršila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "zapovijed"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:49.191380011Z",
+  "model": "glm-5.3"
+}

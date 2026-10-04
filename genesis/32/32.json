@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I sunce mu izađe kad je prošao ⟨את⟩ Penuel, i hramaše na bedro svoje.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "i izađe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prošao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "hramaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "bedro svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:11.555250308Z",
+  "model": "glm-5.3"
+}

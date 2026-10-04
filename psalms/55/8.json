@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Gle, daleko bih pobjegao, noćio bih u pustinji. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "daleko bih pobjegao"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "lutanje\/bjeg"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "noćio bih"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:46.308638045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A što ostane od mesa i od kruha, u oganj spalite.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "A što ostane"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "od mesa"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "i od kruha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganj"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "spalite"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:39.960666964Z",
+  "model": "glm-5.3"
+}

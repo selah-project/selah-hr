@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "i da polože u Elohima uzdanje svoje, i da ne zaborave djela Ela, i zapovijedi njegove da čuvaju.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "i da polože"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohima"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "uzdanje svoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i da ne"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "zaborave"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "i zapovijedi njegove"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "da čuvaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:01.811125763Z",
+  "model": "glm-5.3"
+}

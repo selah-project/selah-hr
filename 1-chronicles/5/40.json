@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I Azarja rodi ⟨את⟩ Seraju, a Seraja rodi ⟨את⟩ Jehocadaka.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "I Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraju"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraju"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "a Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehocadaka"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehocadaka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:11.271977818Z",
+  "model": "glm-5.3"
+}

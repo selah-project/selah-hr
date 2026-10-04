@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Sve na čemu je mana ne prinosite, jer neće biti ⟨to⟩ za prihvaćanje vama.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na čemu"
+    },
+    {
+      "surface": "מום",
+      "gloss": "manu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "prinosite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "za prihvaćanje"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:07.113446626Z",
+  "model": "glm-5.3"
+}

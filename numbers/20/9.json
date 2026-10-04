@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I uze Moše ⟨את⟩ štap ispred Jahve, kako mu je zapovjedio.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "štap"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "štap"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "zapovjedio mu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:24.398794790Z",
+  "model": "glm-5.3"
+}

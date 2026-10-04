@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I zaliječiše lako ⟨את⟩ prelom kćeri naroda mojega, govoreći: Mir, mir! — a mira nema.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "i zaliječiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prelom"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "prelom"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:45.131322081Z",
+  "model": "glm-5.3"
+}

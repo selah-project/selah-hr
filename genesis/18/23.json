@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I pristupi Avraham i reče: Zar ćeš istrijebiti pravednika zajedno s opakim?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i pristupi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האף",
+      "gloss": "zar"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "ćeš istrijebiti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zajedno s"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "opakim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:08.213884589Z",
+  "model": "glm-5.3"
+}

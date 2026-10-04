@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče joj anđeo Jahvina: Umnožit ću ⟨את⟩ tvoje sjeme u veliku množinu, i neće se moći izbrojiti ⟨od množine⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anđeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "umnožit ću"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "u veliku množinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje sjeme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se moći izbrojiti"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "⟨od množine⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:10.586737034Z",
+  "model": "glm-5.3"
+}

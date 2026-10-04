@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I udarit ću ⟨את⟩ stanovnike toga grada, i ⟨את⟩ čovjeka i ⟨את⟩ stoku: kugom velikom pomrijet će.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "udarit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike toga grada"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kugom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikom"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "pomrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:22.183821170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Kad se bezbožnici umnože, umnoži se prijestup, a pravednici gledat će njihov pad.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kad se umnože"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "umnoži se"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestup"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "a pravednici"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "njihov pad"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "gledat će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:42.346486196Z",
+  "model": "glm-5.3"
+}

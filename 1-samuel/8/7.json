@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče Jahve Šemuelu: poslušaj glas naroda, sve što ti kažu; jer ne tebe odbaciše, nego mene odbaciše, da ne kraljujem nad njima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kažu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "odbaciše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "odbaciše"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "da ne kraljujem"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:44.563127164Z",
+  "model": "glm-5.3"
+}

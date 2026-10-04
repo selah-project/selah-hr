@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Neka ga slave nebesa i zemlja, mora i sve što se miče u njima.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "neka ga slave"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zemlja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "što se miče"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:33.664297844Z",
+  "model": "glm-5.3"
+}

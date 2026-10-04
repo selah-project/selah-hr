@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pođe Jehuda protiv Kanaanca koji je živio u Hevronu — a Hevron se prije zvao Kirjat Arba — i udariše ⟨את⟩ Šešaja i ⟨את⟩ Ahimana i ⟨את⟩ Talmaja.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "koji je živio"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "prije"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešaja"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ahimana"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Talmaja"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:50.935234734Z",
+  "model": "glm-5.3"
+}

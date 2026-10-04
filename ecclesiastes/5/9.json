@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ljubitelj srebra neće se nasititi srebrom, a tko voli obilje ⟨od⟩ toga — nema prihoda; i to je hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ljubitelj"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "će se nasititi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrom"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a tko"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "voli"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "obilje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nema"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "prihoda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:30.534091543Z",
+  "model": "glm-5.3"
+}

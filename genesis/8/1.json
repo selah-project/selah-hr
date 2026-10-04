@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I Elohim se sjeti ⟨את⟩ Noaha i ⟨את⟩ sve živine i ⟨את⟩ sve stoke koja bijaše ⟨את⟩ njim u korabi, i Elohim dade proći ruah ⟨nad⟩ zemljom, i vode se stišaše.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "sjeti se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noaha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve živine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve stoke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "stoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njim"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "u korabi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dade proći"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "stišaše se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:37.757954861Z",
+  "model": "glm-5.3"
+}

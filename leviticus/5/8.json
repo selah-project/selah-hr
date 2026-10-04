@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I dovest će ih svećeniku, koji će prinijeti ⟨את⟩ onu za žrtvu grijeha prvu, i otkinuti ⟨את⟩ glavu njezinu s prednje strane vrata njezina, a neće je rastaviti.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "i dovest će"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i prinijeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onu za žrtvu grijeha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onu koja je"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za žrtvu grijeha"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "prva"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "i otkinuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu njezinu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njezinu"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "s prednje strane"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "vrata njezina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "će je rastaviti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:26.672024688Z",
+  "model": "glm-5.3"
+}

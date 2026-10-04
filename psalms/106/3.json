@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Blago onima koji čuvaju pravo, koji čine cedek u svako doba.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "onima koji čuvaju"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koji čine"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svako"
+    },
+    {
+      "surface": "עת",
+      "gloss": "doba"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:04.408957540Z",
+  "model": "glm-5.3"
+}

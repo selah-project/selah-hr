@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Cedek je Jahve na svim svojim putovima, i hesed ⟨je⟩ u svim svojim djelima.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na svim"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svojim putovima"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "svojim djelima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.681338007Z",
+  "model": "glm-5.3"
+}

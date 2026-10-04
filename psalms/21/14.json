@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Uzvišen budi, Jahve, u svojoj snazi! Pjevat ćemo i slaviti tvoju moć.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "uzvišen budi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "u svojoj snazi"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "pjevat ćemo"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "i slaviti"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "tvoju moć"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.039927067Z",
+  "model": "glm-5.3"
+}

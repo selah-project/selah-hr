@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Predat će ih oštrici mača, bit će dijelom šakala.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Predat će ih"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oštrici"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dijelom"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "šakala"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:38.831582480Z",
+  "model": "glm-5.3"
+}

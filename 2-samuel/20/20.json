@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I odgovori Joab te reče: Daleko bilo, daleko bilo od mene da progutam ili da upropastim!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "I odgovori"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Daleko bilo"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "daleko bilo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "progutam"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili da"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "upropastim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:58.078141702Z",
+  "model": "glm-5.3"
+}

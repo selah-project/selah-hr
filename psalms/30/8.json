@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Jahve, u svojoj si miloti na mojoj gori dao utvrđenu snagu; sakrio si lice svoje — i ja se prepadoh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "u svojoj milosti"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "si dao da stoji"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "na mojoj gori"
+    },
+    {
+      "surface": "עז",
+      "gloss": "snagu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "sakrio si"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bio sam"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "prepadnut"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:11.671713579Z",
+  "model": "glm-5.3"
+}

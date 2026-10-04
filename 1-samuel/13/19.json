@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "A kovača se nije moglo naći u svoj zemlji Jisraelovoj, jer Pelíštijci rekoše: da Ivri ne bi načinili mača ili koplja.",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "kovača"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "naći"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštijci"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "načinili"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "koplja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:04.472379508Z",
+  "model": "glm-5.3"
+}

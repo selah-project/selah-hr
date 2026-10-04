@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uze ⟨את⟩ starješine grada i ⟨את⟩ trnje pustinje i ⟨את⟩ drače, i kazni njima ⟨את⟩ ljude Sukota.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starješine grada"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "trnje pustinje"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "drače"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "drače"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "kazni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljude Sukota"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:46.092390779Z",
+  "model": "glm-5.3"
+}

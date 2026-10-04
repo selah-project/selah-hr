@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Jer dok je otac moj natovario na vas jaram težak, ja ću dodati na jaram vaš: otac moj karao vas je bičevima, a ja ću vas ⟨את⟩ karati škorpijonima.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jer sada"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "natovario je"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "težak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ću dodati"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jaram vaš"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "karao je"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "škorpijonima"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bičevima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ću karati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "škorpijonima"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "škorpijonima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:15.406273061Z",
+  "model": "glm-5.3"
+}

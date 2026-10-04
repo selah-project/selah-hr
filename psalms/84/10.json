@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Štit naš, pogledaj, Elohim, i pogledaj lice pomazanika svojega.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "štit naš"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pogledaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "i pogledaj"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "pomazanika svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.177294502Z",
+  "model": "glm-5.3"
+}

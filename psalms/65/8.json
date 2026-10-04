@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "Smiruje buku mora, buku valova njihovih i huku plemena.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "smiruje"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "buku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "buku"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "valova njihovih"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "i huku"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "plemena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:12.059885017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Ako njegovi sinovi napuste moju Toru i mojim sudovima ne hode,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "napuste"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "moju Toru"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "i mojim sudovima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "hode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:32.110606885Z",
+  "model": "glm-5.3"
+}

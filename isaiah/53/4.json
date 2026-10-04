@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Doista, naše bolesti on je nosio, a naše boli — on ih je podnosio; a mi smo ga smatrali poraženim, udarenim od Elohim i poniženim.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "doista"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "naše bolesti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nosio"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "a naše boli"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "podnosio ih"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "smatrali ga"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "poraženim"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "udarenim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "i poniženim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:19.128600773Z",
+  "model": "glm-5.3"
+}

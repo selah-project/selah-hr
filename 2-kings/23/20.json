@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I zakla ⟨את⟩ sve svećenike uzvišica koji su bili ondje na žrtvenicima, i spali ljudske ⟨את⟩ kosti na njima, pa se vrati u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i zakla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve svećenike uzvišica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "uzvišica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "žrtvenicima"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudske kosti"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njima"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa se vrati"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:56.658683527Z",
+  "model": "glm-5.3"
+}

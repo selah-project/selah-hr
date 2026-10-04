@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A kralj razgovarjaše s Gehazijem, slugom čovjeka Elohimova, govoreći: Ispričaj mi, molim te, ⟨את⟩ sva velika djela koja učini Eliša.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A kralj"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "razgovarjaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazijem"
+    },
+    {
+      "surface": "נער",
+      "gloss": "slugom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Ispričaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva velika djela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "velika djela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:09.569512980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Cebaot, tko je kao ti? Silan si, Jahe, i tvoja vjernost okružuje te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao ti"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "silan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "i tvoja vjernost"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "okružuje te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:23.096425370Z",
+  "model": "glm-5.3"
+}

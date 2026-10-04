@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Izabra nama ⟨את⟩ baštinu našu, ⟨את⟩ ponos Jaakova kojega ljubi. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Izabra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baštinu našu"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "baštinu našu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponos Jaakova"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ponos"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:20.428005963Z",
+  "model": "glm-5.3"
+}

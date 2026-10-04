@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Ti ćeš govoriti ⟨את⟩ sve što ću ti zapovjediti, a Aharon, brat tvoj, govorit će faraonu da otpusti ⟨את⟩ sinove Jisraelove iz zemlje svoje.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ćeš govoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ću ti zapovjediti"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "govorit će"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "da otpusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iz zemlje svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:52.301703102Z",
+  "model": "glm-5.3"
+}

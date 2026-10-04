@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I pozna Adam opet ⟨את⟩ svoju ženu, i ona rodi sina, i nadjene mu ime Šet: »Jer Elohim mi postavi drugo sjeme mjesto Hevela, jer ga ubi Kajin.«",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "i pozna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svoju ženu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nadjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שת",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ubi ga"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:33.111419815Z",
+  "model": "glm-5.3"
+}

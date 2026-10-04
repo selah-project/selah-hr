@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i prah se vrati na zemlju kakav bijaše, i ruah se vrati Elohimu koji ju je dao.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "kakav bijaše"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "i ruah"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ju je dao"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:36.880119920Z",
+  "model": "glm-5.3"
+}

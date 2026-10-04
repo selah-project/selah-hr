@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I žude za poljima pa ih otimaju, i kuće nose odatle; tlače čovjeka i dom njegov, čovjeka i baštinu njegovu.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "i žude"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "za poljima"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "pa otimaju"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "i kuće"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "nose odatle"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "tlače"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "i dom njegov"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "i baštinu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:55.048270477Z",
+  "model": "glm-5.3"
+}

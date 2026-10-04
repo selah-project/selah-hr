@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zar čovjek može prevlasti ⟨את⟩ Elohim? A ipak vi mene prevladujete ⟨אתי⟩. A vi rečete: U čemu te prevladali? U desetini i prinosu.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "zar može prevlasti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a ipak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "prevladujete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "a vi rečete"
+    },
+    {
+      "surface": "במה",
+      "gloss": "u čemu"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "te prevladali"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "u desetini"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "i prinosu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:33.665530211Z",
+  "model": "glm-5.3"
+}

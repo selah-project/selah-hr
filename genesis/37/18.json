@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I vidješe ga izdaleka, i prije nego im se približi, sprotiviše mu se da ga ubiju.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "izdaleka"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "i prije nego"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "približi se"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "sprotiviše mu se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da ga ubiju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:19.351177727Z",
+  "model": "glm-5.3"
+}

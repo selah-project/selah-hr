@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Kao što zapovjedi Jahve ⟨את⟩ Mošeu, tako ih prebroji u pustinji Sinaju.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ih prebroji"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:21.108801605Z",
+  "model": "glm-5.3"
+}

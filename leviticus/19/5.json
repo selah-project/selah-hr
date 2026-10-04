@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A kad zakoljete žrtvu šelamim Jahvi, za svoju naklonost je zakoljite.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a kad"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "zakoljete"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "za svoju naklonost"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "je zakoljite"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:11.385409267Z",
+  "model": "glm-5.3"
+}

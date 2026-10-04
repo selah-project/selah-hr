@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jahve je kralj zauvijek i dovijeka; narodi izginuše iz zemlje njegove.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "izginuše"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iz zemlje njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:09.468377179Z",
+  "model": "glm-5.3"
+}

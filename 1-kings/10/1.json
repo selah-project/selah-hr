@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A kraljica Šebe čula je ⟨את⟩ glas o Šalomu ⟨o⟩ imenu Jahvinu, pa je došla iskušati ga zagonetkama.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "A kraljica"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebe"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "čula je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas o Šalomu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "glas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "o Šalomu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "⟨o⟩ imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "pa je došla"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "iskušati ga"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "zagonetkama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:53.366093565Z",
+  "model": "glm-5.3"
+}

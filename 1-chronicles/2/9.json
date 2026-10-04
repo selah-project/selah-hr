@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A sinovi Hecrona koji mu se rodiše: ⟨את⟩ Jerahmeel, i ⟨את⟩ Ram, i ⟨את⟩ Kelubaj.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "i sinovi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hecrona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "rodiše se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerahmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerahmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kelubaj"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:22.012544999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I pođe Šalomoh za Aštoret, boginjom Cedonaca, i za Milkomom, gadom Amonaca.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Aštoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "boginjom"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Cedonaca"
+    },
+    {
+      "surface": "ו אחרי",
+      "gloss": "i za"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkomom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gadom"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amonaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:01.313785009Z",
+  "model": "glm-5.3"
+}

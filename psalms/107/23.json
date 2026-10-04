@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Oni koji silaze na more u lađama, koji rade posao na vodama mnogim:",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "koji silaze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na more"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "u lađama"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "koji rade"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na vodama"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:01.202946100Z",
+  "model": "glm-5.3"
+}

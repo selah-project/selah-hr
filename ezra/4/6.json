@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I za kraljevstva Ahašverosa, na početku njegove vladavine, napisahu tužbu protiv stanovnika Jehude i Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "i za kraljevstva"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašverosa"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na početku"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "njegove vladavine"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "napisahu"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "tužbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:12.836035813Z",
+  "model": "glm-5.3"
+}

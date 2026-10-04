@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 134,
+  "translation": "Jahve te blagoslovio iz Ciona, stvoritelju neba i zemlje!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "te blagoslovio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "iz Ciona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "stvoritelju"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:48.688345262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I ⟨את⟩ mirodanje i ⟨את⟩ ulje za svjetiljku i za ulje pomazanja i za kad od mirisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mirodanje"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "mirodanje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ulje"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "za svjetiljku"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "i za ulje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "i za kad"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "od mirisa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:56.979658662Z",
+  "model": "glm-5.3"
+}

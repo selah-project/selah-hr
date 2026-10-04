@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "Psalam, pjesma sinova Korahovih. Temelj ⟨je⟩ njegov na brdima svetosti.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "temelj njegov"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na brdima"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:30.557853028Z",
+  "model": "glm-5.3"
+}

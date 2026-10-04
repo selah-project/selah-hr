@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I kad se Miškan pokreće, Leviti će ga skinuti, a kad Miškan tabori, Leviti će ga podignuti; a tuđinac koji se približi, neka se pogubi.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "kad se pokreće"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "skinuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviti"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "a kad tabori"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "podignuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviti"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a tuđinac"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "približi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka se pogubi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:03.622375247Z",
+  "model": "glm-5.3"
+}

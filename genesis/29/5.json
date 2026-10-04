@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I reče im: Poznajete li ⟨את⟩ Lavana, sina Nahorova? A oni rekoše: Poznajemo ⟨ga⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Poznajete li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorova"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a oni rekoše"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Poznajemo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:16.613118617Z",
+  "model": "glm-5.3"
+}

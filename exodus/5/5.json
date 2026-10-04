@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče Paroh: Eno, mnogobrojan je sada narod zemlje, a vi ih obustavljate ⟨את⟩ od njihovih tereta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogobrojan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "a vi obustavljate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "od njihovih tereta"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "njihovih tereta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:01.468395395Z",
+  "model": "glm-5.3"
+}

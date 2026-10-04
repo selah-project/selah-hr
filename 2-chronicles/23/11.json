@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I izvedu ⟨את⟩ sina kraljeva, i stave na njega ⟨את⟩ krunu i ⟨את⟩ svjedočanstvo, i učine ga kraljem, i pomažu ga Jehojada i sinovi njegovi, i kažu: Živio kralj!",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "i izvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina kraljeva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i stave"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krunu"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "krunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svjedočanstvo"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svjedočanstvo"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "i učine ga kraljem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega (objekt וימשחהו)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "i pomažu ga"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i sinovi njegovi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i kažu"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Živio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:01.020066105Z",
+  "model": "glm-5.3"
+}

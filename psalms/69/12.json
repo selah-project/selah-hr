@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Za odijelo svoje uzeo ⟨את⟩ kostrijet, i njima postah za poslovicu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "i uzeo"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "odijelo svoje"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kostrijet"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "i postah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "za poslovicu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:31.031686578Z",
+  "model": "glm-5.3"
+}

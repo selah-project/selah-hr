@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Jer ako čovjek živi mnogo godina, neka se u svima njima raduje, i neka spomene ⟨את⟩ dane tame, jer bit će mnogi; sve što dolazi jest hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnogo"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "živi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "u svima njima"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "i neka spomene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dane"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "što dolazi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:11.472523793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Ciba kralju: Kakogod zapovjedi gospodar kralj ⟨את⟩ sluzi svojem, tako neka čini sluga tvoj; a Mefibošet jede za mojim stolom kao jedan od sinova kraljevih.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kakogod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluzi svojem"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sluzi svojem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "neka čini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "a Mefibošet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mojim stolom"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kao jedan"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:07.963092558Z",
+  "model": "glm-5.3"
+}

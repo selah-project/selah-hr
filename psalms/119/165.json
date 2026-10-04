@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Velik mir ⟨imaju⟩ oni koji ljube Tvoju Toru, i nema za njih spoticanja.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velik"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "onima koji ljube"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tvoju Toru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "למו",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "spoticaja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:13.250474184Z",
+  "model": "glm-5.3"
+}

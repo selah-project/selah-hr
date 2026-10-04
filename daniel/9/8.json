@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jahve, nama je sramota lica — našim kraljevima, našim knezovima i našim ocima, jer smo sagriješili protiv tebe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama je"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "lica"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "našim kraljevima"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "našim knezovima"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "i našim ocima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "smo sagriješili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "protiv tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:51:12.255959893Z",
+  "model": "glm-5.3"
+}

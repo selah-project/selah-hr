@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I usta Ezra te zakune ⟨את⟩ knezove svećeničke, levite i sav Jisrael da će učiniti po toj riječi — i zakunu se.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "zakune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knezove svećeničke, levite i sav Jisrael"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećeničke"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da će učiniti"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toj"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "i zakunu se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:55:20.955379065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ako vidiš magarca onoga koji te mrzi kako leži pod teretom svojim, suzdrži se od toga da ga ostaviš — ostaviti ćeš ga ostaviti s njim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidiš"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "magarca"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "onoga koji te mrzi"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "leži"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "teretom svojim"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "suzdrži se"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "od ostavljanja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ostaviti"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ćeš ostaviti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:24.619330825Z",
+  "model": "glm-5.3"
+}

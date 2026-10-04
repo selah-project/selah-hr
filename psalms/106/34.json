@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Nisu iskorijenili ⟨את⟩ narode za koje im zapovjedi Jahve,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "iskorijenili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narode"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.550617812Z",
+  "model": "glm-5.3"
+}

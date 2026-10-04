@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I učini Moše kako je zapovjedio Jahve ⟨את⟩ njega, i skupi se zajednica na ulazu Šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "i skupi se"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednica"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:26.345677863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I dođoše ljudi judejski i pomažu ondje ⟨את⟩ Davida za kralja nad domom Judinim. I javiše Davidu govoreći: Ljudi javeš-gileadski pokopali su ⟨את⟩ Šaula.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "I dođoše"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judejski"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "i pomažu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinim"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "I javiše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Ljudi"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "javeški"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "gileadski"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pokopali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:04.737744740Z",
+  "model": "glm-5.3"
+}

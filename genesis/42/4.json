@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "A ⟨את⟩ Binjamina, brata Jósefova, Jaakov ne posla ⟨את⟩ s braćom svojom, jer reče: da ga ne zadesi nesreća.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamina"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ s"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braćom svojom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "zadesi"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "nesreća"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:40.821916575Z",
+  "model": "glm-5.3"
+}

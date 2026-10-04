@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I dođe Adonija, sin Hagitin, k Bat-Ševi, majci Šlomovoj; i ona reče: Je li miran dolazak tvoj? A on reče: Miran.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Hagit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "je li mir"
+    },
+    {
+      "surface": "באך",
+      "gloss": "dolazak tvoj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miran"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:07.629874239Z",
+  "model": "glm-5.3"
+}

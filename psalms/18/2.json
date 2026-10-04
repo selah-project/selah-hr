@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče: Milujem te, Jahve, snago moja!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Milujem te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "snago moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.496799998Z",
+  "model": "glm-5.3"
+}

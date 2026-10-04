@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "A Esav reče: Neka ostavim, molim, uz tebe dio naroda koji je ⟨את⟩ mene. A on reče: Zašto to? Neka nađem milost u očima gospodara svojega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "neka ostavim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uz tebe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dio"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nađem"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodara svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:37.214648185Z",
+  "model": "glm-5.3"
+}

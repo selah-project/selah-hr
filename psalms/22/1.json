@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Zborovođi, o košuti zore, psalam Davidov.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "košuti"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zore"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:24.754588347Z",
+  "model": "glm-5.3"
+}

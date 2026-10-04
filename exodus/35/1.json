@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I skupi Moše ⟨את⟩ svu zajednicu sinova Jisraelovih i reče im: Ovo su riječi koje je Jahve zapovjedio da ih ⟨את⟩ izvršite.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zajednicu sinova Jisraelovih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zajednicu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "su riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "da izvršite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "riječi (te)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:53.444617696Z",
+  "model": "glm-5.3"
+}

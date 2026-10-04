@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I pročita Cefanjah svećenik ⟨את⟩ ovo pismo ušima Jirmejahu proroku.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pročita"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cefanjah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo pismo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pismo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ušima"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroku"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:16.290611195Z",
+  "model": "glm-5.3"
+}

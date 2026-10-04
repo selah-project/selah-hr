@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I poslat ću među vas ⟨את⟩ zvijer poljsku, i lišit će vas ⟨את⟩ djece, i istrijebit će ⟨את⟩ stoku vašu, i umanjit će ⟨את⟩ vas, i opustjet će putevi vaši.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "i poslat ću"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "među vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvijer poljsku"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvijer"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljska"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "i lišit će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "i istrijebit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku vašu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "stoku vašu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "i umanjit će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "i opustjet će"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "putevi vaši"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:29.429128736Z",
+  "model": "glm-5.3"
+}

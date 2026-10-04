@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I Jósef naredi, te napune im ⟨את⟩ spremnike žitom, i da vrate njihovo srebro, svaki u svoju vreću, i da im daju zaliha za put; i učini im tako.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i naredi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "te napune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spremnike njihove"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "spremnike njihove"
+    },
+    {
+      "surface": "בר",
+      "gloss": "žitom"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "i da vrate"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "njihovo srebro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "svoju vreću"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "i da daju"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "zaliha"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "za put"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:27.059609404Z",
+  "model": "glm-5.3"
+}

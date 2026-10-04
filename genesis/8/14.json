@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A u drugome mjesecu, dvadeset i sedmoga dana mjeseca, zemlja se osušila.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "a u mjesecu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugome"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "u sedam"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "osušila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:15.819350772Z",
+  "model": "glm-5.3"
+}

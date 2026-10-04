@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jahve, kad si izlazio iz Seira, kad si koračao iz polja Edomskoga, zemlja se potresla, i nebesa su kapala, i oblaci su kapali vodom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "kad si izlazio"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "iz Seira"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "kad si koračao"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "iz polja"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomskoga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "potresla se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "kapala su"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "oblaci"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "kapali su"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:26.110303351Z",
+  "model": "glm-5.3"
+}

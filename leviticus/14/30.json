@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I neka ponudi ⟨את⟩ jednoga od grlica ili od mladih golubova, prema tome što njegova ruka dosegne.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i neka ponudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoga od grlica ili od mladih golubova"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "grlica"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mladih"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "golubova"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "prema tome što"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "dosegne"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegova ruka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:28.197295109Z",
+  "model": "glm-5.3"
+}

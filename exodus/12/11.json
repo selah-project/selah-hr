@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I tako jedite ⟨את⟩ ga: bedra vam opasana, obuća vaša na nogama vašim i štap vaš u ruci vašoj; i pojedite ⟨את⟩ ga u žurbi — Pesah ⟨je⟩ za Jahvu.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "i tako"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "bedra vam"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "opasana"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "obuća vaša"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "na nogama vašim"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "i štap vaš"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "u ruci vašoj"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "i pojedite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "u žurbi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:37.950980141Z",
+  "model": "glm-5.3"
+}

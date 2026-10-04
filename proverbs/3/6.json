@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "U svim putovima svojim spoznaj ⟨ga⟩, i ⟨on⟩ će izravnati staze tvoje.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "U svim"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "putovima svojim"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "spoznaj ga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "će izravnati"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "staze tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:41.481914153Z",
+  "model": "glm-5.3"
+}

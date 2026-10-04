@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Buje, muti se voda njegova, tresu se planine u oholosti njegovoj. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Buje"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "muti se"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "voda njegova"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "tresu se"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "planine"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "u oholosti njegovoj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:03.285704893Z",
+  "model": "glm-5.3"
+}

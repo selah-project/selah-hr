@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A oni što taboruju istočno, prema izlasku sunca ⟨bit će⟩ zastava tabora Jude po njihovim četama; i knez sinova Judinih ⟨je⟩ Nahšon, sin Aminadabov.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "a oni što taboruju"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "istočno"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "prema izlasku sunca"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "zastava"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "po njihovim četama"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "i knez"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinih"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahšon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:25.165114615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "O tome pripovjedite svojim sinovima, a vaši sinovi svojim sinovima, a njihovi sinovi drugomu naraštaju.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "O tome"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "svojim sinovima"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "pripovjedite"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a vaši sinovi"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "svojim sinovima"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "a njihovi sinovi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugomu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:49.230014932Z",
+  "model": "glm-5.3"
+}

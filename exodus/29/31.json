@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "A ⟨את⟩ ovna posvećenja uzet ćeš, i skuhat ćeš ⟨את⟩ njegovo meso na svetome mjestu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ovna"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "posvećenja"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzet ćeš"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "i skuhat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo meso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegovo meso"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetome"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:15.436754162Z",
+  "model": "glm-5.3"
+}

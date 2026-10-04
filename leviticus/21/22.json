@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Kruh svoga Elohima, od presvetih stvari i od svetih, smije jesti.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svoga Elohima"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "od presvetih"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetih"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smije jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:11.000441895Z",
+  "model": "glm-5.3"
+}

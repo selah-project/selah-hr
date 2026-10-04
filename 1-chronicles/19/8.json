@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Kad David to ču, posla ⟨את⟩ Joava i ⟨את⟩ svu vojsku junaka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ču"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joava"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu vojsku junaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "junaka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:37.458509184Z",
+  "model": "glm-5.3"
+}

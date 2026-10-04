@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 146,
+  "translation": "Jahve otvara oči slijepima, Jahve uspravlja pognute, Jahve ljubi pravednike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otvara oči"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slijepima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "uspravlja"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "pognute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednike"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:13.966449022Z",
+  "model": "glm-5.3"
+}

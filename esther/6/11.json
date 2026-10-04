@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I uze Haman ⟨את⟩ odijelo i ⟨את⟩ konja, i obuče ⟨את⟩ Mordechaja, i dade ga jašiti po trgu grada, i vikao je pred njim: Tako neka se učini čovjeku u čijoj časti kralj uživa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odijelo"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "odijelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konja"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "konja"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "i obuče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechaja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaja"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "i dade ga jašiti"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "po trgu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i vikao je"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "neka se učini"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u čijoj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "uživa"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "časti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:54.048920394Z",
+  "model": "glm-5.3"
+}

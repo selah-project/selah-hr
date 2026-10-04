@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče mu David: Kako nisi pobojao poslati ruku svoju da uništiš ⟨את⟩ pomazanika Jahvina?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pobojao si se"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "poslati"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "uništiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pomazanika Jahvina"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "pomazanika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:54.295401921Z",
+  "model": "glm-5.3"
+}

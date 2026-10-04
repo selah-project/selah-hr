@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Hajde, napojimo ⟨את⟩ oca svojega vinom pa ležimo s njim, da očuvamo od oca svojega sjeme.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "hajde"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "napojimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ležimo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "da očuvamo"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "od oca svojega"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:00.390998667Z",
+  "model": "glm-5.3"
+}

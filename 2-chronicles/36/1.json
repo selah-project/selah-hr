@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I uze narod zemlje ⟨את⟩ Jehoahaza, sina Jošijina, i zakralji ga mjesto njegova oca u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahaza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahaza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijina"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "zakralji ga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegova oca"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:18.375485651Z",
+  "model": "glm-5.3"
+}

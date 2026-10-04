@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I vratit ću ⟨את⟩ sužanjstvo Judino i ⟨את⟩ sužanjstvo Jisraelovo, i izgradit ću ih kao na početku.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "I vratit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužanjstvo Judino"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sužanjstvo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sužanjstvo Jisraelovo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sužanjstvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovo"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "i izgradit ću ih"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kao na početku"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:44.147524781Z",
+  "model": "glm-5.3"
+}

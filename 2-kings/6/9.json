@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I posla čovjek Elohimov kralju Jisraelovu rekavši: Čuvaj se prijeći onamo, jer ondje Aramci silaze.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "prijeći"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramci"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "silaze"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:25.886706004Z",
+  "model": "glm-5.3"
+}

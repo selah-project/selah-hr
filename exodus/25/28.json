@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I napravi ⟨את⟩ motke od drva šitim, i obloži ⟨אתם⟩ ih zlatom, te neka se njima nosi ⟨את⟩ stol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "neka se nosi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:36.601760731Z",
+  "model": "glm-5.3"
+}

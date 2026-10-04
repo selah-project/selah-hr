@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I vidjeh ja ⟨את⟩ sav trud i ⟨את⟩ svu vještinu djela — jer je to zavist čovjeka prema bližnjemu njegovu; i ovo je taščina i tlačenje ruha.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "i vidjeh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav trud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu vještinu djela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "vještinu"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "djela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zavist"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "prema bližnjemu njegovu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "taščina"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i tlačenje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:01.889460971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I postaviše ⟨את⟩ oružje njegovo u dom Aštarot, a ⟨את⟩ tijelo njegovo pribiše na zid Bet-Šeana.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "i postaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oružje njegovo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "oružje njegovo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aštarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tijelo njegovo"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "tijelo njegovo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "pribiše"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "na zid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Šeana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:15.690424719Z",
+  "model": "glm-5.3"
+}

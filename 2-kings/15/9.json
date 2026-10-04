@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I činio je zlo u očima Jahve, kao što činiše oci njegovi; nije odstupio od grijeha Jerovama, sina Nebatova, koji navuče ⟨את⟩ Jisrael na grijeh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "činio je"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "činiše"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oci njegovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstupio"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "od grijeha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "navuče na grijeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:57.641784144Z",
+  "model": "glm-5.3"
+}

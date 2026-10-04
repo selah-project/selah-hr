@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "I ljudi od krvi, i ljudi od staleža, zajedno bogataš i siromah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ljudi od"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ljudi od"
+    },
+    {
+      "surface": "איש",
+      "gloss": "staleža"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogataš"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "siromah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:06.242260457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Blagoslovi nas Elohim, i neka ga se boje svi krajevi zemlje.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "blagoslovi nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i neka ga se boje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "svi krajevi zemlje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "krajevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:50.804220854Z",
+  "model": "glm-5.3"
+}

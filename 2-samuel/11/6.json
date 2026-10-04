@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I posla David k Joavu: pošalji k meni ⟨את⟩ Uriju Hetita. I posla Joav ⟨את⟩ Uriju k Davidu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joavu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pošalji"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju Hetita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:11.129418643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I potrese se i zadrhta zemlja, i temelji gora se uznemiriše i potresoše se, jer plane gnjev njegov.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "i potrese se"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "i zadrhta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "i temelji"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "se uznemiriše"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "i potresoše se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "plane gnjev"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:40.806679905Z",
+  "model": "glm-5.3"
+}

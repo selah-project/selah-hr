@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Koji govori suncu, i ono ne izlazi, i zvijezde zapčati.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "koji govori"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "suncu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "zvijezde"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "zapčati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:28.171252927Z",
+  "model": "glm-5.3"
+}

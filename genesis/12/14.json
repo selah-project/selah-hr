@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bijaše, kad Avram dođe u Micrajim, da Egipćani vidješe ⟨את⟩ ženu, da je vrlo lijepa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kad dođe"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "da vidješe"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Egipćani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lijepa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:13.898541538Z",
+  "model": "glm-5.3"
+}

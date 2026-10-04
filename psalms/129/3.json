@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "Na moja leđa orali su orači, dugačke su načinili svoje brazde.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "moja leđa"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "orali su"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "orači"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "dugačke su načinili"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "svoje brazde"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.034124105Z",
+  "model": "glm-5.3"
+}

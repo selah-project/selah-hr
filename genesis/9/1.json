@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I blagoslovi Elohim ⟨את⟩ Noa i ⟨את⟩ njegove sinove, i reče im: Rađajte se i množite se i napunite ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Rađajte se"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i množite se"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napunite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:23.627522174Z",
+  "model": "glm-5.3"
+}

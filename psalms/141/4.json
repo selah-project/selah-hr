@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Ne nagni srca mojega k zlu, da činim djela bezbožna s ⟨את⟩ ljudima koji čine ništavilo; i neću blagovati od slastica njihovih.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "nagni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srca mojega"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "k zlu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlu"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "da činim"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "djela"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "bezbožna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s ljudima"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "koji čine"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavilo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "blagovati"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "od slastica njihovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:22.559620435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I uzeli smo u to vrijeme ⟨את⟩ zemlju iz ruke dvojice kraljeva Emorejaca s onu stranu Jordana, od potoka Arnon do gore Hermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "i uzeli smo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvojice"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejaca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "od potoka"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:36.171342100Z",
+  "model": "glm-5.3"
+}

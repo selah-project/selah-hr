@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Zahvaljujem ti, jer sam strašno i čudesno stvoren; čudesna su djela tvoja, i duša moja to dobro zna.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "zahvaljujem ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "strašno"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "stvoren sam"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "čudesna"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "djela tvoja"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "i duša moja"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.249685247Z",
+  "model": "glm-5.3"
+}

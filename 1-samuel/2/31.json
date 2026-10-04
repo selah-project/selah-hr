@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Evo, dani dolaze pa ću odsjeći ⟨את⟩ ruku tvoju i ⟨את⟩ ruku doma oca tvojega, da ne bude starca u domu tvome.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Evo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dani"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dolaze"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "pa ću odsjeći"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku tvoju"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ruku tvoju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ruku doma oca tvojega"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "da ne bude"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starca"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u domu tvome"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:10.683515314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "i vidi je li u meni put boli, i vodi me putem vječnim.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je li"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "boli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "i vodi me"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječnim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:04.944018164Z",
+  "model": "glm-5.3"
+}

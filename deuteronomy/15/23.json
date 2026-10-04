@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Samo ⟨את⟩ njegovu krv ne smiješ jesti: na zemlju je izlij kao vodu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu krv"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "njegovu krv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smiješ jesti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "izlij je"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao vodu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:17.261210394Z",
+  "model": "glm-5.3"
+}

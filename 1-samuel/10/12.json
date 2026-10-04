@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I odgovori čovjek odande te reče: A tko im je otac? Zato postade poslovica: Zar i Šaul među prorocima?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a tko"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "im je otac"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "postade"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "poslovica"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "zar i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "među prorocima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:23.154382756Z",
+  "model": "glm-5.3"
+}

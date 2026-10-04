@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Drvodjelja rasteže špagu, ocrtava ga šilom, izrađuje ga dletima, šestarom ga ocrtava, te ga načini kao oblik čovjeka, kao ljepotu čovjeka, da stanuje u kući.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "drvodjelja"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drvodjelja (od drveta)"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "rasteže"
+    },
+    {
+      "surface": "קו",
+      "gloss": "špagu"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "ocrtava ga"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "šilom"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "izrađuje ga"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "dletima"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "i šestarom"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "ocrtava ga"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "i načini ga"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "kao oblik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "kao ljepotu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da stanuje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kući"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:23.550504391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I neka mi načine svetište, da boravim usred njih.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "I neka načine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svetište"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "da boravim"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "usred njih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:34.451114292Z",
+  "model": "glm-5.3"
+}

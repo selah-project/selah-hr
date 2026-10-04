@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Oganj stalno neka gori na žrtveniku, neka se ne ugasi.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "neka gori"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "neka se ne ugasi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:43.826916879Z",
+  "model": "glm-5.3"
+}

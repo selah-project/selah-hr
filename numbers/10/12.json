@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I krenuše sinovi Jisraelovi na svoja putovanja iz pustinje Sinajske, i oblak se nastani u pustinji Paransk.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "i krenuše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "na svoja putovanja"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "iz pustinje"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinajske"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "i nastani se"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paranskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:38.520011618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I duša mi je vrlo uznemirena; a ti, Jahve, dokle?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "I duša mi"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "uznemirena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dokle"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:15.546557873Z",
+  "model": "glm-5.3"
+}

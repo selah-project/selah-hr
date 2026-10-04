@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "I stranci će stajati i pasti ⟨את⟩ stada vaša, a sinovi tuđinaca bit će vaši orači i vaši vinogradari.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "stajat će"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranci"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "pasti će"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "⟨את⟩ stada vaša"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđinaca"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "vaši orači"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "vaši vinogradari"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:22.322309604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ⟨את⟩ svinju — jer rasklapa papak, ali ne preživa — nečista je vama: od mesa im ne smijete jesti i njihovu strvinu ne smijete dotaknuti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svinju"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rasklapa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "papak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "preživa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečista je"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "od mesa im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "i njihovu strvinu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "smijete dotaknuti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:17.412554939Z",
+  "model": "glm-5.3"
+}

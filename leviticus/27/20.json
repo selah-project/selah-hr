@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A ako ne otkupi ⟨את⟩ polje, ili ako prodade ⟨את⟩ polje drugomu čovjeku, ne može se više otkupiti.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "otkupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili ako"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "prodade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugomu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "može se otkupiti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:16.465925312Z",
+  "model": "glm-5.3"
+}

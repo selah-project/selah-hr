@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Dragocjena je u očima Jahve smrt hasidâ njegovih.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "dragocjena"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "hasidâ njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:39.373971187Z",
+  "model": "glm-5.3"
+}

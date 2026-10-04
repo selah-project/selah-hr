@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče Jahve Elohim ženi: Što je to učinila? A žena reče: Zmija me prevarila, pa sam jela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "učinila"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "zmija"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "prevarila me"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "pa sam jela"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.329509852Z",
+  "model": "glm-5.3"
+}

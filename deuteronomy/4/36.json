@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Sa nebes te dao čuti ⟨את⟩ glas svoj da te pouči, i na zemlji pokazao ti ⟨את⟩ oganj svoj veliki, i riječi njegove čuo si iz sred ognja.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "te dao čuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas svoj"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "da te pouči"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "pokazao ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oganj svoj veliki"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "oganj svoj"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "i riječi njegove"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "čuo si"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sred"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:26.681222854Z",
+  "model": "glm-5.3"
+}

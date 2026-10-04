@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Čak i čovjek mojega mira, u kojega sam se uzdao, koji je jeo moj kruh, podigao je petu protiv mene.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "čak i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mojega mira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdao sam se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njega"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "jeo je"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "moj kruh"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "podigao je"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "petu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.877698286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "A ti mrzio si pouku, i riječi moje bacao si iza sebe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "mrzio si"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pouku"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "i bacao si"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi moje"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "iza sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:02.352850480Z",
+  "model": "glm-5.3"
+}

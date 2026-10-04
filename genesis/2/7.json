@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I oblikova Jahve Elohim ⟨את⟩ čovjeka — prah sa zemlje — i udahnu u njegove nosnice dah života, i postade čovjek dušom živom.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "i oblikova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "i udahnu"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "u njegove nosnice"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "dah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i postade"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dušom"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:54.064041273Z",
+  "model": "glm-5.3"
+}

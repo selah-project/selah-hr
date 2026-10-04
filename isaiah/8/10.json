@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Savjetujte se — ⟨i⟩ rasparan ⟨će⟩ biti; zborite riječ — ⟨i⟩ neće se održati, jer s nama ⟨je⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "savjetujte se"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "— savjet"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "i rasparan bit će"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zborite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "održati se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s nama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:52.733858835Z",
+  "model": "glm-5.3"
+}

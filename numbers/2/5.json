@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I koji taboruju pokraj njega ⟨je⟩ pleme Jišaskarovo, a knez sinova Jišaskarovih ⟨je⟩ Netanel, sin Cuarov.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "i koji taboruju"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pokraj njega"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jišaskarovo"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "a knez"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jišaskarovih"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuarov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:32.292300942Z",
+  "model": "glm-5.3"
+}

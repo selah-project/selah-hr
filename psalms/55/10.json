@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Proždri, Adonaj, rascijepi njihov jezik, jer vidio sam nasilje i svađu u gradu.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "proždri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "rascijepi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "njihov jezik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio sam"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "i svađa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:47.915006642Z",
+  "model": "glm-5.3"
+}

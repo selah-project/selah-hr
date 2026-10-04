@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dogodi se na kraju četrdeset dana, da Noa otvori ⟨את⟩ prozor arke koji bijaše načinio.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prozor"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "prozor"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načinio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:29.483100536Z",
+  "model": "glm-5.3"
+}

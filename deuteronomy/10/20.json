@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jahvu, Elohim svojega, boj se ⟨את⟩, njega ⟨את⟩ služi, i uz njega se prioni, i njegovim imenom se zaklinji.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "služi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "služi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "i uz njega"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "se prioni"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "i njegovim imenom"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se zaklinji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:08.981823412Z",
+  "model": "glm-5.3"
+}

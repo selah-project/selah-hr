@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I ne svjedoči lažno na bližnjega svojega.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svjedoči"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "na bližnjega svojega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svjedok"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lažno"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:35.600434436Z",
+  "model": "glm-5.3"
+}

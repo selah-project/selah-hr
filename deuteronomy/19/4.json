@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A ovo je slučaj ubojice koji će onamo pobjeći i živjeti: tko udari ⟨את⟩ svoga bližnjega bez znanja, a nije ga mrzio ni jučer ni prekjučer —",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slučaj"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ubojice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "pobjeći"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i živjeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga bližnjega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoga bližnjega"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "mrzio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "jučer"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ni prekjučer"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:08.613421772Z",
+  "model": "glm-5.3"
+}

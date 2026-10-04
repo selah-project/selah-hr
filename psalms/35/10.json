@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Sve kosti moje reći će: Jahve, tko je kao ti, koji izbavljaš siromaha od jačega od njega, siromaha i nevoljnika od onoga koji ga pljačka?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kosti moje"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "reći će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao ti"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "izbavljaš"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "od jačega"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "siromaha i"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nevoljnika"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "od onoga koji ga pljačka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:27.123020920Z",
+  "model": "glm-5.3"
+}

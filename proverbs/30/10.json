@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Ne klevetaj ⟨את⟩ slugu gospodaru njegovu, da te ne prokunje i ne budeš kriv.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "klevetaj"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slugu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gospodaru"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "njegovu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da te ne"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "prokunje"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "ne budeš kriv"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:16.205606515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ode glasnik, i dođe, te javi Davidu ⟨את⟩ sve što ga posla Joab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "glasnik"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ga posla"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:10.815897037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Jer ovako reče Jahve: Glas strepnje čusmo — užas, i nema šaloma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "strepnje"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "čusmo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "užas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloma"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:45.083945284Z",
+  "model": "glm-5.3"
+}

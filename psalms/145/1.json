@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Hvala Davidova. Uzvisivat ću te, Elohe moj, kralju, i blagoslivljat tvoje ime zauvijek i dovijeka.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Hvala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Uzvisivat ću te"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "i blagoslivljat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.984478965Z",
+  "model": "glm-5.3"
+}

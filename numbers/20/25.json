@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Uzmi ⟨את⟩ Aharona i ⟨את⟩ Elazara, sina njegova, i izvedi ⟨את⟩ ih na goru Hor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina njegova"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "i izvedi ih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "na goru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:33.182011016Z",
+  "model": "glm-5.3"
+}

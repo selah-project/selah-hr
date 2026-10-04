@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Čime će se očistiti mladić na svojem putu? Čuvajući ga po riječi tvojoj ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "čime"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "očistit će se"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj put"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "svoj put"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "čuvajući"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "po riječi tvojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:55.744160586Z",
+  "model": "glm-5.3"
+}

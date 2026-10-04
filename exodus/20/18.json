@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I sav narod gledaše ⟨את⟩ glasove i ⟨את⟩ baklje i ⟨את⟩ glas šofara i ⟨את⟩ goru koja se dimi; i vidje ⟨to⟩ narod, pa zadrhtaše i stadoše izdaleka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "gledaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glasove"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "glasove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baklje"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "baklje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "glas šofara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goru"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "koja se dimi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "pa zadrhtaše"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "i stadoše"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "izdaleka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:17.462587072Z",
+  "model": "glm-5.3"
+}

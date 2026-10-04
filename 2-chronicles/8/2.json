@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A gradove koje je Huram dao Šelomou, Šelomo ⟨את⟩ ih sagradi i nastani ondje ⟨את⟩ sinove Jisraelove.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "a gradove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomou"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "gradove"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "i nastani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:28.544442652Z",
+  "model": "glm-5.3"
+}

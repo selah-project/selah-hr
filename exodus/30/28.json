@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i ⟨את⟩ žrtvenik žrtve paljenice i ⟨את⟩ sve posuđe njegovo, i ⟨את⟩ umivaonik i ⟨את⟩ postolje njegovo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "žrtvenik žrtve paljenice"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtve paljenice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve posuđe njegovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "posuđe njegovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "umivaonik"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "postolje njegovo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "postolje njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.488991408Z",
+  "model": "glm-5.3"
+}

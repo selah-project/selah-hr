@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 27:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet čovjek koji načini kip i ljevak, gadost Jahvi, djelo ruku obrtnika, te ga postavi u tajnosti; i odgovori sav narod i reče: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "kip"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "i ljevak"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "obrtnika"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "te postavi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u tajnosti"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:46.941345980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I zamijeniše ⟨את⟩ svoju slavu za lik bika koji jede travu.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "i zamijeniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju slavu"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "svoju slavu"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "za lik"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bika"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "koji jede"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:00.843013095Z",
+  "model": "glm-5.3"
+}

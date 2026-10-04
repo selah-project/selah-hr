@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Jer stranci ustaše protiv mene, i nasilnici traže moj život; ne postaviše Elohima pred sebe. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranci"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ustaše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "i nasilnici"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "traže"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moj život"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "postaviše"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "pred sobom"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:57.875052725Z",
+  "model": "glm-5.3"
+}

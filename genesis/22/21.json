@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uca, prvenca svojega, i ⟨את⟩ Buza, brata njegova, i ⟨את⟩ Kemuela, oca Aramaca.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uca"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uc"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "prvenca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Buza"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kemuela"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:49.775463222Z",
+  "model": "glm-5.3"
+}

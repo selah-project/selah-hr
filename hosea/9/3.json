@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Neće ostati u zemlji Jahvinoj, i vratit će se Efrajim u Micrajim, a u Ašuru nečisto će jesti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ostati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i vratit će se"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "a u Ašuru"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:50.926040539Z",
+  "model": "glm-5.3"
+}

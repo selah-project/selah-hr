@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Tko uskraćuje žito, narod ga proklinje, a blagoslov ⟨je⟩ na glavi onoga koji ga prodaje.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "tko uskraćuje"
+    },
+    {
+      "surface": "בר",
+      "gloss": "žito"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "narod ga proklinje"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "a blagoslov"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na glavi"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "onoga koji prodaje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:45.194707710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "El osvete, Jahve, El osvete, objavi se!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "osvete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "osvete"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "objavi se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:36.474535747Z",
+  "model": "glm-5.3"
+}

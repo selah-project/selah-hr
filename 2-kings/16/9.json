@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I posluša ga kralj Ašura, pa krenu kralj Ašura na Damask i zauze ga, i otpremi ⟨njegove stanovnike⟩ u Kir, a ⟨את⟩ Recina pogubi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i posluša"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i krenu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damask"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "i zauze ga"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "i otpremi ⟨njegove stanovnike⟩"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "u Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Recina"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recina"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pogubi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:49.279340536Z",
+  "model": "glm-5.3"
+}

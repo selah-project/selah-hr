@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ne daj ⟨את⟩ svoje sluškinje pred kćeri bezvrijedne, jer iz obilja svoje brige i svoje ogorčenosti govorila sam do sada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sluškinje"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "svoje sluškinje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bezvrijedne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "iz obilja"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "svoje brige"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "i svoje ogorčenosti"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govorila sam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sada"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:09.454748715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Glas Jahvinu srne nagoni na koćenje i ogolićuje šume; a u njegovu hramu sve govori: Slava!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "nagoni na koćenje"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "srne"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "i ogolićuje"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "šume"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "a u njegovu hramu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Slava"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:45.178232463Z",
+  "model": "glm-5.3"
+}

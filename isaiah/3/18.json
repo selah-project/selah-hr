@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "U onaj dan otklonit će Adonaj ⟨את⟩ ures nakita za gležnjeve, i ⟨את⟩ vrpce za kosu, i ⟨את⟩ polumjeseci.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u onaj dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "otklonit će"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ures"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ures"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "nakita za gležnjeve"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "vrpce za kosu"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "polumjeseci"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:48.211915598Z",
+  "model": "glm-5.3"
+}

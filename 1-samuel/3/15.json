@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I legao je Šemuel do jutra, i otvorio je ⟨את⟩ vrata doma Jahvina; a Šemuel se bojao kazati ⟨את⟩ viđenje Eliju.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "legao je"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "otvorio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrata"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "a Šemuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojao se"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "kazati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viđenje"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "viđenje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:27.827543366Z",
+  "model": "glm-5.3"
+}

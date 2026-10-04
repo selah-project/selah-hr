@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet tko uzima mito da ubije ⟨את⟩ dušu krvi nevine! I reče sav narod: Amen!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tko uzima"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mito"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "da ubije"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevine"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:08.874005507Z",
+  "model": "glm-5.3"
+}

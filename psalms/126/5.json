@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 126,
+  "translation": "Oni koji siju u suzama, u radosnome pevanju žeti će.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "oni koji siju"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "u suzama"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "u radosnome pevanju"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "žeti će"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:47.373102801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "da istjera ⟨את⟩ sve neprijatelje tvoje ispred tebe, kao što je rekao Jahve.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "da istjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve neprijatelje tvoje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "neprijatelje tvoje"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ispred tebe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:16.367213828Z",
+  "model": "glm-5.3"
+}

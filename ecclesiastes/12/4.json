@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i zatvore se vrata prema ulici, kad se stiša zvuk mlina, i ustane se na glas ptice, i prignu se sve kćeri pjesme.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "i zatvore se"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "prema ulici"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kad se stiša"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "mlina"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "i ustane se"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na glas"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "i prignu se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "pjesme"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:31.798443677Z",
+  "model": "glm-5.3"
+}

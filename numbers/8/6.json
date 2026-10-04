@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Uzmi ⟨את⟩ levite iz sredine sinova Jisraelovih, i očisti ⟨את⟩ ih.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "očisti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih (levite)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:47.995243379Z",
+  "model": "glm-5.3"
+}

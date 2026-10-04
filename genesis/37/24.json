@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I uzeše ga te ga baciše u zdenac — a zdenac bijaše prazan, neimaše u njemu vode.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "i uzeše ga"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "te ga baciše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "u zdenac"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "a zdenac"
+    },
+    {
+      "surface": "רק",
+      "gloss": "prazan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "neimaše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:58.048775910Z",
+  "model": "glm-5.3"
+}

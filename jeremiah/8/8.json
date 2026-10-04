@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 8:8",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Kako možete reći: Mi smo mudri, i Tora je Jahvina s nama? Gle, u laž je preradio pero laži pisara ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "možete reći"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mi smo mudri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "i Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s nama"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "u laž"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "preradio"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pero"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "pisara"
+    }
+  ],
+  "timestamp": "2026-10-04T18:22:59.023760408Z",
+  "model": "glm-5.3"
+}

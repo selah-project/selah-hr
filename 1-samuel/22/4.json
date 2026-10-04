@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I predvede ih pred ⟨את⟩ lice kralja moapskoga, i ostadoše s njim sve dane dok bijaše David u utvrdi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i predvede ih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice kralja moapskoga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moapskoga"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i ostadoše"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "היות",
+      "gloss": "dok bijaše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "u utvrdi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:42.009359558Z",
+  "model": "glm-5.3"
+}

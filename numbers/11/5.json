@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Sjećamo se ⟨את⟩ ribe koju smo jeli u Micrajimu besplatno: ⟨את⟩ krastavce i ⟨את⟩ lubenice i ⟨את⟩ poriluk i ⟨את⟩ luk i ⟨את⟩ češnjak.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Sjećamo se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ribe"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ribe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "smo jeli"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "besplatno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krastavce"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "krastavce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lubenice"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "lubenice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "poriluk"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "poriluk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "luk"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "češnjak"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "češnjak"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:07.895084308Z",
+  "model": "glm-5.3"
+}

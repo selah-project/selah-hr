@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Reče u srcu svojem: Neću se pokolebati, naraštaj za naraštajem ⟨neću biti⟩ u zlu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reče"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu svojem"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ću se pokolebati"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "za naraštajem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "u zlu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:30.813973100Z",
+  "model": "glm-5.3"
+}

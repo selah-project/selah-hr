@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Neka čuvaju njegovu stražu i stražu svega zbora pred Šatorom sastanka, da vrše službu Miškana.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Neka čuvaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu stražu"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "njegovu stražu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stražu svega zbora"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stražu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zbora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatorom"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da vrše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "službu Miškana"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "službu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:05.095055233Z",
+  "model": "glm-5.3"
+}

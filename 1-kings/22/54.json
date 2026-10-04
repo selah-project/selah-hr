@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I služio je ⟨את⟩ Baalu i klanjao mu se, i rasrdio je ⟨את⟩ Jahvu, Elohim Jisraelov, prema svemu što je činio njegov otac.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "i služio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baala"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "i klanjao se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "i rasrdio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "prema svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činio"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegov otac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:53.576517935Z",
+  "model": "glm-5.3"
+}

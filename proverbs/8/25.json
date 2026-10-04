@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Prije nego što su se gore utonule, prije brežuljaka bila sam rođena.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "utonule su se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prije"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "brežuljaka"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "bila sam rođena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:54.177295275Z",
+  "model": "glm-5.3"
+}

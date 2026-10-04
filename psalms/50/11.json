@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Poznajem sve ptice gorske; što se miče poljem, sa mnom ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "poznajem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gorske"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "što se miče"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "poljem"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:42.266602762Z",
+  "model": "glm-5.3"
+}

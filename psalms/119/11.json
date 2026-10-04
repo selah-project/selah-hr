@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "U srcu svojem sakrio sam obećanje tvoje, da ne sagriješim tebi.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "u srcu svojem"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "sakrio sam"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "obećanje tvoje"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "sagriješim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:55.744560111Z",
+  "model": "glm-5.3"
+}

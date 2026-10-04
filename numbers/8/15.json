@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A poslije toga neka udu leviti da služe ⟨את⟩ u šatoru sastanka, i očistiš ih ⟨את⟩, i zamašeš ih ⟨את⟩ prinosom mahanja.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "neka udu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da služe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u šatoru sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "očistiš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "zamašeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "prinos mahanja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:59.564104447Z",
+  "model": "glm-5.3"
+}

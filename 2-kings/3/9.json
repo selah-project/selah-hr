@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I pođe kralj Jisraela i kralj Jehude i kralj Edoma, i obiđoše put od sedam dana, i ne bijaše vode za tabor ni za stoku što je s njihovim nogama.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pođe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "obiđoše"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "za tabor"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ni za stoku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što je"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "s njihovim nogama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:34.117411454Z",
+  "model": "glm-5.3"
+}

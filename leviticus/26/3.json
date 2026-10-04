@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Ako mojim uredbama hodite i ⟨את⟩ moje zapovijedi čuvate i vršite ⟨את⟩ ih —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mojim uredbama"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "hodite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje zapovijedi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "čuvate"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i vršite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:03.969506577Z",
+  "model": "glm-5.3"
+}

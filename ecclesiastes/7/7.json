@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jer ugnjetavanje izluđuje mudrača, i dar uništava ⟨את⟩ srce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ugnjetavanje"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "izluđuje"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudrača"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "i uništava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:13.062782511Z",
+  "model": "glm-5.3"
+}

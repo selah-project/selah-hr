@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Jer će Jahve proći da udari ⟨את⟩ Micrajim, i vidjet će ⟨את⟩ krv na nadvratniku i na oba dovratnika, i prijeći će Jahve preko praga te neće dopustiti začiničaru da uđe u vaše kuće da udara.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "će proći"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "da udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidjet će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "nadvratniku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "oba"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dovratnika"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "i prijeći će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "praga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te neće"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dopustiti"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "začiničaru"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "da uđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "vaše kuće"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "da udara"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:02.189820792Z",
+  "model": "glm-5.3"
+}

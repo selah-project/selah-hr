@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I anđeo Jahve progovori Eliji: Siđi s njim, ne boj se njega. I ustade te siđe s njim kralju.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "progovori"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anđeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliji"
+    },
+    {
+      "surface": "רד",
+      "gloss": "siđi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "njega"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ustade"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "siđe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:15.364760890Z",
+  "model": "glm-5.3"
+}

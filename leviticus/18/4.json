@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "⟨את⟩ svoja prava činite i ⟨את⟩ svoje uredbe čuvajte, da hodate u njima; ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja prava"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "svoja prava"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "činite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoje uredbe"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "svoje uredbe"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "čuvajte"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da hodate"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:37.946698656Z",
+  "model": "glm-5.3"
+}

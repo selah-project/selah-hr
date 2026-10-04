@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A ti ustani, idi kući svojoj; kad tvoje noge stupe u grad, umrijet će dijete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kući svojoj"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "kad stupe"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "tvoje noge"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "umrijet će"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:18.806549705Z",
+  "model": "glm-5.3"
+}

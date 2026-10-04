@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I posla Jahve na narod ⟨את⟩ zmije žeravice, i ujale su ⟨את⟩ narod, i umrije narod mnoštvo veliko iz Jisraela.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "na narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zmije žeravice"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "zmije"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "žeravice"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ujale su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "umrije"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoštvo veliko"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iz Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:52.028066926Z",
+  "model": "glm-5.3"
+}

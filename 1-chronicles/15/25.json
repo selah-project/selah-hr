@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 15:25",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I bijaše David i starješine Jisraelove i knezovi tisuća ⟨koji idu⟩ da podignu ⟨את⟩ kovčeg saveza Jahvina iz kuće Obed-Edomove u radosti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i knezovi"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ההולכים",
+      "gloss": "koji idu"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "da podignu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg saveza Jahvina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "u radosti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:25.992488978Z",
+  "model": "glm-5.3"
+}

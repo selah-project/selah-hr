@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Oči su moje stalno k Jahvi, jer on će izvući iz mreže noge moje.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "će izvući"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "iz mreže"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "noge moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:54.625590751Z",
+  "model": "glm-5.3"
+}

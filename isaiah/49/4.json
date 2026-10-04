@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "A ja rekoh: Uzalud se izmorih, za ništa i taštinu snagu svoju potroših; ali je pravo moje ⟨je⟩ ⟨את⟩ Jahvi i plaća moja ⟨je⟩ ⟨את⟩ Elohimu mojemu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Uzalud"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "se izmorih"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "za ništa"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "i taštinu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "snagu svoju"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "potroših"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ali je"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pravo moje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "i plaća moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu mojemu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu mojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:23.026174828Z",
+  "model": "glm-5.3"
+}

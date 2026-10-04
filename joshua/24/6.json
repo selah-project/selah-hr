@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I izvedoh oče vaše iz Micrajima, i dođoste do mora, i Micrajimci gonili su oče vaše kolima i konjanicima — do more Suf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "i izvedoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oče vaše"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "oče vaše"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "i dođoste"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "do mora"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i gonili su"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "oče vaše"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "kolima"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "i konjanicima"
+    },
+    {
+      "surface": "ים",
+      "gloss": "more"
+    },
+    {
+      "surface": "סופ",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:33.167447074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I reče Jaakov: Zakuni mi se još danas! I zakle se njemu, i proda ⟨את⟩ svoje prvorodstvo Jaakovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "zakuni se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "još danas"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "i proda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje prvorodstvo"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "svoje prvorodstvo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:45.479526049Z",
+  "model": "glm-5.3"
+}

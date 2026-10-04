@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Siročad smo postali, bez oca; majke su nam kao udovice.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Siročad"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "smo postali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "אב",
+      "gloss": "oca"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "majke su nam"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "kao udovice"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:07.371557269Z",
+  "model": "glm-5.3"
+}

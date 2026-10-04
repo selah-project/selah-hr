@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet tko ne uspostavi ⟨את⟩ riječi ove Tore da ⟨את⟩ ih čini! I reče sav narod: Amen!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "uspostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi ove Tore"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ove Tore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da čini"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:08.874307665Z",
+  "model": "glm-5.3"
+}

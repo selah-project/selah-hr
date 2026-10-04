@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Od mojih neprijatelja mudrijom me čine Tvoje zapovijedi, jer su zauvijek ⟨meni⟩.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Od mojih neprijatelja"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mudrijom me čine"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "Tvoje zapovijedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "היא",
+      "gloss": "su"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:20.969903776Z",
+  "model": "glm-5.3"
+}

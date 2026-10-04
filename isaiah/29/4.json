@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I spuštena ćeš sa zemlje govoriti, i iz praha šaptat će tvoja riječ; i bit će tvoj glas kao glas onoga koji ima oba, iz zemlje, i iz praha šaptat će tvoja riječ.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "i spuštena ćeš"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa zemlje"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "i iz praha"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "šaptat će"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvoja riječ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "kao onoga koji ima oba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tvoj glas"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "i iz praha"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvoja riječ"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "šaptat će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:33.780085943Z",
+  "model": "glm-5.3"
+}

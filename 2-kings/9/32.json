@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I podiže lice svoje k prozoru i reče: Tko je ⟨sa mnom⟩, tko? I pogledaše k njemu dva-tri dvorska sluganja.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "prozoru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨sa mnom⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "i pogledaše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "dvorska sluganja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:25.766074477Z",
+  "model": "glm-5.3"
+}

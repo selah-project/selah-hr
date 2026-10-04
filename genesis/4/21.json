@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ime brata njegova ⟨bijaše⟩ Juval; on bijaše otac svih koji sviraju kinor i ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "i ime"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "koji sviraju"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "i ugav"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:13.189495663Z",
+  "model": "glm-5.3"
+}

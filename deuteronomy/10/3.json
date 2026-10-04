@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I napravih kovčeg od drva šitim, i isclesih dvije ploče kamene kao prve, i uspeh se na goru, a dvije ploče u ruci mojoj.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "i napravih"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "i isclesih"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ploče"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamene"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "kao prve"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "i uspeh se"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na goru"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a dvije"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ploče"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "u ruci mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:26.395687126Z",
+  "model": "glm-5.3"
+}

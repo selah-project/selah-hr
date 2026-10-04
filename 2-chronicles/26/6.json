@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I iziđe i zarati protiv Filistejaca, i razori ⟨את⟩ zid Gata i ⟨את⟩ zid Jabnea i ⟨את⟩ zid Ašdoda; i podiže gradove u Ašdodu i među Filistejcima.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i zarati"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "protiv Filistejaca"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "i razori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zid Gata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zid Jabnea"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zid"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jabnea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zid Ašdoda"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zid"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ašdoda"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "u Ašdodu"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "i među Filistejcima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:37.826689186Z",
+  "model": "glm-5.3"
+}

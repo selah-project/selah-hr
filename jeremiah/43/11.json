@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I doći će i udarit će ⟨את⟩ zemlju micrajsku: tko je za smrt — na smrt, i tko je za sužanjstvo — u sužanjstvo, i tko je za mač — pod mač.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "I doći će"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "i udarit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju micrajsku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajsku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko je"
+    },
+    {
+      "surface": "למות",
+      "gloss": "za smrt"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na smrt"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i tko je"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "za sužanjstvo"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "u sužanjstvo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i tko je"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "za mač"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pod mač"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:17.124726967Z",
+  "model": "glm-5.3"
+}

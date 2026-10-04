@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 2:17",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Kralj je ljubio ⟨את⟩ Ester više nego sve žene, i ona nađe milost i hesed pred njim više nego sve djevice; i stavi krunu kraljevstva na njezinu glavu i dade joj kraljevstvo mjesto Vašti.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ljubio je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego sve"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "i hesed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego sve"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "djevice"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "krunu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "na njezinu glavu"
+    },
+    {
+      "surface": "וימליכה",
+      "gloss": "dade joj kraljevstvo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:40.983703806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I podiže Bileam ⟨את⟩ oči svoje, i vidje ⟨את⟩ Jisrael kako prebiva po plemenima svojim, i bi na njemu ruah Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči svoje"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "prebiva"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "po plemenima svojim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:52.805705435Z",
+  "model": "glm-5.3"
+}

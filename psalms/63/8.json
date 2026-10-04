@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Jer bio si mi pomoć, i u sjeni krila tvojih klicat ću.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bio si"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pomoć"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "i u sjeni"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "krila tvojih"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "klicat ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:04.632809868Z",
+  "model": "glm-5.3"
+}

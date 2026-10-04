@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Eto, dok još budeš ondje govorila s kraljem, ja ću ući za tobom i dopuniti tvoje ⟨את⟩ riječi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eto"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "dok još"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "budeš govorila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ću ući"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "i dopuniti ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje riječi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "riječi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:31.757074381Z",
+  "model": "glm-5.3"
+}

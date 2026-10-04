@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I neće se više zvati ⟨את⟩ ime tvoje Avram, nego će ime tvoje biti Avraham, jer ocem mnoštva naroda učinih te.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zvat će se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime tvoje"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nego će biti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ocem"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mnoštva"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "učinih te"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:54.703873284Z",
+  "model": "glm-5.3"
+}

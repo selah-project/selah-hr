@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A savez svoj utvrdit ću ⟨את⟩ s Jicakom, kojega će ti roditi Sara u određeno vrijeme ovo, u godini drugoj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savez svoj"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez svoj"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "utvrdit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicakom"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "će roditi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "u određeno vrijeme"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "drugoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:44.865756806Z",
+  "model": "glm-5.3"
+}

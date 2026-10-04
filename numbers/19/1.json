@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Jahve reče Mošeu i Aharonu ⟨reče⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨reče⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:46.401818980Z",
+  "model": "glm-5.3"
+}

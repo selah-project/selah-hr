@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A ako bude ukradeno — ukradeno od njega —, naknadit će vlasniku njegovu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A ako"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "bude ukradeno"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ukradeno"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "naknadit će"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "vlasniku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:31.573182533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I spali ⟨את⟩ dom Jahvin i ⟨את⟩ dom kraljevski, i ⟨את⟩ sve kuće Jerušalajima; i ⟨את⟩ svaku veliku kuću spali ognjem.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "i spali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom kraljevski"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevski"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kuće"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svaku veliku kuću"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:38.515507457Z",
+  "model": "glm-5.3"
+}

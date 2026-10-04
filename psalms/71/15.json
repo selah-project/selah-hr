@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 71,
+  "translation": "Moja usta kazivat će tvoj cedek, sav dan tvoje spasenje, jer ne poznam brojeve ⟨njegovih⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kazivat će"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvoj cedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "tvoje spasenje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznajem"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "brojeve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:39.834572862Z",
+  "model": "glm-5.3"
+}

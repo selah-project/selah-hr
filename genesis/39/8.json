@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "A on odbi i reče ženi svoga gospodara: Gle, moj gospodar ne zna ⟨את⟩ sa mnom što je u domu, i sve što ima predao mi je u ruke.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "odbi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svoga gospodara"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospodar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom",
+      "marks": "meni (uz mene)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "predao"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "u ruke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:24.452684033Z",
+  "model": "glm-5.3"
+}

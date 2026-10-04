@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Krasniji si od sinova ljudskih; izlivena je milost na usne tvoje; zato te Elohim blagoslovio zauvijek.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "krasniji"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskih"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "izlivena"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "na usne tvoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "blagoslovio te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:14.421975200Z",
+  "model": "glm-5.3"
+}

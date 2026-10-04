@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ako čovjek sagriješi protiv čovjeka, Elohim će ⟨mu⟩ presuditi; a ako čovjek sagriješi protiv Jahve, tko će moliti za njega? Ali oni ne poslušaše glas oca svojega, jer Jahve htjede da ih pogubi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sagriješi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "protiv čovjeka"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "i presudit će"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "protiv Jahve"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sagriješi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "će moliti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "poslušaše"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "glasu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "htjede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "da ih pogubi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:16.047562823Z",
+  "model": "glm-5.3"
+}

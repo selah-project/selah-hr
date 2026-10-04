@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "i ⟨את⟩ pokrov od koža ovnova obojanih crveno, i ⟨את⟩ pokrov od koža tahaševih, i ⟨את⟩ zavjesu zastora;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pokrov od koža ovnova"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokrov"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "od koža"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "obojanih crveno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pokrov od koža tahaševih"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokrov"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "od koža"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tahaševih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zavjesa zastora"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "zastora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:24.210538009Z",
+  "model": "glm-5.3"
+}

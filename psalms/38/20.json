@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "A neprijatelji su mi živi i snažni, i umnožiše se oni koji me mrze ⟨iz⟩ laži ⟨laze⟩.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "a neprijatelji moji"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "snažni su"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i umnožiše se"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "oni koji me mrze"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.882526534Z",
+  "model": "glm-5.3"
+}

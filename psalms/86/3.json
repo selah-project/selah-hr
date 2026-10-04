@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Milostiv mi budi, Adonaj, jer k tebi zazivam cio dan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Milostiv mi budi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zazivam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cio"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.821333258Z",
+  "model": "glm-5.3"
+}

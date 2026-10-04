@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će te udariti sušicom i groznicom, i upalom, i žestinom vrućine, i mačem, i žegućim snijetom, i pepelnicom; i proganjat će te dok ne propadneš.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "će te udariti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "sušicom"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "i groznicom"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "i upalom"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "i žestinom vrućine"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "i mačem"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "i žegućim snijetom"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "i pepelnicom"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "i proganjat će te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "ne propadneš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:42.934107526Z",
+  "model": "glm-5.3"
+}

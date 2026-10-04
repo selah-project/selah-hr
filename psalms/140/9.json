@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Ne daj, Jahve, požude zloga; nauma njegova ne ispunjavaj, da se ne uzvisve. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "požude"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zloga"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "nauma njegova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ispunjavaj"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "da se ne uzvisve"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.332348111Z",
+  "model": "glm-5.3"
+}

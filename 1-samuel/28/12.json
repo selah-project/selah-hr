@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I vidje žena ⟨את⟩ Šemuela i kriknu glasom velikim; i reče žena Šaulu govoreći: Zašto me prevario? A ti si Šaul.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuela"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "i kriknu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "me prevario"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Šaul"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:22.310087738Z",
+  "model": "glm-5.3"
+}

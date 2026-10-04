@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I vršite ⟨את⟩ naredbe moje i ⟨את⟩ sudove moje čuvajte i vršite ⟨את⟩ ih, i nastanit ćete se na zemlji u sigurnosti.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "i vršite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naredbe moje"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "naredbe moje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sudove moje"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sudove moje"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "čuvajte"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i vršite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "i nastanit ćete se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "u sigurnosti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:56.258259716Z",
+  "model": "glm-5.3"
+}

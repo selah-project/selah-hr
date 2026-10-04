@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Presnena je spoznaja od mene, uzvišena — ne mogu je doseći.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "Presnena"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznaja"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "uzvišena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je doseći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.654583714Z",
+  "model": "glm-5.3"
+}

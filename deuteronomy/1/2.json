@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jedanaest dana ⟨putovanja⟩ od Horeba, putem gore Seir, do Kadeš-Barnee.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "jedanaest (jedan)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(na)deset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od Horeba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeš-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnee"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:03.034091385Z",
+  "model": "glm-5.3"
+}

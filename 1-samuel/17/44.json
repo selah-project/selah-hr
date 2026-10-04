@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Filistejac Davidu: Dođi k meni, i dat ću ⟨את⟩ tijeło tvoje pticama nebeskim i zvijerima poljskim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejac"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "dođi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tijelo tvoje"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tijelo tvoje"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pticama"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeskim"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "i zvijerima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljskim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:25.076304608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A tko nije upravio srca svojega k riječi Jahvinoj, ostavi ⟨את⟩ sluge svoje i ⟨את⟩ stoku svoju u polju.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "a tko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "upravio"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srca svojega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoku svoju"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "stoku svoju"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:20.447985132Z",
+  "model": "glm-5.3"
+}

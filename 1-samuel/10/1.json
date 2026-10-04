@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I uze Šemuel ⟨את]] mjehuljicu ulja i izli je na glavu njegovu, i poljubi ga, i reče: Nije li zato što te Jahve pomazao nad svojom baštinom za kneza?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjehuljicu ulja"
+    },
+    {
+      "surface": "פך",
+      "gloss": "mjehuljicu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "i izli"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "i poljubi ga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zato što"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "te pomazao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "svojom baštinom"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "za kneza"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:29.802590991Z",
+  "model": "glm-5.3"
+}

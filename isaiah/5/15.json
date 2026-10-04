@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Čovjek će biti ponižen i čovjek ponižen, i oči oholih oborene.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "bit će ponižen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ponižen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "i oči"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "oholih"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "oborene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:06.345292773Z",
+  "model": "glm-5.3"
+}

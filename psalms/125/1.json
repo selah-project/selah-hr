@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 125,
+  "translation": "Pjesma uzlazaka. Koji se uzdaju u Jahvu, poput su brda Cijona: neće se zalijugati, zauvijek prebiva.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "koji se uzdaju"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvi"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "poput brda"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "se zalijugati"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "prebiva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:17.337008904Z",
+  "model": "glm-5.3"
+}

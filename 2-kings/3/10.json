@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče kralj Jisraela: Ah, jer Jahve sazva ova tri kralja da ⟨את⟩ ih preda u ruku Moavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sazva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ova"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da preda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih — ova tri kralja, predane u ruku Moavu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:34.117780945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Živ je Jahve, i blagoslovljen stijena moja, i uzvišen Elohim spasenja mojega!",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "živ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "i blagoslovljen"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijena moja"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "i uzvišen"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "spasenja mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:06.326271470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Zahvaljujte Jahvi, jer je dobar, jer je dovijeka njegov hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:10.311308423Z",
+  "model": "glm-5.3"
+}

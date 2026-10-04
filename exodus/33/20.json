@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče: Ne možeš vidjeti ⟨את⟩ moje lice, jer čovjek ne može mene vidjeti i ostati živ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "možeš"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje lice"
+    },
+    {
+      "surface": "פני",
+      "gloss": "moje lice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "vidjeti mene"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "i ostati živ"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:49.233018073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Hivijca i ⟨את⟩ Arkijca i ⟨את⟩ Sinijca",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hivijca"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivijac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arkijca"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkijac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sinijca"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinijac"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.934979743Z",
+  "model": "glm-5.3"
+}

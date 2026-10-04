@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 97,
+  "translation": "Oganj pred njim ide i sažeže naokolo dušmane njegove.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ide"
+    },
+    {
+      "surface": "ותלהט",
+      "abridge": false,
+      "gloss": "i sažeže"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokolo"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "dušmane njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:21.694309502Z",
+  "model": "glm-5.3"
+}

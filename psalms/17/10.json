@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "U svome su se salu zatvorili, svojim ustima govore s ohološću.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "u svome salu"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "zatvorili su se"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "svojim ustima"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "s ohološću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:04.786489452Z",
+  "model": "glm-5.3"
+}

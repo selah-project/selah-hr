@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Sine čovječji, reci joj: Ti si zemlja neočišćena, kišom ne polivena u dan gnjeva.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "očišćena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "<jest>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "kišom polivena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "gnjeva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:42:36.388382616Z",
+  "model": "glm-5.3"
+}

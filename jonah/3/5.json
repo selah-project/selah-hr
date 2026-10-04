@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ljudi ninivski povjerovaše Elohimu, i proglasiše post, i obukoše se u kostrijet, od najvećega svojega do najmanjega svojega.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "povjerovaše"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ninivski"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "proglasiše"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "obukoše se"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "u kostrijet"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "od najvećega svojega"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "najmanjega svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:33.698290022Z",
+  "model": "glm-5.3"
+}

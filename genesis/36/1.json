@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "A ovo je rodoslovlje Esava — on je Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "rodoslovlje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:42.561212096Z",
+  "model": "glm-5.3"
+}

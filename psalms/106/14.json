@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I pohležiše pohlepu u pustinji, i iskušaše Ela u pustinji suhoj.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "pohležiše"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "pohlepu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "iskušaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "u pustinji suhoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.357692971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Davidov. Parniči, Jahve, ⟨את⟩ one koji se parniče sa mnom; bori se ⟨את⟩ onima koji se bore sa mnom.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Parniči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "one koji se parniče sa mnom"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "protivnici moji"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bori se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onima koji se bore sa mnom"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "protivnici moji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:08.881655011Z",
+  "model": "glm-5.3"
+}

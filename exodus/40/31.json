@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I peru iz njega Moše i Aharon i njegovi sinovi ⟨את⟩ svoje ruke i ⟨את⟩ svoje noge.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "peru"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz njega"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ruke"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje noge"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "noge"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:46.058665431Z",
+  "model": "glm-5.3"
+}

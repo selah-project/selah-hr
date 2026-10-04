@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Tada se Jehoahaz umilovao ⟨את⟩ licu Jahvinu, i Jahve usliša ga, jer vidje ⟨את⟩ tjeskac Jisraelovu, jer ih tiskao kralj aramski.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "umilovao se"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "licu Jahvinu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i usliša"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjeskacu Jisraelovoj"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tjeskacu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tiskao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih (Jisrael)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramski"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:05.924571832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Eli zovnu ⟨את⟩ Šemuela i reče: Šemuele, sine moj! A on reče: Evo me!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zovnu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Evo me"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:27.827729997Z",
+  "model": "glm-5.3"
+}

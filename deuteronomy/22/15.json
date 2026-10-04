@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I uzme otac djevojke i njezina majka, te iznesu ⟨את⟩ dokaze djevičanstva djevojke starješinama grada, na vrata ⟨grada⟩.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djevojke"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i njezina majka"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "te iznesu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokaze djevičanstva djevojke"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "dokaze djevičanstva"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "djevojke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješinama"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "na vrata"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:15.591473511Z",
+  "model": "glm-5.3"
+}

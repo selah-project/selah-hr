@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "Sa nebesa dadoše ⟨ti⟩ da se čuje sud; zemlja se poboji i utihnu.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "sa nebesa"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "dadoste ⟨ti⟩ da se čuje"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "poboji se"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "i utihnu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:22.852706617Z",
+  "model": "glm-5.3"
+}

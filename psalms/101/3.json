@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Neću staviti pred oči svoje ništa bezvrijedno — djelo odmetnika mrzim, neće se prilijepiti za mene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "staviti"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ništa ⟨je⟩"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bezvrijedno"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "odmetnika"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mrzim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "prilijepiti se"
+    },
+    {
+      "surface": "בי",
+      "gloss": "za mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:11.089243806Z",
+  "model": "glm-5.3"
+}

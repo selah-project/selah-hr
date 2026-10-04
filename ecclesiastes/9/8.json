@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "U svako vrijeme neka tvoje haljine budu bijele, i ulje na tvojoj glavi neka ne ponesta.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "u svako"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "tvoje haljine"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bijele"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "i ulje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvojoj glavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ponesta"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:54.337010651Z",
+  "model": "glm-5.3"
+}

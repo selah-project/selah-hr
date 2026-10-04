@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Pred licem Jahve, jer dođe suditi ⟨את⟩ zemlji: sudit će tevelu u cedeku i narode u ispravnosti.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "suditi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ zemlji"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sudit će"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevelu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "i narode"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "u ispravnosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:38.707771763Z",
+  "model": "glm-5.3"
+}

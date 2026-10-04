@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Pošalje riječ svoju i izliječi ih, i izbavi ih iz propasti njihovih.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Pošalje"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "riječ svoju"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "i izliječi ih"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i izbavi"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "iz propasti njihovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:14.164991807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Kad osiromaši tvoj brat i proda od svoje baštine, pa dođe njegov otkupitelj, njemu najbliži, i otkupi ⟨את⟩ prodano od svojega brata:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "osiromaši"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvoj brat"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "i proda"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "od svoje baštine"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "pa dođe"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "njegov otkupitelj"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "najbliži"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "i otkupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prodano"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "prodano"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoga brata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:07.050655789Z",
+  "model": "glm-5.3"
+}

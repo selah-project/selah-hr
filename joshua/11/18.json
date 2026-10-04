@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Dugo je vremena Jehošua vodio ⟨את⟩ rat protiv svih tih kraljeva.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "vremena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Dugo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vodio"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "tih kraljeva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:23.613483212Z",
+  "model": "glm-5.3"
+}

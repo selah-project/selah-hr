@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 23:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I ⟨את⟩ višine koje su pred licem Jerušalajima, s desne strane brda Ha-Mašhit ⟨Propasti⟩, koje je izgradio Šelomo, kralj Jisraelov, za Aštoret, gadost Cidonaca, i za Kemoša, gadost Moava, i za Milkoma, gnusobu sinova Amonovih, oskrvnio je kralj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "višine"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "višine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje su"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "s desne strane"
+    },
+    {
+      "surface": "להר",
+      "gloss": "brda"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "Ha-Mašhit ⟨Propasti⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "izgradio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "לעשתרת",
+      "gloss": "za Aštoret"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "צידנים",
+      "gloss": "Cidonaca"
+    },
+    {
+      "surface": "ו לכמוש",
+      "gloss": "i za Kemoša"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moava"
+    },
+    {
+      "surface": "ו למלכם",
+      "gloss": "i za Milkoma"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gnusobu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oskrvnio je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:10.442155912Z",
+  "model": "glm-5.3"
+}

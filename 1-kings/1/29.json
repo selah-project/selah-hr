@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zakle se kralj i reče: Živ Jahve, koji otkupi ⟨את⟩ moju dušu iz svake tjeskobe —",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "otkupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju dušu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moju dušu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svake"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskobe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:54.681846707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "od vina i šečara neka se uzdrži; octa od vina i octa od šečara neka ne pije, i svake tekućine od grožđa neka ne pije; i grožđa svježega i sušena neka ne jede.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "od vina"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "i šečara"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "neka se uzdrži"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "octa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "od vina"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "i octa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "od šečara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svake"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tekućine"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "od grožđa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "i grožđa"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "svježega"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "i sušena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jede"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:56.240851753Z",
+  "model": "glm-5.3"
+}

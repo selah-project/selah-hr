@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I neka položi ruku svoju na glavu jarca, i neka zakolje ⟨את⟩ njega na mjestu gdje se kolje ⟨את⟩ žrtva paljenica pred Jahvom: žrtva je grijeha on ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "i neka položi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i neka zakolje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtva paljenica"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtva paljenica"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "žrtva grijeha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:51.956919235Z",
+  "model": "glm-5.3"
+}

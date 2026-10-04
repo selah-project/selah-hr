@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "i svećenik je približi ⟨אתה⟩ i postavi je pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i približi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "i postavi je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:30.728546404Z",
+  "model": "glm-5.3"
+}

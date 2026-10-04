@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "I neka živi, i neka mu se dâ od zlata Šebe, i neka se moli za njega neprestano; sav dan neka ga blagoslivlja.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i neka živi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i neka dâ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "od zlata"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "i neka se moli"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יותפלל_וגו",
+      "gloss": "",
+      "note": "placeholder - vidi dolje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:11.296564033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I neprijateljstvo ću položiti između tebe i žene, i između sjemena tvojega i sjemena njezina; ono će ti satrti glavu, a ti ćeš njemu raniti petu.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "i neprijateljstvo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ću položiti"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "između tebe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sjemena tvojega"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "sjemena njezina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "će ti satrti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "ćeš njemu raniti"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "petu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.330003880Z",
+  "model": "glm-5.3"
+}

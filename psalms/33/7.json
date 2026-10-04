@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Sabire kao nasip vode mora, daje u spremnice dubine.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Sabire"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "kao nasip"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "u spremnice"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dubine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:43.039047741Z",
+  "model": "glm-5.3"
+}

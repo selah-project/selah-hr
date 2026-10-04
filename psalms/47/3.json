@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Jer Jahve je Svevišnji, strašan, velik kralj nad svom zemljom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Svevišnji"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "strašan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:19.627303536Z",
+  "model": "glm-5.3"
+}

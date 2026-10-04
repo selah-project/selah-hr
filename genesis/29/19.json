@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "A Lavan reče: Bolje da je dam tebi nego da je dam drugomu čovjeku; ostani sa mnom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolje"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "da dam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je (Rahelu)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "nego da dam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je (Rahelu)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "drugomu čovjeku"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugomu"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ostani"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:18.556895850Z",
+  "model": "glm-5.3"
+}

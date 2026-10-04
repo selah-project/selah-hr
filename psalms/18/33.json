@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "El koji me opasuje ⟨את⟩ silom, i ⟨את⟩ put moj čini neporočnim.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "koji me opasuje"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "silom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i čini"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "neporočnim"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "put moj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:48.664963877Z",
+  "model": "glm-5.3"
+}

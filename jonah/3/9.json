@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Tko zna? Vratit će se i sažaliti Elohim, i vratit će se od žara svojega gnjeva, i nećemo propasti.”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "וונחם",
+      "gloss": "i sažaliti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i vratit će se"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "od žara"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svojega gnjeva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "ćemo propasti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:50.409098544Z",
+  "model": "glm-5.3"
+}

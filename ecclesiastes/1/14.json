@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Vidjeh ⟨את⟩ sva djela koja su učinjena pod suncem, i gle, sve je hevel i mučenje duha — ruah.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "vidjeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva djela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "djela"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "koja su učinjena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i mučenje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:32.473388286Z",
+  "model": "glm-5.3"
+}

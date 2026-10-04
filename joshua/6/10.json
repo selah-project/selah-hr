@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A ⟨את⟩ puka zapovjedi Jehošua govoreći: Ne vičite i ne dajte da se čuje ⟨את⟩ glas vaš, i neka ne izađe iz usta vaših ni riječi, do dana kad vam kažem: Vičite! — tada ćete viknuti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "puka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "puka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "vičite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "dajte da se čuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas vaš"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "glas vaš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neka ne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izađe"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "iz usta vaših"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kad kažem"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Vičite"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "tada ćete viknuti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:05.583212145Z",
+  "model": "glm-5.3"
+}

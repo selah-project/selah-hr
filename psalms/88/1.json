@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Pjesma, mizmor sinovima Korahovim, upravitelju, na Mahalat Leannot, poučna pjesma Heimana Ezraćanina.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahovim"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "upravitelju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pjesma"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Heimanu"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezraćaninu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.045929385Z",
+  "model": "glm-5.3"
+}

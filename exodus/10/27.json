@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A Jahve otvrdnu ⟨את⟩ srce faraonovo, i ne htjede ih otpustiti.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a otvrdnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce faraonovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "htjede"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ih otpustiti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:57.478695631Z",
+  "model": "glm-5.3"
+}

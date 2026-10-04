@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I dovezu ga njegovi sluge u Jerušalajim, i pokopaše ga u grobu njegovu s ocima njegovim, u gradu Davidovu.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "i dovezu ga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "sluge dovezu njega"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge njegove"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pokopaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "pokopaše njega"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "u grobu njegovu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima njegovim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:28.409132230Z",
+  "model": "glm-5.3"
+}

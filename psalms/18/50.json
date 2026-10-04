@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Zato ću te slaviti među narodima, Jahve, i imenu tvojemu pjevati.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": " tome (zato)"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "slavit ću te"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "i imenu tvojemu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pjevat ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:56.168976244Z",
+  "model": "glm-5.3"
+}

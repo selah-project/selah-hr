@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Prestanite i znajte da sam ja Elohim, uzvišen među narodima, uzvišen na zemlji.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Prestanite"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "znajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "uzvišen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "među narodima"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "uzvišen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:54.363772814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I rekoh: Kamo ti ideš? A reče meni: Mjeriti ⟨את⟩ Jerušalajim, da vidim kolika je širina njegova i kolika dužina njegova.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "i rekoh"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ideš"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "למד",
+      "gloss": "mjeriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidim"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kolika"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "je širina njegova"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "i kolika"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dužina njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:00:21.681872878Z",
+  "model": "glm-5.3"
+}

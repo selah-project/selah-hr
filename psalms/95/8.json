@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "Ne ukrućujte srca svojega kao kod Meribe, kao u dan Mase u pustinji.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ukrućujte"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srca svojega"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "kao kod Meribe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao u dan"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Mase"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:41.197597440Z",
+  "model": "glm-5.3"
+}

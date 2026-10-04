@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I pobili su ⟨את⟩ sve duše što bijahu u njoj, oštricom mača — posve ih uništili; ne ostade nitko tko diše, a ⟨את⟩ Hacor spalio je u ognju.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i pobili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve duše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "posve uništili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ostade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "tko diše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Hacor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalio je"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:55.076215930Z",
+  "model": "glm-5.3"
+}

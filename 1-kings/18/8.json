@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A on mu reče: Ja sam. Idi, reci svome gospodaru: Gle, Eljihu je ovdje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "svome gospodaru"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eljihu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:08.159718488Z",
+  "model": "glm-5.3"
+}

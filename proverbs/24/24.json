@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Tko kaže bezbožniku: pravedan si — narodi će ga prokleti, plemena će na nj gnjev biti.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kaže"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bezbožniku"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "prokleti će ga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "gnjev na njega"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "plemena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:56.913592761Z",
+  "model": "glm-5.3"
+}

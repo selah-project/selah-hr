@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I ne ukori ga otac njegov svih dana njegovih govoreći: »Zašto si tako učinio?« A i on bijaše vrlo lijepa izgleda, i njega rodi ⟨את⟩ poslije Avšaloma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "ukori ga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otac njegov"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "svih dana njegovih"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si učinio"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "A i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lijepa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "izgleda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (rodi)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:25.288809021Z",
+  "model": "glm-5.3"
+}

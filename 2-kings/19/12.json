@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Jesu li ih izbavili bogovi naroda koje uništiše oci moji — ⟨את⟩ Gozan i ⟨את⟩ Haran, i Recef i sinovi Edena koji su u Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Jesu li izbavili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih — narode koje uništiše oci moji"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "uništiše"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "oci moji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "i Recef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i sinovi"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "u Telasar"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:36.235763887Z",
+  "model": "glm-5.3"
+}

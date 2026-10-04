@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Tko je među vama koji prigne uho ovome? Tko će paziti i slušati za potonja vremena?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "prigne uho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "paziti"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i slušati"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "za potonja vremena"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:38.320797363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bit će: ako dobro slušate — poslušate zapovijedi moje koje ⟨את⟩ vam ja zapovijedam danas, da ljubite ⟨את⟩ Jahve, Elohim svojega, i da mu služite svim srcem svojim i svom dušom svojom —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dobro slušate"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslušate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "zapovijedi moje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "da ljubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "i da mu služite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svom"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "dušom svojom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:19.057582313Z",
+  "model": "glm-5.3"
+}

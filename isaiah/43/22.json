@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ne mene si zvao, Jaakove, jer si se umorio od mene, Jisraele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "si zvao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "si se umorio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:37.532377817Z",
+  "model": "glm-5.3"
+}

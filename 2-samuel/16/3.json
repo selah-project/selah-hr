@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I reče kralj: A gdje je sin gospodara tvojega? A Civa reče kralju: Eno, sjedi u Jerušalajimu, jer reče: Danas će mi dom Jisraelov vratiti ⟨את⟩ kraljevstvo oca mojega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "a gdje je"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "gospodara tvojega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Civa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sjedi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "će vratiti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:22.467708570Z",
+  "model": "glm-5.3"
+}

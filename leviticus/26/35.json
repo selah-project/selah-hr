@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Sve dane pustoši svoje počivat će, ⟨את⟩ ⟨one⟩ koje nije počivala u vaše Šabate dok vi boraviste na njoj.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "pustoši svoje"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "počivat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koje nije počivala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "počivala"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "u vaše Šabate"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "dok boraviste"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:24.291606089Z",
+  "model": "glm-5.3"
+}

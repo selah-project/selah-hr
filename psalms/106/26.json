@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I podiže svoju ruku protiv njih, da ih obori u pustinji.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "protiv njih"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "da obori"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:09.877480040Z",
+  "model": "glm-5.3"
+}

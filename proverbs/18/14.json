@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "ruah čovjeka podnosi njegovu bolest, ali pobijeđenu ruah — tko će je ponijeti?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "podnosi"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "njegovu bolest"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ali ruah"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "pobijeđenu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "će je ponijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:50.583907607Z",
+  "model": "glm-5.3"
+}

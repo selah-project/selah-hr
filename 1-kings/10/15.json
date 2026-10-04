@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "osim od ljudi tarima i od trgovine kramara, i od svih kraljeva miješanoga naroda i od namjesnika zemlje.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "osim"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "od ljudi"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tara"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "i od trgovine"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "kramara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svih"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "miješanoga naroda"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "i od namjesnika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:30.009280991Z",
+  "model": "glm-5.3"
+}

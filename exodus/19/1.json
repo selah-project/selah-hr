@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "U trećem mjesecu, odlasku sinova Jisraelovih iz zemlje micrajske, toga dana dođoše u pustinju Sinaj.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trećem"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "odlasku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "u pustinju"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:23.742132471Z",
+  "model": "glm-5.3"
+}

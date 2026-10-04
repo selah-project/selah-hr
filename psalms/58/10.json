@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Prije no što vaši lonci spoznaju trnje, on će ih odnijeti — i zeleno i goruće — vihorom srdžbe svoje.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "prije no što"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "spoznaju"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "vaši lonci"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zeleno (živo)"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "goruće"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "odnijeti će ih vihorom srdžbe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:58.259523655Z",
+  "model": "glm-5.3"
+}

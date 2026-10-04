@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I pristupi Filistejac ujutro i navečer, i stajaše četrdeset dana.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "i pristupi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistejac"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "rano, ujutro"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "i navečer"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "i stajaše"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:07.981398459Z",
+  "model": "glm-5.3"
+}

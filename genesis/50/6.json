@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I reče Paroh: uziđi i pokopaj ⟨את⟩ oca svojega kako te zakletvom obvezao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uziđi"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "i pokopaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "te zakletvom obvezao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:42.696224316Z",
+  "model": "glm-5.3"
+}

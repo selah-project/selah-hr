@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "A srce njihovo nije bilo čvrsto s njime, niti bijahu postojani u savezu njegovu.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "a srce njihovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "čvrsto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "bijahu postojani"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "u savezu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:09.515756320Z",
+  "model": "glm-5.3"
+}

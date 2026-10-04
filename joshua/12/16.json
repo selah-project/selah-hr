@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "kralj Makede, jedan; kralj Bet-Ela, jedan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makede"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Ela"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:31.438052156Z",
+  "model": "glm-5.3"
+}

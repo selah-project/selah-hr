@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I uzđe se Elohim s njega na mjestu gdje razgovaraše s njim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i uzđe se"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "s njega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "razgovaraše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:40.734932770Z",
+  "model": "glm-5.3"
+}

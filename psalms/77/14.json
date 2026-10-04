@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Elohim, u svetosti je put tvoj; tko je El velik kao Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "u svetosti"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "put tvoj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kao Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:37.663862527Z",
+  "model": "glm-5.3"
+}

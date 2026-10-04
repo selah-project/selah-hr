@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ode Rehabam u Šekem, jer u Šekem dođe sav Jisrael da njega zakralji ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "u Šekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "da zakralji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:43.182282974Z",
+  "model": "glm-5.3"
+}

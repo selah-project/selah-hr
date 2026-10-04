@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I bi, jer bojahu se babice ⟨את⟩ Elohim, da im načini kuće.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bojahu se"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "babice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "da načini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:03.953778229Z",
+  "model": "glm-5.3"
+}

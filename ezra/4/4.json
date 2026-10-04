@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I narod zemlje malaksavljao je ruke naroda Jude i plašio ⟨את⟩ njih od gradnje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "malaksavljao je"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "i plašio"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "od gradnje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:54:29.540076545Z",
+  "model": "glm-5.3"
+}

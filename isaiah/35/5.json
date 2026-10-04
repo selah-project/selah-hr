@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Tada će se otvoriti oči slijepih, i uši gluhih otvorit će se.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "otvorit će se"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slijepih"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "i uši"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "gluhih"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "otvorit će se"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:09.123031657Z",
+  "model": "glm-5.3"
+}

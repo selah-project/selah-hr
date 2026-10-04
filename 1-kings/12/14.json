@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i govoraše im prema savjetu mladića rekavši: Otac moj učini teškim ⟨את⟩ jaram vaš, a ja ću dodati na jaram vaš; otac moj kažnjavaše ⟨את⟩ vas bičevima, a ja ću vas kažnjavati štipavcima.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "prema savjetu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mladića"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "učini teškim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram vaš"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jaram vaš"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ću dodati"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jaram vaš"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "kažnjavaše"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "bičevima"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bičevima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ću kažnjavati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "štipavcima"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "štipavcima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:37.913861676Z",
+  "model": "glm-5.3"
+}

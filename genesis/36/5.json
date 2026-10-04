@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "i Oholivama rodi ⟨את⟩ Jeuiša i ⟨את⟩ Jaalama i ⟨את⟩ Koraha. To su sinovi Esavovi, koji mu se rodiše u zemlji kanaanskoj.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "i Oholivama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeuiša"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeuiš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jaalama"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Koraha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "rodiše se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kanaanskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:34.736732491Z",
+  "model": "glm-5.3"
+}

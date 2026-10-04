@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I usta Jonatan, sin Šaulov, i ode Davidu u Horšu, i učvrsti ⟨את⟩ njegovu ruku u Elohimu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "u Horšu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "i učvrsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovu ruku"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:16.260020089Z",
+  "model": "glm-5.3"
+}

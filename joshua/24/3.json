@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I uzeh ⟨את⟩ vašeg oca ⟨את⟩ Avrahama s one strane Rijeke i provedoh ⟨את⟩ ga svom zemljom Kenana, i umnožih ⟨את⟩ njegovo sjeme, i dadoh mu ⟨את⟩ Jicaka.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "i uzeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vašeg oca"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "vašeg oca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "s one strane"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Rijeke"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "i provedoh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "i umnožih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo sjeme"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "njegovo sjeme"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "i dadoh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:36.619799290Z",
+  "model": "glm-5.3"
+}

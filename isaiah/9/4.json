@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer svaka vojnička obuća koja odjekuje u metežu i svaka haljina uvaljana u krvi bit će ⟨za⟩ izgaranje, hrana ognju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaka"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "vojnička obuća"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "koja odjekuje"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "u metežu"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "i haljina"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "uvaljana"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "u krvi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "za izgaranje"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "hrana"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:47.891471235Z",
+  "model": "glm-5.3"
+}

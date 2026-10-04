@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "i ⟨את⟩ svakoga gavrana prema njegovoj vrsti,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svakoga gavrana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gavrana"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "prema njegovoj vrsti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:27.240018160Z",
+  "model": "glm-5.3"
+}

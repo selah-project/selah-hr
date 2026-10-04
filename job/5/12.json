@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "On poništava namisli lukavih, i ruke njihove ne izvode ⟨to što su smislile⟩.",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "poništava"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "namisli"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "lukavih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "izvode"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ruke njihove"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "⟨to što su smislile⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:43.709538718Z",
+  "model": "glm-5.3"
+}

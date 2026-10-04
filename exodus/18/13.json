@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Sutradan sjede Moše da sudi ⟨את⟩ narod, i stajaše narod uz Mošea od jutra do večeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i sjede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "da sudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stajaše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:29.967956118Z",
+  "model": "glm-5.3"
+}

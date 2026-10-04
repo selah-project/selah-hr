@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "I poljubi svu braću svoju i zaplaka nad njima; a poslije toga braća njegova razgovarahu s njim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "i poljubi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "i zaplaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njima"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "razgovarahu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braća njegova"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:11.651523403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A zemlja ne smije se prodati zauvijek ⟨za zatiranje⟩, jer moja je zemlja: jer tuđinci i stanovnici vi ste kod mene.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a zemlja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "smije se prodati"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "zauvijek ⟨za zatiranje⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moja je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "tuđinci"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "i stanovnici"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi ste"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kod mene"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:10.209255832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "I vidje Jisrael ⟨את⟩ sinove Josipove, i reče: Tko su ovi?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Josipove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipove"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:49.153662991Z",
+  "model": "glm-5.3"
+}

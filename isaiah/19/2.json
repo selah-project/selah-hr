@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I zavadit ću Micrajim s Micrajimom, i borit će se čovjek protiv brata svojega i čovjek protiv prijatelja svojega, grad protiv grada, kraljevstvo protiv kraljevstva.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "i zavadit ću"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "s Micrajimom"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "i borit će se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "protiv brata svojega"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "protiv prijatelja svojega"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "protiv grada"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "protiv kraljevstva"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:24.288666978Z",
+  "model": "glm-5.3"
+}

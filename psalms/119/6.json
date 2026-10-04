@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Tada se neću postidjeti kada pogledam na sve tvoje zapovijedi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "postidjeti"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "kada pogledam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvoje zapovijedi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:30.642118468Z",
+  "model": "glm-5.3"
+}

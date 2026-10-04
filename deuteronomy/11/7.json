@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "jer vaše oči vidjele su ⟨את⟩ sve djelo veliko Jahvino koje je učinio —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vaše oči"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "vidjele su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve djelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:35.716806950Z",
+  "model": "glm-5.3"
+}

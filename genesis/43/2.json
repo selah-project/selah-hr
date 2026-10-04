@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "I bidi, kad su izjelì ⟨את⟩ hranu koju su donijeli iz Micrajima, reče im otac njihov: Vratite se, nabavite nam malo hrane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "izjelì"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hranu"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "hranu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "donijeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otac njihov"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vratite se"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nabavite"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:11.211793571Z",
+  "model": "glm-5.3"
+}

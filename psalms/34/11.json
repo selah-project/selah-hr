@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Mladi lavovi oskudijevaju i gladuju, ali koji traže Jahve neće oskudjeti ničega dobrog.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Mladi lavovi"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "oskudijevaju"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "i gladuju"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ali koji traže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće oskudjeti"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "neće oskudjeti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ničega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrog"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:45.570990911Z",
+  "model": "glm-5.3"
+}

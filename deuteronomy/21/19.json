@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "neka ga uhvate otac njegov i majka njegova, te ga izvedu ⟨את⟩ pred starješine grada svojega i na vrata mjesta svojega,",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "uhvate"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otac njegov"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i majka njegova"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "izvedu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "grada svojega"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "mjesta svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:22.980455765Z",
+  "model": "glm-5.3"
+}

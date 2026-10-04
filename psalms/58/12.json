@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "I reći će čovjek: zaista, plod je pravedniku; zaista, ima Elohim koji sudi na zemlji.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reći će"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pravedniku"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "koji sudi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:58.259789492Z",
+  "model": "glm-5.3"
+}

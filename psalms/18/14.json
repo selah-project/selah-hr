@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I zagrmje Jahve ⟨u⟩ nebesima, a Svevišnji dade glas svoj — tuča i žeravice ognja.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "i zagrmje"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨u⟩ nebesima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "a Svevišnji"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "tuča"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "i žeravice"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:01.549369127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I skupiše se Pelešteci, i dođoše, i taborovi položiše u Šunemu; a Šaul skupi ⟨את⟩ sav Jisrael, i položiše tabor na Gilboi.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "i skupiše se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelešteci"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tabor položiše"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "u Šunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tabor položiše"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "na Gilboi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:00.839174512Z",
+  "model": "glm-5.3"
+}

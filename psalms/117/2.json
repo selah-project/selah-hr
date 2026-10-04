@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 117,
+  "translation": "Jer nam je ⟨prevladao⟩ njegov hesed, i istina Jahvina ⟨traje⟩ dovijeka. Halelujah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "prevladao"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i istina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:13.436581228Z",
+  "model": "glm-5.3"
+}

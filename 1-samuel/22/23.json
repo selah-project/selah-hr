@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ostani sa mnom ⟨את⟩, ne boj se, jer tko traži ⟨את⟩ moj život, tražit će ⟨את⟩ i tvoj život, jer si ti na čuvanju u mene.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "ostani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "sa mnom ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj život"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moj život"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "tražit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj život"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvoj život"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "na čuvanju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "u mene"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:49.669442594Z",
+  "model": "glm-5.3"
+}

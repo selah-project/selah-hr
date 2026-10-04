@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I neka uzmu od krvi i neka je stave na oba dovratka i na nadvratnik, na kuće u kojima će jesti ⟨את⟩ ga.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "i neka uzmu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i neka stave"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "oba"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dovratka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "nadvratnik"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojima"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "će jesti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:24.878593065Z",
+  "model": "glm-5.3"
+}

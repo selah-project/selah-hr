@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I skupi Lavan ⟨את⟩ sve ljude toga mjesta i priredi gozbu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "i skupi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ljude toga mjesta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toga mjesta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i priredi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gozbu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:57.040723845Z",
+  "model": "glm-5.3"
+}

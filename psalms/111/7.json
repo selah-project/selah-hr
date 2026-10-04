@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Djela ruku njegovih istina su i pravo; postojani su svi propisi njegovi.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ruku njegovih"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istina"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i pravo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "postojani su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "propisi njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.051889529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I učini junaštvo, i udari ⟨את⟩ Amaleka, i izbavi ⟨את⟩ Jisrael iz ruke onoga što ga pljačkaše.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "junaštvo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i izbavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "onoga što ga pljačkaše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:15.806747200Z",
+  "model": "glm-5.3"
+}

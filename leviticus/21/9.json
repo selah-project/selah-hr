@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A kći svećenika, kad se počne bludničiti, ⟨את⟩ oca svojega oskvrnjuje — u vatri neka se spali.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "a kći"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "počne se oskvrnjivati"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "bludničiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "oskvrnjuje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u vatri"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "neka se spali"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:31.847133564Z",
+  "model": "glm-5.3"
+}

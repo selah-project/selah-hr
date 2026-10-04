@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Eno, Adonaj Jahve dolazi u sili, i mišica mu vlada ⟨za njega⟩: eno, plaća je njegova ⟨את⟩ s njim, i djelo mu je pred licem njegovim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "u sili"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "i mišica mu"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "vlada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "plaća njegova"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "plaća je njegova"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "i djelo mu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred licem njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:24.475499119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Hallelujah! Pjevajte Jahvi pjesmu novu, hvala njegova u zboru hasidima.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pjesmu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hvala njegova"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zboru"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hasidima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:39.951028304Z",
+  "model": "glm-5.3"
+}

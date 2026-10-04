@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Ja ću u cedeku gledati lice tvoje; nasitit ću se, kad se probudim, lika tvojega.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "gledati ću"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "nasitit ću se"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "kad se probudim"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "lika tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:04.655162700Z",
+  "model": "glm-5.3"
+}

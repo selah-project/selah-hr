@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Ne uzimam bika iz tvoje kuće ni jaraca iz tvojih torova.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "uzimam"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "iz tvoje kuće"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "iz tvojih torova"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "jaraca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:42.266181793Z",
+  "model": "glm-5.3"
+}

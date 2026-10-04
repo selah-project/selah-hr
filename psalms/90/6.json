@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Ujutro procvate i prođe; uveče se pokosi i osuši.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Ujutro"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "procvate"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "i prođe"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "uveče"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "se pokosi"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "i osuši"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:19.701434517Z",
+  "model": "glm-5.3"
+}

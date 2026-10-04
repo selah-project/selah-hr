@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "A ja ⟨kao⟩ maslina zelenih u kući Elohimovoj: uzdam se u hesed Elohimov, uvijek i dovijeka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "⟨kao⟩ maslina"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zelenih"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "u hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "uvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:43.218841890Z",
+  "model": "glm-5.3"
+}

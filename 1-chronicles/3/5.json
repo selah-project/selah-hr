@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I rodiše mu se u Jerušalajimu: Šima, i Šovav, i Natan, i Šelomo — četvorica od Bat-šue, kćeri Amielove.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "i"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "rodiše mu se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Šima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "i Šovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "i Šelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četvorica"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "od Bat-šue"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-šua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielove"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:10.238967333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I dođe sve do pred vrata kraljeva, jer nije bilo ⟨dopušteno⟩ ući u vrata kraljeva u odijelu od kostrijeti.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije bilo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ući"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "u odijelu"
+    },
+    {
+      "surface": "שק",
+      "gloss": "od kostrijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:59.492354756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Na mene čekaju zli da me unište, ali o tvojim svjedočanstvima razmišljam.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na mene"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "čekaju"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zli"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "da me unište"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvojim svjedočanstvima"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "razmišljam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:02.517836815Z",
+  "model": "glm-5.3"
+}

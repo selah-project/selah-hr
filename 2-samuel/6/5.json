@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "i David i sav dom Jisraelov igrahu pred Jahvom uz sve drvo od čempresa, i uz harfe, i uz psaltire, i uz bubnjeve, i uz zvečke, i uz činele.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "igrahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "uz sve"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "od čempresa"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "i uz harfe"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "i uz psaltire"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "i uz bubnjeve"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "i uz zvečke"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "i uz činele"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:22.144929726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I ču Elohim ⟨את⟩ stenjanje njihovo, i sjeti se Elohim ⟨את⟩ saveza svojega — ⟨את⟩ Avrahama, ⟨את⟩ Jicaka i ⟨את⟩ Jaakova.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenjanje njihovo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "stenjanje njihovo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "i sjeti se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez svoj"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savez svoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:41.930168071Z",
+  "model": "glm-5.3"
+}

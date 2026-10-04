@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Njihovi popisani, za pleme Šimronovo: devet i pedeset tisuća i tri stotine.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "popisani njihovi"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "za pleme"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimrona"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devet"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "i pedeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:52.139406436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Radujte se u Jahvi i kličite, pravednici; ravnog srca, zapjevajte svi vi ⟨koji ste⟩ pravoga srca!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "radujte se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvi"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "i kličite"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednici"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "zapjevajte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "pravoga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.262499956Z",
+  "model": "glm-5.3"
+}

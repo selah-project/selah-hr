@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Dokle ću gledati ⟨את⟩ znak, slušati ⟨את⟩ glas šofara?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ću"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gledati"
+    },
+    {
+      "surface": "נס",
+      "gloss": "znak",
+      "note": "בס"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "slušati"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofara"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:09.268690487Z",
+  "model": "glm-5.3"
+}

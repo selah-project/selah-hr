@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Jer bez razloga sakriše mi jamu, mrežu svoju; bez razloga iskopaše za dušu moju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez razloga"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "sakriše"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jamu"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "mrežu svoju"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez razloga"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "iskopaše"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "za dušu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:10.337036653Z",
+  "model": "glm-5.3"
+}

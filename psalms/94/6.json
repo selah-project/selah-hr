@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Udovicu i stranca ubijaju, a siročad ubijaju ⟨na ubojstvo⟩.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "udovicu"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "i stranca"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ubijaju"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "a siročad"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ubijaju ⟨na ubojstvo⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:00.678349193Z",
+  "model": "glm-5.3"
+}

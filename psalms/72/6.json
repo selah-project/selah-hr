@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka siđe kao kiša na pokošenu travu, kao rosne pljuskove što natapaju zemlju.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "neka siđe"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kao kiša"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גז",
+      "gloss": "pokošenu travu"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "kao rosne pljuskove"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "što natapaju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:56.798915187Z",
+  "model": "glm-5.3"
+}

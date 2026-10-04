@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I na nj razloži red kruha pred Jahvom, kako zapovjedi Jahve ⟨את⟩ Mošea.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "razloži"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "red"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:29.603083706Z",
+  "model": "glm-5.3"
+}

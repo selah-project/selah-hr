@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I obloži ⟨את⟩ kerube zlatom.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerube"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:47.524018038Z",
+  "model": "glm-5.3"
+}

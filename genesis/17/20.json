@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A što se tiče Jišmaela, uslišao sam te: evo, blagoslovio sam ga ⟨את⟩ i učinit ću ga plodnim ⟨את⟩ i umnožit ću ga ⟨את⟩ veoma, veoma; dvanaest knezova rodit će, i od njega ću načiniti narod velik.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "A što se tiče Jišmaela"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "uslišao sam te"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "blagoslovio sam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (blagoslovljenoga)"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "i učinit ću plodnim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (plodnoga)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "i umnožit ću"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (umnoženoga)"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "knezova"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "rodit će"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "i od njega ću načiniti"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:46.792338338Z",
+  "model": "glm-5.3"
+}

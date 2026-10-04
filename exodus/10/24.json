@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I pozva faraon Mošea te reče: Idite, služite ⟨את⟩ Jahvi; samo neka ostanu ovce vaše i goveda vaša, a djeca vaša neka pođu s vama.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ovce vaše"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "i goveda vaša"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "neka ostanu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "a"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "djeca vaša"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "neka pođu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:51.705340158Z",
+  "model": "glm-5.3"
+}

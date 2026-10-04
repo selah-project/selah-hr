@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I zaposjeli su ⟨את⟩ svu među Emorovih, od Arnona do Jaboka, i od pustinje do Jordana.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "i zaposjeli su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu među Emorovih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "među"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorovih"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "od Arnona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jaboka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:27:03.386717459Z",
+  "model": "glm-5.3"
+}

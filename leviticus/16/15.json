@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 16:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I zakolje ⟨את⟩ jarca žrtve za grijeh koji je za narod, i unese ⟨את⟩ krv njegovu u unutrašnjost zavjese, i učini ⟨את⟩ krvlju njegovom kao što je učinio s krvlju bika, i poškropi ⟨את⟩ na pomirilište i pred pomirilište.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarca"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "jarac"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "unese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv njegovu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv njegovu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "unutra"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "zavjese"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krvlju njegovom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "s krvlju"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "poškropi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njom",
+      "marks": "na pomirilište"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilištem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:12.134876515Z",
+  "model": "glm-5.3"
+}

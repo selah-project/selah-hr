@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Put postavi da dođe mač ⟨את⟩ Rabu sinova Amonovih, i ⟨את⟩ Judu u Jerušalajimu utvrđenom.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da dođe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabu sinova Amonovih"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "utvrđenom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:41:20.984442607Z",
+  "model": "glm-5.3"
+}

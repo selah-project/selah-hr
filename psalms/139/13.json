@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Jer ti si stvorio ⟨את⟩ bubrege moje, ispleo me u utrobi majke moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "stvorio si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bubrege moje"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "bubrege moje"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ispleo si me"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "u utrobi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majke moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:09.249441341Z",
+  "model": "glm-5.3"
+}

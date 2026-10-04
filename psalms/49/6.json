@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Zašto da se bojim u dane zla, kad me bezakonje mojih petâ opkoljuje?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "da se bojim"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bezakonje"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mojih petâ"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "me opkoljuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:48.312078305Z",
+  "model": "glm-5.3"
+}

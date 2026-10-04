@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Da vas ne zavede Hizkija govoreći: Jahve će nas izbaviti. Jesu li bogovi naroda izbavili ⟨את⟩ svaki svoju zemlju iz ruke asirskoga kralja?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "zavede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "će nas izbaviti"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "jesu li izbavili"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju zemlju"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:06.621043771Z",
+  "model": "glm-5.3"
+}

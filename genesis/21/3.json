@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I Avraham nadjene ⟨את⟩ ime sinu svojemu što mu se rodio, kojega mu rodi Sara: Jicak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I nadjene ime"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime sina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojemu"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "što mu se rodio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:48.124120173Z",
+  "model": "glm-5.3"
+}

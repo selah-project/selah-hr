@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne traži njihova mira ni njihova dobra sve svoje dane, dovijeka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "njihova mira"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ni njihova dobra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "svoje dane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:16.273004465Z",
+  "model": "glm-5.3"
+}

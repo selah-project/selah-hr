@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A Jahve mu reče: Idi, vrati se putem svojim prema pustinji damaskoj, pa dođi i pomaži ⟨את⟩ Hazaela za kralja nad Aramom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "putem svojim"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "prema pustinji"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "damaskoj"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "pa dođi"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomaži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaela"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:59.048122337Z",
+  "model": "glm-5.3"
+}

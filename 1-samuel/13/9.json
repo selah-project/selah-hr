@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče Šaul: Prinesite mi paljenicu i prinose mira; i prinese paljenicu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "prinesite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "i prinose mira"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:43.009240362Z",
+  "model": "glm-5.3"
+}

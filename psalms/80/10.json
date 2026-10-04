@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Pred njom prostor raščistiš, i pusti korijenje svoje — i napuni ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "raščistiš"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "pred njom"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "i pusti korijenje"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "korijenje svoje"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "i napuni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.669463324Z",
+  "model": "glm-5.3"
+}

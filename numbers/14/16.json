@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jahve nije mogao dovesti ⟨את⟩ ovaj narod u zemlju koju im je zakleo, zato ih je pobio u pustinji.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "nije"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "mogao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "dovesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovaj narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "je zakleo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "zato ih je pobio"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:29.802916748Z",
+  "model": "glm-5.3"
+}

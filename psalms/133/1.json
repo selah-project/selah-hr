@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 133,
+  "translation": "Pjesma uzlazaka, Davidova. Gle, kako je dobro i kako je slatko brći stanovati zajedno!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i kako"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "slatko"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "stanovati"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brći"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:51.053673588Z",
+  "model": "glm-5.3"
+}

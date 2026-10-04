@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 8:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Tada Salomo skupi ⟨את⟩ starješine Jisraela, ⟨את⟩ sve glavare plemena, knezova otacačkih domova sinova Jisraelovih, kralju Salomonu u Jerušalajim, da se prenese ⟨את⟩ Kovčeg saveza Jahve iz grada Davidova — to jest Cion.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "יקהל",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starješine Jisraela"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve glavare plemena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavare"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "knezova"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "otacačkih domova"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomonu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "da se prenese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg saveza Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iz grada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:42.273517705Z",
+  "model": "glm-5.3"
+}

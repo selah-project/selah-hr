@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Jer je to odredba za Jisrael, pravo Elohimu Jaakova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odredba"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "za Jisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.620437487Z",
+  "model": "glm-5.3"
+}

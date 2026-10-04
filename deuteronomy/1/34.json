@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I Jahve ču ⟨את⟩ glas vaših riječi, razgnjevi se i zakle se rekavši:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I ču"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "vaših riječi"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "razgnjevi se"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "i zakle se"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:45.241455959Z",
+  "model": "glm-5.3"
+}

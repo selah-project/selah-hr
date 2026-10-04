@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I blagoslovi ⟨את⟩ ih Elohim govoreći: Rađajte i umnožavajte se, i napunite ⟨את⟩ vode u morima; i ptica neka se umnoži na zemlji.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "njih — nemani i ptice"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Rađajte"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "i umnožavajte se"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napunite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vode"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "u morima"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "i ptica"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "neka se umnoži"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:43.960060638Z",
+  "model": "glm-5.3"
+}

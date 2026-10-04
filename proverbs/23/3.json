@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne žudi za njegovim poslasticama, jer ono je kruh laži.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "žudi"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "za njegovim poslasticama"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jer ono"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "laži"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:16.073446415Z",
+  "model": "glm-5.3"
+}

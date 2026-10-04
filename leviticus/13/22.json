@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ako se proširi po koži, svećenik će ga proglasiti nečistim: ⟨את⟩ nega je to.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "se proširi"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "proširi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "po koži"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "proglasit će nečistim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:00.193854303Z",
+  "model": "glm-5.3"
+}

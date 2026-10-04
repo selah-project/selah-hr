@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Vrati nas, Elohim spasenja našega, i ukini srdžbu svoju prema nama!",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Vrati nas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "spasenja našega"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "i ukini"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "srdžbu svoju"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "prema nama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.998233046Z",
+  "model": "glm-5.3"
+}

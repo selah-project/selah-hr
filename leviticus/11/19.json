@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ rodu, čapljaju po svojoj vrsti, i ⟨את⟩ pupavca, i ⟨את⟩ šišmiša;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "rodu"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "roda"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "čaplja"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po svojoj vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pupavca"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "pupavac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "šišmiša"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "šišmiš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:25.966998060Z",
+  "model": "glm-5.3"
+}

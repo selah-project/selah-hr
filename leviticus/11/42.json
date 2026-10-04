@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Sve što hoda na trbuhu, i sve što hoda na četiri ⟨noge⟩, sve do svakoga što umnožava noge, među svime pužućem što puže po zemlji — ne jedite ih, jer su gnusoba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "što hoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "trbuhu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "što hoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "što umnožava"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "noge"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "među svime"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "pužućem"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "što puže"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "jedite ih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:28.630277722Z",
+  "model": "glm-5.3"
+}

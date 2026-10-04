@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I prozva Elohim kopno zemljom, a skupljenim vodama prozva mora. I vidje Elohim da je dobro.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I prozva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kopno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljom"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "a skupljenim"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodama"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "prozva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "I vidje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:41.205093078Z",
+  "model": "glm-5.3"
+}

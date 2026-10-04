@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I postavit ćeš ⟨את⟩ Pomirilište na Kovčeg odozgo, a u Kovčeg ćeš staviti ⟨את⟩ Svjedočanstvo koje ću ti dati.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "postavit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Pomirilište"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "odozgo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a u"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ćeš staviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svjedočanstvo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću dati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:55.348898209Z",
+  "model": "glm-5.3"
+}

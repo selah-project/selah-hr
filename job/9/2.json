@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Zaista, znam da je tako: ali kako će se čovjek ⟨ispraviti⟩ pred Elom?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ali kako"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "će biti cedek"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:31.874202131Z",
+  "model": "glm-5.3"
+}

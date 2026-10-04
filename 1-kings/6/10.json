@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I sagradi ⟨את⟩ bočnuogradnju uza svu kuću, pet lakata visine njezine, i učvrsti ⟨את⟩ kuću cedarovim drvljem.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "I sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bočnuogradnju"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "bočnuogradnju"
+    },
+    {
+      "surface": "על",
+      "gloss": "uza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "visine njezine"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "i učvrsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "drvljem"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedarovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:10.681289107Z",
+  "model": "glm-5.3"
+}

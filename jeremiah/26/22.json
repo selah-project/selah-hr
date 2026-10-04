@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I posla kralj Jehojakim ljude u Micrajim: ⟨את⟩ Elnatana sina Akborova i ljude ⟨את⟩ njime, u Micrajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "u Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatana sina Akborova"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbora"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "i ljude"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:49.704569740Z",
+  "model": "glm-5.3"
+}

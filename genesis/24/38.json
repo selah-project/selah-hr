@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "nego k domu oca mojega pođi i k rodu mojemu te uzmi ženu za sina mojega.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nego (ako li ne)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pođi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "rodu mojemu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzmi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "za sina mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:04.880643870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I sazva se sav narod koji ⟨je⟩ u gradu da ih progoni; i progonili su za Jehošuom, i bijahu odvučeni od grada.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "i sazva se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "da progoni"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i progonili su"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuom"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "i bijahu odvučeni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:38.679054833Z",
+  "model": "glm-5.3"
+}

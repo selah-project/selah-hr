@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Proždiru me progonitelji moji cijeli dan, jer su mnogi što se bore protiv mene ⟨s visine⟩.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "proždiru"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "progonitelji moji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "što se bore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨s visine⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:21.286347911Z",
+  "model": "glm-5.3"
+}

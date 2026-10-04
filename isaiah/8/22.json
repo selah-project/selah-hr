@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uprijet će pogled u zemlju — i gle: tjeskoba i tama, mrak tjeskobe, i gusti mrak odagnan ⟨u njega⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "uprijet će pogled"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskoba"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "i tama"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "mrak"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "tjeskobe"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "i gusti mrak"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "odagnan"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:49.663518532Z",
+  "model": "glm-5.3"
+}

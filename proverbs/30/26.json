@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Sjenači su narod bez moći, a ipak sačinjavaju u stijeni dom svoj.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "sjenači"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "moći"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "a ipak sačinjavaju"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "u stijeni"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "dom svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:55.852715475Z",
+  "model": "glm-5.3"
+}

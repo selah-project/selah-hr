@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "i pjevači kao plesači: svi su izvori moji u tebi.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "i pjevači"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "kao plesači"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "izvori moji"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:20.628858970Z",
+  "model": "glm-5.3"
+}

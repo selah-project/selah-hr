@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ja sam navijestio, i spasao sam, i objavio sam, i nema među vama tuđega ⟨boga⟩; a vi ste moji svjedoci, riječ Jahvina, i ja sam El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "sam navijestio"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "i spasao sam"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "i objavio sam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđega"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "moji svjedoci"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:20.691833236Z",
+  "model": "glm-5.3"
+}

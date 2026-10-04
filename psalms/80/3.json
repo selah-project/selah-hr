@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Pred Efrajimom i Benjaminom i Manašem probudi ⟨את⟩ svoju silu i dođi u pomoć nama.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pred"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimom"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "i Benjaminom"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "i Manašem"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "probudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju silu"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "svoju silu"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "i dođi"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "u pomoć"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:49.133327682Z",
+  "model": "glm-5.3"
+}

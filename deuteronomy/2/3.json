@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Dovoljno vam je obilaziti ⟨את⟩ ovu goru; okrenite sebi na sjever.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "dovoljno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "סב",
+      "gloss": "obilaziti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goru"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "okrenite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "na sjever"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:43.856040124Z",
+  "model": "glm-5.3"
+}

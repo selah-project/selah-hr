@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Da se izbave tvoji ljubljeni — spasi desnom svojom i odgovori mi!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "se izbave"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "tvoji ljubljeni"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "spasi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "denom svojom"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "i odgovori mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:49.172165870Z",
+  "model": "glm-5.3"
+}

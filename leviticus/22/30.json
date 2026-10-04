@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Onoga dana neka se pojede; ne ostavljajte ništa od ⟨njega⟩ do jutra. Ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se pojede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ostavljajte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od ⟨njega⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:26.379837751Z",
+  "model": "glm-5.3"
+}

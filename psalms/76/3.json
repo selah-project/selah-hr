@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 76,
+  "translation": "I bijaše u Šalemu šator njegov, i prebivalište njegovo na Cionu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bijaše"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "u Šalemu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "šator njegov"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "i prebivalište njegovo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cionu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:29.309556472Z",
+  "model": "glm-5.3"
+}

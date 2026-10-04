@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Abimelek vojevaše protiv grada sav onaj dan, te osvoji ⟨את⟩ grad i ⟨את⟩ narod koji bijaše u njemu poubija, i razori ⟨את⟩ grad i posu ga solju.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "I Abimelek"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vojevaše"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "protiv grada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "te osvoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "poubija"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "i razori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "i posu ga"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "solju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:53.584679840Z",
+  "model": "glm-5.3"
+}

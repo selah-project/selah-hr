@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Od muškarca do žene poslat ćete ⟨ih⟩; izvan tabora poslat ćete ih, da ne oskvrnu ⟨את⟩ tabore svoje, u kojima ja prebivam usred njih.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Od muškarca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "poslat ćete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ih⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "poslat ćete ih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "oskvrnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabore svoje"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "tabore svoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "prebivam"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "usred njih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:45.146782663Z",
+  "model": "glm-5.3"
+}

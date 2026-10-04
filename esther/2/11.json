@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I svaki dan, dan za danom, Mordehai je hodao pred dvorištem doma žena, da bi doznao ⟨את⟩ dobrobit Esterinu i što se s njom zbiva.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "i u svaki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "i dan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "je hodao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "dvorištem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žena"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da dozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobrobit Esterinu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "dobrobit (šalom)"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se zbiva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "s njom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:51.164364492Z",
+  "model": "glm-5.3"
+}

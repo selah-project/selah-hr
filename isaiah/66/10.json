@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Radujte se ⟨את⟩ Jerušalajim i veselite se s njom, svi koji je ljubite; klikćite s njom u radosti, svi koji tugujete za njom!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Radujte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "i veselite se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "s njom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "koji je ljubite"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "klikćite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ona (Jerušalajim)"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "u radosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "koji tugujete"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "za njom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:53.733330624Z",
+  "model": "glm-5.3"
+}

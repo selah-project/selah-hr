@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ one koji odstupaju iza Jahve, i one koji ne traže ⟨את⟩ Jahve i ne pitaju za njega.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "one koji odstupaju"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "koji odstupaju"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i one koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "traže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "pitaju za njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:20.185389323Z",
+  "model": "glm-5.3"
+}

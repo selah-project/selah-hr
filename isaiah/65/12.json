@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "I odredit ću ⟨אתכם⟩ maču, i svi ćete se klanjati na pokolj, jer zazvah a ne odgovoriste, govorah a ne poslušaste, i činiste zlo u očima mojim, i ono u čemu nisam htio — to izabraste.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "i odredit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "maču"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "i svi vi"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "na pokolj"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "klanjat ćete se"
+    },
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zazvah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "odgovoriste"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govorah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "poslušaste"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "i činiste"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima mojim"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "i ono u čemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "htio"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "izabraste"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:03.794138958Z",
+  "model": "glm-5.3"
+}

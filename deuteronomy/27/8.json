@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I napisat ćeš na ⟨тhe⟩ kamenje ⟨את⟩ sve riječi ove Tore, dobro razjašnjene.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "i napisat ćeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi ove Tore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ove Tore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "באר",
+      "gloss": "razjašnjene"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:41.638210324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I čekao sam, ali ne govore, jer su stali i ne odgovaraju više.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "i čekao sam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer (ali)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "su stali (zašutjeli)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "odgovaraju"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:43.413893724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Ne skrivaj lica svojega od mene u dan tjeskobe mojoj; prigni uho svoje k meni; u dan kad zazovem, brzo me usliši.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrivaj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tjeskobe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mojoj"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "prigni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kad zazovem"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "me usliši"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:11.535678738Z",
+  "model": "glm-5.3"
+}

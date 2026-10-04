@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Jahve, nema poput tebe i nema Elohima osim tebe, po svemu što smo čuli ušima svojim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "poput tebe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "osim tebe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo čuli"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ušima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:13.139871562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Operi se i pomaži, obuci svoj ogrtač na se i siđi na gumno; ne daj se upoznati čovjeku dok ne svrši jesti i piti.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "operi se"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "pomaži"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "obuci"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "svoj ogrtač"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na se"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "siđi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "na gumno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "daj se upoznati"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ne svrši"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "i piti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:27.066330078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "i bacaše kamenje na Davida i na sve sluge kralja Davida; a sav narod i svi junaci bijahu njemu s desne i s lijeve strane.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "i bacaše kamenje"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kamenjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve sluge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "junaci"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "njemu s desne strane"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "i s lijeve strane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:18.132446374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dođe glasnik i javi mu: Donijeli su glave sinova kraljevih. A on reče: Metnite ih u dva nasipa na ulazu ⟨u⟩ vrata do jutra.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "glasnik"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "donijeli su"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevih"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "metnite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih (glave)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "nasipa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:25.601467828Z",
+  "model": "glm-5.3"
+}

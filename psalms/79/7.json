@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Jer prožderaše ⟨את⟩ Jaakova i ⟨את⟩ stanovište njegovo opustošiše.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "prožderaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stanovište njegovo"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "stanovište njegovo"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "opustošiše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.600165098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I ustaše te ukloniše ⟨את⟩ žrtvenike koji bijahu u Jerušalajimu, i ⟨את⟩ sve kadionike ukloniše te ih baciše u potok Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i ustaše"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "te ukloniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenike"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve kadionike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "kadionike"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ukloniše"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "te ih baciše"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "u potok"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:48.343508583Z",
+  "model": "glm-5.3"
+}

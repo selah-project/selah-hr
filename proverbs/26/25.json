@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Kad ugodnim učini glas svoj, ne vjeruj mu, jer je sedam gnusoba u srcu njegovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "ugodnim učini"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "vjeruj"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srcu njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:43.691752972Z",
+  "model": "glm-5.3"
+}

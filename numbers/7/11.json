@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reče Jahve Mošeu: po jedan glavar na dan, po jedan glavar na dan, neka prinose ⟨את⟩ svoj prinos za posvetu žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu, k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "glavar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "glavar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "neka prinose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj prinos"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "svoj prinos"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "za posvetu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:33.704688600Z",
+  "model": "glm-5.3"
+}

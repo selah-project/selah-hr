@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bori se Joab protiv Rabate sinova Amonovih, i zauze ⟨את⟩ kraljevski grad.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "i bori se"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "protiv Rabate"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zauze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevski grad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kraljevski"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:12.932715361Z",
+  "model": "glm-5.3"
+}

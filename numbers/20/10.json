@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I skupiše Moše i Aharon ⟨את⟩ zbor pred stijenu, i reče im: Slušajte ⟨nato⟩, buntovnici! Zar ćemo iz ove stijene izvesti vodu za vas?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "i skupiše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbor"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nato⟩"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "buntovnici"
+    },
+    {
+      "surface": "המן",
+      "gloss": "zar iz"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stijene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "izvesti ćemo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:24.399078160Z",
+  "model": "glm-5.3"
+}

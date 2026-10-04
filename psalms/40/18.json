@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "A ja sam siromah i nevoljan — Adonaj će mi se brinuti ⟨o meni⟩. Ti si moja pomoć i moj izbavitelj, Elohim moj, ne oklijevaj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i nevoljan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "će se brinuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨o meni⟩"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "moja pomoć"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i moj izbavitelj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "oklijevaj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:37.335004441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I stubom od oblaka vodio si ih danju, a stubom od ognja noću, da im osvijetli ⟨את⟩ put kojim imaju ići.",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "i stubom"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "od oblaka"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "vodio si ih"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "a stubom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od ognja"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "da osvijetli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "put"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "imaju ići"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:57:50.077483826Z",
+  "model": "glm-5.3"
+}

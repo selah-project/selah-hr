@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jer zloćâci će propasti, i neprijatelji Jahvini kao dragocjenost ovnova — nestali su, kao dim su nestali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zloćâci"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "propasti će"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "i neprijatelji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvini"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "kao dragocjenost"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nestali su"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "kao dim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nestali"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:46.815353347Z",
+  "model": "glm-5.3"
+}

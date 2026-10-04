@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Jer dušu moju progoni neprijatelj, život mi moj satrl ⟨u⟩ prah, naselio me u tminama, kao odavno mrtve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "progoni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "neprijatelj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "satrl"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨u⟩ prah"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "život mi moj"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "naselio me"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "u tminama"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "kao mrtve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "odavno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.407655768Z",
+  "model": "glm-5.3"
+}

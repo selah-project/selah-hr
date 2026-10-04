@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče čovjek: Ovaj put kost je od mojih kostiju i meso od mojega mesa; ova će se zvati iša, jer od iša je uzeta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ovaj put"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "puta"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kost"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "od mojih kostiju"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "i meso"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "od mojega mesa"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ova"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "će se zvati"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od iša"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "uzeta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.577893972Z",
+  "model": "glm-5.3"
+}

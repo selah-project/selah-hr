@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I objesiše ⟨את⟩ Hamana na drvo koje bijaše pripravio Mordechaju; i srdžba kraljeva se utihnula.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "I objesiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bijaše pripravio"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechaju"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "i srdžba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "se utihnula"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:36.159739899Z",
+  "model": "glm-5.3"
+}

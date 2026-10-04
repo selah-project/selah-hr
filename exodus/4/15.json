@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I govorit ćeš njemu i stavljat ćeš ⟨את⟩ riječi u usta njegova; a ja ću biti s ustima tvojim i s ustima njegovim i poučit ću vas ⟨את⟩ ⟨את⟩ ono što ćete činiti.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "i govorit ćeš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "i stavljat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "u usta njegova"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ću biti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ustima tvojim"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ustima njegovim"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "i poučit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što ćete činiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ćete činiti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.862073299Z",
+  "model": "glm-5.3"
+}

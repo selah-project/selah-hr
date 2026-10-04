@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Zar se ne izvuče uže njihovo ⟨u⟩ njima? Umiru, i to ne u mudrosti.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zar ne"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "izvuče se"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "uže njihovo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "Umiru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "u mudrosti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:25.161771266Z",
+  "model": "glm-5.3"
+}

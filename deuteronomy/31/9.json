@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I napisa Moše ⟨את⟩ ovu Toru i dade je svećenicima, sinovima Levijevim, koji nose ⟨את⟩ kovčeg saveza Jahvina, i svim starješinama Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu Toru"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dade je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svećenicima"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenicima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijevim"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "koji nose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i svim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješinama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:18.710002404Z",
+  "model": "glm-5.3"
+}

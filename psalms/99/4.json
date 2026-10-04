@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 99,
+  "translation": "I snaga kralja koji ljubi pravo: ti si utvrdio pravednost, pravo i cedek u Jaakova ti si izvršio.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "i snaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "si utvrdio"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravednost"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "i cedek"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "u Jaakova"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si izvršio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:05.207024286Z",
+  "model": "glm-5.3"
+}

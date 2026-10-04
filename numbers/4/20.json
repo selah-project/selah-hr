@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "i neka ne ulaze gledati ni na čas kako se ⟨את⟩ svetinja rastavlja, pa da ne umru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i neka ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ulaze"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gledati"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ni na čas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetinja"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinja"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "pa da ne umru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:09.320098322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I bude li ti rekao: Neću izaći od tebe — jer te ljubi i ⟨את⟩ dom tvoj, jer mu je dobro s tobom —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bude li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ću izaći"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "te ljubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom tvoj"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dom tvoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:37.146067838Z",
+  "model": "glm-5.3"
+}

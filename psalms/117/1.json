@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 117,
+  "translation": "Hvalite ⟨את⟩ Jahvu, svi narodi, slavite ga, svi puci!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "slavite ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "puci"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:13.436321188Z",
+  "model": "glm-5.3"
+}

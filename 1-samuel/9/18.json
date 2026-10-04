@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Tada pristupi Šaul k ⟨את⟩ Šemuelu usred vrata i reče: Reci mi, molim te, gdje je kuća gledatelja?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "reci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuća"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "gledatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:16.329332297Z",
+  "model": "glm-5.3"
+}

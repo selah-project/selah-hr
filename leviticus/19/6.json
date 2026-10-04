@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Na dan vaše žrtve neka se pojede, i sutradan; a što ostane do trećega dana, u oganj neka se spali.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "vaše žrtve"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se pojede"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "i sutradan"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "a što ostane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trećega"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u oganj"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "neka se spali"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:11.385673079Z",
+  "model": "glm-5.3"
+}

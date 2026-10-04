@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Neka poskoče od radosti hasidi u slavi, neka klikću na svojim posteljama.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "neka poskoče od radosti"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hasidi"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "u slavi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "neka klikću"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "svojim posteljama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:45.211549295Z",
+  "model": "glm-5.3"
+}

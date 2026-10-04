@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 22:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I podiže Avraham ⟨את⟩ svoje oči pa pogleda, i gle, ovan iza ⟨njega⟩ zapet u grmlju rogovima svojim; te ode Avraham i uze ⟨את⟩ ovna, i prinese ga za žrtvu paljenicu mjesto sina svojega.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "pa pogleda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iza"
+    },
+    {
+      "surface": "נאחז",
+      "gloss": "zapet"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "u grmlju"
+    },
+    {
+      "surface": "בקרניו",
+      "gloss": "rogovima svojim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "te ode"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovna"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "i prinese ga"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za žrtvu paljenicu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:13.753174613Z",
+  "model": "glm-5.3"
+}

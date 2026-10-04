@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Daje ⟨את⟩ kruh svoj zvijerima, mladima gavrana koji zazivljuju.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "zvijerima"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "kruh svoj"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mladima"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gavrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "zazivljuju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.984683423Z",
+  "model": "glm-5.3"
+}

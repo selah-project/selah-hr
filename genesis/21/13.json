@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A i ⟨את⟩ sina robinje za narod ću ga postaviti, jer tvoje je sjeme on.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "A i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina robinje"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "robinje"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "postavit ću ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:17.606806102Z",
+  "model": "glm-5.3"
+}

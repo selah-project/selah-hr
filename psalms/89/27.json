@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "On će me zvati: Oče moj, Elohim moj ⟨si ti⟩ i stijeno izbavljenja mojega.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "zvat će me"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Oče moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "i stijeno"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "izbavljenja mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:13.326563969Z",
+  "model": "glm-5.3"
+}

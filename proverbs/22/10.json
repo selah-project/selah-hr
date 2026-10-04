@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Otjeraj rušitelja, pa će izići prepirka, i prestat će sud i sramota.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "otjeraj"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "rušitelja"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pa će izići"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "prepirka"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "i prestat će"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sud"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "i sramota"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:17.310646299Z",
+  "model": "glm-5.3"
+}

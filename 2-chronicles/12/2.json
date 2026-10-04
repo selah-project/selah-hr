@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 12:2",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I bilo je u petoj godini kralja Rahavama: pope se Šišak, kralj Micrajima, na Jerušalajim, jer su se iznevjerili prema Jahvi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo je"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "petoj"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavama"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pope se"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Šišak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iznevjerili su se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "prema Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:42.673469872Z",
+  "model": "glm-5.3"
+}

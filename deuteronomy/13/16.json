@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Udari, doista udari ⟨את⟩ stanovnike toga grada oštricom mača; uništi ⟨את⟩ nju i ⟨את⟩ sve što je u njoj i ⟨את⟩ njezinu stoku oštricom mača.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "doista udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike toga grada"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toga"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "uništi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je u njoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezinu stoku"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "njezinu stoku"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:42.418928252Z",
+  "model": "glm-5.3"
+}

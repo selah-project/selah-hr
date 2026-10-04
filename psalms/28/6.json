@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Blagoslovljen Jahve, jer usliša glas molbi mojih.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "usliša"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "molbi mojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:09.306787726Z",
+  "model": "glm-5.3"
+}

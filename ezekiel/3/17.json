@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Sine čovječji, stražarom sam te postavio domu Jisraelovu, i čut ćeš iz mojih usta riječ te ćeš ⟨את⟩ ih upozoriti ⟨od⟩ mene.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "stražarom"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "postavio sam te"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "i čut ćeš"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz mojih usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "te ćeš upozoriti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih — dom Jisraelov"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:47.460392901Z",
+  "model": "glm-5.3"
+}

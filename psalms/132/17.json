@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Ondje ću potaknuti da iznikne rog Davidu, pripremio sam svjetiljku za svoga pomazanika.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ondje"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ću potaknuti da iznikne"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "rog"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "pripremio sam"
+    },
+    {
+      "surface": "נר",
+      "gloss": "svjetiljku"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "za svoga pomazanika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:51.463494958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Gdje je kralj Hamata, i kralj Arpada, i kralj grada Sefarvajima, Hena i Ave?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "gdje je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpada"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajima"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "i Ava"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:16.188865855Z",
+  "model": "glm-5.3"
+}

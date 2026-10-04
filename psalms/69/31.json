@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Hvalit ću ime Elohimovoj pjesmom ⟨את⟩ i uzvisit ću ga zahvalom.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "hvalit ću"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "pjesmom"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "i uzvisit ću ga"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "zahvalom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:21.682053594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I vidjeli ste ⟨את⟩ njihove gnusobe i ⟨את⟩ njihove kumire — drvo i kamen, srebro i zlato, koje bijaše s njima.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "i vidjeli ste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove gnusobe"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "njihove gnusobe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihove kumire"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "njihove kumire"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "s njima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:39.961803887Z",
+  "model": "glm-5.3"
+}

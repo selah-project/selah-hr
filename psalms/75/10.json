@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "A ja naviještat ću ⟨to⟩ zasvagda, pjevat ću ⟨u⟩ slavu Elohimu Jaakovljevu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "naviještat ću"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "zasvagda"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:21.151990418Z",
+  "model": "glm-5.3"
+}

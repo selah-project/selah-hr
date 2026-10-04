@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Onaj koji oblikuje zajedno srca njihova, onaj koji razumije sva djela njihova.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Onaj koji oblikuje"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "srca njihova"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "onaj koji razumije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "djela njihova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:55.465513253Z",
+  "model": "glm-5.3"
+}

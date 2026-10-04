@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Posla Mošea, slugu svojega, i Aharona kojega izabra.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izabra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:13.580242795Z",
+  "model": "glm-5.3"
+}

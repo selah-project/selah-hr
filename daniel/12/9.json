@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče: Idi, Danielu, jer su riječi zatvorene i zapečaćene do vremena kraja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "zatvorene"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "i zapečaćene"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vremena"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "kraja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:52:41.613912878Z",
+  "model": "glm-5.3"
+}

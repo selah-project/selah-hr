@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ne slušajte ih; služite ⟨את⟩ kralju Babela i živjet ćete; zašto bi ovaj grad bio pustoš?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralju Babela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "i živjet ćete"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bi bio"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "pustoš"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:45.283348133Z",
+  "model": "glm-5.3"
+}

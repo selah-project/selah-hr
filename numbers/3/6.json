@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Približi ⟨את⟩ pleme Levijevo i postavi ⟨את⟩ ga pred Aharona svećenika, da ⟨את⟩ mu služe.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Približi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleme Levijevo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijevo"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "da služe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:05.094846320Z",
+  "model": "glm-5.3"
+}

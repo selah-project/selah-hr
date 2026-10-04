@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Piše vino i hvališe bogove zlatne i srebrne, brončane, željezne, drvene i kamene.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "piše"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "i hvališe"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "i srebrne"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "brončane"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "željezne"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "drvene"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "i kamene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:49:51.789988983Z",
+  "model": "glm-5.3"
+}

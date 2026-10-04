@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I bi onoga dana kad Moše svrši ⟨da⟩ podigne ⟨את⟩ Miškan, pa ga pomaza i posveti ga, i ⟨את⟩ sve sprave njegove, i ⟨את⟩ žrtvenik i ⟨את⟩ sve sprave njegove, pa ih pomaza i posveti ih.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoga dana"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "kad svrši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "da podigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "pa pomaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve sprave njegove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sprave njegove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve sprave njegove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sprave njegove"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "pa ih pomaza"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:56:13.834422747Z",
+  "model": "glm-5.3"
+}

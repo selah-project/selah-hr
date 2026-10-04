@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I izvest ću vas iz njezine sredine i predat ću vas ⟨את⟩ u ruke strancima, i izvršit ću na vama ⟨את⟩ sudove.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "i izvest ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "iz njezine sredine (vas)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "iz njezine sredine"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i predat ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "u ruke strancima (vas)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruke"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranaca"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "i izvršit ću"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na vama"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sudove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:29.526639926Z",
+  "model": "glm-5.3"
+}

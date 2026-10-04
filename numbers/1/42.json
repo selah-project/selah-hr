@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Sinovi Naftalijevi, po svojim rodovima, po svojim obiteljima, po domu svojih očeva, po broju imena, od dvadeset godina i više, sve što izlazi u vojsku —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalijevi"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "po svojim rodovima"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "svojih očeva"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "po broju"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "imena"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i više"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "što izlazi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "u vojsku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:36.159293127Z",
+  "model": "glm-5.3"
+}

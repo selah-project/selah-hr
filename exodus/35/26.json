@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I sve žene kojih ih podiže srce njihovo u mudrosti predoše ⟨את⟩ dlake koza.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojih"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "srce njihovo"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ ih",
+      "marks": "u mudrosti"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "u mudrosti"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "predoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlake koza"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "koza"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:56.979366981Z",
+  "model": "glm-5.3"
+}

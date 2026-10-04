@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne kolji ⟨את⟩ krv žrtve moje s kvasnim, i neka ne ostane do jutra pretilina blagdana mojega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kolji"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvasnim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve moje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "neka ne ostane"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pretilina"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "blagdana mojega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:45.693477378Z",
+  "model": "glm-5.3"
+}

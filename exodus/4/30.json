@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Aharon izreče ⟨את⟩ sve riječi koje Jahve bijaše zborio Mošeu, i učini znakove na očima naroda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "izreče"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zboraše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu (prema)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znakove"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na očima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:45.846419047Z",
+  "model": "glm-5.3"
+}

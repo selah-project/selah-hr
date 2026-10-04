@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I progovorih zatočeništvu ⟨את⟩ sve riječi Jahvine koje mi je pokazao.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "i progovorih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zatočeništvu"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "zatočeništvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi Jahvine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "pokazao mi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:08.646952817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dat ću znamenja na nebesima i na zemlji: krv i oganj i stupove dima.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "znamenja"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesima"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na zemlji"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "i oganj"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "i stupove"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:42.539431742Z",
+  "model": "glm-5.3"
+}

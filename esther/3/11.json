@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče kralj Hamanu: Srebro je dano tebi, i narod — da s njim činiš kako je dobro u očima tvojim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "je dano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da činiš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kako je dobro"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u očima tvojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:57.519391853Z",
+  "model": "glm-5.3"
+}

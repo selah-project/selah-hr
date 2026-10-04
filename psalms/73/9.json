@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "U nebo stavljaju svoja usta, a jezik im hoda po zemlji.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "stavljaju"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "u nebo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "a jezik im"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "hoda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:20.848108236Z",
+  "model": "glm-5.3"
+}

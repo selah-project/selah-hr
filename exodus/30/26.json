@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I pomažeš njime ⟨את⟩ šator sastanka i ⟨את⟩ Kovčeg Svjedočanstva,",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomažeš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šator sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kovčeg Svjedočanstva"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svjedočanstva"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.488708528Z",
+  "model": "glm-5.3"
+}

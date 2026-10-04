@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Jer oni koji ga skupe jest će ga, i hvalit će ⟨את⟩ Jahvu, i oni koji ga skupe piti će ga u dvorištima svetosti moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "oni koji ga skupe"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "jest će ga"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "i hvalit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "i oni koji ga skupe"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "piti će ga"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "u dvorištima"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svetosti moje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:41.293389154Z",
+  "model": "glm-5.3"
+}

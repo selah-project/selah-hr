@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "i ⟨את⟩ žrtvenik paljenice i ⟨את⟩ sve njegovo posuđe, i ⟨את⟩ umivaonik i ⟨את⟩ njegovovo postolje,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "žrtvenik paljenice"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve posuđe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "njegovo posuđe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "umivaonik"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "postolje"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "njegovo postolje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.397681483Z",
+  "model": "glm-5.3"
+}

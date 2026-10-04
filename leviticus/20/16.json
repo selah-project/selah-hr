@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I žena koja pristupi k ijednoj životinji da se s njom pari: pogubit ćeš ⟨את⟩ ženu i ⟨את⟩ životinju; smrću neka se pogube; krv njihova na njima.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "i žena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ijednoj"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "životinji"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "da se s njom pari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "pogubit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "životinju"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "životinju"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "krv njihova"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:52.662778004Z",
+  "model": "glm-5.3"
+}

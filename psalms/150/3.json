@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 150,
+  "translation": "Hvalite ga u zvuku šofara, hvalite ga u nevelu i kinoru!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "u zvuku"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "u nevelu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinoru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:34.380170371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Kad čovjek uhvati brata svojega iz kuće oca svojega: «Odijelo imaš — budi nam knez, i ovo razvalinje neka bude pod rukom tvojom!»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "uhvati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "odijelo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "⟨evo tebe⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "knez"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "budi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "i ovo razvalinje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rukom tvojom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:59.166080646Z",
+  "model": "glm-5.3"
+}

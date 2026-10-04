@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Proklet koji pomiče među bližnjega svojega; i reče sav narod: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "pomiče"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "među"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:10.097497054Z",
+  "model": "glm-5.3"
+}

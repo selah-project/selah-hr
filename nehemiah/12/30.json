@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Svećenici i leviti očistiše se, i očistiše ⟨את⟩ narod, ⟨את⟩ vrata i ⟨את⟩ zidine.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "očistiše se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Svećenici"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "i očistiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vrata"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zidine"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zidine"
+    }
+  ],
+  "timestamp": "2026-10-04T19:58:51.045324246Z",
+  "model": "glm-5.3"
+}

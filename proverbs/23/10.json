@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne pomakni među vječnoga, i u polja siročadi ne ulazi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "pomakni"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "među"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječnoga"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "i u polja"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "siročadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ulazi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:45.992850182Z",
+  "model": "glm-5.3"
+}

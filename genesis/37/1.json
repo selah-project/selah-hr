@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I nastani se Jaakov u zemlji boravišta očeva svojega, u zemlji kenaanskoj.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i nastani se"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "boravišta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenacana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.587913249Z",
+  "model": "glm-5.3"
+}

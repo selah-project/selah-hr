@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Koliko su brojna djela tvoja, Jahve! Sve si ih u mudrosti načinio; puna je zemlja stvorenja tvojih.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "koliko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "brojna su"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "djela tvoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "u mudrosti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "načinio si"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puna je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "stvorenja tvojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:00.591523743Z",
+  "model": "glm-5.3"
+}

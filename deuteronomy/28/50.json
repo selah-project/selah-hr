@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "narod ljuta lica, koji neće podići lica pred starcem ni mladiću iskazati milost.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ljuta"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "će podići"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lica"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "pred starcem"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ni mladiću"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "iskazati milost"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:03.958067331Z",
+  "model": "glm-5.3"
+}

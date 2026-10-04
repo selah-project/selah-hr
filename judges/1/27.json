@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 1:27",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I ne istjera Menaše ⟨את⟩ Beit-Šean i ⟨את⟩ naselja njezina, ni ⟨את⟩ Taanak i ⟨את⟩ naselja njezina, ni ⟨את⟩ stanovnike Dora i ⟨את⟩ naselja njezina, ni ⟨את⟩ stanovnike Jibleama i ⟨את⟩ naselja njezina, ni ⟨את⟩ stanovnike Megida i ⟨את⟩ naselja njezina; i Kanaanac htjede živjeti u zemlji ovoj.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "istjera"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Šean"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Šean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naselja njezina"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "naselja njezina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naselja njezina"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "naselja njezina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "stanovnike Dora"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naselja njezina"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "naselja njezina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "stanovnike Jibleama"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Jibleama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naselja njezina"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "naselja njezina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "stanovnike Megida"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "naselja njezina"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "naselja njezina"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "htjede"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanac"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "živjeti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:28.259203651Z",
+  "model": "glm-5.3"
+}

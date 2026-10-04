@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Podupri me i bit ću spašen, i pazit ću na tvoje odredbe neprestano.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Podupri me"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "i bit ću spašen"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "i pazit ću"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "na tvoje odredbe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:16.761632040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jahve ne pušta da ogladni nefesh pravednika, ali požudu zlikovaca odbacuje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "pušta da ogladni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "והות",
+      "gloss": "požudu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "odbacuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:01.350336568Z",
+  "model": "glm-5.3"
+}

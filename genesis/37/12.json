@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I odoše braća njegova pasti ⟨את⟩ stoku oca njihova u Šekem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braća njegova"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "oca njihova"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "u Šekem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:37.134257845Z",
+  "model": "glm-5.3"
+}

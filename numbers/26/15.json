@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Sinovi Gada po svojim porodicama: od Cefona porodica Cefonijevaca, od Hagija porodica Hagijevaca, od Šunija porodica Šunijevaca.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Sinovi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim porodicama"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "od Cefona"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "porodica"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Cefonijevaca"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "od Hagija"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "porodica"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Hagijevaca"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "od Šunija"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "porodica"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Šunijevaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:43.942457912Z",
+  "model": "glm-5.3"
+}

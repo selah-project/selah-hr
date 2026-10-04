@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I udari Jahve ⟨את⟩ narod zato što su načinili ⟨את⟩ tele koje načini Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato što (k) — «על» = zbog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(što)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "su načinili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tele"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:56.632546989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A kralj jisraelski reče Jahošafatu: Nisam li ti rekao da on neće proricati o meni dobroga, nego zlo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "jisraelski"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jahošafatu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nisam li"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "proricat će"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o meni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:30.404660484Z",
+  "model": "glm-5.3"
+}

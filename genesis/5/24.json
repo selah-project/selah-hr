@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I hodio je Hanok s ⟨את⟩ Elohimom, i ga više nema, jer ga uze Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "i hodio je"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "i ga više nema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (Hanoka)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:50.071837440Z",
+  "model": "glm-5.3"
+}

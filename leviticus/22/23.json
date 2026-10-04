@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A vol ili janje s uvećanim ili zakržljalim udom — kao dobrovoljni dar možeš ga prinijeti ⟨את⟩, ali za zavet neće biti prihvaćeno.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "a vol"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ili janje"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "s uvećanim"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ili zakržljalim udom"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kao dobrovoljni dar"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "možeš prinijeti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "za zavjet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "će biti prihvaćeno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:10.711078136Z",
+  "model": "glm-5.3"
+}

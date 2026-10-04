@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 120,
+  "translation": "Jahve, izbavi dušu moju od usana lažnih, od jezika prijevarnoga!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "izbavi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "od usana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažnih"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "od jezika"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prijevarnoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.354379232Z",
+  "model": "glm-5.3"
+}

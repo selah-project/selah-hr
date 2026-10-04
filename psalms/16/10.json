@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Jer nećeš ostaviti moju nefuš u Šeolu, nećeš dati svome hasidu da vidi jamu propasti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ostavit ćeš"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moju nefuš"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "u Šeolu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dat ćeš"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "svog hasida"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jamu propasti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:51.264422676Z",
+  "model": "glm-5.3"
+}

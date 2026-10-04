@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I Arpakšad življeše trideset i pet godina, i rodi ⟨את⟩ Šelaha.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "I Arpakšad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "življeše"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šelaha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šelaha"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.278414623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I umrije Jošef i sva njegova braća i sav onaj naraštaj.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegova braća"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "naraštaj"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onaj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:12.231578741Z",
+  "model": "glm-5.3"
+}

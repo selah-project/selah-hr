@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče Ester Hataku i zapovjedi mu ⟨za⟩ Mordecaja:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hataku"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "i zapovjedi mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecaja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:51.850420572Z",
+  "model": "glm-5.3"
+}

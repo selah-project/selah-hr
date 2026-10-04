@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "U muci smrtnika ih nema, i s ljudima nisu pogođeni.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "u muci"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ih nema"
+    },
+    {
+      "surface": "ו עם",
+      "gloss": "i s"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "pogođeni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:24.931872589Z",
+  "model": "glm-5.3"
+}

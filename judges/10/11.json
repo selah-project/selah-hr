@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče Jahve sinovima Jisraelovim: Zar ne ⟨spasih vas⟩ od Micrajima i od Amoraca, i od sinova Amonovih i od Filistejaca?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Zar ne"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "od Micrajima"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoraca"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:42.241731221Z",
+  "model": "glm-5.3"
+}

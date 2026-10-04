@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I posla David poslanike Išbošetu, sinu Šaulovu, rekavši: Predaj moju ženu ⟨את⟩, Mikal, koju sam zaručio ⟨את⟩ sebi za sto obrezica Filistejaca.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "poslanike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Iš-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-bošetu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "predaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moju ženu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "moju ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "sam zaručio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "za sto"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "obrezica"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:25.431272788Z",
+  "model": "glm-5.3"
+}

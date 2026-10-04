@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A žena uze i razastre ⟨את⟩ pokrovčić nad usta zdenci, i prosu po njemu krupu, i ne bi poznata stvar.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "razastre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokrovčić"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pokrovčić"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "usta"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "zdenci"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "prosu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "po njemu"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "krupu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "bijaše poznata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:07.905050852Z",
+  "model": "glm-5.3"
+}

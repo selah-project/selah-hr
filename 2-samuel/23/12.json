@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "On se postavi usred parcelje i obrani je, i udari ⟨את⟩ Pelištijce; i Jahve izvede veliko oslobođenje.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "On se postavi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "parcelje"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "i obrani je"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištijce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištijce"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "oslobođenje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliko"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:07.897804073Z",
+  "model": "glm-5.3"
+}

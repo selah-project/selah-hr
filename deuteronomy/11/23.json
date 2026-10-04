@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i Jahve će istjerati ⟨את⟩ sve te narode ispred vas, te ćete zaposjesti narode veće i moćnije od sebe.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "i će istjerati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve te narode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "ispred vas"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "i zaposjest ćete"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "veće"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "i moćnije"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:19.850559577Z",
+  "model": "glm-5.3"
+}

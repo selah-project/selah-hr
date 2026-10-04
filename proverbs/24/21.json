@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Boj se, sine moj, ⟨את⟩ Jahve i kralja, i s preokretljivcima se ne miješaj.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "preokretljivcima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "miješaj se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:56.912845398Z",
+  "model": "glm-5.3"
+}

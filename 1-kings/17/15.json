@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I ode i napravi po riječi Elije, pa jeđaše on i ona i njezin dom dane.",
+  "tokens": [
+    {
+      "surface": "ו תלך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elije"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "pa jeđaše"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "i ona"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "i njezin dom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:41.205523491Z",
+  "model": "glm-5.3"
+}

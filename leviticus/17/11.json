@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Jer duša tijela jest u krvi, a ja sam je vama dao na žrtvenik da se pomiri za vaše duše, jer krv je ta što dušu pomiruje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "tijela"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "u krvi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "sam je dao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da se pomiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "vaše duše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ta"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "što pomiruje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:22.838037428Z",
+  "model": "glm-5.3"
+}

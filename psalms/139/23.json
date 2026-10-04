@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Ispitaj me, Ele, i upoznaj moje srce; iskušaj me i upoznaj moje misli —",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ispitaj me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "i upoznaj"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "iskušaj me"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "i upoznaj"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "moje misli"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:04.943883569Z",
+  "model": "glm-5.3"
+}

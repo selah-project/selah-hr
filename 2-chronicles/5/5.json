@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I poneseše ⟨את⟩ kovčeg i ⟨את⟩ šator sastanka i ⟨את⟩ sve posvećene predmete koje bijahu u šatoru; svećenici leviti poniješe ⟨את⟩ ih.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "i poniješe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovčeg"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "šator sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve predmete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "predmete"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "posvećene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šatoru"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "poniješe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:45.569643945Z",
+  "model": "glm-5.3"
+}

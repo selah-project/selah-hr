@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Efrajim ne istjera ⟨את⟩ Kanaanca koji je živio u Gezeru, pa je Kanaanac živio usred njega u Gezeru.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "A Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "istjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "koji je živio"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "u Gezeru"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa je živio"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanac"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "usred njega"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "u Gezeru"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:05.214931036Z",
+  "model": "glm-5.3"
+}

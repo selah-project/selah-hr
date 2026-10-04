@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "A sada, Jahve, uzmi, molim, ⟨את⟩ moj život od mene, jer mi je bolje umrijeti negoli živjeti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A sada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj život"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moj život"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolje"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "umrijeti"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "nego živjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:17.712974620Z",
+  "model": "glm-5.3"
+}

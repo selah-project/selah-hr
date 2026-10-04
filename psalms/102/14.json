@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Ti ćeš ustati, smilovati ćeš se Cionu, jer je vrijeme da joj se iskaže milost, jer je došao određeni rok.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ćeš ustati"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "smilovati ćeš se"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "da joj se iskaže milost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "određeni rok"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:57.822438239Z",
+  "model": "glm-5.3"
+}

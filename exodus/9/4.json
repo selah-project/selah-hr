@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I razlučit će Jahve između stoke Jisraelove i stoke Micrajima, i neće umrijeti ni od čega što je sinova Jisraelovih — ništa.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "i razlučit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stoke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stoke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umrijeti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ni od čega"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "— ništa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:08.768400280Z",
+  "model": "glm-5.3"
+}

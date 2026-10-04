@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "pečat za pečat, rana za ranu, modrica za modricu.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "pečat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "pečat"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "modrica"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "modrica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:23.796359405Z",
+  "model": "glm-5.3"
+}

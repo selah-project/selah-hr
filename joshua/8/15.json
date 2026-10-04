@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I Jehošua i sav Jisrael dao se poraziti pred njima, i pobjegoše putem prema pustinji.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "dao se poraziti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njima"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i pobjegoše"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "prema pustinji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:38.678644624Z",
+  "model": "glm-5.3"
+}

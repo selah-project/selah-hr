@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I govoraše mu ⟨את⟩ dobrostivo, i postavi ⟨את⟩ prijestolje njegovo iznad prijestolja kraljeva koji bijahu s njim u Babilonu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i govoraše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dobrostivo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijestolje njegovo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "prijestolje njegovo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolja"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "u Babilonu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:54.078658324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče svojim sinovima: Samišćite mi ⟨את⟩ magarca. I samištiše ⟨ga⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "samišćite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magarca"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "magarca"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "i samištiše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:13.509139747Z",
+  "model": "glm-5.3"
+}

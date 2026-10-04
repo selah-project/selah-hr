@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Zlo će ubiti bezbožnika, a mrzitelje pravednika stići će kazna.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "će ubiti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "a mrzitelje"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "stići će kazna"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:41.456654984Z",
+  "model": "glm-5.3"
+}

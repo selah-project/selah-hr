@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Rastrgmo ⟨את⟩ njihove okove i svoje ih uzde s nas zbacimo.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "rastrgmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove okove"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "njihove okove"
+    },
+    {
+      "surface": "ו נשליכה",
+      "gloss": "i zbacimo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "s nas"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "njihove uzde"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:17.161121969Z",
+  "model": "glm-5.3"
+}

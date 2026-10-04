@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Pripravi stazu gnjevu svojemu, ne poštedje od smrti duše njihove, i ⟨את⟩ život njihov predade kugi.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Pripravi (ravnu)"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stazu"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "gnjevu svojemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "poštedje"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "duše njihove"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "i život njihov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kugi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "predade"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:20.310462528Z",
+  "model": "glm-5.3"
+}

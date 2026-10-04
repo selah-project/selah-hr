@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče: Idi i reci tomu narodu: Slušajte slušajući, ali ne razumijevajte; gledajte gledajući, ali ne spoznajte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "i reci"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tomu narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slušajte"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "slušajući"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "razumijevajte"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "gledajte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gledajući"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "spoznajte"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:23.647470485Z",
+  "model": "glm-5.3"
+}

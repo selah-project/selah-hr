@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Nego ⟨את⟩ Jahvea, koji ⟨את⟩ vas izvede iz zemlje micrajimske silom velikom i mišicom ispruženom, ⟨את⟩ njega se bojte, i njemu se klanjajte, i njemu žrtvujte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "izvede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimske"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "silom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikom"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "i mišicom"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ispruženom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega se bojte"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "i njemu"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "klanjajte se"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "i njemu"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "žrtvujte"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:52.031967886Z",
+  "model": "glm-5.3"
+}

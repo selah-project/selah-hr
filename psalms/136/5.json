@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "Onoga koji mudrošću (btavuna) stvori ⟨את⟩ nebesa, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "mudrošću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:47.478779790Z",
+  "model": "glm-5.3"
+}

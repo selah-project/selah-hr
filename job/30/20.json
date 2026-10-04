@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Vičem k tebi, i ne odgovaraš mi; stojim, a ti samo promatraš me.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Vičem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "odgovaraš mi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "stojim"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "a ti promatraš"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:37:47.916819425Z",
+  "model": "glm-5.3"
+}

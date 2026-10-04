@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Tlači siromaha da bi ⟨sebi⟩ umnožio, daje bogatu — samo ⟨da dospje⟩ u oskubicu.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "Tlači"
+    },
+    {
+      "surface": "דל",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "da umnoži"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sebi⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "bogatu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "u oskubicu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:32.548074627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "A gornje su odaje skraćene, jer galerije uzimaju ⟨od njih⟩ prostora, od donjih i od srednjih u zgradi.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "a odaje"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "gornje"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "skraćene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "uzimaju prostora"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "galerije"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "od donjih"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "i od srednjih"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "u zgradi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:48:23.818133330Z",
+  "model": "glm-5.3"
+}

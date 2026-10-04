@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 137,
+  "translation": "Na vrbe usred nje objesismo svoje kinnore.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "vrbe"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "usred nje"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "objesismo"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "svoje kinnore"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:07.949533359Z",
+  "model": "glm-5.3"
+}

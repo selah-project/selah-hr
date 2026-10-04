@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Bolje malo s cedekom nego obilna dohotka bez prava.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bolje"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "s cedekom"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "obilna"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "dohotka"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "prava"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:24.362786863Z",
+  "model": "glm-5.3"
+}

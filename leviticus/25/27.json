@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "nabraja ⟨את⟩ godine svoga prodaja i vrati ⟨את⟩ višak čovjeku kojemu je prodao, i vrati se svojoj baštini.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "nabraja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "godine"
+    },
+    {
+      "surface": "שני",
+      "gloss": "godine"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "svoga prodaja"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "i vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "višak"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "višak"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojemu"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "je prodao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "svojoj baštini"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:07.051127117Z",
+  "model": "glm-5.3"
+}

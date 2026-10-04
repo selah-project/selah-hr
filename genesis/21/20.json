@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I bi Elohim ⟨את⟩ sa dječakom, te odrastaše i nastani se u pustinji, i postade strijelac lukom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dječakom"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "odrasta"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nastani se"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i postade"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "strijelac"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lukom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:03.126413256Z",
+  "model": "glm-5.3"
+}

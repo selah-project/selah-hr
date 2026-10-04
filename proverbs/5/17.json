@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Neka budu tebi, samo tebi, a ne tuđinima s ⟨את⟩ tobom.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "samo tebi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "tuđinima"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tobom",
+      "marks": "tuđini"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:49.950250310Z",
+  "model": "glm-5.3"
+}

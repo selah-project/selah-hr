@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I ovo je djelo koje ćeš učiniti njima da ⟨את⟩ ih posvetiš da mi budu svećenici: uzmi jednoga junca, sina goveda, i dva ovna bez mane.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "i ovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ćeš učiniti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "da posvetiš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih (njih)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za svećenike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "i dva ovna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "bez mane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:36.487638466Z",
+  "model": "glm-5.3"
+}

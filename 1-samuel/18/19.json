@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I bi u vrijeme davanja ⟨את⟩ Merab, kćeri Šaulove, Davidu, a ona bi dana Adrielu Meholatcu za ženu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "תת",
+      "gloss": "davanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab, kćeri Šaulove"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "bi dana"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielu"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Meholatcu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:28.305329169Z",
+  "model": "glm-5.3"
+}

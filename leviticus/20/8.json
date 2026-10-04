@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I čuvajte ⟨את⟩ moje uredbe i izvršujte ⟨את⟩ ih: ja sam Jahve koji vas posvećuje.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "i čuvajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje uredbe"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje uredbe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i izvršujte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih — moje uredbe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "koji vas posvećuje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:24.312004107Z",
+  "model": "glm-5.3"
+}

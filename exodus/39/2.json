@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I napravi ⟨את⟩ efod: zlato, modrilo, purpur, crveni kukac i prespredeni lan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modrilo"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "i crveni kukac"
+    },
+    {
+      "surface": "שני",
+      "gloss": "skerlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i lan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "prespredeni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:13.269328611Z",
+  "model": "glm-5.3"
+}

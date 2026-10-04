@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I uzeše sav plijen i sav ulov, u ljudi i u stoke.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "I uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav plijen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav ulov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ulov"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "u ljudi"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i u stoke"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:53.385944483Z",
+  "model": "glm-5.3"
+}

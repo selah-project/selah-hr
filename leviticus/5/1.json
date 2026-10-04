@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A duša, kad sagriješi i čuje glas kletve, a on je svjedok — vidio je ili zna — pa ne kazuje, nosit će svoju krivnju.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "a duša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sagriješi"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "i čuje"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kletve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svjedok"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidio je"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kazuje"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nosit će"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svoju krivnju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:29.272348361Z",
+  "model": "glm-5.3"
+}

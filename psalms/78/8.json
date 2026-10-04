@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "i da ne budu kao oci njihovi, pokoljenje tvrdoglavo i buntovno, pokoljenje koje nije pripravilo srca svojega, i čiji duh ⟨ruah⟩ nije bio vjeran ⟨את⟩ Elu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i da ne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budu"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kao oci njihovi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokoljenje"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "tvrdoglavo"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "i buntovno"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokoljenje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pripravilo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srca svojega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bio vjeran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "duh ⟨ruah⟩ njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:01.811352626Z",
+  "model": "glm-5.3"
+}

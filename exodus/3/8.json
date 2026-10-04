@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 3:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sišao sam da ga izbavim iz ruke Micrajimaca i da ga izvedem iz zemlje one u zemlju dobru i prostranu, u zemlju gdje teče mlijeko i med, u mjesto Kenaanca i Heta, i Emoraca, i Perižana, i Hivaca, i Jebusaca.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "i sišao sam"
+    },
+    {
+      "surface": "להצילו",
+      "gloss": "da ga izbavim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimaca"
+    },
+    {
+      "surface": "ולהעלתו",
+      "gloss": "i da ga izvedem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "i prostranu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "gdje teče"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mlijeko"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i med"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanca"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Heta"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "i Emoraca"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Perižana"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "i Hivaca"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusaca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:05.293759966Z",
+  "model": "glm-5.3"
+}

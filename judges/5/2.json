@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Kad se u Jisraelu pusti kosa nevezana, kad se narod dragovoljno prinese, blagoslivljajte Jahvu!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "kad se pusti nevezano"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "kosa nevezana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "kad se dragovoljno prinese"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "blagoslivljajte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:26.109899635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče mu Avšalom: Gle, stvar je tvoja dobra i pravedna, ali od kralja nema tko ⟨את⟩ tebe poslušati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "stvar je tvoja"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "i pravedna"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "poslušati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "od kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:57.725244805Z",
+  "model": "glm-5.3"
+}

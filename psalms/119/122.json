@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Poruči se za slugu svojega ⟨za⟩ dobro, ne daj da me tlače oholi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "poruči se"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "za slugu svojega"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "⟨za⟩ dobro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "da me tlače"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "oholi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:28.098204433Z",
+  "model": "glm-5.3"
+}

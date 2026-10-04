@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Zašto povlačiš ruku svoju, i desnicu svoju, iz sredine njedara svojih? ⟨Iscrpi ih!⟩",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "povlačiš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "i desnicu svoju"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "njedara svojih"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨Iscrpi ih!⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:41.981694509Z",
+  "model": "glm-5.3"
+}

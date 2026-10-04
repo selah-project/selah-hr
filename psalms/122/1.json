@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 122,
+  "translation": "Pjesma uzlazaka, Davidova. Radovao sam se kad su mi rekli: U kuću Jahvinu idemo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Radovao sam se"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "kad su rekli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "idemo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.407164536Z",
+  "model": "glm-5.3"
+}

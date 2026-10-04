@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Zar me nisi izlio kao mlijeko i kao sir zgusnuo me?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zar"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kao mlijeko"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "me nisi izlio"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "kao sir"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "zgusnuo me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:47.696890192Z",
+  "model": "glm-5.3"
+}

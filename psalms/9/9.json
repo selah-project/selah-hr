@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I on će suditi svijetu u cedeku, narodima će suditi u pravdi.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sudit će"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijet"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "u cedeku"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sudit će"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "u pravdi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:56.500625210Z",
+  "model": "glm-5.3"
+}

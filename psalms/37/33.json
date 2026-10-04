@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jahve ga neće napustiti u ruci njegovoj, i neće ga osuditi kad mu se sudi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "napustiti ga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "osuditi ga"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "kad mu se sudi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:43.505881777Z",
+  "model": "glm-5.3"
+}

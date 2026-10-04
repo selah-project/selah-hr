@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I posla Šaul k Jišaju da mu kaže: Neka David, molim, stoji predamnom, jer je našao milost u mojim očima.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da kaže"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "neka stoji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "predamnom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "je našao"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u mojim očima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:06.115828031Z",
+  "model": "glm-5.3"
+}

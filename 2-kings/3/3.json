@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Samo se u grijesima Jarovama, sina Nevatova, koji je naveo ⟨את⟩ Jisrael na grijeh, držao — nije od toga odstupio.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "u grijesima"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "naveo na grijeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "držao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odstupio"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od toga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:01.430543153Z",
+  "model": "glm-5.3"
+}

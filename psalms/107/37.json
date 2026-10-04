@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "I posijaše polja i posadiše vinograde, i rodiše plod prinosa.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "i posijaše"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "polja"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "i posadiše"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vinograde"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i rodiše"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "prinosa"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:26.016618435Z",
+  "model": "glm-5.3"
+}

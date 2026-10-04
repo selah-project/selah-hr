@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Neka se ovo zapiše za naraštaj potonji, i narod stvorenjeni neka hvali Jaha.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "neka se zapiše"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "za naraštaj"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "potonji"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "stvorenjeni"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "neka hvali"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:04.748504291Z",
+  "model": "glm-5.3"
+}

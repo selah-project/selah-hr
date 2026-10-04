@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I Elohim reče Noi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "riječu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:15.819479360Z",
+  "model": "glm-5.3"
+}

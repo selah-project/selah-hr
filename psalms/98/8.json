@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Neka rijeke plješću rukama, neka brda zajedno kliču.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "rijeke"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "plješću"
+    },
+    {
+      "surface": "כף",
+      "gloss": "rukama"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "brda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kliču"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:52.273155163Z",
+  "model": "glm-5.3"
+}

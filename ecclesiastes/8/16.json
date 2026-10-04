@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Kad dadoh ⟨את⟩ srce svoje da spoznam mudrost i da vidim ⟨את⟩ posao koji se čini na zemlji — jer i danju i noću sna u očima svojim ne vidi —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dadoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce svoje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce svoje"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da spoznam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "i da vidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posao"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "posao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "čini se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "i noću"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sna"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima svojim"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:08.781608820Z",
+  "model": "glm-5.3"
+}

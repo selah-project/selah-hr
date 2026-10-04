@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I zavodiše ⟨את⟩ slomljenost naroda mojega, govoreći: Mir, mir! — a mira nema.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "i zavodiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slomljenost naroda mojega"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "slomljenost"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "naroda mojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lahko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:52.083581799Z",
+  "model": "glm-5.3"
+}

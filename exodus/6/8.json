@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dovest ću ⟨את⟩ vas u zemlju za koju podigoh ⟨את⟩ svoju ruku da je dam Avrahamu, Jicaku i Jaakovu; i dat ću ⟨את⟩ nju vama u baštinu — ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "i dovest ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koju"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podigoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da dam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nju",
+      "marks": "Avrahamu, Jicaku i Jaakovu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "i Jaakovu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nju",
+      "marks": "vama u baštinu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "u baštinu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:02.610773923Z",
+  "model": "glm-5.3"
+}

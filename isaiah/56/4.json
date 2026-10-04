@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "Jer ovako reče Jahve kaštratima: onima koji čuvaju ⟨את⟩ moje Šabate i biraju ono što ja želim, i drže se čvrsto mojega saveza —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "kaštratima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "čuvaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje Šabate"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "moje Šabate"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "i biraju"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ja želim"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "i drže se čvrsto"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "mojega saveza"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:49.317359632Z",
+  "model": "glm-5.3"
+}

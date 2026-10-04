@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Sretan je čovjek čija je snaga u tebi, putovi hodočašća u njihovu srcu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sretan je"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "snaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "čija (njemu)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "putovi hodočašća"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "u njihovu srcu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.970400849Z",
+  "model": "glm-5.3"
+}

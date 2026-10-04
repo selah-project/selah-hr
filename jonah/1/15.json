@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I podigoše ⟨את⟩ Jonu te ga baciše u more, i more se smiri od bijesa svojega.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i podigoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonu"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "te ga baciše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i smiri se"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "od bijesa svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:11.722667894Z",
+  "model": "glm-5.3"
+}

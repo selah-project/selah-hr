@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I Aharon i njegovi sinovi neka jedu ⟨את⟩ meso ovna i ⟨את⟩ kruh koji je u košari, na ulazu Šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "i neka jedu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i njegovi sinovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kruh"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "u košari"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:15.436903425Z",
+  "model": "glm-5.3"
+}

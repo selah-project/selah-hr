@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer milosrdan El jest Jahve, Elohim tvoj: neće te popustiti ni uništiti, i neće zaboraviti ⟨את⟩ saveza otaca tvojih koji ⟨im⟩ je zakleo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "milosrdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "te popustiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "uništiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "zaboraviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saveza"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "otaca tvojih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "je zakleo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨im⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:32.120650519Z",
+  "model": "glm-5.3"
+}

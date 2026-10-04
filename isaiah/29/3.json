@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "i utaboren ću se oko tebe u krug, i opsjest ćę te ⟨taborom⟩, i podignut ću na te opsadne nasipe.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "i utaboren ću se"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "u krug"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oko tebe"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "i opsjest ćę te"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "⟨tabor⟩"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "i podignut ću"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na te"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "opsadne nasipe"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:33.779935283Z",
+  "model": "glm-5.3"
+}

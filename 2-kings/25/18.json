@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I uze zapovjednik koljača ⟨את⟩ Seraju, svećenika poglavara, i ⟨את⟩ Tsefanju, svećenika drugoga, i ⟨את⟩ trojicu čuvara praga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zapovjednik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "koljača"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraju, svećenika poglavara"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraju"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanju, svećenika drugoga"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanju"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trojicu čuvara praga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trojicu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "čuvara"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "praga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:24.852392802Z",
+  "model": "glm-5.3"
+}

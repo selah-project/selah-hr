@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Pravedni će vidjeti i bojati se, i njemu će se smijati.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidjeti će"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravedni"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "i bojati se"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "i nad njim"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "smijat će se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:12.481123872Z",
+  "model": "glm-5.3"
+}

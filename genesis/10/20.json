@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "To su sinovi Hamovi, po svojim obiteljima, po svojim jezicima, u svojim zemljama, u svojim narodima.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hama"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "po svojim jezicima"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "u svojim zemljama"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "u svojim narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.935601869Z",
+  "model": "glm-5.3"
+}

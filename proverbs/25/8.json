@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Ne izlazi žurno u parbu, da ne bi ⟨morao⟩ činiti što na kraju njezinu, kad te osramoti bližnji tvoj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "u parbu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "žurno"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "na kraju njezinu"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "kad te osramoti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "bližnji tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:14.914792709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Strah Jahvin čist je, ostaje zauvijek; pravorici Jahvini istiniti su, svi su zajedno pravedni.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "strah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "čist je"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ostaje"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pravorici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvini"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istiniti su"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "pravedni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:55.513222011Z",
+  "model": "glm-5.3"
+}

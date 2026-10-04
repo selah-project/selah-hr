@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A u petoj godini jedite ⟨את⟩ plod njegov, da vam se pridoda prihod njegov; ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "a u petoj godini"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "peta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plod njegov"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "plod njegov"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "da se pridoda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "prihod njegov"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:53.122013575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A reče im: Ne zadržavajte ⟨את⟩ mene, a Jahve je upravio moj put; pustite me da odem k svojemu gospodaru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "zadržavajte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mene",
+      "marks": "mene"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "upravio je"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moj put"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "pustite me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "da odem"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "k gospodaru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:05.021922112Z",
+  "model": "glm-5.3"
+}

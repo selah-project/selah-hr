@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Onaj koji hodi u neporočnosti i čini cedek, i govori istinu u srcu svojemu.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "hodeći"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "u neporočnosti"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "i čini"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i govori"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "istinu"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "u srcu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:29.165390805Z",
+  "model": "glm-5.3"
+}

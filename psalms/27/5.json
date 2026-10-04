@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Jer on me sakriva u svojoj sjenici, u dan zla sakrit će me u skrovištu šatora svojega, na stijenu će me uzvisiti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "sakriva me"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "u svojoj sjenici"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "sakrit će me"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u skrovištu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "šatora svojega"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na stijenu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "uzvisit će me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.939784073Z",
+  "model": "glm-5.3"
+}

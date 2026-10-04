@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Samo se srebro koji im je predan u ruke ⟨את⟩ s njima ne obračunava, jer s vjernošću rade.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "obračunava se"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ s njima",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "koji je predan"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "s vjernošću"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "rade"
+    }
+  ],
+  "timestamp": "2026-10-04T18:03:16.558750113Z",
+  "model": "glm-5.3"
+}

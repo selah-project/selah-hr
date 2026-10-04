@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "i ⟨את⟩ Poratu, i ⟨את⟩ Adalju, i ⟨את⟩ Aridatu,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Poratu"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Porata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adalju"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aridatu"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridata"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:56.467572824Z",
+  "model": "glm-5.3"
+}

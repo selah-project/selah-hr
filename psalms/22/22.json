@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Spasi me iz usta lava; od rogova divljih bikova odgovori mi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "spasi me"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz usta"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lava"
+    },
+    {
+      "surface": "ו מקרני",
+      "gloss": "i od rogova"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "divljih bikova"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "odgovori mi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:59.766117081Z",
+  "model": "glm-5.3"
+}

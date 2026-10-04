@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "u one dane, kad je sjedio kralj Ahašveroš na prijestolje svojega kraljevstva, koje je u Šušanu, u tvrđavi.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "one"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "kad je sjedio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prijestolje"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "svojega kraljevstva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje je"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "u Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "u tvrđavi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:20.021149410Z",
+  "model": "glm-5.3"
+}

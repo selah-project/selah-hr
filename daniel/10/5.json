@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I podigoh ⟨את⟩ svoje oči i pogledah, i gle, jedan čovjek odjeven u lan, a bedra mu opasana zlatom iz Ufaza.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "i podigoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "i pogledah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "odjeven"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "u lan"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "a bedra mu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "opasana"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "iz Ufaza"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:24.220306528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dođe Gedeon do Jordana ⟨i⟩ prijeđe ga, on i trista ljudi što bijahu ⟨את⟩ s njim — umorni, a ipak u potjeri.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gedeon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "do Jordana"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prijeđe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i trista"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim",
+      "marks": "s njim"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "umorni"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "u potjeri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:15.815476866Z",
+  "model": "glm-5.3"
+}

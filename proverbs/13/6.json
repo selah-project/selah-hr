@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Cedek čuva put čestitoga, a zloća obara grešnika.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "תם",
+      "gloss": "čestitoga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "a zloća"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "obara"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grešnika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:27.280688669Z",
+  "model": "glm-5.3"
+}

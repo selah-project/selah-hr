@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I ⟨את⟩ njega odvest će u Asur, kao danak kralju Jaravu; sramota će zadesiti Efrajima, a Jisrael će se postidjeti svojega nauma.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (telet)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "u Asur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "odvest će"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kao danak"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jaravu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zadesit će"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "postidjet će se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "svoga nauma"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:57.002036835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Tvoja su nebesa, i zemlja je tvoja; svijet i punina njegova — ti si ih utemeljio.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tvoja su"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoja je"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svijet"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i punina njegova"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "utemeljio si ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:23.096922122Z",
+  "model": "glm-5.3"
+}

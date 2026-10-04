@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "i neka po njima prostru tkaninu grimiza, i neka je pokriju ⟨את⟩ pokrovom od kože tuaša, i neka metnu ⟨את⟩ njegove motke.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "i neka prostru"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "po njima"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "tkaninu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "grimiza"
+    },
+    {
+      "surface": "שני",
+      "gloss": "crvena"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "i neka pokriju"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pokrovom"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "pokrovom"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kože"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tuaša"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "i neka metnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "njegove motke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:22.341990394Z",
+  "model": "glm-5.3"
+}

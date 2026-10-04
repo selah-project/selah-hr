@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Znam, Jahve, da je cedek u tvojim sudovima i da si me u vjernosti ponizio.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Znam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u tvojim sudovima"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "i u vjernosti"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ponizio si me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:20.402179198Z",
+  "model": "glm-5.3"
+}

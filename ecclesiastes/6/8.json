@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer što ima mudrac više od ludaka? Što ima siromah koji zna hoditi pred živima?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "više"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "mudrac"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ludaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "hoditi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:50.337232160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I reče čovjek Elohimov kralju: Ako mi daš ⟨את⟩ polovicu kuće svoje, neću ići s tobom, neću jesti kruha ni piti vode na ovome mjestu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovicu kuće svoje"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovicu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kuće svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ići"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "piti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:30.847750683Z",
+  "model": "glm-5.3"
+}

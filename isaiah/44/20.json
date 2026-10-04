@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Hrani se pepelom; prevareno srce odvelo ga je, i ne može spasiti ⟨את⟩ dušu svoju, ni reći: Zar nije laž u desnici mojoj?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "hrani se"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "pepelom"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "prevareno"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "odvelo ga je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "može spasiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušu svoju"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dušu svoju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reći"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zar nije"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "u desnici mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:08.580839917Z",
+  "model": "glm-5.3"
+}

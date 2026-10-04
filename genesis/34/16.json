@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "i dat ćemo ⟨את⟩ kćeri naše vama, a ⟨את⟩ kćeri vaše uzet ćemo sebi, i prebivat ćemo s ⟨את⟩ vama, i postat ćemo jedan narod.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "i dat ćemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kćeri naše"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "kćeri naše"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kćeri vaše"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "kćeri vaše"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "uzet ćemo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "i prebivat ćemo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "s ⟨את⟩ vama"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "i postat ćemo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:02.725918646Z",
+  "model": "glm-5.3"
+}

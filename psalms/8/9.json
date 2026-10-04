@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Ptice nebesa i ribe mora, što prelaze staze mora!",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "i ribe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "što prelaze"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "staze"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:48.263218674Z",
+  "model": "glm-5.3"
+}

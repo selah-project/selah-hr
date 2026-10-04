@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uze David ⟨את⟩ zlatne štitove što bijahu na slugama Hadadezerovim, i donese ih u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatne štitove"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "štitove"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "slugama"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerovim"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i donese ih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:22.313363536Z",
+  "model": "glm-5.3"
+}

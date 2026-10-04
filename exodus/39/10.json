@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I napuniše njime — napuniše ga četiri reda kamena: red odema, pitda i bareket — to bio je red prvi.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "i napuniše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "reda"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamena"
+    },
+    {
+      "surface": "טור",
+      "gloss": "red"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odem"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "pitda"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "i bareket"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "red"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "prvi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:45.233359375Z",
+  "model": "glm-5.3"
+}

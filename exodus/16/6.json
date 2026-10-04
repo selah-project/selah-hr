@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I rekoše Moše i Aharon svim sinovima Jisraelovim: Uveče ćete znati da je Jahve izveo ⟨את⟩ vas iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uveče"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ćete znati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "izveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:01.828299741Z",
+  "model": "glm-5.3"
+}

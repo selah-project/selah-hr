@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "U Elohimu hvalim riječ njegovu, u Elohimu se uzdam, neću se bojati — što mi tijelo može učiniti?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "hvalim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "riječ njegovu"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bojati se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "može učiniti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:12.262814707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Nek dođe pred lice tvoje molitva moja, prigni uho svoje k viku mojemu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Nek dođe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred lice tvoje"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitva moja"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "prigni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "k viku mojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.046548229Z",
+  "model": "glm-5.3"
+}

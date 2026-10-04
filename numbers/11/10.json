@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I čuo je Moše ⟨את⟩ narod kako plače po svojim obiteljima, svaki čovjek na ulazu svoga šatora; i zahario se Jahve vrlo, a u očima Mošeam bilo je zlo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "I čuo je"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kako plače"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "po svojim obiteljima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svoga šatora"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "i zahario se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "a u očima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:59.997451453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I podiže ⟨את⟩ oči svoje i vidje ⟨את⟩ žene i ⟨את⟩ djecu, pa reče: Tko su ti ⟨ovdje⟩? A on reče: Djeca kojima je Elohim naklonio ⟨את⟩ sluzi tvojem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči svoje"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žene"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "djecu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "djecu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoji"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "djeca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "naklonio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluzi tvojem"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluzi tvojem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:30.139759252Z",
+  "model": "glm-5.3"
+}

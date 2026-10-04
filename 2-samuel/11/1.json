@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 11:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I dogodi se, u povratku godine, u vrijeme izlaska kraljeva, te posla David ⟨את⟩ Joaba i ⟨את⟩ sluge svoje s njime i ⟨את⟩ svega Jisraela; i pustošiše ⟨את⟩ sinove Amonove i opsjedoše Rabu; a David sjediše u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "u povratku"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "izlaska"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "te posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sluge svoje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sluge svoje"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svega Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וישחתו",
+      "gloss": "i pustošiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Amonove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonove"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "i opsjedoše"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabom"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sjediše"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:19.942898102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I svećenik uzme ⟨את⟩ jedno janje i prinese ⟨את⟩ nj za žrtvu naknadnice, i ⟨את⟩ log ulja, i njima mahne mahanjem pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedno janje"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "janje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "nj"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "za žrtvu naknadnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "log ulja"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "i mahne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njima"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mahanjem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:52.573798428Z",
+  "model": "glm-5.3"
+}

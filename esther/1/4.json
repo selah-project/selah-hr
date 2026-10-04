@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "kad je pokazivao ⟨את⟩ bogatstvo slave svojega kraljevstva i ⟨את⟩ sjaj krasote svoje veličine, mnoge dane — osamdeset i sto dana.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "kad je pokazivao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogatstvo slave svojega kraljevstva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogatstvo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "svojega kraljevstva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sjaj krasote svoje veličine"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sjaj"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "krasote"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "svoje veličine"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dane"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoge"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "osamdeset"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "i sto"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:20.021634916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I neka starješine zajednice polože ⟨את⟩ svoje ruke na glavu bika pred Jahvom, i neka ⟨se⟩ zakolje ⟨את⟩ bik pred Jahvom.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "i neka polože"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ruke"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "i neka zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bik"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:05.396292482Z",
+  "model": "glm-5.3"
+}

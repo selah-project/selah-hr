@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Navijestio sam cedek u zajednici velikoj; evo, usne svoje neću zadržati — Jahve, ti znaš.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "navijestio sam"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zajednici"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velikoj"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "zadržati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:00.135300477Z",
+  "model": "glm-5.3"
+}

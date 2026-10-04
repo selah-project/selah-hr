@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "tako će biti moja riječ koja izlazi iz mojih usta: neće mi se vratiti prazna, nego će učiniti ⟨את⟩ ono što sam htio i uspjet će u onome radi čega sam je poslao.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moja riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz mojih usta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "će se vratiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prazna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "će učiniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što sam htio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "sam htio"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "i uspjet će"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u onome što"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "sam je poslao"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:10.231389185Z",
+  "model": "glm-5.3"
+}

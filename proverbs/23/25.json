@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Neka se raduje tvoj otac i tvoja majka, neka kliče ona koja te rodila.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "neka se raduje"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvoj otac"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "i tvoja majka"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "neka kliče"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ona koja te rodila"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:39.438915106Z",
+  "model": "glm-5.3"
+}

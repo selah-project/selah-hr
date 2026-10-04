@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ustade Jehošua rano ujutro i pregleda ⟨את⟩ narod, i popne se on i starješine Jisraelove pred narodom prema Aj-u.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i ustade rano"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "i pregleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i popne se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i starješine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "העי",
+      "gloss": "prema Aj-u"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:23.458954989Z",
+  "model": "glm-5.3"
+}

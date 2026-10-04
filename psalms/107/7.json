@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "I povede ih pravim putem da idu k gradu stanovanja.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "povede ih"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "pravim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da idu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gradu"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "stanovanja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:10.857143744Z",
+  "model": "glm-5.3"
+}

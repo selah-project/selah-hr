@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "A Rut reče: Ne nagovaraj me da te ostavim i da se odvojim od tebe; jer kamo ti ideš, idem i ja, i gdje ti prenoćiš, prenoćit ću i ja; tvoj narod je moj narod i tvoj Elohim je moj Elohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "nagovaraj"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "da te ostavim"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "da se odvojim"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ti ideš"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "idem i ja"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "i gdje"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "ti prenoćiš"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "prenoćit ću i ja"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvoj narod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "je moj narod"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "i tvoj Elohim"
+    },
+    {
+      "surface": "אלהיך אלהי",
+      "gloss": "je moj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:42:21.400896152Z",
+  "model": "glm-5.3"
+}

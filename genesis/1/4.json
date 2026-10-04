@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I vidje Elohim ⟨את⟩ svjetlost da je dobra; i rastavi Elohim između svjetlosti i između tame.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "I vidje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svjetlost"
+    },
+    {
+      "surface": "האור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je dobra"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "i rastavi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "האור",
+      "gloss": "svjetlosti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tame"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:01.581146818Z",
+  "model": "glm-5.3"
+}

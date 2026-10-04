@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Jer nasiti dušu ⟨koja⟩ čezne, i dušu gladnu napuni dobrom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "nasiti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "i dušu"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "gladnu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:41.073589236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I knez kuhara postavi Josifa ⟨את⟩ da bude s ⟨את⟩ njima, i on ih posluživaše ⟨את⟩; i biše dani u straži.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "I postavi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knez"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kuhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josifa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josifa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "s ⟨את⟩ njima"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "i posluživaše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i biše"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dani"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "u straži"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:34.337720544Z",
+  "model": "glm-5.3"
+}

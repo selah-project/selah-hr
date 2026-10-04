@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Doći će i objaviti njegov cedek narodu što će se roditi, jer je to učinio.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "doći će"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "i objaviti"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "njegov cedek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "što će se roditi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:33.313779483Z",
+  "model": "glm-5.3"
+}

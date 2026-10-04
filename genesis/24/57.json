@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I rekoše: Zovimo djevojku i pitajmo ⟨את⟩ njezina usta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I rekoše"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "zovimo"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "djevojku"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "i pitajmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usta njezina"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "njezina usta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:49.548698518Z",
+  "model": "glm-5.3"
+}

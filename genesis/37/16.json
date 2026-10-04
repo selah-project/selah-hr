@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "A on reče: ⟨את⟩ braću svoju tražim. Reci mi, molim te, gdje pasu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "braću svoju"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tražim"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "reci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pasu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:17.634139419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I učinit ću te velikim narodom, i blagoslovit ću te, i proslavit ću ime tvoje, i budi ti blagoslov.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "učinit ću te"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "blagoslovit ću te"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "proslavit ću"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i budi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blagoslov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:29.359916432Z",
+  "model": "glm-5.3"
+}

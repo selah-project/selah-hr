@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I kad vidje Zimri da je grad osvojen, uđe u odajnik kraljevske kuće, i spali je nad sobom ⟨את⟩ kraljevsku kuću u ognju, i umrije.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "vidjevši"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "osvojen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "uđe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "odajnik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevske"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "i spali je"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad sobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevsku kuću"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljevsku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:51.265919904Z",
+  "model": "glm-5.3"
+}

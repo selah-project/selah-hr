@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I bješe Jahve ⟨את⟩ ⟨s⟩ Jehudom, i zaposjede ⟨את⟩ gorski kraj, jer ne moguše istjerati stanovnike doline, jer kola od željeza imahu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bješe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s⟩",
+      "marks": "Jehudom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudom"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "i zaposjede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorski kraj"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gorski kraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "moguše istjerati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "doline"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kola"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "od željeza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imahu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.160994656Z",
+  "model": "glm-5.3"
+}

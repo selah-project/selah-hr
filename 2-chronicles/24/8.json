@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I zapovjedi kralj, pa načiniše jedan kovčeg i staviše ga na vrata doma Jahvina, vani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "pa načiniše"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i staviše ga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na vrata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "vani"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:31.507365951Z",
+  "model": "glm-5.3"
+}

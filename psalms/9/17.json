@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jahve se dade spoznati ⟨jer je⟩ sud učinio; u djelo ruku svojih upleten je bezbožnik. Higajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dade se spoznati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sud"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "u djelo"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "upleten je"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnik"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:09.297846450Z",
+  "model": "glm-5.3"
+}

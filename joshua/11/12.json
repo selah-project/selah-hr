@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ sve gradov(e) tih kraljeva i ⟨את⟩ sve njihove kraljeve zauzeo je Jehošua, i porazio ih oštricom mača — uništio ih je zapovijedi ⟨את⟩, kako je zapovjedio Moše, sluga Jahvin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve gradove tih kraljeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "tih kraljeva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve njihove kraljeve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "njihove kraljeve"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "zauzeo je"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "i porazio ih"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "uništio je zapovijedi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovjedio"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:55.076418487Z",
+  "model": "glm-5.3"
+}

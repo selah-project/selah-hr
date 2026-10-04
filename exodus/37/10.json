@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načini ⟨את⟩ stol od drva šitim: dva lakta bijaše duljina njegova, a lakat širina njegova, i lakat i po visina njegova.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dva lakta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "duljina njegova"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a lakat"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "širina njegova"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i po"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "visina njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:32.977739361Z",
+  "model": "glm-5.3"
+}

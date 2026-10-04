@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I zaklaše ⟨את⟩ junca, i dovedoše ⟨את⟩ dječaka Eliju.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "i zaklaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junca"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "junca"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "i dovedoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dječaka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dječaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:59.759492916Z",
+  "model": "glm-5.3"
+}

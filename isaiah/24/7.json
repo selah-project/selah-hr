@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Tužuje mlado vino, vene loza, uzdahu svi koji se raduju srcem.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "tužuje"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mlado vino"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "vene"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "loza"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "uzdahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "koji se raduju"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:15.657711126Z",
+  "model": "glm-5.3"
+}

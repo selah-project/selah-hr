@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Zaista, uzalud sam očistio svoje srce i oprao u nedužnosti dlanove svoje.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "uzalud"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "očistio sam"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "ו ארחץ",
+      "gloss": "i oprao sam"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "u nedužnosti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dlanove svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:26.936905156Z",
+  "model": "glm-5.3"
+}

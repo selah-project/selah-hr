@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I zatrubi Joab u rog, i vrati se narod od gonjenja za Jisraelom, jer Joab zadrža ⟨את⟩ narod.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "i zatrubi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "u rog"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "od gonjenja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zadrža"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:41.262831751Z",
+  "model": "glm-5.3"
+}

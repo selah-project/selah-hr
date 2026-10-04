@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Meonotaji rodi ⟨את⟩ Ofra; a Seraja rodi ⟨את⟩ Joaba, oca doline obrtnika — jer obrtnici bijahu.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "i Meonotaji"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "a Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otca"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "doline"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "obrtnika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "obrtnici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:35.330373532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Perverzan je put čovjeka i zloćudan, a djelo čista čovjeka pravo je.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "perverzan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "i zloćudan"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "a čista"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "djelo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:09.655056114Z",
+  "model": "glm-5.3"
+}

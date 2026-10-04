@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "Jahve će upisati u popis naroda: ovaj je rođen ondje. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "će upisati"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "u popis"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "je rođen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:20.628730661Z",
+  "model": "glm-5.3"
+}

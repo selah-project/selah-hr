@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Te noći pobježe san kralju, i zapovjedi da se donese ⟨את⟩ knjiga spomenara, dnevnik događaja, i bijahu čitani pred kraljem.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "te noći"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "one"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "san"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "da se donese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knjiga spomenara"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjiga"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "spomenara"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dnevnik događaja"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i bijahu"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "čitani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:11.637748397Z",
+  "model": "glm-5.3"
+}

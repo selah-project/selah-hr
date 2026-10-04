@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A sada uzmi, molim te, oružje svoje, tobolac svoj i luk svoj, pa iziđi u polje i ulovi mi lova",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "שא",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "oružje svoje"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "tobolac svoj"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "i luk svoj"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "pa iziđi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "pa ulovi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "lova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:39.525020256Z",
+  "model": "glm-5.3"
+}

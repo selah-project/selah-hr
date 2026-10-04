@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reći ćeš im: Ovako reče Jahve: Zar padnu pa da ne ustaju? Zar se tko vrati pa da se ne vrati?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "i reći ćeš"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "zar padnu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa da ne"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ustaju"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zar"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se vrati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa da se ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vrati"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:43.193932317Z",
+  "model": "glm-5.3"
+}

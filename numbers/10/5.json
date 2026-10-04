@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I zatrubite ⟨svečano⟩, i krenu tabori koji su utaborili istočno.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "i zatrubite"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "svečano ⟨trubljenje⟩"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "i krenu"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "tabori"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "koji su utaborili"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "istočno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:37.140356490Z",
+  "model": "glm-5.3"
+}

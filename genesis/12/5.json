@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I uze Avram ⟨את⟩ Saraju, ženu svoju, i ⟨את⟩ Lota, sina brata svojega, i ⟨את⟩ svu imovinu njihovu koju su stekli, i ⟨את⟩ duše koje su stekle u Haranu; i iziđoše da krenu u zemlju kenaansku, i dođoše u zemlju kenaansku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraju"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraju"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženu svoju"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu imovinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "imovinu njihovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "su stekli"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "i ⟨את⟩",
+      "marks": "duše"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "su stekle"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "u Haranu"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i iziđoše"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da krenu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaansku"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaansku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:55.327159836Z",
+  "model": "glm-5.3"
+}

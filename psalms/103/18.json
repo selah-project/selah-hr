@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "onima koji čuvaju savez njegov i paze zapovijedi njegove da ih vrše.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "onima koji čuvaju"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savez njegov"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "i paze"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "zapovijedi njegove"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "da ih vrše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:59.626380689Z",
+  "model": "glm-5.3"
+}

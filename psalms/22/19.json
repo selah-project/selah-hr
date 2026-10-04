@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Dijele me haljine među sobom i za odjeću moju bacaju kocku.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "dijele"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "me haljine"
+    },
+    {
+      "surface": "להם",
+      "gloss": "među sobom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "odjeću moju"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "bacaju"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kocku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:12.318517231Z",
+  "model": "glm-5.3"
+}

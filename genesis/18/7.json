@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A k stadu otrča Avraham, i uze mlado tele, nježno i dobro, i dade ga momku, a on požuri da ga pripravi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "stadu"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "otrča"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mlado"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tele"
+    },
+    {
+      "surface": "רך",
+      "gloss": "nježno"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "i dobro"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "momku"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "a požuri"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da pripravi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga — mlado tele"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:27.628343138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Tada ustade nov kralj nad Micrajimom koji nije poznao ⟨את⟩ Jošefa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tada ustade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nov"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošefa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:12.231947184Z",
+  "model": "glm-5.3"
+}

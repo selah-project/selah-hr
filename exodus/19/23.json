@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče Moše Jahvi: Ne može narod uzići na brdo Sinaj, jer ti si nam posvjedočio rekavši: Ograniči ⟨את⟩ brdo i posveti ga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "može"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "uzići"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "brdo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "si posvjedočio"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Ograniči"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brdo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "brdo"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "i posveti ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:16.878484613Z",
+  "model": "glm-5.3"
+}

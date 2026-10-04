@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "⟨את⟩ Sunce da vlada danju, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sunce"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Sunce"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "da vlada"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "danju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:47.479312862Z",
+  "model": "glm-5.3"
+}

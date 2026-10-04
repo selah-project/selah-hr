@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Tada ćeš ići sigurno putem svojim, i noga ti se neće spotaknuti.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ići ćeš"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "putem svojim"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "i noga tvoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "spotaknut će se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:29.692517344Z",
+  "model": "glm-5.3"
+}

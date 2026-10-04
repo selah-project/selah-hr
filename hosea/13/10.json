@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Gdje je tvoj kralj sada, da te spasi u svim gradovima tvojim? I gdje su tvoji suci, kojima si rekao: Daj mi kralja i knezove?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "tvoj kralj"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "da te spasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "gradovima tvojim"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "tvoji suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekao"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "i knezove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:05.544348185Z",
+  "model": "glm-5.3"
+}

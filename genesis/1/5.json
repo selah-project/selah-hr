@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I nazva Elohim ⟨את⟩ svjetlost dan, a ⟨את⟩ tamu nazva noć. I bi veče i bi jutro — dan jedan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "a tamu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazva"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noć"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "veče"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:20.471582165Z",
+  "model": "glm-5.3"
+}

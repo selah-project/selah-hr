@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Kletvom puna usta njegova i prijevare i prijevare; pod jezikom njegovim truda i bezakonja.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kletvom"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "usta njegova"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puna"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "i prijevare"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "i prijevare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "jezikom njegovim"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "truda"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "i bezakonja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:30.814168532Z",
+  "model": "glm-5.3"
+}

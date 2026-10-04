@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I zazva Barak ⟨את⟩ Zebulun i ⟨את⟩ Naftali u Kedeš, i uzađe na svojim nogama deset tisuća ljudi, a uzađe s njim i Devora.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "I zazva"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "u Kedeš"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i uzađe"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na svojim nogama"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "a uzađe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njim"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-10-04T17:24:34.230945541Z",
+  "model": "glm-5.3"
+}

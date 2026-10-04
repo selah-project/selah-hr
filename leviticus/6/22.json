@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Svaki muškarac među svećenicima smije jesti ⟨את⟩ nju; svetost nad svetostima ona je.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarac"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "među svećenicima"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smije jesti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (žrtvu)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nad svetostima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona je"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.269470556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Sidonci i Amalek i Maon tjeskočiše ⟨את⟩ vas; i zavapiste mi, i spasih ⟨את⟩ vas iz ruke njihove.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "I Sidonci"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "i Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "i Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "tjeskočiše"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "i zavapiste"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "i spasih"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iz ruke njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:42.241868750Z",
+  "model": "glm-5.3"
+}

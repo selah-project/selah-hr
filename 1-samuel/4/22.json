@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: Otišla je slava iz Jisraela, jer je uzet kovčeg Elohimov.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otišla je"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iz Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "uzet je"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:12.529724424Z",
+  "model": "glm-5.3"
+}

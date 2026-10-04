@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "da otvoriš oči slijepima, da izvedeš sužnja iz tamnice, one što sjede u tami iz kuće zatvora,",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "da otvoriš"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "slijepima"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da izvedeš"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "iz tamnice"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "sužnja"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zatvora"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "one što sjede"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "u tami"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:20.672005150Z",
+  "model": "glm-5.3"
+}

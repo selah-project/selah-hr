@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I skupi David ⟨את⟩ svega Jisraela k Jerušalajimu, da podigne ⟨את⟩ Kovčeg Jahvin na njegovo mjesto, koje mu je pripravio.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "skupi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svega Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajimu"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "da podigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Jahvin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "njegovo mjesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "je pripravio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:19.007767932Z",
+  "model": "glm-5.3"
+}

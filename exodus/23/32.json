@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne smiješ njima ni njihovim bogovima rezati saveza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne smiješ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "rezati savez"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ni njihovim bogovima"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:04.066018292Z",
+  "model": "glm-5.3"
+}

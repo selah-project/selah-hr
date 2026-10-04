@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 87,
+  "translation": "A o Cionu reći će se: ovaj i onaj rođen je u njoj; i Elijon sam će je utvrditi.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "a o Cionu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reći će se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i onaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rođen je"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on sam"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "će je utvrditi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:20.628470691Z",
+  "model": "glm-5.3"
+}

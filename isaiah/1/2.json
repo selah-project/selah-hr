@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Slušajte, nebesa, i prisluškuj, zemljo, jer Jahve govori: Sinove odgojih i uzvisih, a oni se pobuniše protiv mene.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slušajte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "i prisluškuj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Sinove"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "odgojih"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "i uzvisih"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "pobuniše se"
+    },
+    {
+      "surface": "בי",
+      "gloss": "protiv mene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:45.421563637Z",
+  "model": "glm-5.3"
+}

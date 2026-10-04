@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Tako reče Jahve, Elohim moj: \"Pasi ⟨את⟩ stoku zaklanja.\"",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku zaklanja"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "zaklanja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:01:27.518384127Z",
+  "model": "glm-5.3"
+}

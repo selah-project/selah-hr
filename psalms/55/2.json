@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Prisluhni, Elohime, molitvi mojoj i ne skrivaj se od moćenja mojega.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Prisluhni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitvi mojoj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "skrivaj se"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "od moćenja mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:11.108395799Z",
+  "model": "glm-5.3"
+}

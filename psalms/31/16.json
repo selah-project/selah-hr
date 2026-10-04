@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "U ruci su tvojoj moja vremena; izbavi me iz ruke neprijatelja mojih i od progonitelja mojih.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "U ruci su tvojoj"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "moja vremena"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "neprijatelja mojih"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "i od progonitelja mojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:12.138717326Z",
+  "model": "glm-5.3"
+}

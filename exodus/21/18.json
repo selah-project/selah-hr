@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I kad se ljudi prepiru te jedan čovjek udari ⟨את⟩ svojega bližnjega kamenom ili šakom, a on ne umre nego padne u postelju,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "prepiru se"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "te udari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jedan čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega bližnjega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kamenom"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "šakom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umre"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "nego padne"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "u postelju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:18.571434335Z",
+  "model": "glm-5.3"
+}

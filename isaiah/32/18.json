@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 32:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I prebivat će narod moj u nastambi mira, i u Miškanima sigurnim, i u počincima spokojnim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i prebivat će"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "u nastambi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    },
+    {
+      "surface": "ובמשכנות",
+      "gloss": "i u Miškanima"
+    },
+    {
+      "surface": "מבטחים",
+      "gloss": "sigurnim"
+    },
+    {
+      "surface": "ובמנוחת",
+      "gloss": "i u počincima"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "spokojnim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:08.150858951Z",
+  "model": "glm-5.3"
+}

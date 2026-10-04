@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I svećenik će izvršiti pomirbu za njega ovnom za krivnju pred Jahvom, zbog grijeha što ga počini, i oprostit će mu se grijeh što ga počini.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "I pomirit će"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "ovnom"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "za krivnju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeha njegova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "počini"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i oprostit će se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "grijeha njegova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "počini"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:51.647154775Z",
+  "model": "glm-5.3"
+}

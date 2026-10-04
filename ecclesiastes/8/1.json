@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Tko je kao mudar čovjek i tko zna tumačenje besjede? Mudrost čovjekova prosvjetljuje lice njegovo, a snaga lica njegova bit će izmijenjena.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "kao mudar čovjek"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tumačenje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besjede"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Mudrost"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjekova"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "prosvjetljuje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice njegovo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "a snaga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lica njegova"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "bit će izmijenjena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:40.559406476Z",
+  "model": "glm-5.3"
+}

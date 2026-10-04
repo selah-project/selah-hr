@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Pjevajte Jahvi, slavite ⟨את⟩ Jahvu, jer je izbavio ⟨את⟩ dušu siromašna iz ruke zlocínaca.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Pjevajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "slavite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "izbavio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušu siromašna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "siromašna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlocínaca"
+    }
+  ],
+  "timestamp": "2026-10-04T18:25:31.379961403Z",
+  "model": "glm-5.3"
+}

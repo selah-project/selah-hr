@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Na svome ležaju po noćima tražila sam ⟨את⟩ onoga koga ljubi duša moja; tražila sam ga i ne nađoh ga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "svome ležaju"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "po noćima"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "tražila sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onoga koga ljubi duša moja"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "koga ljubi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "tražila sam ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nađoh ga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:02.489783834Z",
+  "model": "glm-5.3"
+}

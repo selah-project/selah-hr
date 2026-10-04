@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A Atalija, majka Ahazjina, vidje da joj sin umrije, pa ustade i uništi ⟨את⟩ sve sjeme kraljevstva.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "A Atalija"
+    },
+    {
+      "surface": "אם",
+      "gloss": "majka"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazje"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umrije"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "joj sin"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "pa ustade"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "uništi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve sjeme kraljevstva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstva"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:34.719763443Z",
+  "model": "glm-5.3"
+}

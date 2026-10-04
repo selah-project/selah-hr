@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Sluga sam tvoj — daj mi razumijevanje, i spoznat ću ⟨את⟩ tvoja svjedočanstva.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja ⟨sam⟩"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "daj mi razumijevanje"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "i spoznat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoja svjedočanstva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:12.097474438Z",
+  "model": "glm-5.3"
+}

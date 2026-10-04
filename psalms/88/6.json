@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Među mrtvima sam slobodan, kao pobijeni koji leže u grobu, kojih se više ne spominješ, i oni su od tvoje ruke odsječeni.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "među mrtvima"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "slobodan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "pobijeni"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "koji leže"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "u grobu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "spominješ se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "od tvoje ruke"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "odsječeni su"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:23.045643448Z",
+  "model": "glm-5.3"
+}

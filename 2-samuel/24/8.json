@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I obiđoše svu zemlju, pa dođoše nakon devet mjeseci i dvadeset dana u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "i obiđoše"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "pa dođoše"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devet"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mjeseci"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:08.117790396Z",
+  "model": "glm-5.3"
+}

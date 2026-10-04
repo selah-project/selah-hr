@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Evo, Elohim ⟨je⟩ pomoćnik moj; Adonaj ⟨je⟩ među onima koji podupiru dušu moju.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomoćnik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "među onima koji podupiru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu moju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:57.875263034Z",
+  "model": "glm-5.3"
+}

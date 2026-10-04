@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Blago ljudima tvojim, blago ovim slugama tvojim, koji stoje pred tobom stalno i slušaju ⟨את⟩ mudrost tvoju!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blago"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ljudima tvojim"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blago"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "slugama tvojim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovim"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "koji stoje"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "i slušaju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudrost tvoju"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "mudrost tvoju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:03.317901634Z",
+  "model": "glm-5.3"
+}

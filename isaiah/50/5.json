@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Adonaj Jahve otvori ⟨mi⟩ uho, a ja ne pobunih se, unatrag se ne povukoh.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mi⟩"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "pobunih se"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "unatrag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "povukoh se"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:34.855927719Z",
+  "model": "glm-5.3"
+}

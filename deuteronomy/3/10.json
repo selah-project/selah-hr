@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "sve gradove ravnice i sav Gilad i sav Bašan do Salhe i Edreja, gradove kraljevstva Oga u Bašanu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ravnice"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salhe"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "i Edreja"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "u Bašanu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:48.401026810Z",
+  "model": "glm-5.3"
+}

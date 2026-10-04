@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Elohim ne pogrđuj, i kneza u narodu svojemu ne proklinji.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "pogrđuj"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "i kneza"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "u narodu svojemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "proklinji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:27.459028994Z",
+  "model": "glm-5.3"
+}

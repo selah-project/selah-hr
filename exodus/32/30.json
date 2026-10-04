@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 32:30",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I bi sjutradan, pa reče Moše narodu: Vi ste sagriješili grijeh velik; a sada uzaći ću k Jahvi — možda ću okajati grijeh vaš.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sjutradan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pa reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "k"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ste sagriješili"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "grijeh"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "velik"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "uzaći ću"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "možda"
+    },
+    {
+      "surface": "אכפרה",
+      "gloss": "ću okajati"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "grijeh vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:59.800205391Z",
+  "model": "glm-5.3"
+}

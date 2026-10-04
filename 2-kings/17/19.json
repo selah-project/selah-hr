@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Čak ni Juda ne čuva ⟨את⟩ zapovijedi Jahve, Elohima svojega, nego hodiše u uredbama Jisraela koje oni načiniše.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "čak i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohima svojega"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nego hodiše"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "u uredbama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:56.349741141Z",
+  "model": "glm-5.3"
+}

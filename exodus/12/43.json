@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I reče Jahve Mošeu i Aharonu: Ovo je uredba pasha: svaki sin tuđinac neka ne jede od njega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu i Aharonu (kome)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharonu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "uredba"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđinac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka jede"
+    },
+    {
+      "surface": "בו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:48.909128795Z",
+  "model": "glm-5.3"
+}

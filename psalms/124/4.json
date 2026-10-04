@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "onda bi nas vode preplavile, potok bi prešao preko duše naše,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "onda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "bi nas preplavile"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "potok"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bi prešao"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "duše naše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:04.343673470Z",
+  "model": "glm-5.3"
+}

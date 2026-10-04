@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Zahvaljivat ću ti u velikomu zboru, među narodom moćnim slavit ću te.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "zahvaljivat ću ti"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zboru"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velikomu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "među narodom"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "moćnim"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "slavit ću te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:07.222230793Z",
+  "model": "glm-5.3"
+}

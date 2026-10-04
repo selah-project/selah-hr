@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "u zemlju koja teče mlijekom i medom, jer neću uzići usred tebe, jer narod si tvrde šije, da te ne bih uništio na putu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "koja teče"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mlijekom"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "i medom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ću uzići"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "usred tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrde"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "šije"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "uništio te"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:51.343680108Z",
+  "model": "glm-5.3"
+}

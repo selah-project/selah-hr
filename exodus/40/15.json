@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I pomaži ⟨את⟩ ih kao što si pomazao ⟨את⟩ njihova oca, da mi svećeniče; i njihovo pomazanje bit će im za svećeništvo vječno za njihove naraštaje.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "i pomaži"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "si pomazao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova oca"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "njihova oca"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "da svećeniče"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "להית",
+      "gloss": "za"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "njihovo pomazanje"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "za svećeništvo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječno"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "za njihove naraštaje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:40.468919503Z",
+  "model": "glm-5.3"
+}

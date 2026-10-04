@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Evo, zatrt ću Bašuu i njegov dom, i dat ću ⟨את⟩ tvoj dom kao dom Jeroboama, sina Nebatova.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Evo"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "zatrt ću"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨protiv⟩"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašuu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegov dom"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoj dom"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvoj dom"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kao dom"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:42.535859206Z",
+  "model": "glm-5.3"
+}

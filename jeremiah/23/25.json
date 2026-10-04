@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Čuo sam ⟨את⟩ što rekoše proroci prorokujući laž u moje ime govoreći: Sanjao sam, sanjao sam.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Čuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što rekoše proroci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rekoše"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroci"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "prorokujući"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "u moje ime"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sanjao sam"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sanjao sam"
+    }
+  ],
+  "timestamp": "2026-10-04T18:27:25.841834911Z",
+  "model": "glm-5.3"
+}

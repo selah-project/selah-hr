@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve će dati da kiša tvoje zemlje bude prašina i prah; s neba će padati na tebe dok ne budeš uništen.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "će dati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kišu"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "kišu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tvoje zemlje"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "prašinu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "i prah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "će padati"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ne budeš uništen"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:42.934419743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i ⟨את⟩ Jebuseja i ⟨את⟩ Amoreja i ⟨את⟩ Girgašejca.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jebuseja"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebuseja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Amoreja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoreja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgašejca"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgašejca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:28.806391868Z",
+  "model": "glm-5.3"
+}

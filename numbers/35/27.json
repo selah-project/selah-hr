@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "i nađe ⟨את⟩ ga krvni osvetnik izvan granice grada utočišta njegova, i ubije krvni osvetnik ⟨את⟩ ubojicu — nema na njemu krvi.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "i nađe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "osvetnik"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvni"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "granice"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "utočišta njegova"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "i ubije"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "osvetnik"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubojicu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ubojicu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krvi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:11.827468253Z",
+  "model": "glm-5.3"
+}

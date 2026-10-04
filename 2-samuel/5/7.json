@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Ali David osvoji ⟨את⟩ utvrdu Cion, to jest grad Davidov.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "osvoji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utvrdu Cion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "utvrdu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:14.880072780Z",
+  "model": "glm-5.3"
+}

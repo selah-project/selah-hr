@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I neka bude Jahve sucem, i neka sudi između mene i tebe, i neka vidi, i neka zauzme ⟨את⟩ parnicu moju, i neka me izbavi iz ruke tvoje.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i neka bude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "sucem"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "i neka sudi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "i tebe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i neka vidi"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "i neka zauzme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parnicu moju"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "parnicu moju"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "i neka me izbavi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz ruke tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:01.498164977Z",
+  "model": "glm-5.3"
+}

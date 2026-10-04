@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I življaše Ever trideset i četiri godine, i rodi ⟨את⟩ Pelega.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelega"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:04.533378270Z",
+  "model": "glm-5.3"
+}

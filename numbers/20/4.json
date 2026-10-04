@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I zašto dovedoste ⟨את⟩ zbor Jahvin u ovu pustinju, da ondje umremo mi i stoka naša?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "dovedoste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbor Jahvin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinju"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "da umremo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "i stoka naša"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:30.596136514Z",
+  "model": "glm-5.3"
+}

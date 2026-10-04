@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Nećeš li se vratiti i oživjeti nas, da se narod tvoj raduje u tebi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nećeš li"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vratiti"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "oživjeti nas"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "da se narod tvoj"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "raduje"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:08.998628310Z",
+  "model": "glm-5.3"
+}

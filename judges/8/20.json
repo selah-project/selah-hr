@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče Jeteru, prvorođencu svome: Ustaj, ubij ⟨את⟩ njih. Ali mladić ne izvuče mača svojega, jer se bojao, jer još bijaše mladić.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Jeteru"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "prvorođencu svome"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustaj"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ubij"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih (Zebah i Calmuna)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "izvuče"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mača svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se bojao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "još bijaše"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladić"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:21.382970228Z",
+  "model": "glm-5.3"
+}

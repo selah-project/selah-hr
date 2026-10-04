@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Hesed moj i tvrđava moja, visoko utočište moj i izbavitelj moj, štit moj, u njega se zaklanjam, koji podlaže narod moj pod me.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesed moj"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "i tvrđava moja"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "visoko utočište moj"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i izbavitelj moj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨moj⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "štit moj"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "u njega"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "zaklanjam se"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "koji podlaže"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod moj"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pod me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.164010603Z",
+  "model": "glm-5.3"
+}

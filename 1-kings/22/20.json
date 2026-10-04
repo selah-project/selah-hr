@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče Jahve: Tko će zavariti ⟨את⟩ Ahava, da ode gore i padne u Ramotu Giladu? I jedan je govorio ovako, a drugi je govorio onako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "će zavariti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahava"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "da ode gore"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "i padne"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "u Ramotu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i govorio je"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a drugi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govorio je"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "onako"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:48.509904542Z",
+  "model": "glm-5.3"
+}

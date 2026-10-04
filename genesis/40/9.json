@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I kazivao je nadstojnik točila ⟨את⟩ san svoj Josefu te mu reče: U snu mojemu, i gle, trs preda mnom.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "i kazivao je"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nadstojnik"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "točila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "san svoj"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "san svoj"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Josefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "u snu mojemu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "trs"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda mnom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:50.329843676Z",
+  "model": "glm-5.3"
+}

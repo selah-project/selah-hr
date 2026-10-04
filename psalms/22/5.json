@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "U tebe se uzdali oci naši; uzdali su se, i ti si ih izbavio.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "uzdali su se"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "oci naši"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "uzdali su se"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "i izbavio si ih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:46.302577144Z",
+  "model": "glm-5.3"
+}

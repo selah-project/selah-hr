@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Zašto, Jahve, odbacuješ moju dušu, skrivaš lice svoje od mene?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "odbacuješ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moju dušu"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skrivaš"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:17.626203525Z",
+  "model": "glm-5.3"
+}

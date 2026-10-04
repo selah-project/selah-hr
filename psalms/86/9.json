@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Svi narodi koje si stvorio doći će i poklonit će se pred tobom, Adonaj, i slavit će tvoje ime.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si stvorio"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "doći će"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i poklonit će se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "i slavit će"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:04.741653312Z",
+  "model": "glm-5.3"
+}

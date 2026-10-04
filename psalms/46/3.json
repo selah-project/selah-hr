@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "Zato se nećemo bojati kad se premjesti zemlja i kad se planine pometnu u srce mora.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "bojati ćemo se"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "kad se premjesti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "i kad se pometnu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "planine"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "u srce"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:03.285548925Z",
+  "model": "glm-5.3"
+}

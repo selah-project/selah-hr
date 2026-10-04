@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Siromaha mrzi čak i njegov bližnji, a ljubitelja bogataša ima mnogo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "čak"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "njegov bližnji"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "mrzi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "a ljubitelji"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogataša"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:34.465431123Z",
+  "model": "glm-5.3"
+}

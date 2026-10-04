@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Faraon, kralj micrajski, bijaše podigao se i zauzeo ⟨את⟩ Gezer, i spalio ga ognjem, a ⟨את⟩ Kanaanca što je živio u gradu ubio, i dade ga kao miraz kćeri svojoj, ženi Šalamunovoj.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajski"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bijaše podigao se"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i zauzeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "i spalio ga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kanaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanca"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "što je živio"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ubio"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "i dade ga"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "kao miraz"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "kćeri svojoj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalamunovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:27.862994965Z",
+  "model": "glm-5.3"
+}

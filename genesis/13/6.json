@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I ne mogaše zemlja nositi ⟨את⟩ njih da stanuju zajedno, jer im bijaše imanje veliko, i ne mogoše stanovati zajedno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "I ne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mogaše nositi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da stanuju"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "imanje njihovo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogoše"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "stanovati"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:49.917514203Z",
+  "model": "glm-5.3"
+}

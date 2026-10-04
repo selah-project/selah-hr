@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Neće se postidjeti u vrijeme zla, i u dane gladi nasitit će se.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "postidjeti se"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "i u dane"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "gladi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasitit će se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:46.815220428Z",
+  "model": "glm-5.3"
+}

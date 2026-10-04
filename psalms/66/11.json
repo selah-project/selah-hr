@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Uveo si nas u zamku, stavio si pritisak na naše bokove.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "uveo si nas"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "u zamku"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "stavio si"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "pritisak"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "na bokove naše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:33.363845896Z",
+  "model": "glm-5.3"
+}

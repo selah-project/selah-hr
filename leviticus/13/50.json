@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I svećenik će pogledati ⟨את⟩ ranicu, i zatvoriti ⟨את⟩ ranicu sedam dana.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i pogledat će"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranicu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranicu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i zatvorit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranicu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ranicu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:48.130812658Z",
+  "model": "glm-5.3"
+}

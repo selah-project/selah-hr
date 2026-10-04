@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I vaš će savez sa ⟨את⟩ smrću biti poništen, i vaše viđenje sa ⟨את⟩ Šeolom neće se održati; bič koji plavi kad prođe — i bit ćete njemu za gaženje.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "i bit će poništen"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "vaš savez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smrću"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "i vaše viđenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šeolom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šeolom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "će se održati"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "bič"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "koji plavi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "prođe"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "i bit ćete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "za gaženje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:57.213084125Z",
+  "model": "glm-5.3"
+}

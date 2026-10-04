@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I reče David: Jahve, Elohim Jisraelov, sluga tvoj čuo je da Šaul sprema doći u Keilu da razorí grad zbog mene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "čuo je"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zasigno"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sprema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "doći"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "da razorí"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "zbog mene"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:48.324332821Z",
+  "model": "glm-5.3"
+}

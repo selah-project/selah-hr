@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Aram s istoka i Plištimci sa zapada, i proždiru ⟨את⟩ Jisrael svakim ustima. Usred svega toga gnjev ⟨se njegov⟩ nije vratio, i još je ruka njegova ispružena.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "s istoka"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "i Plištimci"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "sa zapada"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "i proždiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svakim"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ustima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "usred svega"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vratio"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gnjev njegov"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "i još"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruka njegova"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ispružena"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:19.955391147Z",
+  "model": "glm-5.3"
+}

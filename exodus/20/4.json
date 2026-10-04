@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ne pravi sebi lika ni kakve slike onoga što je na nebu gore, ni onoga što je na zemlji dolje, ni onoga što je u vodama pod zemljom.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "pravi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "lika"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni kakva"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "slika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onoga što je"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebu"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni onoga što je"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dolje"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ni onoga što je"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodama"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:38.089901248Z",
+  "model": "glm-5.3"
+}

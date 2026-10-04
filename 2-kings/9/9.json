@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I učinit ću ⟨את⟩ dom Ahavov kao dom Jarovama, sina Nevatova, i kao dom Baše, sina Ahijina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i učinit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Ahavov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kao dom"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatova"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "i kao dom"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahijina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:36.103802668Z",
+  "model": "glm-5.3"
+}

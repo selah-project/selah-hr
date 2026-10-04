@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I kad sunce zađe, on će se očistiti, i poslije toga jest će od svetih stvari, jer kruh je njegov.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "i kad zađe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "očistit će se"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "i poslije toga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jest će"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetih stvari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kruh je njegov"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:59.874857027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I neka svuče ⟨את⟩ haljine svoje i obuče druge haljine, i neka iznese ⟨את⟩ pepeo izvan tabora na čisto mjesto.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "i neka svuče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "i obuče"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "haljine"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "druge"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "i neka iznese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pepeo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pepeo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:31.835110975Z",
+  "model": "glm-5.3"
+}

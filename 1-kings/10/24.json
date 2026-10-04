@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I sva je zemlja tražila ⟨את⟩ lice Šelomino, da čuje ⟨את⟩ mudrost njegovu koju Elohim dade u srce njegovo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "tražila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice Šelomino"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomino"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "da čuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudrost njegovu"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "mudrost njegovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "u srce njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:35.634395276Z",
+  "model": "glm-5.3"
+}

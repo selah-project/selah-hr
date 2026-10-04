@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A ako rob otvoreno rekne: Zaljubio sam ⟨את⟩ svoga gospodara, ⟨את⟩ svoju ženu i ⟨את⟩ svoju djecu — neću izići slobodan —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "otvoreno reče"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "rob"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "zaljubio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga gospodara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svoga gospodara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ženu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "svoju ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju djecu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "svoju djecu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "izići"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "slobodan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:50.940066879Z",
+  "model": "glm-5.3"
+}

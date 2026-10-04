@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I Jahve izbavi ⟨את⟩ Hizkijahu i ⟨את⟩ stanovnike Jerušalajima iz ruke Sanheriba, kralja Ašura, i iz ruke svih, i vodio ih je sa svih strana.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "i izbavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizkijahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stanovnike Jerušalajima"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanheriba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i iz ruke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "i vodio ih je"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa svih strana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:04.531260115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Elohim moj, vičem danju, a ne odgovaraš, i noću, i nema ⟨tišine⟩ za me.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vičem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "danju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odgovaraš"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noću"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tišine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:24.754935138Z",
+  "model": "glm-5.3"
+}

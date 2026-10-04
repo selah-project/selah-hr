@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I poslije njega sudio je ⟨את⟩ Jisraelu Avdon, sin Hilela, Piratonac.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i sudio je"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "poslije njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hilela"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratonac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:52.329544526Z",
+  "model": "glm-5.3"
+}

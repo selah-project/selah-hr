@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Tora je Jahvina savršena, dušu vraća; svjedočanstvo je Jahvino vjerno, prostačka čini mudrim.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "savršena"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "vraća"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svjedočanstvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "vjerno"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "čini mudrim"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "prostačka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:32.708705457Z",
+  "model": "glm-5.3"
+}

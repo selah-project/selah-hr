@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: Baci ga na zemlju! I baci ga na zemlju, i postade zmija, te pobježe Moše ispred nje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "baci ga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "i baci ga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i postade"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "zmija"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "te pobježe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ispred nje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:41.069766669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer će sinovi Jisraelovi dugo dana sjediti bez kralja i bez kneza, i bez žrtve i bez stupa, i bez efoda i terafima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "će sjediti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stupa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i bez"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "i terafima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:10.499235912Z",
+  "model": "glm-5.3"
+}

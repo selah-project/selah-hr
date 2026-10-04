@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I jeo si i nasitio se, pa blagoslovi ⟨את⟩ Jahvu, Elohim svojega, za dobru zemlju koju ti je dao.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "i jeo si"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "i nasitio si se"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "pa blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:54.383086129Z",
+  "model": "glm-5.3"
+}

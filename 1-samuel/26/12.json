@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I uze David ⟨את⟩ koplje i ⟨את⟩ posudu vode s uzglavlja Šaulova, i otiđoše svojom stranom; nitko nije vidio, nitko znao, nitko se probudio, jer svi spavahu, jer tardema, san dubok od Jahve, pade na njih.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koplje"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "koplje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "posudu vode"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "posudu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "s uzglavlja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulova"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i otiđoše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "svojom stranom"
+    },
+    {
+      "surface": "ויאין",
+      "gloss": "i nitko",
+      "note": ""
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nitko nije"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nitko"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "znao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nitko se"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "probudio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "spavahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "tardema, san dubok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "pade"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:03.212368161Z",
+  "model": "glm-5.3"
+}

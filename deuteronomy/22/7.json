@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Otpusti ćeš otpustiti ⟨את⟩ majku, a ⟨את⟩ mlade uzet ćeš sebi, da ti bude dobro i da produžiš dane.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "otpuštanje"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ćeš otpustiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majku"
+    },
+    {
+      "surface": "האם",
+      "gloss": "majku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mlade"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mlade"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzet ćeš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bude dobro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "i da produžiš"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:31.458347146Z",
+  "model": "glm-5.3"
+}

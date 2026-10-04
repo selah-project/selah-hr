@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I reče narod Šemuelu: Tko je onaj koji je rekao: Šaul da kraljuje nad nama? Dajte nam te ljude da ih pogubimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "je onaj koji je rekao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "da kraljuje"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nama"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Dajte"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "te ljude"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "da ih pogubimo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:44.447221929Z",
+  "model": "glm-5.3"
+}

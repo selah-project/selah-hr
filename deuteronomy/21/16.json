@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "tada, u dan kad sinovima daje ⟨את⟩ baštinu, ⟨את⟩ sve što ima, ne smije dati prvenstvo sinu ljubljene pred sinom mržene, prvencem.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "kad daje baštinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinovima"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što ima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "smije"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "dati prvenstvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu ljubljene"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "ljubljene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinom"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "mržene"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "prvenca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:41.447302718Z",
+  "model": "glm-5.3"
+}

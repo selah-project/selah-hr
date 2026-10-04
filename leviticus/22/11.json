@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A svećenik, ako novčanicim stekne neku dušu kao svoj posjed, smije jesti od nje; i rođen u njegovoj kući — oni smiju jesti njegova kruha.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "a svećenik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "stekne"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "kao posjed"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "novčanicim svojim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smije jesti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "od nje"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "i rođen"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "u njegovoj kući"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "smiju jesti"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "njegova kruha"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:23.574809250Z",
+  "model": "glm-5.3"
+}

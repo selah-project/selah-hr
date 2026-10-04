@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Jer kao što silazi dažđ i snijeg s neba i onamo se ne vraća, nego napoji ⟨את⟩ zemlju, i rađa je i naponja, i daje sjeme sijaču i kruh onomu koji jede —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "silazi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "dažđ"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "i snijeg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vraća se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "napoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "i rađa je"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "i naponja je"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i daje"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "sijaču"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "i kruh"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "onome koji jede"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:10.231159877Z",
+  "model": "glm-5.3"
+}

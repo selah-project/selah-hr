@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I sutradan dođoše Plštim da plijene ⟨את⟩ poginule, i nađoše ⟨את⟩ Šaula i ⟨את⟩ njegove sinove how leže na gori Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I sutradan ⟨bi⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sutradan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plštim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "da plijene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poginule"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "poginule"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "i nađoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "how leže"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:35.736765931Z",
+  "model": "glm-5.3"
+}

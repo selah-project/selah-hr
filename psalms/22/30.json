@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jest će i klanjat će se svi ugojeni zemlje pred njim; klečat će svi koji silaze u prah, i onaj koji ne može oživjeti svoje duše.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "jest će"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "i klanjat će se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ugojeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "klečat će"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "koji silaze"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "u prah"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "i duša njegova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oživjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:33.313543399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "I sada sva njezina rezbarija zajedno sjekirom i dlijetima razbijaju.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "I sada"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "sva njezina rezbarija"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "sjekirom"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "i dlijetima"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "razbijaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.522132951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I neka stave ⟨את⟩ ime moje na sinove Jisraelove, a ja ću ih blagosloviti.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "i neka stave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime moje"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "ću ih blagosloviti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:34.557361484Z",
+  "model": "glm-5.3"
+}

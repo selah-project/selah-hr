@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Kajin upozna ⟨את⟩ svoju ženu, i ona zače i rodi ⟨את⟩ Hanoka; i dogodi se da je graditelj grada, pa prozva ime grada imenom svoga sina Hanoka.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "upozna"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svoju ženu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "zače"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoka"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dogodi se"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "graditelj"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "prozva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "imenom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.297763308Z",
+  "model": "glm-5.3"
+}

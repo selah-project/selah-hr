@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 100,
+  "translation": "Služite ⟨את⟩ Jahvi s radošću, dođite pred lice njegovo s pjesmom!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Služite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radošću"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođite"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred lice njegovo"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "s pjesmom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:18.060035601Z",
+  "model": "glm-5.3"
+}

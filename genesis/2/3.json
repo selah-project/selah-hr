@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I blagoslovi Elohim ⟨את⟩ dan sedmi, i posveti ⟨את⟩ njega, jer u njemu otpočinu od svega djela svojega koje stvori Elohim ⟨neka čini⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan sedmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "dan sedmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "otpočinu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svega"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "djela svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨neka čini⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:36.024251112Z",
+  "model": "glm-5.3"
+}

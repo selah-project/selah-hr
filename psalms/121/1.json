@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 121,
+  "translation": "Pjesma uzlaženja. Podižem oči svoje k gorama: otkud će doći pomoć moja?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "uzlaženja"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Podižem"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gorama"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "otkud"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "će doći"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pomoć moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:38.185830487Z",
+  "model": "glm-5.3"
+}

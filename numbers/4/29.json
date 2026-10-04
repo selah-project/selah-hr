@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Sinove Merari po njihovim obiteljima, po domu njihovih otaca, popiši ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovim obiteljima"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "njihovih otaca"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "popiši"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:30.039072882Z",
+  "model": "glm-5.3"
+}

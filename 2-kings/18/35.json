@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Tko je od svih bogova tih zemalja koji su izbavili ⟨את⟩ zemlje svoje iz ruke moje, da bi Jahve izbavio ⟨את⟩ Jerušalajim iz ruke moje?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko je"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogova"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tih zemalja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "izbavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje svoje"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "zemlje svoje"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz ruke moje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "izbavio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz ruke moje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:39.742531390Z",
+  "model": "glm-5.3"
+}

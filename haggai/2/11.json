@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ovako reče Jahve Cebaot: Upitaj ⟨את⟩ svećenike o Tori i reci:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Upitaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenike"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "o Tori"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i reci"
+    }
+  ],
+  "timestamp": "2026-10-04T18:59:11.358425553Z",
+  "model": "glm-5.3"
+}

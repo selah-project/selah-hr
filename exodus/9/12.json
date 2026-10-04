@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I Jahve učvrsti ⟨את⟩ srce Faraonovo, i ne posluša ih, kao što je Jahve rekao Mošeu.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i učvrsti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce Faraonovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonovo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu ⟨prema⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:33.942206623Z",
+  "model": "glm-5.3"
+}

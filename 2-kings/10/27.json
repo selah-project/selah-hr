@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I porušiše ⟨את⟩ stup Baalov, i porušiše ⟨את⟩ dom Baalov, i načiniše od njega zahod do današnjega dana.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "i porušiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stup Baalov"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stup"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalov"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "i porušiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Baalov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalov"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "i načiniše ga"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "zahodom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "današnjega dana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:12.838097246Z",
+  "model": "glm-5.3"
+}

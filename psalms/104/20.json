@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Postaviš tamu i bude noć; u njoj se miče svaka šumska zvijer.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "postaviš"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noć"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "se miče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaka"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvijer"
+    },
+    {
+      "surface": "יער",
+      "gloss": "šumska"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:13.380664926Z",
+  "model": "glm-5.3"
+}

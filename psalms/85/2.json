@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 85,
+  "translation": "Naklonjen si bio, Jahve, svojoj zemlji; vratio si sužanjstvo Jaakovo.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "naklonjen si bio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svojoj zemlji"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "vratio si"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sužanjstvo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:09.230394587Z",
+  "model": "glm-5.3"
+}

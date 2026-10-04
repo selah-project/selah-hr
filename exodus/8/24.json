@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "A Paroh reče: Ja ću poslati ⟨את⟩ vas, i zaklat ćete žrtvu Jahvi, Elohimu svojemu, u pustinji; samo se ne udaljujte previše idući — molite za me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ću poslati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "i zaklat ćete žrtvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu svojemu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "udaljujte se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "previše"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "idući"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "molite"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "za me"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:40.243151738Z",
+  "model": "glm-5.3"
+}

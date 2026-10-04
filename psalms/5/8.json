@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A ja, u obilju tvojega heseda ući ću u tvoj dom, klanjat ću se prema tvome svetom hramu, u strahu tebe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "u obilju"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvojega heseda"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ući ću"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "u tvoj dom"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "klanjat ću se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hramu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvome svetom"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "u strahu tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:58.120501999Z",
+  "model": "glm-5.3"
+}

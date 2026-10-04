@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I plakaše ⟨את⟩ Mošea sinovi Jisraelovi u poljanama moavskim trideset dana; i svršiše se dani plača i žalosti za Mošeom.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "i plakaše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "u poljanama"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moavskim"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "i svršiše se"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dani"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "plača"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "i žalosti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "za Mošeom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:11.133015255Z",
+  "model": "glm-5.3"
+}

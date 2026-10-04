@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Izvedi narod — slijep ⟨a⟩ oči ima, i gluhe ⟨a⟩ uši imaju.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "izvedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עור",
+      "gloss": "slijep"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "a oči"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "i gluhi"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "a uši"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:31.259368230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 30:14",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I slom njegov bit će kao slom posude lončareve, satrvene bez milosrđa, i neće se naći u lomu njezinu krhotine ⟨da⟩ zahvati žara iz ognjišta, ni ⟨da⟩ zahvati vode iz cisterne.",
+  "tokens": [
+    {
+      "surface": "ושברה",
+      "gloss": "i slom njegov"
+    },
+    {
+      "surface": "כשבר",
+      "gloss": "kao slom"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "posude"
+    },
+    {
+      "surface": "יוצרים",
+      "gloss": "lončareve"
+    },
+    {
+      "surface": "כתות",
+      "gloss": "satrvene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "smiluje se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "naći će se"
+    },
+    {
+      "surface": "במכתתו",
+      "gloss": "u lomu njezinu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "krhotina"
+    },
+    {
+      "surface": "לחתות",
+      "gloss": "zahvati žar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "žar"
+    },
+    {
+      "surface": "מיקוד",
+      "gloss": "iz ognjišta"
+    },
+    {
+      "surface": "ולחשף",
+      "gloss": "ni zahvati"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מגבא",
+      "gloss": "iz cisterne"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:05.395622509Z",
+  "model": "glm-5.3"
+}

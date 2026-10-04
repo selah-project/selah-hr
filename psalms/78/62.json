@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I predade ⟨את⟩ narod svoj maču, i razgnjevi se na baštinu svoju.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "i predade"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "maču"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "i na baštinu svoju"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "razgnjevi se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:16.886794382Z",
+  "model": "glm-5.3"
+}

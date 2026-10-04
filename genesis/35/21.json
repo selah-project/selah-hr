@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I Jisrael krenuše i razape ⟨את⟩ šator svoj dalje od Migdal-Edera.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "krenu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "razape"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "šator svoj"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "dalje od"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "kod Migdal-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-Edera"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:35.158837774Z",
+  "model": "glm-5.3"
+}

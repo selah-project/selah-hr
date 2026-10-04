@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zajedno počivaju sužnji, ne čuju glas nadzornika.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "sužnji"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "počivaju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čuju"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nadzornika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:04.017231347Z",
+  "model": "glm-5.3"
+}

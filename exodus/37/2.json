@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I obloži ga čistim zlatom iznutra i izvana, i načini mu vijenac od zlata unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "obloži ga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "i izvana"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "načini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vijenac"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:35.405935987Z",
+  "model": "glm-5.3"
+}

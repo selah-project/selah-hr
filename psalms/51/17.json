@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Adonaj, otvori moja usta, i moja će usta naviještati tvoju hvalu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "i moja usta"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "navijestit će"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvoju hvalu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:37.392882Z",
+  "model": "glm-5.3"
+}

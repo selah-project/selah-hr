@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Rastegni hesed svoj onima koji te poznaju, i cedek svoj onima koji su prava srca!",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Rastegni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed svoj"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "onima koji te poznaju"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "i cedek svoj"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "onima koji su prava"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.959635273Z",
+  "model": "glm-5.3"
+}

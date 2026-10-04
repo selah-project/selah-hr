@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče kralj: Raspolovite ⟨את⟩ živo dijete na dvoje, i podajte ⟨את⟩ polovinu jednoj i ⟨את⟩ polovinu drugoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Raspolovite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živo dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "na dvoje"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "i podajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovinu"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "jednoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "polovinu"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "drugoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:44.512576251Z",
+  "model": "glm-5.3"
+}

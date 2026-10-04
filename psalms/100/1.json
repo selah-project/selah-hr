@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 100,
+  "translation": "Psalam zahvalnosti. Urikite Jahvi, sva zemljo!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "zahvalnosti"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "urikite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:18.059825781Z",
+  "model": "glm-5.3"
+}

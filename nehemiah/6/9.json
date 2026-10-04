@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer svi nas plaše ⟨את⟩ govoreći: Popustit će im ruke od posla i neće biti dovršen. A sada ⟨o Elohime⟩, ojačaj ⟨את⟩ moje ruke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "plaše"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "governing verb: plaše (nas)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "popustit će"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "im ruke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "posla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "biti dovršen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ojačaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje ruke"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ruke"
+    }
+  ],
+  "timestamp": "2026-10-04T19:56:41.770151032Z",
+  "model": "glm-5.3"
+}

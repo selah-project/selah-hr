@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I k nijednoj mrtvoj duši neka ne prilazi; za oca svojega i za majku svoju neka se ne onečisti.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nijednoj"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "duši"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "prilazi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "za oca svojega"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "i za majku svoju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka se ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "onečisti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:31.847593856Z",
+  "model": "glm-5.3"
+}

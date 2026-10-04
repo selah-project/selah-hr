@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I bijaše s srcem Davida, oca mojega, sagraditi dom imenu Jahve, Elohim Jisraelovu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sagraditi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:26.825889036Z",
+  "model": "glm-5.3"
+}

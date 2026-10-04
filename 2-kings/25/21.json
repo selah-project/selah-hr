@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I udari ih kralj Babela i pogubi ih u Rivli, u zemlji Hamat; i zavi Juda sa svoje zemlje.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih (njih — zarobljenike)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "i pogubi ih"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "u Rivli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "i zavi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svoje zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:13.312880258Z",
+  "model": "glm-5.3"
+}

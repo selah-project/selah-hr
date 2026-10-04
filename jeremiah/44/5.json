@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I ne poslušaše, i ne prignu ⟨את⟩ uha svojega da se vrate od zloće svoje, da ne kade drugim bogovima.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušaše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "prignuše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uho svoje"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "da se vrate"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "od zloće svoje"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "kade"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:43.181445047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I čuo sam ⟨את⟩ stenjanje sinova Jisraelovih koje Micrajim tjera na posao, i sjetio sam se svojega saveza.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenjanje"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "stenjanje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "tjera na posao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "i sjetio sam se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saveza"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svojega saveza"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:02.610025164Z",
+  "model": "glm-5.3"
+}

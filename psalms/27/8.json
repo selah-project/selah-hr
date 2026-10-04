@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Tebi reče srce moje: Tražite lice moje! ⟨את⟩ lice tvoje, Jahve, tražit ću.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tražite"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice moje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice tvoje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "tražit ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:23.940446992Z",
+  "model": "glm-5.3"
+}

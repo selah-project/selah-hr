@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Jer se moj mač napojio na nebu; evo, sići će na Edom i na narod mojega prokletstva na sud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "napojio se"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "moj mač"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "sići će"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "mojega prokletstva"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na sud"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:21.697479291Z",
+  "model": "glm-5.3"
+}

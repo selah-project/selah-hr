@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I reče Josip svojoj braći: \"Ja umirem, ali Elohim će vas sigurno pohoditi i dovest će vas iz ove zemlje u zemlju za koju se zakleo Avrahamu, Jicaku i Jaakovu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojoj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braći"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umirem"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ali Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "pohodit će"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sigurno pohoditi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "i dovest će"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koju"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "se zakleo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "i Jaakovu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:57.483577344Z",
+  "model": "glm-5.3"
+}

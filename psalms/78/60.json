@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I napusti Miškan šiloški, šator što ga utabori među ljudima.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "i napusti"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "šiloški"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "utabori"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "među ljudima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:09.491809422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče kralj Jisraelov svojim slugama: Znate li da je naše Ramot-Gilad, a mi šutimo ⟨umjesto⟩ da uzmemo ⟨את⟩ iz ruke kralja Arama?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugama"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "znate li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "je naše"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "šutimo"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "da uzmemo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iz ruke kralja Arama"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:35.095146525Z",
+  "model": "glm-5.3"
+}

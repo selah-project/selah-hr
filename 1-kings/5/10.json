@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I bila je mudrost Šalamova veća od mudrosti svih sinova Istoka i od sve mudrosti Micrajima.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "i bila je veća"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalamova"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "od mudrosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Istoka"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "i od sve"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mudrosti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:02.815789504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I sastadoše se svi ti kraljevi, te dođoše i utaboriše se zajedno kod voda Meroma, da se bore protiv Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "i sastadoše se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "te dođoše"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i utaboriše se"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kod"
+    },
+    {
+      "surface": "מי",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Meroma"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "da se bore"
+    },
+    {
+      "surface": "עם",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:20:31.872126212Z",
+  "model": "glm-5.3"
+}

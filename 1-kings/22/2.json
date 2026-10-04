@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I dogodi se u trećoj godini, te siđe Jehošafat, kralj Jehudin, kralju Jisraelovu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trećoj"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "te siđe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:35.094933143Z",
+  "model": "glm-5.3"
+}

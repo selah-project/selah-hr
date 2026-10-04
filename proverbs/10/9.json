@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Tko hodi u neporočnosti, hodi u sigurnosti, a tko krivi svoje putove, bit će razotkriven.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "tko hodi"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "u neporočnosti"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "u sigurnosti"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "a tko krivi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svoje putove"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bit će razotkriven"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:00.424788687Z",
+  "model": "glm-5.3"
+}

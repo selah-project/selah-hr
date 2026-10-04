@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Savjet siromaha posramili ste, jer Jahve ⟨je⟩ utočište njegovo.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Savjet"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromaha"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "posramili ste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "utočište njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:16.887303312Z",
+  "model": "glm-5.3"
+}

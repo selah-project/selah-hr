@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ne činite ⟨את⟩ svoje duše gnusobom ni s jednim pužućem što puže, i ne onečistite se njima, da se ne onečistite njima.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "činite gnusobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni s jednim"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "pužućem"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "što puže"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "onečistite se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "da se onečistite"
+    },
+    {
+      "surface": "בם",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:28.630486215Z",
+  "model": "glm-5.3"
+}

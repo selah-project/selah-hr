@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I rekoše: Nisi nas tlačio niti potlačio, nisi ni iz čije ruke ništa uzeo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "nas tlačio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "potlačio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "uzeo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čije — čovjeka"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ništa"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:31.849744139Z",
+  "model": "glm-5.3"
+}

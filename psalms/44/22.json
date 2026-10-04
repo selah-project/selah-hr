@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Zar to neće ispitati Elohim? Jer on poznaje tajne srca.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ispitat će"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznaje"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "tajne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:37.083689632Z",
+  "model": "glm-5.3"
+}

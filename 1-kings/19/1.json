@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I javi Ahav Izebeli ⟨את⟩ sve što učini Elija, i ⟨את⟩ sve kako pobi ⟨את⟩ sve proroke mačem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve proroke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroke"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:28.772921616Z",
+  "model": "glm-5.3"
+}

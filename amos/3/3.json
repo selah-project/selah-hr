@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Zar će dvojica ići zajedno, osim ako su se dogovorili?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Zar će ići"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvojica"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "su se dogovorili"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:55.509851984Z",
+  "model": "glm-5.3"
+}

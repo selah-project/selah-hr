@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Zborovođi. Ne uništi. Davidov mihtam, kad je bježao pred Šaulom u pećini.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "uništi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mihtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kad je bježao"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "u pećini"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:36.035665075Z",
+  "model": "glm-5.3"
+}

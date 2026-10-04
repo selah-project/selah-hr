@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A David odlazio je i vraćao se od Šaula, da pase ⟨את⟩ ovce oca svojega u Betlehemu.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odlazio je"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "i vraćao se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "da pase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovce"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehemu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:07.981262258Z",
+  "model": "glm-5.3"
+}

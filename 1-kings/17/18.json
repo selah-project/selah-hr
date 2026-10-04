@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Eliji: Što ja s tobom, čovječe Elohimov? Došao si li k meni da se spomenem ⟨את⟩ svoje krivnje i da se usmrti ⟨את⟩ sina mog?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliji"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovječe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "באת",
+      "gloss": "došao si"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "da se spomenem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje krivnje"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "svoje krivnje"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "i da se usmrti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina mog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mog"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:02.749790774Z",
+  "model": "glm-5.3"
+}

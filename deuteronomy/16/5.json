@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Nećeš moći zaklati ⟨את⟩ pashu u jednome od svojih vrata ⟨koja⟩ Jahve, Elohim tvoj, daje tebi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "moći"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "zaklati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pashu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pasha"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "u jednome"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "svojih vrata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:59.493813368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A zmija bijaše lukavija od sve zvjeradi poljske koju je napravio Jahve Elohim. I reče zmija ženi: Zar ⟨je istina da⟩ je Elohim rekao: Ne smijete jesti ni s jednoga drveta u vrtu?",
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "a zmija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "lukav"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od sve"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvjeradi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljske"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "napravio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ženi ⟨to⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smijete jesti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ni s jednoga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "u vrtu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:23.949742511Z",
+  "model": "glm-5.3"
+}

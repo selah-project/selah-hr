@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Samo je on stijena moja i spasenje moje, utvrda moja; ⟨ne⟩ ću posve biti poljuljan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijena moja"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "i spasenje moje"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "utvrda moja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ću biti poljuljan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "posve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.483099050Z",
+  "model": "glm-5.3"
+}

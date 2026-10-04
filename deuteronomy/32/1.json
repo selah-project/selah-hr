@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Slušajte, nebesa, i govorit ću, i neka čuje zemlja riječi mojih usta.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Slušajte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "i govorit ću"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "i neka čuje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mojih usta"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:00.729369021Z",
+  "model": "glm-5.3"
+}

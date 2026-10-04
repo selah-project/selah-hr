@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I nitko ne reče: Gdje je Eloah, ⟨moj⟩ Stvoritelj, koji daje pjesme u noći?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "Stvoritelj moj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "pjesme"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "u noći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:38:27.554994453Z",
+  "model": "glm-5.3"
+}

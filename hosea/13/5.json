@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ja sam te upoznao u pustinji, u zemlji velike suše.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "upoznao sam te"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "velike suše"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:11.541344202Z",
+  "model": "glm-5.3"
+}

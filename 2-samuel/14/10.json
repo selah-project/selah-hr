@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče kralj: Tko god progovori ⟨את⟩ k tebi, dovedi ga k meni, i neće više dodirnuti tebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "tko god progovori"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "dovedi ga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "više"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dodirnuti"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "בך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:31.499388054Z",
+  "model": "glm-5.3"
+}

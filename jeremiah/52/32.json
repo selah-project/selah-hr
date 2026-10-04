@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "I govoraše ⟨s njime⟩ dobre riječi, i postavi ⟨את⟩ prijestolje njegovo iznad prijestolja kraljeva koji su ⟨s njime⟩ bili u Babelu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I govoraše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njime",
+      "marks": "govoraše s njime"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dobre riječi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijestolje njegovo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "prijestolje njegovo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "prijestolju"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njime",
+      "marks": "bili s njime"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "u Babelu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:36:51.348067919Z",
+  "model": "glm-5.3"
+}

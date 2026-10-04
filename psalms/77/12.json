@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Spominjat ću djela Jahova, jer ću se sjećati od davnina tvojih čuda.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "spominjat ću"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "sjećati se"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "od davnina"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "tvojih čuda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:32.588876374Z",
+  "model": "glm-5.3"
+}

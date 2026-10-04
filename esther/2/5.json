@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Čovjek, Judejac, bijaše u Šušanu, utvrđenom gradu, a ime mu ⟨je⟩ Mordehaj, sin Jairov, sin Šimijev, sin Kišev, Benjaminc.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Čovjek"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Judejac"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "u Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "utvrđenom gradu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a ime mu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jairov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimijev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kišev"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨pripadnik⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjaminc"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:22.719118009Z",
+  "model": "glm-5.3"
+}

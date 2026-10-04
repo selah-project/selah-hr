@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I pobismo ih ⟨את⟩ kao što učinismo Sihonu, kralju Hešbona: sve smo pobili, u svakome gradu ljudi, žene i djecu.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "i pobismo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "učinismo"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbona"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pobismo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "u svakome gradu"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "žene"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "i djecu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:36.170983715Z",
+  "model": "glm-5.3"
+}

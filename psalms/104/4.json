@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Koji svoje glasnike čini ruahima, svoje sluge ognjem koji plamti.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "čini"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "svoje glasnike"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruahima"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "svoje sluge"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "להט",
+      "gloss": "koji plamti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:23.825353622Z",
+  "model": "glm-5.3"
+}

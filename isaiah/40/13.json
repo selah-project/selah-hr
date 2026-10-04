@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Tko je odmjerio ⟨את⟩ ruah Jahve, i koji ga je čovjek njegova nauma poučio?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "odmjerio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah Jahvu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "njegova nauma"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "poučio ga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:46.740877507Z",
+  "model": "glm-5.3"
+}

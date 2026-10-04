@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A smokva im reče: Zar da ostavim ⟨את⟩ svoju slatkoću i ⟨את⟩ svoj dobar plod, i pođem njihati se nad stablima?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "smokva"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "zar da ostavim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju slatkoću"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "svoju slatkoću"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dobar plod"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "svoj plod"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "i pođem"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "njihati se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "stablima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:11.535379996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Vidi moju bijedu i izbavi me, jer tvoje Tore nisam zaboravio.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vidi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "moju bijedu"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "i izbavi me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoje Tore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zaboravio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:12.184724885Z",
+  "model": "glm-5.3"
+}

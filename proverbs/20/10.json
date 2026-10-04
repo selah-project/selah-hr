@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Kamen i kamen, efa i efa — odvratnost su Jahvi čak oba.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "i kamen"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "i efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "odvratnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "čak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:08.439250585Z",
+  "model": "glm-5.3"
+}

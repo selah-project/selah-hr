@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 130,
+  "translation": "Jer je u tebi oproštenje, da bi te se bojali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u tebi"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "oproštenje"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "te se bojali"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:53.312976101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 68,
+  "translation": "Adonaj reče: Iz Bašana ću vratiti, vratit ću iz dubina morskih.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Iz Bašana"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ću vratiti"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vraćat ću"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "iz dubina"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morskih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:26.545477440Z",
+  "model": "glm-5.3"
+}

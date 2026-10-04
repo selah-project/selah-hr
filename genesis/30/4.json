@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I dade mu ⟨את⟩ Bilhu, sluškinju svoju, za ženu, i uđe Jaakov k njoj.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "I dade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhu"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhu"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "sluškinju svoju"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i uđe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njoj"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:58.647084636Z",
+  "model": "glm-5.3"
+}

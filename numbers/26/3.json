@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I govoraše Moše i Elazar svećenik ⟨אתם⟩ u poljanama Moapa, uz Jordan kod Jeriha, govoreći:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I govoraše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "i Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "njima"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "u poljanama"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:01.305075138Z",
+  "model": "glm-5.3"
+}

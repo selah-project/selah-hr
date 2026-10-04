@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče svojim kćerima: a gdje je on? Što ste to ostavile ⟨את⟩ čovjeka? Zovnite ga neka jede kruh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim kćerima ⟨k⟩"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "kćerima svojim"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "a gdje je on"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ostavile ste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "zovnite ga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neka njemu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "neka jede"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:20.351588444Z",
+  "model": "glm-5.3"
+}

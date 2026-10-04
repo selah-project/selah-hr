@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Kad faraon ču za tu stvar, potraži da ubije ⟨את⟩ Mošea; ali Moše pobježe ispred faraona te se nastani u zemlji midijanskoj i sjede uz ⟨את⟩ studenac.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ču"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu stvar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "potraži"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "da ubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ispred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nastani se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midijanskoj"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "studenac"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:31.901387158Z",
+  "model": "glm-5.3"
+}

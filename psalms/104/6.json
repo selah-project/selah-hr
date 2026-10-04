@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Bezdan ⟨je⟩ kao odijelo prekrio; iznad gora stoje vode.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Bezdan"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kao odijelo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "prekrio si"
+    },
+    {
+      "surface": "על",
+      "gloss": "iznad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:14.427452646Z",
+  "model": "glm-5.3"
+}

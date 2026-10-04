@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jahve će se boriti za vas, a vi ćete šutjeti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "će se boriti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vi"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ćete šutjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:17.995553555Z",
+  "model": "glm-5.3"
+}

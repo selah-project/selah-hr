@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I čovjek — ⟨את⟩ svoje svete stvari neka budu njegove; što god čovjek da svećeniku, njemu će pripasti.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje svete stvari"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "svoje svete stvari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegove"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka budu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što god"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "će pripasti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:54.037041010Z",
+  "model": "glm-5.3"
+}

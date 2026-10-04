@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I stvori Elohim ⟨את⟩ čovjeka na sliku svoju; na sliku Elohimovu stvori ⟨את⟩ njega; muško i žensko stvori ⟨את⟩ njih.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "i stvori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "na sliku svoju"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na sliku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "i žensko"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.011452148Z",
+  "model": "glm-5.3"
+}

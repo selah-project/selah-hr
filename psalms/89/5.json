@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Do vijeka utvrdit ću tvoje sjeme, i sagradit ću naraštaju i naraštaju tvoje prijestolje. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "utvrdit ću"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "i sagradit ću"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "naraštaju"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "i naraštaju"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tvoje prijestolje"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:35.980427746Z",
+  "model": "glm-5.3"
+}

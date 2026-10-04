@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A sada: otac moj natovari na vas jaram težak, a ja ću dodati na jaram vaš; otac moj kaznio je ⟨את⟩ vas bičevima, a ja — škorpionima.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "natovari"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "težak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ću dodati"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jaram vaš"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "kaznio je"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bičevima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "škorpionima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:45.003273280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Nema čovjeka koji gospodari ruahom da zadrži ⟨את⟩ ruah; i nema vlasti u dan smrti, i nema otpusta u ratu, i neće spasiti opačina ⟨את⟩ svoga gospodara.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nema"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "koji gospodari"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruahom"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "da zadrži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "vlasti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "otpusta"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u ratu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "spasiti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "opačina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga gospodara"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "svoga gospodara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:54.467872076Z",
+  "model": "glm-5.3"
+}

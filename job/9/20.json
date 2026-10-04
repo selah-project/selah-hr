@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Ako sam pravedan, moja me usta osuđuju; ako sam nevin, on me izjavi pokvarenim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "pravedan sam"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja me usta"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "osuđuju"
+    },
+    {
+      "surface": "תם",
+      "gloss": "nevin sam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "on me izjavi pokvarenim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:28.636023670Z",
+  "model": "glm-5.3"
+}

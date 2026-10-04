@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "koju sklopi ⟨את⟩ Avrahamom, i zakletvu svoju Jicaku:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamom"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "i zakletvu svoju"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:28.476416297Z",
+  "model": "glm-5.3"
+}

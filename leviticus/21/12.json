@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I iz svetišta neka ne izlazi, niti ⟨את⟩ svetište Elohimova svojega neka oskvrnjuje, jer posveta ulja pomazanja Elohimova njegova ⟨jest⟩ na njemu — ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "i iz"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "svetišta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "oskvrnjuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetište Elohimova svojega"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svetište"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimova svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "posveta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulja"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimova njegova"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:31.847746681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne osvećuj se i ne čuvaj srdžbu na ⟨את⟩ sinove svoga naroda, nego ljubi svojega bližnjega kao sebe sama; ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "osvećuj se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "čuvaj srdžbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove svoga naroda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoga naroda"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "nego ljubi"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kao sebe sama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:17.550913873Z",
+  "model": "glm-5.3"
+}

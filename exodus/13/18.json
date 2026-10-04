@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Elohim dakle zaobiđe ⟨את⟩ narod putem pustinje k moru Sud. Naoružani podigoše se sinovi Jisraelovi iz zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "zaobiđe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putem"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "ים",
+      "gloss": "more"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sud"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "naoružani"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "podigoše se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:38.230700974Z",
+  "model": "glm-5.3"
+}

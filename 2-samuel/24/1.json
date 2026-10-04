@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I doda se gnjev Jahve da-plane protiv Jisraela, i on podrazi ⟨את⟩ Davida protiv njih, govoreći: Idi, prebroji ⟨את⟩ Jisrael i ⟨את⟩ Jehudu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "i doda se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "da-plane"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "protiv Jisraela"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "i podrazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "protiv njih"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "prebroji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jehudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:30.595115443Z",
+  "model": "glm-5.3"
+}

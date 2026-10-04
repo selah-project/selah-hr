@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče im: Hebrejac sam, i ⟨את⟩ Jahvu, Elohim neba, ja se bojim — koji je načinio ⟨את⟩ more i ⟨את⟩ kopno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrejac"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojim se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načinio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kopno"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kopno"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:21.119357546Z",
+  "model": "glm-5.3"
+}

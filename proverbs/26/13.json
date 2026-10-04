@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Lijenčina reče: Lav je na putu, lav je među ulicama!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lijenčina"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lav"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "lav"
+    },
+    {
+      "surface": "בין",
+      "gloss": "među"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ulicama"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:17.388606733Z",
+  "model": "glm-5.3"
+}

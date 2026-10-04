@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka bude obilje žita u zemlji, na vrhovima gora neka se njiše; kao Libanon plodom svojim, i neka cvatu iz grada kao travlje zemlje.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "obilje"
+    },
+    {
+      "surface": "בר",
+      "gloss": "žita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na vrhu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "neka se njiše"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kao Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "plodom svojim"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "i neka cvatu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iz grada"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kao travlje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:11.296727266Z",
+  "model": "glm-5.3"
+}

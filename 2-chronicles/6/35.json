@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "ti ćeš čuti s nebesa ⟨את⟩ molitvu njihovu i ⟨את⟩ prošnju njihovu, i učinit ćeš pravo njihovo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ti ćeš čuti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molitvu njihovu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "molitvu njihovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prošnju njihovu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "prošnju njihovu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i učinit ćeš"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "pravo njihovo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:23.895159505Z",
+  "model": "glm-5.3"
+}

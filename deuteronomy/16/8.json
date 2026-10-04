@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Šest dana jest ćeš beskvasni kruh, a sedmoga dana ⟨je⟩ svečani zbor Jahvi, Elohimu tvom; nećeš raditi nikakav posao.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jest ćeš"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "beskvasni kruh"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a dana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmoga"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "svečani zbor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu tvom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "raditi ćeš"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:59.494361039Z",
+  "model": "glm-5.3"
+}

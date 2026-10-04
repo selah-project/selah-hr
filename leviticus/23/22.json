@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A kad žanjete ⟨את⟩ žetvu zemlje vaše, ne dovrsite do kraja rub polja svojega u žetvi svojoj, ni klasja žetve svoje ne sabirajte: siromahu i strancu ostavite ⟨את⟩ njih — Ja Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "kad žanjete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žetvu zemlje vaše"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetvu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "zemlje vaše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "dovrsite do kraja"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "rub"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "polja svojega"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "u žetvi svojoj"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "klasje"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "žetve svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "sabirajte"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "strancu"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ostavite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (rub i klasje)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:24.281149937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ⟨את⟩ svu njegovu salo neka ukloni s njega i zapali na žrtveniku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu njegovu salo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "njegovu salo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "neka ukloni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "s njega"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i zapali"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:33.357033507Z",
+  "model": "glm-5.3"
+}

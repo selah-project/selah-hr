@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Bojte se ⟨את⟩ Jahve, sveti njegovi, jer nema oskudice onima koji ga se boje.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Bojte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "sveti njegovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "oskudice"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "onima koji ga se boje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:45.570857433Z",
+  "model": "glm-5.3"
+}

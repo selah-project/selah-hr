@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "A sada niste vi mene poslali ovamo, nego Elohim; i postavi me za oca faraonu i za gospodara svega njegova doma i za vladara sve zemlje micrajske.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niste"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "poslali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ovamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "i postavi me"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "za oca"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "i za gospodara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegova doma"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "i za vladara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:24.324644761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A on reče: Nisam ja zamutio ⟨את⟩ Jisrael, nego ti i dom oca tvojega, jer ste ostavili ⟨את⟩ zapovijedi Jahvina i pošli za Baalima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "zamutio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "jer ste ostavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovijedi Jahvine"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovijedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "i pošli ste"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:32.071041395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I posluša Jahve Hizkiju, i izliječi ⟨את⟩ narod.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiju"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "izliječi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:47.997524800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Zar Hizkijahu ne nagovara vas da vas preda ⟨את⟩ smrti glađu i žeđu govoreći: Jahve, Elohim naš, izbavit će nas iz ruke kralja Ašura?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zar"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "ne nagovara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da preda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "למות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "gladju"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "i žeđu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "izbavit će nas"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:42.742761348Z",
+  "model": "glm-5.3"
+}

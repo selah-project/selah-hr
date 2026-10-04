@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I David ustade rano ujutro, i ostavi ⟨את⟩ stado čuvaru, i uze i pođe kako mu zapovjedi Jišaj; i dođe do kola opsade, a vojska izlazaše u bojni red i kličaše u boju.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ustade rano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "i ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stado"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stado"
+    },
+    {
+      "surface": "על",
+      "gloss": "čuvaru"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaru"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu zapovjedi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaj"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "do kola opsade"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "a vojska"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "izlazaše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "bojni red"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "i kličaše"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:11.066840315Z",
+  "model": "glm-5.3"
+}

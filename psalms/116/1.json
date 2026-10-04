@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Ljubim, jer Jahve sluša ⟨את⟩ glas moj, moje prošnje.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ljubim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sluša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas moj"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "glas moj"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "moje prošnje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:31.758562896Z",
+  "model": "glm-5.3"
+}

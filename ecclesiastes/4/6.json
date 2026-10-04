@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Bolje puna šaka mira nego pune obje šake truda i zloće ruah.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bolje"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puna"
+    },
+    {
+      "surface": "כף",
+      "gloss": "šaka"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mira"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "nego pune"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "obje šake"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "truda"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "i zloće"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:10.118026702Z",
+  "model": "glm-5.3"
+}

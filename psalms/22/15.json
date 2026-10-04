@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Kao voda razliven sam, i raspršile su se sve kosti moje; postalo je srce moje kao vosak, rastopljen u utrobi mojoj.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "kao voda"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "razliven sam"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "i raspršile su se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kosti moje"
+    },
+    {
+      "surface": "היה",
+      "gloss": "postalo je"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kao vosak"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "rastopljen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "u"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "utrobi mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:13.161220857Z",
+  "model": "glm-5.3"
+}

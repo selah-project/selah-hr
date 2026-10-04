@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I uhvati Hanun ⟨את⟩ sluge Davidove, i obrija ⟨את⟩ polovicu njihovih brada, i odsječe ⟨את⟩ haljine njihove na pola do njihovih zadnjica, i otpusti ih.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uhvati"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge Davidove"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidove"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "i obrija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovicu njihovih brada"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovicu"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "njihovih brada"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i odsječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine njihove"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "haljine njihove"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "na pola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "njihovih zadnjica"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i otpusti ih"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:49.183364617Z",
+  "model": "glm-5.3"
+}

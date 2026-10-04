@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "da nije Jahve bio s nama kad se čovjek digoše ⟨na nas⟩ protiv nas,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "da nije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bio"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "s nama"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "kad se digoše"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "protiv nas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:04.343423418Z",
+  "model": "glm-5.3"
+}

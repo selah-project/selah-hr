@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jesu li ti oči od mesa? Ili kao što smrtnik vidi — vidiš ti?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "jesu li oči"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "od mesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kao što vidi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidiš ti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:34.231647396Z",
+  "model": "glm-5.3"
+}

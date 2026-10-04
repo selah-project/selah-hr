@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I reče narod Jehošui: Ne, ⟨nego⟩ ⟨את⟩ Jahve ćemo služiti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ćemo služiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:02.734901501Z",
+  "model": "glm-5.3"
+}

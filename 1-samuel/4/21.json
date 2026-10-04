@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I dade dječaku ime I-Kavod ⟨u znak⟩ riječi: Otišla je slava iz Jisraela — ⟨jer⟩ uzet je kovčeg Elohimov, i zbog njezina punca i njezina muža.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "i dade ime"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "dječaku"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otišla je"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iz Jisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "uzet je"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i zbog"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "njezina punca"
+    },
+    {
+      "surface": "ו אישה",
+      "gloss": "i njezina muža"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:12.529215588Z",
+  "model": "glm-5.3"
+}

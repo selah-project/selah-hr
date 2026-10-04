@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I sagradi ⟨את⟩ kuću i dovrši je, i obloži ⟨את⟩ kuću gredama i redovima cedrovim.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "I sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "dovrši je"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "gredama"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "i redovima"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "cedrovim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:10.681069088Z",
+  "model": "glm-5.3"
+}

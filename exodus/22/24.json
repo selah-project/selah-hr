@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako posudiš srebro ⟨את⟩ narodu mojemu, ⟨את⟩ siromahu koji je s tobom, ne budi mu kao zajmodavac; ne nametnite mu kamatu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "posudiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narodu mojemu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narodu mojemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siromahu"
+    },
+    {
+      "surface": "העני",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "koji je s tobom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "budi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kao zajmodavac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "nametnite"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:26.193535961Z",
+  "model": "glm-5.3"
+}

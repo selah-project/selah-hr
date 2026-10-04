@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Elohim s neba pogleda na sinove ljudske da vidi ima li razumnoga koji traži ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "s neba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "pogleda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudske"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "razumnoga"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "koji traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:02.089149736Z",
+  "model": "glm-5.3"
+}

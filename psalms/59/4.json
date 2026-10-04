@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Jer gle, vrebaju dušu ⟨moju⟩, skupljaju se na me jaki — nije moja pobuna, ni grijeh moj, Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "vrebaju"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "dušu moju"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "skupljaju se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "jaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pobuna moja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grijeh moj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:23.128651403Z",
+  "model": "glm-5.3"
+}

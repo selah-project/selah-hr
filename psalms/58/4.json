@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Otuđeni su zli od utrobe, lutaju od krila, govoreći laž.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Otuđeni su"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zli"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "od utrobe"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "lutaju"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od krila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laž"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:18.319508535Z",
+  "model": "glm-5.3"
+}

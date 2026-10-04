@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Jer te izvedoh iz zemlje micrajske, iz kuće robovske te otkupih, i poslah pred tobom ⟨את⟩ Mošea, ⟨את⟩ Aharona i Mirjam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "te izvedoh"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovske"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "te otkupih"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "i poslah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "i Mirjam"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:15.505569800Z",
+  "model": "glm-5.3"
+}

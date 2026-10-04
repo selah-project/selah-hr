@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče joj kći Parohova: Idi, uzmi ⟨את⟩ ovo dijete i doji mi ga, a ja ću dati ⟨את⟩ tvoju plaću. I žena uzme ⟨את⟩ dijete i doji ga.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohova"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "i doji ga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću dati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoju plaću"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "tvoju plaću"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "i doji ga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:23.958602393Z",
+  "model": "glm-5.3"
+}

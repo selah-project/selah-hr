@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I posla Jahve ⟨את⟩ svoju ruku te dotače moja usta, i reče Jahve meni: Gle, dadoh svoje riječi u tvoja usta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dotače"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gle"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dadoh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svoje riječi"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "u tvoja usta"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:39.868703975Z",
+  "model": "glm-5.3"
+}

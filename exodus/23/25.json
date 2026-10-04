@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I služit ćete ⟨את⟩ Jahvu, Elohim svojega, i blagoslovit ću ⟨את⟩ kruh svoj i ⟨את⟩ vodu svoju, i uklonit ću bolest iz sredine tvoje.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "i služit ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "i blagoslovit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruh svoj"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "kruh svoj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vodu svoju"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "vodu svoju"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "i uklonit ću"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bolest"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iz sredine tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:54.608755157Z",
+  "model": "glm-5.3"
+}

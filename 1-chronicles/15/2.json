@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Tada reče David: Nije <נ> nositi ⟨את⟩ Kovčeg Elohimov nego leviti, jer u njih je izabrao Jahve da nose ⟨את⟩ Kovčeg Jahvin i da mu služe dovijeka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nije"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nositi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nego"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njih"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izabrao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "da nose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Jahvin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "da mu služe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:19.007340677Z",
+  "model": "glm-5.3"
+}

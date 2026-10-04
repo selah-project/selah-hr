@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Ako zaboravismo ime Elohim svojega, ako raširismo dlanove svoje tuđem elu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "zaboravismo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "raširismo"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "dlanove svoje"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tujem elu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tuđem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:37.083409196Z",
+  "model": "glm-5.3"
+}

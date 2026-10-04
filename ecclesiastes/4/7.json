@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I vratio sam se ja i vidjeh ništavilo pod suncem.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "I vratio sam se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i vidjeh"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ništavilo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:10.118134615Z",
+  "model": "glm-5.3"
+}

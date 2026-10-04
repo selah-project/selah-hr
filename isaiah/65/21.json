@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 65,
+  "translation": "I gradit će kuće i stanovati ⟨u njima⟩, i sadit će vinograde i jesti ⟨את⟩ plod njihov.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "i gradit će"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "i stanovati"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "i sadit će"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vinograde"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "i jesti"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "plod"
+    }
+  ],
+  "timestamp": "2026-10-04T18:19:42.294805740Z",
+  "model": "glm-5.3"
+}

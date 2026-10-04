@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I podiže dvorište oko Miškana i žrtvenika, i objesi zavjesu na vrata dvorišta. I svrši Moše ⟨את⟩ cijelo djelo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvorište"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorište"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "oko"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Miškanu"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "i žrtveniku"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i objesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavjesu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zavjesa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "i svrši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djelo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "djelo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:41.279261931Z",
+  "model": "glm-5.3"
+}

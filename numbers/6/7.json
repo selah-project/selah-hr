@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Zbog oca svojega i majke svoje, brata svojega i sestre svoje neka se ne onečisti njihovom smrću, jer je posveta Elohimova na glavi njegovoj.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "majke svoje"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "sestre svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "onečisti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njihovom"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "posveta"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavi njegovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:43.354077989Z",
+  "model": "glm-5.3"
+}

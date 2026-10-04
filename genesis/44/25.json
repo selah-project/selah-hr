@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "I reče otac naš: Vratite se, nabavite nam malo hrane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otac naš"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vrati se"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nabavite (kruha)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrane"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:55.974993749Z",
+  "model": "glm-5.3"
+}

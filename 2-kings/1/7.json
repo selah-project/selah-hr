@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I upita ih: Kakav je bio sud ⟨את⟩ toga čovjeka koji je izišao pred vas i razgovarao s vama te riječi?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i upita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakav"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "je bio sud"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "toga čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "izišao"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "pred vas"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i razgovarao"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "s vama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:41.510325001Z",
+  "model": "glm-5.3"
+}

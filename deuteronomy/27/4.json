@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I bude kad prijeđete ⟨את⟩ Jordan, podignut ćete ⟨את⟩ ovo kamenje koje ja zapovijedam ⟨את⟩ vama danas na gori Eival, i okrečiti ćeš ih vapnom.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i bude"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "kad prijeđete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "podignut ćete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo kamenje"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vama"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "i okrečiti ćeš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "kamenje"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "vapnom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:01.635293272Z",
+  "model": "glm-5.3"
+}

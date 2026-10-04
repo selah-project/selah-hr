@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "A ovo su sudovi koje ćeš postaviti pred njih.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sudovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ćeš postaviti"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:10.059697446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Tebi, tebi jednome sagriješio sam, i zlo u tvojim očima učinio, da budeš cedek u svojoj riječi, da budeš čist u svojem sudu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tebi jednome"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sagriješio sam"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "i zlo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u tvojim očima"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "budeš cedek"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "u svojoj riječi"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "budeš čist"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "u svojem sudu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.107914758Z",
+  "model": "glm-5.3"
+}

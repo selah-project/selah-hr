@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I ode Natan u kuću svoju, i udari Jahve ⟨את⟩ dijete koje rodi žena Urijina Davidu, i razbolje se ⟨teško⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I ode"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kuću svoju"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "razbolje se"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:30.354866746Z",
+  "model": "glm-5.3"
+}

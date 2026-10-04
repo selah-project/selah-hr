@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I reče mu Jicak otac njegov: Tko si ti? A on reče: Ja sam sin tvoj, prvenac tvoj, Ezav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otac njegov"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sin tvoj"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "prvenac tvoj"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezav"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:39.090579532Z",
+  "model": "glm-5.3"
+}

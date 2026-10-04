@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Ja sam Jahve, Elohim tvoj, koji te izveo iz zemlje micrajske; otvori široko usta svoja, i ja ću ih napuniti!",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "koji te izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "otvori široko"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "usta svoja"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "i ja ću ih napuniti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:25.563780304Z",
+  "model": "glm-5.3"
+}

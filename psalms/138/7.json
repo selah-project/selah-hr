@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 138,
+  "translation": "Ako idem usred tjeskoba, oživljuješ me; protiv srdžbe dušmana mojeg pružaš ruku svoju, i desnica me tvoja izbavlja.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "idem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskoba"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "oživljuješ me"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "אף",
+      "gloss": "srdžbi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dušmana mojeg"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pružaš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "i izbavljaš me"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnica tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.159382290Z",
+  "model": "glm-5.3"
+}

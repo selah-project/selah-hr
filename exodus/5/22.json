@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I vrati se Moše k Jahvi i reče: Adonaj, zašto si zlo učinio ⟨ovomu⟩ narodu ovome? Zašto si me zato poslao?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "zlo si učinio"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "si me poslao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:17.109315624Z",
+  "model": "glm-5.3"
+}

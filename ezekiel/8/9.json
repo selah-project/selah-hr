@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče mi: Uđi i vidi ⟨את⟩ gnusobe zloće koje oni čine ovdje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gnusobe zloće"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "gnusobe"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "zloće"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "čine"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovdje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:09.500571481Z",
+  "model": "glm-5.3"
+}

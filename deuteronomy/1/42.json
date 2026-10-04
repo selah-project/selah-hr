@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I rece Jahve meni: Reci im: Necete se popeti i necete se boriti, jer ja nisam usred vas, da ne budete potuceni pred neprijateljima vasim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i rece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "cete se popeti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "cete se boriti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ja nisam"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "usred vas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "budete potuceni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "neprijateljima vasim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:32.630893864Z",
+  "model": "glm-5.3"
+}

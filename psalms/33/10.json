@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Jahve poništi ⟨את⟩ namjeru naroda, spriječi ⟨את⟩ naume puka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "poništi"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "namjeru"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "spriječi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "naume"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "puka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:40.787896227Z",
+  "model": "glm-5.3"
+}

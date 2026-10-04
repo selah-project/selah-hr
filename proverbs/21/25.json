@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Žudnja lijenca ubija ga, jer su mu ruke odbile raditi.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "žudnja"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lijenca"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "ubija ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "su odbile"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mu ruke"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "raditi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:26:23.094501661Z",
+  "model": "glm-5.3"
+}

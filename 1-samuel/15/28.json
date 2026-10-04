@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče mu Šemuel: Jahve je razderao ⟨את⟩ kraljevstvo Jisraelovo s tebe danas i dao ga tvome bližnjemu, koji je bolji od tebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "razderao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo Jisraelovo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovo"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "s tebe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "i dao ga"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "tvome bližnjemu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "koji je bolji"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:05.828379863Z",
+  "model": "glm-5.3"
+}

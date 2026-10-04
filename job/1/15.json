@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i navališe Šebajci te ih odvedoše, a ⟨את⟩ sluge posikoše oštricama mača; i spašah se samo ja sam da javim tebi.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "navališe"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebajci"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "te ih odvedoše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sluge"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "posikoše"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricama"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "i spašah se"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da javim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:16.387262047Z",
+  "model": "glm-5.3"
+}

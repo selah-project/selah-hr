@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Jahve nas se sjeti, blagoslovit ⟨će⟩, blagoslovit ⟨će⟩ ⟨את⟩ dom Jisraelov, blagoslovit ⟨će⟩ ⟨את⟩ dom Aharonov.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "nas se sjeti"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslovit ⟨će⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslovit ⟨će⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jisraelov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslovit ⟨će⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Aharonov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:18.578555052Z",
+  "model": "glm-5.3"
+}

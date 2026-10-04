@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Mizmor Asafu. Elohime, dođoše narodi u tvoju baštinu, okaljali su ⟨את⟩ hram tvoje svetosti, postavili su ⟨את⟩ Jerušalajim za ruševinu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "u tvoju baštinu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "okaljali su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hram tvoje svetosti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hram"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvoje svetosti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "postavili su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "za ruševinu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:23.405124130Z",
+  "model": "glm-5.3"
+}

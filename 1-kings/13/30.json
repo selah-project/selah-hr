@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I položi ⟨את⟩ njegovo truplo u njegov grob; i ožaloštiše ga ⟨govoreći⟩: Jao, brate moj!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "položi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo truplo"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "njegovo truplo"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "u njegov grob"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ožaloštiše"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Jao"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brate moj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:49.319160950Z",
+  "model": "glm-5.3"
+}

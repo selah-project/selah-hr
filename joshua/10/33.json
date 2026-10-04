@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Tada prijeđe Horam, kralj Gezera, u pomoć ⟨את⟩ Lakišu; i udari ga Jehošua, i ⟨את⟩ njegov narod, dok mu ne ostavi nitko preživjeli.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "prijeđe \/ dođe"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezera"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "u pomoć"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakišu"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakišu"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i udari ga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegov narod"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njegov narod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "preživjeli"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:50.017408098Z",
+  "model": "glm-5.3"
+}

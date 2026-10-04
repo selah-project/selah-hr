@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "I dadoše ⟨את⟩ opake za grob njegov, i ⟨את⟩ bogataša u smrti njegovoj, premda nasilja ne učini ni ne bijaše prijevare u ustima njegovim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dadoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opake"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "opake"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "grob njegov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bogataša"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogataša"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "u smrti njegovoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "premda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni ne"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevare"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "u ustima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:16.540469525Z",
+  "model": "glm-5.3"
+}

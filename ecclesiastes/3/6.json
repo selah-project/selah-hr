@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Vrijeme za traženje i vrijeme za propuštanje; vrijeme za čuvanje i vrijeme za odbacivanje.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "za traženje"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i vrijeme"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "za propuštanje"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vrijeme"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "za čuvanje"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i vrijeme"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "za odbacivanje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:19.247761439Z",
+  "model": "glm-5.3"
+}

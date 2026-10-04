@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 134,
+  "translation": "Podignite svoje ruke u svetost i blagoslivljajte ⟨את⟩ Jahvu!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Podignite"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "u svetost"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "i blagoslivljajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:48.688238187Z",
+  "model": "glm-5.3"
+}

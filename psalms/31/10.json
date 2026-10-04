@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Smiluj mi se, Jahve, jer u tjeskobi sam; od jada izblijeđuje oko moje, duša moja i utroba moja.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj mi se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צר",
+      "gloss": "u tjeskobi sam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "izblijeđuje"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "od jada"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "i utroba moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:04.188083807Z",
+  "model": "glm-5.3"
+}

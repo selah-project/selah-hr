@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Beskvasni kruh jest će se ⟨את⟩ sedam dana, i neka se ne vidi tebi kvasno, i neka se ne vidi tebi kvas u svoj tvojoj međi.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "beskvasni kruh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jest će se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedam dana"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidjet će se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvasno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidjet će se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kvas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svoj"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "tvojoj međi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:01.932230150Z",
+  "model": "glm-5.3"
+}

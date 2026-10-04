@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Izlij jarost svoju na narode koji te ne znaju i na kraljevstva koja imenom tvojim ne zovu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "izli"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "jarost svoju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te znaju"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "imenom tvojim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "zovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.599984124Z",
+  "model": "glm-5.3"
+}

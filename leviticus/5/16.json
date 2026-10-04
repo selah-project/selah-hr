@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I ⟨את⟩ ono u čemu je sagriješio u svetome naknadit će, i ⟨את⟩ petinu njegovu dodati na to, i dat će ⟨את⟩ to svećeniku; i svećenik će izvršiti pomirenje za njega ovnom prinosa krivnje, i oprostit će mu se.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ono u čemu je sagriješio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "je sagriješio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "u"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetome"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "naknadit će"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "petinu njegovu"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "petinu njegovu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "dodati će"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na to"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i dat će"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (svećeniku)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "i svećenik"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "izvršit će pomirenje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "ovnom"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "prinosa krivnje"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i oprostit će se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:21.976287320Z",
+  "model": "glm-5.3"
+}

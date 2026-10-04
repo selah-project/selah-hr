@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Jer tvoj muž je tvoj Tvorac — Jahve Cebaot ime mu je — a Otkupitelj tvoj je Sveti Jisraelov: Elohim sve zemlje bit će nazvan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "tvoj muž"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "tvoj Tvorac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime mu je"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "a Otkupitelj tvoj"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sveti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bit će nazvan"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:09.452476102Z",
+  "model": "glm-5.3"
+}

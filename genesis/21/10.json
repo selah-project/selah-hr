@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče Avrahamu: Otjeraj ovu sluškinju i ⟨את⟩ njezina sina, jer neće naslijediti sin ove sluškinje s mojim sinom, s Jicakom.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "otjeraj"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ovu sluškinju"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezina sina"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "njezina sina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "naslijediti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ove sluškinje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ove"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mojim sinom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicakom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:41.731342957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I u kuću gozbe ne ulazi da sjediš ⟨את⟩ s njima, da jedeš i da piješ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "i u kuću"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gozbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ulazi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da sjediš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "s njima — da jedeš i piješ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da jedeš"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "i da piješ"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:19.218855683Z",
+  "model": "glm-5.3"
+}

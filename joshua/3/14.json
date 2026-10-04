@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dogodi se, kad je narod kretao iz svojih šatora da prijeđe ⟨את⟩ Jordan, a svećenici, nosioci kovčega saveza, iđahu pred narodom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kad je kretao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "iz svojih šatora"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "da prijeđe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "a svećenici"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosioci"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kovčega"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:25.147617402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Kakva korist ima radnik u onome u čemu se trudi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kakva"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "korist"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "radnik"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "u onome"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trudi se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:27.045904406Z",
+  "model": "glm-5.3"
+}

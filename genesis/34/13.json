@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I odgovoriše sinovi Jaakovljevi ⟨את⟩ Šekemu i ⟨את⟩ Hamoru, ocu njegovu, s prijevarom, i rekoše ⟨to⟩ jer je oskvrnuo ⟨את⟩ Dinu, sestru njihovu.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "i odgovoriše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šekema"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hamora"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ocu njegovu"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "s prijevarom"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oskvrnuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinu"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinu"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sestru njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:02.725281223Z",
+  "model": "glm-5.3"
+}

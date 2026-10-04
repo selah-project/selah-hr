@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče ⟨אל⟩ kralju: Istina je riječ koju čuh u svojoj zemlji, o tvojim riječima i o tvojoj mudrosti.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Istina"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuh"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "u svojoj zemlji"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvojim riječima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i o"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tvojoj mudrosti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:11.296472068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Što je bilo, davno je; i ono što će biti, davno je bilo; i Elohim traži ⟨את⟩ ono proganjano.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "davno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i ono što"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "davno"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono proganjano"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "proganjano"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.468479112Z",
+  "model": "glm-5.3"
+}

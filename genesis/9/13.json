@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "⟨את⟩ svoju luku dao sam u oblak, i bit će za znak saveza između mene i ⟨među⟩ zemljom.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju luku"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "svoju luku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dao sam"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "u oblak"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "za znak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:20.572146176Z",
+  "model": "glm-5.3"
+}

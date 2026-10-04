@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I priznat će ⟨את⟩ krivnju svoju i ⟨את⟩ krivnju otaca svojih: u prijevari kojom su me prevarili, i također da su hodili sa mnom u protivljenju.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "i priznat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krivnju svoju"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "krivnju svoju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krivnju"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivnju"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "u prijevari svojoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojom"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "prevarili su"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i također"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodili su"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "u protivljenju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:53:38.663748413Z",
+  "model": "glm-5.3"
+}

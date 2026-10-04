@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 92,
+  "translation": "I vidje ⟨ga⟩ oko moje na one koji vrebaju na mene, zlikovce koji ustaju na me — čule ga uši moje.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko moje"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "na one koji vrebaju na mene"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "koji ustaju"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlikovce"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "čule ga"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "uši moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:10.231403043Z",
+  "model": "glm-5.3"
+}

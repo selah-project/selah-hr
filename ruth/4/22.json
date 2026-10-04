@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "i Obed rodi ⟨את⟩ Jišaja, a Jišaj rodi ⟨את⟩ Davida.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "i Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "a Jišaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:33.465240279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I neka sinovi Jisraelovi čuvaju ⟨את⟩ Šabat, da vrše ⟨את⟩ Šabat svojim naraštajima, savez vječni.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "i neka čuvaju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da vrše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "svojim naraštajima"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:22.471158121Z",
+  "model": "glm-5.3"
+}

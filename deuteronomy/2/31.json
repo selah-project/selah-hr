@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče Jahve meni: Gle, počeh davati pred tobom ⟨את⟩ Sihona i ⟨את⟩ zemlju njegovu; počni zaposjesti, da zaposjedneš zemlju njegovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "počeh"
+    },
+    {
+      "surface": "תת",
+      "gloss": "davati"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihona"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju njegovu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zemlju njegovu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "počni"
+    },
+    {
+      "surface": "רש",
+      "gloss": "zaposjesti"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "da zaposjedneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju njegovu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zemlju njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:50.622780861Z",
+  "model": "glm-5.3"
+}

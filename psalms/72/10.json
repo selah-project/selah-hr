@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Kraljevi Taršiša i otoci danak će donijeti, kraljevi Ševae i Seve dar će prinijeti.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiša"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "i otoci"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "danak"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "će donijeti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ševae"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "i Seve"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "će prinijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:25.874123284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A kći mu Šeera sagradi ⟨את⟩ Donji Bet-Horon i ⟨את⟩ Gornji i ⟨את⟩ Ucen-Šeeru.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "kći mu"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Šeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Donji Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Donji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gornji"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Gornji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ucen-Šeera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Ucen-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "-Šeera"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:36.383147401Z",
+  "model": "glm-5.3"
+}

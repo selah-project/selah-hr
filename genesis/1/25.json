@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I učini Elohim ⟨את⟩ zvijeri zemaljske po vrstama njihovim, i ⟨את⟩ stoku po vrstama njezinim, i ⟨את⟩ svaki puzavac tla po vrsti svojoj; i vidje Elohim da je dobro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvijeri zemaljske"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvijeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemaljske"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po vrstama njihovim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stoku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "stoku"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po vrstama njezinim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svaki puzavac tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "puzavac"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po vrsti svojoj"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:05.011029294Z",
+  "model": "glm-5.3"
+}

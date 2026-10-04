@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "ali zato sam te uzdržao, da ti pokažem ⟨את⟩ svoju silu, i da se moje ime kazuje na svoj zemlji.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "zato"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "sam te uzdržao"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "da"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ti pokažem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju silu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "svoju silu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i da"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "se kazuje"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje ime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:51.784629680Z",
+  "model": "glm-5.3"
+}

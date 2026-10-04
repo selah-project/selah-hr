@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I uze ⟨את⟩ sve zlato i srebro te ⟨את⟩ sve posuđe nađeno u domu Jahvinu i u riznicama doma kraljevskoga, i ⟨את⟩ taoce ⟨sinove taoca⟩, pa se vratio u Šomron.",
+  "tokens": [
+    {
+      "surface": "ו לקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve zlato i srebro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "i srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve posuđe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "posuđe"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nađeno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "i u riznicama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevskoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taoce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "taoca"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i vratio se"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "u Šomron"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:05.564681778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Onaj od sinova Aharonovih koji prinosi ⟨את⟩ krv žrtava šelamim i ⟨את⟩ salo — njemu neka pripadne desno bedro kao dio.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "prinosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv žrtava šelamim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "žrtava šelamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "neka pripadne"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "bedro"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "desno"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "kao dio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:06.407914482Z",
+  "model": "glm-5.3"
+}

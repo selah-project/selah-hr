@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Njezin muž ⟨je⟩ poznat na gradskim vratima, kad sjedi sa starješinama zemlje.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "poznat"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "na gradskim vratima"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "njezin muž"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "kad sjedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješinama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:33.133735551Z",
+  "model": "glm-5.3"
+}

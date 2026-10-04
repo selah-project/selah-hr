@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I Azarja rodi ⟨את⟩ Amarju, a Amarja rodi ⟨את⟩ Ahituba.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarju"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarju"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "a Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahituba"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituba"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:11.267344165Z",
+  "model": "glm-5.3"
+}

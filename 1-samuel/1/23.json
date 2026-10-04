@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 1:23",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče joj Elcana, njezin muž: Čini što je dobro u tvojim očima, ostani dok ga ne odbiješ od sise; samo neka Jahve izvrši svoju riječ. I ostade žena i dojila je ⟨את⟩ svoga sina dok ga nije odbila od sise.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "joj"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elcana"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "njezin muž"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "Čini"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "što je dobro"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u tvojim očima"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ostani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ne odbiješ od sise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (dijete)"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "neka izvrši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju riječ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "svoju riječ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "I ostade"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "i dojila je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "גמלה",
+      "gloss": "nije odbila od sise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (sina)"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:47.649861505Z",
+  "model": "glm-5.3"
+}

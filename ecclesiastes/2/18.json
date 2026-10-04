@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I ja sam mrzio ⟨את⟩ sav svoj napor kojim se naporno trdim pod suncem, jer ga moram ostaviti čovjeku koji će biti poslije mene.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "i mrzio sam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav svoj napor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "svoj napor"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "kojim se ja"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "naporno trdim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "jer ga ostavljam"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "koji će biti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:57.457846623Z",
+  "model": "glm-5.3"
+}

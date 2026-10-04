@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Kliktat ćemo u spasenju tvome i u ime Elohim našega podignut ćemo stijeg; neka ispuni Jahve sve molbe tvoje.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "kliktat ćemo"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "u spasenju tvome"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "i u ime"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "podignut ćemo stijeg"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "neka ispuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "molbe tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:29.696169725Z",
+  "model": "glm-5.3"
+}

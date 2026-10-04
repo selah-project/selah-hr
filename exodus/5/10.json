@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I iziđu sušci naroda i njegovi pisari te rekoše narodu: Ovako reče Paroh: Ne dajem vama slamu.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i iziđu"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "sušci"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "i njegovi pisari"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "te rekoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dajem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slamu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:58.612559653Z",
+  "model": "glm-5.3"
+}

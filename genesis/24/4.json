@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "nego u moju zemlju i moj rod ići ćeš, i uzet ćeš ženu mojem sinu, Jicaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "moju zemlju"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "moj rod"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ići ćeš"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mojem sinu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:13.519444141Z",
+  "model": "glm-5.3"
+}

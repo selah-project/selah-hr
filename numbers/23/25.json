@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I reče Balak Bileamu: Ne proklinji ga više, ali ni blagoslivljaj ga više.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bileamu"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "više"
+    },
+    {
+      "surface": "קב",
+      "gloss": "proklinji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "više"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslivljaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:02:06.228685402Z",
+  "model": "glm-5.3"
+}

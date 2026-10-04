@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Jehu nađe ⟨את⟩ braću Ahazjaha, kralja Jude, pa im reče: Tko ste vi? A oni rekoše: Braća Ahazjaha smo; sišli smo pozdraviti kraljeve sinove i sinove gospodarice.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "I Jehu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "braću Ahazjaha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "braću"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjaha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste vi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Braća"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjaha"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "smo"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "sišli smo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pozdraviti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i sinove"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "gospodarice"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:29.299777825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "i iz plemena Gad ⟨את⟩ Ramot u Giladu s njegovim pašnjacima, i ⟨את⟩ Mahanajim s njegovim pašnjacima,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "i iz plemena"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "u Giladu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovim pašnjacima"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "njegovim pašnjacima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Mahanajim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovim pašnjacima"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "njegovim pašnjacima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:00:56.735935826Z",
+  "model": "glm-5.3"
+}

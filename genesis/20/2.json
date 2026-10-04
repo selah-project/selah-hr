@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče Avraham o Sari, ženi svojoj: Sestra moja ⟨je⟩. Pa Avimelek, kralj gerarski, posla i uze ⟨את⟩ Saru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sari"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ženi svojoj"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sestra moja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "pa posla"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "gerarski"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saru"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:16.044796634Z",
+  "model": "glm-5.3"
+}

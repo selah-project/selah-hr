@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I siđe Moše s gore k narodu, i posveti ⟨את⟩ narod, te oprahu svoje haljine.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "ההר",
+      "gloss": " gore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": " narodu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "i posveti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "te oprahu"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "svoje haljine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:21.370625383Z",
+  "model": "glm-5.3"
+}

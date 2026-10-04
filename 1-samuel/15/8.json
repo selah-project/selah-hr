@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I uhvati ⟨את⟩ Agaga, kralja Amalekovih, živa, a ⟨את⟩ sav narod uništi ⟨u potpunosti⟩ oštricom mača.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "i uhvati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "uništi ⟨u potpunosti⟩"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:31.067239738Z",
+  "model": "glm-5.3"
+}

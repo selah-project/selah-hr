@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "I izvede Jisraela iz sredine njihove, jer dovijeka je hesed njegov.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "iz sredine njihove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:52.002143707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I ⟨את⟩ pukotine grada Davidova vidjeste, jer se umnožiše, i skupiste ⟨את⟩ vode donjega bazena.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pukotine grada Davidova"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "pukotine"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "vidjeste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "umnožiše se"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "i skupiste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vode donjega bazena"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bazena"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "donjega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:01.039627211Z",
+  "model": "glm-5.3"
+}

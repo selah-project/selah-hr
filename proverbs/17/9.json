@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Tko pokriva prijestup, traži ljubav; a tko ponavlja stvar, razdvaja bliskoga prijatelja.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "pokriva"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prijestup"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "traži"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ljubav"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "a ponavlja"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "razdvaja"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "bliskoga prijatelja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:10.211169094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 5:2",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I dogodi se: kad kralj vidje ⟨את⟩ Ester, kraljicu, gdje stoji u dvoru, nađe milost u njegovim očima; pa kralj ispruži Ester ⟨את⟩ zlatno žezlo koje bijaše u ruci njegovoj; pa pristupi Ester i dotače vrh žezla.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kad vidje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljicu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "u dvoru"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "nađe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    },
+    {
+      "surface": "ויושט",
+      "gloss": "pa ispruži"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatno žezlo"
+    },
+    {
+      "surface": "שרביט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "pa pristupi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "i dotače"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "vrh"
+    },
+    {
+      "surface": "השרביט",
+      "gloss": "žezla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:27.018507152Z",
+  "model": "glm-5.3"
+}

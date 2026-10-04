@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I dogodi se drugoga dana, po ubojstvu ⟨את⟩ Gedaljaha, a nitko nije znao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "po ubojstvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljaha"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljaha"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a nitko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znao"
+    }
+  ],
+  "timestamp": "2026-10-04T18:32:12.690087217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Načini sebi lađu od goferova drveta; odjeljenja načinit ćeš lađi ⟨את⟩, i premažit ćeš ⟨את⟩ je iznutra i izvana smolom.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "lađu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drveta"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "goferova"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "odjeljenja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "načinit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lađa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "lađi"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "i premažit ćeš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ je",
+      "marks": "lađu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "i izvana"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "smolom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:21.179714124Z",
+  "model": "glm-5.3"
+}

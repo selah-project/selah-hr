@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "⟨את⟩ šator sastanka, i ⟨את⟩ Kovčeg Svjedočanstva, i ⟨את⟩ pomirilište koje je na njemu, i ⟨את⟩ sav pribor Šatora —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šator sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Svjedočanstva"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "Svjedočanstva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "je na njemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sav pribor Šatora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pribor"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Šatora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:39.877012054Z",
+  "model": "glm-5.3"
+}

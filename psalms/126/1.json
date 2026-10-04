@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 126,
+  "translation": "Pjesma uzvišenja. Kad Jahve vrati ⟨את⟩ povratak Ciona, bijasmo kao sanjači.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzvišenja"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Kad ... vrati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "povratak Ciona"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "povratak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "bijasmo"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kao sanjači"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:10.437712080Z",
+  "model": "glm-5.3"
+}

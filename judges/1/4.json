@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pope se Jehuda, i dade Jahve ⟨את⟩ Kenaanca i ⟨את⟩ Perižejca u ruku njihovu, i pobiše ih u Bezeku, deset tisuća ljudi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "I pope se"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanca"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanca"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i ⟨את⟩ Perižejca"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "u ruku njihovu"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "i pobiše ih"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "u Bezeku"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:20.073292718Z",
+  "model": "glm-5.3"
+}

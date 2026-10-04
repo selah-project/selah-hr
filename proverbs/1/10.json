@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Sine moj, ako te zavedu grešnici, ne pristaj.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "zavedu te"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grešnici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pristaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.983830575Z",
+  "model": "glm-5.3"
+}

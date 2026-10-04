@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "a sedmi je dan Šabat Jahvi, Elohim tvojemu: ne obavljaš nikakva posla — ni ti, ni sin tvoj, ni kći tvoja, ni sluga tvoj, ni sluškinja tvoja, ni živina tvoja, ni došljak tvoj koji je unutar tvojih vrata.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "a dan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "obavljaš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nikakav"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ni sin tvoj"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ni kći tvoja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ni sluškinja tvoja"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "ni živina tvoja"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ni došljak tvoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "unutar tvojih vrata"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:47.262915876Z",
+  "model": "glm-5.3"
+}

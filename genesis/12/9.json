@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I krenu Avraham, idući i putujući prema jugu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "i krenu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "idući"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "i putujući"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "prema jugu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:26.680126102Z",
+  "model": "glm-5.3"
+}

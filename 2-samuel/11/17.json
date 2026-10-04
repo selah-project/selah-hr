@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I iziđoše ljudi grada pa se borili ⟨את⟩ Joaba, i padoše između naroda, između slugu Davidovih, te umrije i Urija Hitit.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "iziđoše"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "borili se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "padoše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "između"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "između slugu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovih"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "umrije"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitit"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:39.237430887Z",
+  "model": "glm-5.3"
+}

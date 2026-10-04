@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Eno, za svjedočanstvo narodima dadoh ga, za kneza i zapovjednika narodima.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Eno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "za svjedočanstvo"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "dadoh ga"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "za kneza"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "i zapovjednika"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "narodima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:15.217368655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Od svih mojih prijestupa izbavi me, sramotu luđaka ne učini me.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mojih prijestupa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sramotu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "učini me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:24.931825596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Snuje zli protiv pravednika i škrguće na nj zubima svojim.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "snuje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zli"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "protiv pravednika"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "i škrguće"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zubima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:09.388876483Z",
+  "model": "glm-5.3"
+}

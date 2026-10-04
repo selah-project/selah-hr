@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Janje bez mane, muško, staro godinu dana, neka vam bude; od ovnova ili od jaraca uzet ćete ⟨ga⟩.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "janje"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muško"
+    },
+    {
+      "surface": "בן",
+      "gloss": "staro"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godinu dana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ili od"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "jaraca"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "uzet ćete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:24.877925816Z",
+  "model": "glm-5.3"
+}

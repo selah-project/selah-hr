@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I pristadoše svećenici da više ne uzimaju srebro od ⟨את⟩ naroda i da ne utvrđuju ⟨את⟩ pukotine Doma.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "i pristadoše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "uzimaju"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "i da ne"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "utvrđuju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pukotine"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "pukotine"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Doma"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:50.717665506Z",
+  "model": "glm-5.3"
+}

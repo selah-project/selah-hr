@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I reče: Jahve sa Siona riče i iz Jerušalajima daje glas svoj; i tuguju pašnjaci čobanski, i osuši se vrh Karmela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "sa Siona"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "riče"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "i iz Jerušalajima"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "i tuguju"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pašnjaci"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "čobanski"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "i osuši se"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrh"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:26:53.590622261Z",
+  "model": "glm-5.3"
+}

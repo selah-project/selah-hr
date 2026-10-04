@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče mi: sine čovječji, što nađeš, pojedi — pojedi ⟨את⟩ ovu svitak i idi, govori domu Jisraelovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što nađeš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nađeš"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "pojedi"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "pojedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu svitak"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "svitak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "i idi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:51.036870097Z",
+  "model": "glm-5.3"
+}

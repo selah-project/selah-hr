@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I zapovjedi kralj ⟨את⟩ Benajahu, sina Jehojadina, te iziđe i udari ga, te umrije; i kraljevstvo bi utvrđeno u ruci Šelomovoj.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu, sina Jehojadina"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojade"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "te iziđe"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "te umrije"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "i kraljevstvo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "utvrđeno"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruci"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomovoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:34.826875594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dadoše sinovi Jisraela levitima ⟨את⟩ ove gradove i ⟨את⟩ njihova predgrađa, kako je Jahve zapovjedio rukom Mošeom, po goralu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "I dadoše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ove gradove"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ove gradove"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihova predgrađa"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "njihova predgrađa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeom"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "po goralu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:06.084006640Z",
+  "model": "glm-5.3"
+}

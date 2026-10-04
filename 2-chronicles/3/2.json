@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I poče graditi drugoga mjeseca, drugoga ⟨dana⟩, u četvrtoj godini kraljevanja svojega.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "i poče"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "drugoga ⟨dana⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četvrtoj"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "kraljevanja svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:27.266899096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I neće vas poslušati faraon, pa ću staviti ⟨את⟩ ruku svoju na Micrajim i izvest ću ⟨את⟩ vojske svoje, ⟨את⟩ narod svoj, sinove Jisraelove, iz zemlje micrajimske sudovima velikim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "poslušati"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "pa ću staviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Micrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "i izvest ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vojske svoje"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "vojske svoje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod svoj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimske"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "sudovima"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velikim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:57.744974119Z",
+  "model": "glm-5.3"
+}

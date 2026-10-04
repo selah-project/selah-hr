@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jer tko je El osim Jahve? I tko je hridina osim Elohim našega?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "i tko"
+    },
+    {
+      "surface": "צור",
+      "gloss": "hridina"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "osim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:41.608480124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Sjeti me se, molim: kao glinu si me oblikovao i u prah ćeš me vratiti.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Sjeti me se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "kao glinu"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "si me oblikovao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i u"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "ćeš me vratiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:33:47.696572458Z",
+  "model": "glm-5.3"
+}

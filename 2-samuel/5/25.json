@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I učini David tako kako mu je zapovjedio Jahve, i porazi ⟨את⟩ Filistejce od Gebe sve dok ne dođeš do Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu je zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i porazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejce"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "od Gebe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve dok"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ne dođeš"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "do Gezera"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:45.612923612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Davidova. Jahve je svjetlost moja i spasenje moje — od koga ću se bojati? Jahve je utvrda života mojega — od koga ću se plašiti?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "svjetlost moja"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "i spasenje moje"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "od koga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ću se bojati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "utvrda"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "života mojega"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "od koga"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ću se plašiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:29.183646091Z",
+  "model": "glm-5.3"
+}

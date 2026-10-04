@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Srdžbu luđaka već u dan se razabere, a lukavac pokrije sramotu.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "već u dan"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "se razabere"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "srdžba"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "a pokrije"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sramotu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "lukavac"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:29.582168869Z",
+  "model": "glm-5.3"
+}

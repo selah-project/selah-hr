@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Ti znaš kad sjedim i kad ustajem, razumiješ moje misli izdaleka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znaš"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kad sjedim"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "i kad ustajem"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "razumiješ"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "moje misli"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "izdaleka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:00.291399425Z",
+  "model": "glm-5.3"
+}

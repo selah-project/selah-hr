@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I nastani Jošef ⟨את⟩ oca svojega i ⟨את⟩ braću svoju, i dade im posjed u zemlji Micrajima, u najboljem dijelu zemlje, u zemlji Ramseca, kako zapovjedi Paro.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "i nastani"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oca svojega"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "braću svoju"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "posjed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "u najboljem dijelu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ramseca"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:17.282727484Z",
+  "model": "glm-5.3"
+}

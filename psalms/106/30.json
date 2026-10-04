@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I usta Pinhas i molio se, te se zaustavi kuga.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "i molio se"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "te se zaustavi"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "kuga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:11.207245717Z",
+  "model": "glm-5.3"
+}

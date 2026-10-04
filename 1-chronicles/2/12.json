@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Boaz rodi ⟨את⟩ Obeda, a Obed rodi ⟨את⟩ Jišaja.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "a Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "a Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:22.017030786Z",
+  "model": "glm-5.3"
+}

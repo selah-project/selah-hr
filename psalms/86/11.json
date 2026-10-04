@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Nauči me, Jahve, svojem putu; hodat ću u tvojoj istini — ujedini srce moje da se boji imena tvojega.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "nauči me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "svojem putu"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "hodat ću"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "u tvojoj istini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ujedini"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "da se boji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imena tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:04.742009392Z",
+  "model": "glm-5.3"
+}

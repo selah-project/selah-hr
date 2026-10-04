@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Neka me ne stiže noga oholosti, i ruka zlikovaca neka me ne protjera!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Neka ne"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "me stiže"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "noga"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "oholosti"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "i ruka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neka ne"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "me protjera"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.959771405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Uzvraćaju mi zlo za dobro, lišavanjem života moje duše.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "uzvraćaju mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "lišavanjem"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "moje duše"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:53.348464866Z",
+  "model": "glm-5.3"
+}

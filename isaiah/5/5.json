@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "A sada ću ⟨את⟩ vam još javiti što činem svome vinogradu: uklonit ću ⟨את⟩ ogradu njegovu, i bit će za spaljivanje; razbit ću ⟨את⟩ zid njegov, i bit će za gaženje.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ću javiti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "još"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam",
+      "marks": "את"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što činem svome vinogradu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "čineći"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "svome vinogradu"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "uklonit ću"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "ogradu njegovu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "za spaljivanje"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "razbit ću"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "zid njegov"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "za gaženje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:15.484383566Z",
+  "model": "glm-5.3"
+}

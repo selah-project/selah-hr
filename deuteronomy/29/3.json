@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "a Jahve vam nije dao srca da znate, ni očiju da vide, ni ušiju da čuju, sve do dana ovoga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nije"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da znate"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ni očiju"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vide"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ni ušiju"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "da čuju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:08.280812610Z",
+  "model": "glm-5.3"
+}

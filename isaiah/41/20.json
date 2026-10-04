@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Da vide i znaju, da razmisle i shvate zajedno da je ruka Jahvina ovo učinila i da je Sveti Jisraelov to stvorio.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "i znaju"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i razmisle"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "i shvate"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "učinila"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "i Sveti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "stvorio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:05.531576980Z",
+  "model": "glm-5.3"
+}

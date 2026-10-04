@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Za Jahvom će ići ⟨narod⟩; kao lav ⟨će zagrmjeti⟩ — jer on će zagrmjeti, i sinovi će zadrhtati s mora ⟨zapada⟩.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "će ići"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kao lav"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "će zagrmjeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "će zagrmjeti"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "i zadrhtat će"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "s mora"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:52.255833677Z",
+  "model": "glm-5.3"
+}

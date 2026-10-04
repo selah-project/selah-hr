@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ali se babice bojale ⟨את⟩ Elohim i ne učiniše kako im reče kralj Micrajima, nego su ostavile djecu živu — oživjele su ⟨את⟩ djecu.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "bojale su se"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "babice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "im"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ostavile su živu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djeca"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "djecu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:48.670832228Z",
+  "model": "glm-5.3"
+}

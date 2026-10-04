@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A Jaakov pođe svojim putem, i sretoše ga glasnici Elohimovi.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "A Jaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pođe"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "svojim putem"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "i sretoše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "glasnici"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:45.780829665Z",
+  "model": "glm-5.3"
+}

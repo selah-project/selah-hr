@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I usta usred noći i uze ⟨את⟩ sina mojega od mene dok spijah, tvoja sluškinja, i položi ga u svoje krilo, a ⟨את⟩ sina svojega mrtvaga položi u krilo moje.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "i usta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noći"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina mojega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "tvoja sluškinja"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "spijah"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "položi ga"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "u svoje krilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina svojega mrtvaga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvaga"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "položi"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "u krilo moje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:23.226654999Z",
+  "model": "glm-5.3"
+}

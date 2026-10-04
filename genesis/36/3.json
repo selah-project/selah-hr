@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "i ⟨את⟩ Oholibamu, kćer Aninu, kćer Cibonovu, Hivijca.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaelova"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebajota"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:42.561695576Z",
+  "model": "glm-5.3"
+}

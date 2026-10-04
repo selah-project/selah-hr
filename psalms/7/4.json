@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jahve, Elohim moj, ako sam učinio ovo, ako ima nepravde u rukama mojim ⟨dlanovima⟩,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravde"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "u rukama mojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:13.288438865Z",
+  "model": "glm-5.3"
+}

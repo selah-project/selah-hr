@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I govori Jahve Mošeu u pustinji Sinaj ovako:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ovako"
+    }
+  ],
+  "timestamp": "2026-10-04T16:55:14.170365718Z",
+  "model": "glm-5.3"
+}

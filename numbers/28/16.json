@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I u prvom mjesecu, četrnaestoga dana u mjesecu, Pesah je Jahvi.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "i u mjesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvom"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "u četiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:39.671809903Z",
+  "model": "glm-5.3"
+}

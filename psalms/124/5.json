@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 124,
+  "translation": "Tada bi prešla preko naše duše vode bujice, ⟨one⟩ nadute.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prešla preko"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naše duše"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "bujice, nadute"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:42.136228424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I vidje ⟨da⟩ je ona odlučna ići ⟨את⟩ njome, pa prestade govoriti k njoj.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "odlučna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ići"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "njome"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "pa prestade"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:36.757544645Z",
+  "model": "glm-5.3"
+}

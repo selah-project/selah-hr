@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I otide čovjek iz doma Levijeva te uze ⟨את⟩ kćer levijevsku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i otide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijeva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "te uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kćer levijevsku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "levijevska"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:46.459744933Z",
+  "model": "glm-5.3"
+}

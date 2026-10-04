@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Iziđi iz arke, ti i žena tvoja, i sinovi tvoji i žene sinova tvojih ⟨את⟩ s tobom.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "iziđi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "i žena tvoja"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "i sinovi tvoji"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i žene"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinova tvojih"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s tobom ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:15.819713626Z",
+  "model": "glm-5.3"
+}

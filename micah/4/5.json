@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Jer svi narodi idu, svaki u ime svoga boga, a mi idemo u ime Jahve, Elohim našega, zauvijek i svagda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "idu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svoga boga"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "idemo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i svagda"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:29.170529098Z",
+  "model": "glm-5.3"
+}

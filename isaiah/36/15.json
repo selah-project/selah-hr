@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I neka ⟨את⟩ vas Hizkijahu ne tjerá da se uzdate u Jahvu kad kaže: 'Izbavit će nas Jahve; ovaj grad neće biti predan u ruku kralju Ašura.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "tjerá da se uzdate"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kad kaže"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "izbavit"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "će izbaviti nas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "će biti predan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:24.076769456Z",
+  "model": "glm-5.3"
+}

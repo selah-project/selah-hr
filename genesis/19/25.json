@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I prevrnu ⟨את⟩ gradove one i ⟨את⟩ svu dolinu i ⟨את⟩ sve stanovnike gradova i rastinje zemlje.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "i prevrnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gradove one"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "האל",
+      "gloss": "one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu dolinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "dolinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve stanovnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnike"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gradova"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "i rastinje"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:11.274906918Z",
+  "model": "glm-5.3"
+}

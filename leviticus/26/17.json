@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I okrenut ću lice svoje protiv vas, i padat ćete pred neprijateljima svojim, i vladat će nad vama oni koji vas mrze, i bježat ćete iako nitko ne progoni ⟨את⟩ vas.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "okrenut ću"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "protiv vas"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "padat ćete"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "neprijatelji vaši"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "vladat će"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nad vama"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "oni koji vas mrze"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "bježat ćete"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iako nema"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "progonitelja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:02.789857563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Rekoše u srcu svojemu: 'Potlacimo ih sasvim zajedno!' Spalise sva zborista Ela u zemlji.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Rekoše"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "u srcu svojemu"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "Potlacimo ih"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "Spalise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "zborista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:45.522404586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "A reče mu Jehuda: Čovjek je onaj strogo zakleo ⟨את⟩ nas govoreći: Nećete vidjeti lice moje ako brat vaš ne bude ⟨את⟩ vama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "העד",
+      "gloss": "strogo"
+    },
+    {
+      "surface": "העד",
+      "gloss": "zakleo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ćete vidjeti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ako ne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brat vaš"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:11.211989980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I vidje tjesnac njihov, kad ču ⟨את⟩ njihov vapaj.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tjesnac"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njihov"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihov vapaj"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "njihov vapaj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:30.445126335Z",
+  "model": "glm-5.3"
+}

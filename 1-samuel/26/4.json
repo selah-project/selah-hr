@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I posla David uhode, i dozna da je Šaul došao do Nahona ⟨zaista⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "uhode"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "i dozna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nahona"
+    }
+  ],
+  "timestamp": "2026-10-04T17:38:24.271419760Z",
+  "model": "glm-5.3"
+}

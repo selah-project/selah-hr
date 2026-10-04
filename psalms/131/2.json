@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 131,
+  "translation": "Nisam li umirio i utišao dušu svoju, kao dijete odviknuto od prsiju majke svoje; kao dijete odviknuto, takva je duša moja u meni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nisam li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "umirio"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "i utišao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu svoju"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kao dijete odviknuto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "prsiju"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke svoje"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kao dijete odviknuto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:59.403087714Z",
+  "model": "glm-5.3"
+}

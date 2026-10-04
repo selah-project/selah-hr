@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I dogodi se, kad su došli, da pogleda ⟨את⟩ Eliaba i reče: Zaista je pred Jahvom njegov pomazanik.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kad su došli"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "da pogleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliaba"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zaista"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "njegov pomazanik"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:30.289116175Z",
+  "model": "glm-5.3"
+}

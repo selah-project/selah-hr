@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Znam da nema dobra u njima, nego da se vesele i čine dobro u svome životu.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "da se vesele"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "i čine"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "u svome životu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:27.046588698Z",
+  "model": "glm-5.3"
+}

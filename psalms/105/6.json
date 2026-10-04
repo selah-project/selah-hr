@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Sjeme Avrahamovo, sluga njegov, sinovi Jaakova, izabranici njegovi.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Sjeme"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sluga njegov"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "izabranici njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.159562753Z",
+  "model": "glm-5.3"
+}

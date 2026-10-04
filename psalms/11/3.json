@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Kad se temelji ruše — pravedniku, što može ⟨on učiniti⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "temelji"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "se ruše"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravedniku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "može ⟨on učiniti⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:31.030811809Z",
+  "model": "glm-5.3"
+}

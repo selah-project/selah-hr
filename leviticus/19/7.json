@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "A ako bi se doista jelo trećega dana, gnusoba je — neće biti prihvaćeno.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "doista jelo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bi se jelo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trećega"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "biti prihvaćeno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:11.385817383Z",
+  "model": "glm-5.3"
+}

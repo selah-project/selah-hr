@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I narod zemlje pobi ⟨את⟩ sve urotnike protiv kralja Amona, i narod zemlje postavi za kralja ⟨את⟩ Jošijahua, njegova sina, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "pobi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve urotnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "urotnike"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "postavi za kralja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošijahua"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegova sina"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:36.294332200Z",
+  "model": "glm-5.3"
+}

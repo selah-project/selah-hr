@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 21:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Ako se nađe mrtvac u zemlji koju ti daje Jahve, tvoj Elohim, u posjed, pao u polju, a nije poznato tko ga je ubio,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nađe se"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "mrtvac"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "u posjed"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pao"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "nije poznato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ga je ubio"
+    }
+  ],
+  "timestamp": "2026-10-04T17:12:27.541063905Z",
+  "model": "glm-5.3"
+}

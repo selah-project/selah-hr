@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Što ćete činiti na dan određenoga sastanka i na dan blagdana Jahvina?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ćete činiti"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "određenoga sastanka"
+    },
+    {
+      "surface": "vליום",
+      "gloss": "i na dan"
+    },
+    {
+      "surface": "חג",
+      "gloss": "blagdana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:59.283865436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: Ah, Adonaj, pošalji, molim, rukom ⟨onoga koga⟩ budeš slao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pošalji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "budeš slao"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.861601064Z",
+  "model": "glm-5.3"
+}

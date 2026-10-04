@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Mišicom si otkupio narod svoj, sinove Jaakova i Josipa. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "otkupio si"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "mišicom"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "i Josipa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:37.664093861Z",
+  "model": "glm-5.3"
+}

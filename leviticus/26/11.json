@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I postavit ću svoj Miškan među vama, i neće moja nefes osjećati gađenje prema ⟨את⟩ vama.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i postavit ću"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "svoj Miškan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "među vama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "osjećati gađenje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:46.740960812Z",
+  "model": "glm-5.3"
+}

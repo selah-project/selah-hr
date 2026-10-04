@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I bijaše uvečer, te uze ⟨את⟩ Leu, kćer svoju, i dovede ⟨את⟩ nju k njemu; i on uđe k njoj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "uvečer"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "te uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leu"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kćer svoju"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dovede"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i on uđe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:57.040892316Z",
+  "model": "glm-5.3"
+}

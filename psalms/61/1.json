@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Zborovođi, na gudaćim glazbalima, Davidovo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "gudaćim glazbalima"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:01.739430766Z",
+  "model": "glm-5.3"
+}

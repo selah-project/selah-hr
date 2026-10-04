@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Nije sa ⟨את⟩ ocima našim sklopio Jahve ⟨את⟩ ovaj savez, nego ⟨את⟩ s nama — mi smo ti, ovdje danas, svi mi živi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "את",
+      "gloss": "sa ⟨את⟩",
+      "marks": "ocima našim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ocima našim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklopio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj savez"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s nama",
+      "marks": "s nama"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ovdje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "svi mi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:13.220463250Z",
+  "model": "glm-5.3"
+}

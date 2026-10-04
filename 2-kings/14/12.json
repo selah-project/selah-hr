@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I bi Juda potučen pred Jisraelom, i pobježe svaki čovjek u svoj šator.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "i bi potučen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i pobježe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "u svoj šator"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:05.397921147Z",
+  "model": "glm-5.3"
+}

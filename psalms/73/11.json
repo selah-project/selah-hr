@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "I govore: »Kako bi El znao? Ima li znanja u Višnjemu?«",
+  "tokens": [
+    {
+      "surface": "ו אמרו",
+      "gloss": "i govore"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bi znao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ima li"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "znanja"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "u Višnjemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:20.848553510Z",
+  "model": "glm-5.3"
+}

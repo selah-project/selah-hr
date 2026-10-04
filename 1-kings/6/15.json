@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dozida ⟨את⟩ zidove kuće iznutra daskama cedrovim, od poda kuće do zidova stropa; obloži drvetom iznutra, i obloži ⟨את⟩ pod kuće daskama čempresa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i dozida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zidove kuće"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "zidove"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "daskama"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrovim"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "od poda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "zidova"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "stropa"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvetom"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iznutra"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pod kuće"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "daskama"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "čempresa"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:31.733526017Z",
+  "model": "glm-5.3"
+}

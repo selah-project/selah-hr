@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Zašto, Jahve, stojiš u daljini, skrivaš se u časovima tjeskobe?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stojiš"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "u daljini"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "skrivaš se"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "u časovima"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "teskobe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:34.507999968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I dade Avraham ⟨את⟩ sve što imaše Jicaku.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što imaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imaše"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:01.699666361Z",
+  "model": "glm-5.3"
+}

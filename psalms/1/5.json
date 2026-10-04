@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Zato se zli neće održati na sudu, ni grješnici u zajednici pravednika.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨zato⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "održati se"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zli"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sudu"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ni grješnici"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "u zajednici"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:43.981135620Z",
+  "model": "glm-5.3"
+}

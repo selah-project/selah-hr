@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Da je ne svučem golom i ne izložim je kao na dan njezina rođenja, i ne načinim je pustinjom, i ne postavim je kao suhu zemlju, i ne usmrtim je žeđu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "svučem je"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "golu"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "i ne izložim je"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao na dan"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "njezina rođenja"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "i ne načinim je"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "pustinjom"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "i ne postavim je"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kao zemlju"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suhu"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "i ne usmrtim je"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "žeđu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:59.344305873Z",
+  "model": "glm-5.3"
+}

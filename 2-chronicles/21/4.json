@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I podiže se Jehoram nad kraljevstvom oca svojega, i učvrsti se, i pobije ⟨את⟩ svu braću svoju mačem, a tako i neke od knezova Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i podiže se"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kraljevstvom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "i učvrsti se"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "i pobije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu braću svoju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braću svoju"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a tako i"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "knezova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:35.585388346Z",
+  "model": "glm-5.3"
+}

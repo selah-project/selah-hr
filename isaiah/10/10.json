@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Kao što je moja ruka našla kraljevstva ⟨idola⟩ — i njihove kipove, više negoli ⟨one⟩ u Jerušalajimu i Šomeronu —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "našla"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja ruka"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "kraljevstvima"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "⟨idola⟩"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "i njihove kipove"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "od Jerušalajima"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "i od Šomerona"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:57.856141384Z",
+  "model": "glm-5.3"
+}

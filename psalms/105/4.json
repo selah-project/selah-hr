@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Tražite Jahvu i snagu njegovu, tražite lice njegovo uvijek!",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Tražite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "i snagu njegovu"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tražite"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "lice njegovo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "uvijek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.212648808Z",
+  "model": "glm-5.3"
+}

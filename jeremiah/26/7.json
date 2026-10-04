@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I čuše svećenici i proroci i sav narod ⟨את⟩ Jeremiju kako govori ⟨את⟩ ove riječi u domu Jahvinu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenici"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "i proroci"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeremiju"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiju"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kako govori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ove riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:27:09.841603532Z",
+  "model": "glm-5.3"
+}

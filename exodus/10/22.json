@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I pruži Moše ⟨את⟩ ruku svoju prema nebu, i bi gusta tama po svoj zemlji Micrajima tri dana.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i pruži"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tama"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "gusta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:51.704861776Z",
+  "model": "glm-5.3"
+}

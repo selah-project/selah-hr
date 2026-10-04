@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "U tvojim zakonima naslađivat ću se, tvoje riječi neću zaboraviti.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "u tvojim zakonima"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "naslađivat ću se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ću zaboraviti"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvoje riječi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:39.089060051Z",
+  "model": "glm-5.3"
+}

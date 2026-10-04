@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Pjesma Davidova. Jahve je moj pastir — neću oskudijevati.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "moj pastir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "oskudijevati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:30.293446583Z",
+  "model": "glm-5.3"
+}

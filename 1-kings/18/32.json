@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I sagradi ⟨את⟩ kamenje ⟨kao⟩ žrtvenik u ime Jahvino, i načini kanal ⟨prostran⟩ kao za dvije se sjemena, unaokolo žrtvenika.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "I sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenje"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kao za"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dvije se"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjemena"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "žrtvenika"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:01.534831948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 74,
+  "translation": "Poučna pjesma Asafova. Zašto si, Elohime, ⟨nas⟩ zauvijek odbacio? Zašto dimi srdžba tvoja protiv stada paše tvoje?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Poučna pjesma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafova"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "si odbacio"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "dimi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "srdžba tvoja"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "protiv stada"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "paše tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:52.599010330Z",
+  "model": "glm-5.3"
+}

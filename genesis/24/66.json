@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I sluga ispriča Jicaku ⟨את⟩ sve stvari koje je učinio.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "I ispriča"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve stvari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je učinio"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:48.032096260Z",
+  "model": "glm-5.3"
+}

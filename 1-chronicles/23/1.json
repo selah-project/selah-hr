@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A David ostari i bi sit ‹od› dana, pa postavi ⟨את⟩ svoga sina Šelomoha za kralja nad Jisraelom.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ostari"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "bi sit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "‹od› dana"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "postavi za kralja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina Šelomoha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T20:32:52.201571380Z",
+  "model": "glm-5.3"
+}

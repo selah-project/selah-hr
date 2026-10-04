@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi ⟨את⟩ zastor ulaza za Miškan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zastor ulaza"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zastor"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Miškan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:18.367342226Z",
+  "model": "glm-5.3"
+}

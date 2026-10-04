@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "U jednoj kući neka se jede; ne iznosi iz kuće mesa van, i kosti ne lomite na njemu.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoj"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "neka se jede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "iznosi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "van"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "i kost"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "lomite"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:56.384338472Z",
+  "model": "glm-5.3"
+}

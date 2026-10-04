@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Pjesma Davidova, kad je bježao izbjegao pred licem Avšaloma, sina svojega.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "kad je bježao"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:59.852858176Z",
+  "model": "glm-5.3"
+}

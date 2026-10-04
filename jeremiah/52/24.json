@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "I zapovjednik krvnika uze ⟨את⟩ Serajahu svećenika poglavara i ⟨את⟩ Cefanjahu svećenika drugoga, i ⟨את⟩ tri čuvara praga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zapovjednik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajahu svećenika poglavara"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "poglavara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Cefanjahu svećenika drugoga"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cefanjahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tri čuvara praga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "čuvara"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "praga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:36:25.652659161Z",
+  "model": "glm-5.3"
+}

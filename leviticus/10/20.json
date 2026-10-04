@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Moše posluša, i bilo je dobro u očima njegovim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i posluša"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "i bilo je dobro"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:57.431078651Z",
+  "model": "glm-5.3"
+}

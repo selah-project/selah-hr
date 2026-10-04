@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I Jahve usliša glas Eliyahua, i vrati se duša djeteta u njegovu unutrašnjost, i oživje.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "usliša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahua"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "djeteta"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "njegovu unutrašnjost"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "i oživje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:35.306338973Z",
+  "model": "glm-5.3"
+}

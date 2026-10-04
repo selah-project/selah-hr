@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "i ⟨את⟩ obje bubregе, i ⟨את⟩ salo koje je na njima, koje je na slabinama, i ⟨את⟩ režanj na jetri — uz bubrege neka ih odstrani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obje bubrege"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obje"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bubrege"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "salo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje je"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "na njima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "slabinama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "režanj"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "režanj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jetri"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bubrege"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "neka ih odstrani"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:34.259126992Z",
+  "model": "glm-5.3"
+}

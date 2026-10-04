@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Zapomagaše, ali ne bješe spasioca ⟨k njima⟩; Jahvi su zapomagali, ali im ne odgovori.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "zapomagahu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i ne bješe"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "spasitelja"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "odgovori im"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:07.467095683Z",
+  "model": "glm-5.3"
+}

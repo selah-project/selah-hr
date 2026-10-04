@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I udari ⟨את⟩ grad svu zemlju Micrajima: sve što je ⟨bilo⟩ u polju, od čovjeka do blaga; i ⟨את⟩ svu travu polja udari grad, a ⟨את⟩ svako drveće polja polomi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što je u polju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "blaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svu travu polja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svako drveće polja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svako"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveće"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "polomi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:49.784839628Z",
+  "model": "glm-5.3"
+}

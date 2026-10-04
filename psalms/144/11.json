@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Izbavi me i spasi me iz ruke sinova tuđinskih, čija usta govore ispraznost, a desnica im je desnica prijevare.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Izbavi me"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i spasi me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđinskih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čija"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govore"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ispraznost"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a desnica im"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desnica"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "prijevare"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:41.016180469Z",
+  "model": "glm-5.3"
+}

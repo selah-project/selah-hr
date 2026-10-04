@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ustade Joab, i otide u Gušur, i dovede ⟨את⟩ Avšaloma u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ustade"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i otide"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "u Gušur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dovede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:36.925390941Z",
+  "model": "glm-5.3"
+}

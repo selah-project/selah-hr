@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I posla ⟨את⟩ Eliakima, nadzornika doma, i ⟨את⟩ Ševnu pisca i ⟨את⟩ starješine svećenika, ogrnute vrećama, k Ješajahu sinu Amocovu, proroku.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliakima"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliakima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ševnu"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Ševnu"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "pisca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "starješine"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "ogrnute"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "vrećama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amocovu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroku"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:36.969227144Z",
+  "model": "glm-5.3"
+}

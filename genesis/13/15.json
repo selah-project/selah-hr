@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Jer ⟨את⟩ svu zemlju koju vidiš tebi ću je dati, i sjemenu tvojemu dovijeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidiš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ću je dati"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i sjemenu tvojemu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:14.852909374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče mu anđeo Elohimov: Uzmi ⟨את⟩ meso i ⟨את⟩ beskvasne kruhove, položi na ovu stijenu, a ⟨את⟩ juhu izlij. I učini tako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anđeo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "beskvasne kruhove"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "beskvasne kruhove"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "stijenu"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "juhu"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "juhu"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "izlij"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:15.230472511Z",
+  "model": "glm-5.3"
+}

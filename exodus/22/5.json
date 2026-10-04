@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako izađe oganj i zahvati trnje, te bude izjedena hrpa snopova, ili stojeće žito, ili polje — potpuno će naknaditi onaj koji je rasplamsao ⟨את⟩ požar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izađe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "i zahvati"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "te bude izjedena"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "hrpa snopova"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "stojeće žito"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "potpuno"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "će naknaditi"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "onaj koji je rasplamsao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "požar"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "požar"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:19.991965291Z",
+  "model": "glm-5.3"
+}

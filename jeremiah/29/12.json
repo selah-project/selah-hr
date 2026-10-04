@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I zazvat ćete ⟨את⟩ me i poći ćete i molit ćete se meni, i ja ću vas uslišiti.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "zazvat ćete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "poći ćete"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "molit ćete se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "uslišit ću"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:38.902363625Z",
+  "model": "glm-5.3"
+}

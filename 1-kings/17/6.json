@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "a gavrani su mu donosili kruh i meso ujutro, i kruh i meso uvečer, a iz potoka je pio.",
+  "tokens": [
+    {
+      "surface": "וְהָעֹרְבִ֗ים",
+      "gloss": "a gavrani"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "donosili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "i meso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "i kruh"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "i meso"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "uvečer"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a iz"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potoka"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "je pio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:13.092234774Z",
+  "model": "glm-5.3"
+}

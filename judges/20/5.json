@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ustaše na me ljudi Give i opkoliše ⟨את⟩ kuću na me noću; ⟨את⟩ mene mišljahu ubiti, a ⟨את⟩ moju pilegeš obeščastiše, te umrije.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ustaše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Give"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "opkoliše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mene"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mišljahu"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ubiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moju pilegeš"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "moju pilegeš"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "obeščastiše"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "te umrije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:29:44.179116389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Tko je među svim bogovima ovih zemalja ⟨את⟩ izbavio svoju zemlju iz moje ruke, da bi Jahve izbavio ⟨את⟩ Jerušalajim iz moje ruke?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "među svim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemalja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "izbavio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju zemlju"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz moje ruke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "izbavio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz moje ruke"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:06.621368699Z",
+  "model": "glm-5.3"
+}

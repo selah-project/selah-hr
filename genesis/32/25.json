@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I ostade Jaakov sasvim sam, i hrvaše se neki čovjek s njime dok ne izđe zora.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "i ostade"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sasvim sam"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "i hrvaše se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neki čovjek"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s njime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok ne"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "izđe"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zora"
+    }
+  ],
+  "timestamp": "2026-10-04T16:26:41.748622726Z",
+  "model": "glm-5.3"
+}

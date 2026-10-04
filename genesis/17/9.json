@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Elohim Avrahamu: A ti čuvaj ⟨את⟩ moj savez, ti i tvoje sjeme poslije tebe, za njihovih naraštaja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "⟨Avrahamu⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj savez"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moj savez"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "i tvoje sjeme"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "poslije tebe"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "za njihovih naraštaja"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:00.411072414Z",
+  "model": "glm-5.3"
+}

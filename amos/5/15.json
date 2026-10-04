@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 5:15",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Mrzite zlo i ljubite dobro, postavite na gradskim vratima pravo; možda će se smilovati Jahve, Elohim Cebaot, ostatku Jozefovu.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "mrzite"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "i ljubite"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "והציגו",
+      "gloss": "postavite"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na gradskim vratima"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "možda"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "smilovati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ostatku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:55:31.957655917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I povede Moše ⟨את⟩ Jisraela od Trstičkoga mora, te iziđoše u pustinju Sur; i iđahu tri dana pustinjom, ali ne nađoše vode.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "i povede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Trstičkoga (more)"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "te iziđoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustinju"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i iđahu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pustinjom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nađoše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:40.504366186Z",
+  "model": "glm-5.3"
+}

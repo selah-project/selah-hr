@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 129,
+  "translation": "i da prolaznici ne kažu: Blagoslov Jahvin neka bude na vas! Blagoslivljali smo ⟨את⟩ vas u ime Jahvino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i da ne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kažu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "prolaznici"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "blagoslivljali smo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "u ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:09.143384026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Čuj glas mojih molbi kad k Tebi vapijem, kad dižem ruke svoje prema svetištu svetosti tvoje.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mojih molbi"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "kad vapijem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k Tebi"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "kad dižem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruke svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "svetištu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svetosti tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:27:59.146528602Z",
+  "model": "glm-5.3"
+}

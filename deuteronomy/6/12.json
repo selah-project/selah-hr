@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "čuvaj se da ne zaboraviš ⟨את⟩ Jahvu, koji te izveo iz zemlje micrajske, iz kuće robovanske.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sebe⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zaboraviš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "te izveo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajske"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "robovanske"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:44.294430413Z",
+  "model": "glm-5.3"
+}

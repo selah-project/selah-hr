@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I tako je činio godinu za godinom svaki put kad bi ona uzlazila u dom Jahvin — tako bi je ona srdila, pa bi plakala i nije jela.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "I tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "činio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godinu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "za godinom"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "svaki put kad"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "uzlazila"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "srdila"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "pa bi plakala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nije"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jela"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:07.873830661Z",
+  "model": "glm-5.3"
+}

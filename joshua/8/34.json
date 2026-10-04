@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Potom pročita ⟨את⟩ sve riječi Tore, blagoslov i prokletstvo, po svemu što je pisano u knjizi Tore.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "potom"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pročita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi Tore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "i prokletstvo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po svemu"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "što je pisano"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "u knjizi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:30.535039833Z",
+  "model": "glm-5.3"
+}

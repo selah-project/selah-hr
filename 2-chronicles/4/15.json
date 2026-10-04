@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "⟨את⟩ more jedno, i ⟨את⟩ dvanaest bikova pod njim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "more"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dvanaest bikova"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bikova"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pod njim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:02.007959739Z",
+  "model": "glm-5.3"
+}

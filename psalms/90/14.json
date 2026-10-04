@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Sitini nas ujutro hesedom svojim, i pjevat ćemo i radovati se sve dane naše.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Sitini nas"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedom svojim"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "i pjevat ćemo"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "i radovati se"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dane naše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:11.562133724Z",
+  "model": "glm-5.3"
+}

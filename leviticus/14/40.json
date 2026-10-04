@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I zapovjedi svećenik, te izvadu ⟨את⟩ kamenje na kojemu je nečistoća, i bace ⟨את⟩ ga izvan grada, na nečisto mjesto.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "te izvadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamenje"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kojemu"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "je"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nečistoća"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "i bace"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ga",
+      "marks": "אתהן označava kamenje; predložak אל slijedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:37.900392913Z",
+  "model": "glm-5.3"
+}

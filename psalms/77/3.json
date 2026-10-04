@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "U dan tjeskobe svoje Adonaja sam tražio; noću mi se ruka raširila i ne presta; odbija se utješiti duša moja.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "U dan"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tjeskobe svoje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "sam tražio"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mi se ruka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "raširila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "presta"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "odbija se"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "utješiti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:00.779416933Z",
+  "model": "glm-5.3"
+}

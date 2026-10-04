@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "A sluškinja tvoja ima dva sina; i sukobiše se ona dva u polju, i ne bijaše tko da ih rastavi, pa udari jedan ⟨את⟩ drugoga, i umrtvi ⟨את⟩ ga.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "a sluškinja tvoja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sina"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "i sukobiše se"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ona dva"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "u polju"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i ne bijaše"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "tko da ih rastavi"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "među njima"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "pa udari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drugoga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrtvi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:04.134060940Z",
+  "model": "glm-5.3"
+}

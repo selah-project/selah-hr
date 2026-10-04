@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Kako da sam nosim teret vaš i breme vaše i svađe vaše?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "da nosim"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "teret vaš"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "i breme vaše"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "i svađe vaše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:26.925973002Z",
+  "model": "glm-5.3"
+}

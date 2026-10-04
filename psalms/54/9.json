@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Jer me je izbavio iz svake tjeskobe, i moje oko vidjelo je ⟨את⟩ neprijatelje moje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svake"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskobe"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izbavio me"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "neprijatelje moje"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "vidjelo je"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:31.186214297Z",
+  "model": "glm-5.3"
+}

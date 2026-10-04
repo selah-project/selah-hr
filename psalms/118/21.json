@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Zahvalit ću ti jer si me uslišio i postao si mi na spasenje.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Zahvalit ću ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "uslišio si me"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i postao si"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "na spasenje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:15.019904922Z",
+  "model": "glm-5.3"
+}

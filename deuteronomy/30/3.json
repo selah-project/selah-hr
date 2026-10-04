@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i vratit će Jahve, Elohim tvoj, ⟨את⟩ sužanjstvo tvoje, i smilovat će ti se, i vratit će se te skupiti iz svih naroda kamo te raspršio Jahve, Elohim tvoj, onamo.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "vratit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužanjstvo tvoje"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "sužanjstvo tvoje"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "smilovat će ti se"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "vratit će se"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "skupiti te"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svih"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "raspršio te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:18.983573145Z",
+  "model": "glm-5.3"
+}

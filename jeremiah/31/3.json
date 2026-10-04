@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Izdaleka mi se Jahve ukaza: ljubavlju vječnom zavolio sam te, zato sam te privukao s hesedom.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "Izdaleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukaza se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ljubavlju"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječnom"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "zavolio sam te"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "sam te privukao"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "s hesedom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:29:03.141073241Z",
+  "model": "glm-5.3"
+}

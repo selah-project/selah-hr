@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Tad ću ukloniti ⟨את⟩ dlan svoj, i vidjet ćeš ⟨את⟩ leđa moja; ali lice moje neće se vidjeti.",
+  "tokens": [
+    {
+      "surface": "ו הסרתי",
+      "gloss": "tad ću ukloniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dlan svoj"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dlan svoj"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "i vidjet ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leđa moja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "leđa moja"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ali lice moje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "će se vidjeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:55.312528921Z",
+  "model": "glm-5.3"
+}

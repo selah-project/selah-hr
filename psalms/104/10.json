@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Koji izvire izvore u dolinama — između gora oni teku.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Koji izvire"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "izvore"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "u dolinama"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "oni teku"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:16.255652535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I bijaše kad ču ⟨את⟩ tu riječ — a on pijaše, on i kraljevi, u šatorima — reče slugama svojim: Postavite se! I postaviše se na grad.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pijaše"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "i kraljevi"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "u šatorima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugama svojim"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "postavite se"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "i postaviše se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:51.621049810Z",
+  "model": "glm-5.3"
+}

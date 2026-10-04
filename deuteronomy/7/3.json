@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I ne srodni se ženidbom s njima: kćeri svoje ne daj sinu njegovu, ni kćeri njegove ne uzmi sinu svojemu,",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "srodni se ženidbom"
+    },
+    {
+      "surface": "בם",
+      "gloss": "s njima"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "kćeri svoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "sinu njegovu"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ni kćeri njegove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "sinu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:49.134080704Z",
+  "model": "glm-5.3"
+}

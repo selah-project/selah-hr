@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Zar ne znaju djelatelji ništavila, koji jedu moj narod — jeli su kruh; Elohim ne zazvaše.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zar ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "djelatelji"
+    },
+    {
+      "surface": "און",
+      "gloss": "ništavila"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "koji jedu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj narod"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jeli su"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "zazvaše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:08.637954568Z",
+  "model": "glm-5.3"
+}

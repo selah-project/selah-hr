@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče Moše Jahvi: Gle, ti govoriš meni: 'Podigni ⟨את⟩ ovaj narod', a mene nisi obavijestio ⟨את⟩ koga ćeš poslati sa mnom; a ti si rekao: 'Poznajem te po imenu', i našao si i naklonost u očima mojim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govoriš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Podigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovaj narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisi"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "obavijestio mene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koga ćeš poslati sa mnom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koga"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ćeš poslati"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekao"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Poznajem te"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "po imenu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "našao si"
+    },
+    {
+      "surface": "חן",
+      "gloss": "naklonost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima mojim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:47.879803456Z",
+  "model": "glm-5.3"
+}

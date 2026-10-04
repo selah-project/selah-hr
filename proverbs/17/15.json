@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Tko opravdava zlikovca i tko osuđuje pravednika — obojica ⟨su⟩ odvratnost Jahvi.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "opravdava"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlikovca"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "i osuđuje"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "odvratnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "obojica"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:17.555012916Z",
+  "model": "glm-5.3"
+}

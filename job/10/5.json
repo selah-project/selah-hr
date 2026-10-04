@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jesu li dani tvoji kao dani smrtnika, tvoje godine kao čovjekovi dani?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kao dani"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dani tvoji"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "godine tvoje"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kao dani"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:00.080897105Z",
+  "model": "glm-5.3"
+}

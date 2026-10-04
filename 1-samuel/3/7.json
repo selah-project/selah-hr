@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Šemuel još nije poznavao ⟨את⟩ Jahvu, niti mu se još bio objavio riječ Jahvina.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "a Šemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "još nije"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznavao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "niti još"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "bio objavio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:32.473259658Z",
+  "model": "glm-5.3"
+}

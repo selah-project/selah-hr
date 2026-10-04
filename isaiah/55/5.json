@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Gle, narod koji ne poznaješ pozvat ćeš, i narod koji te ne poznaje k tebi će potrčati, radi Jahve, Elohim tvojega, i radi Svetoga Jisraelova, jer te on proslavio.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gle"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "poznaješ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "pozvat ćeš"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "i narod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te poznaje"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "potrčat će"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "i Svetoga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "te proslavio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:54.663131115Z",
+  "model": "glm-5.3"
+}

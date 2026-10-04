@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Prokletstvom ste prokleti, ⟨את⟩ i mene ⟨mene⟩ varate — cio narod, sav on.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "prokletstvom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "prokleti"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ i mene",
+      "marks": "mene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "varate"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sav on"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:38.847097074Z",
+  "model": "glm-5.3"
+}

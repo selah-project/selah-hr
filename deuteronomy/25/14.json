@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Nemoj imati u svojoj kući efu i efu, veliku i malu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "imati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "u svojoj kući"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "i efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliku"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "i malu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:02.261162044Z",
+  "model": "glm-5.3"
+}

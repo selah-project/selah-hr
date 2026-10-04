@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jer kralj će poslušati da izbavi ⟨את⟩ svoju sluškinju iz ruke toga čovjeka koji bi htio uništiti ⟨את⟩ mene i ⟨את⟩ sina mojega zajedno iz baštine Elohimove.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "će poslušati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "izbaviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju sluškinju"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "svoju sluškinju"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tog čovjeka"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "uništiti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sina mojega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "iz baštine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:58.734246951Z",
+  "model": "glm-5.3"
+}

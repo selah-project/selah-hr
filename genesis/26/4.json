@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I umnožit ću ⟨את⟩ tvoje sjeme kao zvijezde nebeske, i dat ću tvome sjemenu ⟨את⟩ sve ove zemlje, i blagoslivljat će se u tvome sjemenu svi narodi zemlje.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "i umnožit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje sjeme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje sjeme"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "kao zvijezde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeske"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "tvome sjemenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve ove zemlje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ove"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "i blagoslivljat će se"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "u tvome sjemenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:24:43.039133438Z",
+  "model": "glm-5.3"
+}

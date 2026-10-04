@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "jer će odvratiti ⟨את⟩ sina tvojega od mene, i služit će bogovima drugima; i razgorit će se srdžba Jahvina na vas, i brzo te uništiti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "odvratit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina tvojega"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "i služit će"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugima"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "i razgorit će se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "srdžba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "i uništiti te"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "brzo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:49.134240794Z",
+  "model": "glm-5.3"
+}

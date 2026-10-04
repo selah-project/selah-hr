@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Neka srce tvoje ne zavidi grešnicima, nego ⟨neka ostane⟩ u strahu Jahvinu sav dan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "neka zavidi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srce tvoje"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "grešnicima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "u strahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:10.107198760Z",
+  "model": "glm-5.3"
+}

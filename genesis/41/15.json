@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I reče Paro Jozefu: San usnih, a tumača mu nema; a ja sam čuo o tebi da kad san čuješ, znaš ga protumačiti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "usnih"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "tumača"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "san"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja sam"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "o tebi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "čuješ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "protumačiti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "san"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:39.410889679Z",
+  "model": "glm-5.3"
+}

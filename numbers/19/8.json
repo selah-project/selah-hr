@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I onaj koji je spaljuje ⟨את⟩ nje neka opere haljine svoje u vodi, i neka opere tijelo svoje u vodi, i nečist je do večeri.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "onaj koji spaljuje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nje",
+      "marks": "onaj koji spaljuje nju"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "neka opere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "neka opere"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tijelo svoje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "u vodi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nečist je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:57.029502319Z",
+  "model": "glm-5.3"
+}

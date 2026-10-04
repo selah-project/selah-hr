@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Da, ako i pođem dolinom smrtne sjene, neću se bojati zla, jer ti si sa mnom; štap tvoj i palica tvoja — oni me tješe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ako i"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pođem"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dolinom"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "smrtne sjene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću se"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bojati"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "štap tvoj"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "i palica tvoja"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "me tješe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:30.293968201Z",
+  "model": "glm-5.3"
+}

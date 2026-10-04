@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Svetinje moje prezirala si, a ⟨את⟩ moje Šabate oskvrnula si.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "svetinje moje"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "prezirala si"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje Šabate"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "moje Šabate"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "oskvrnula si"
+    }
+  ],
+  "timestamp": "2026-10-04T18:41:54.270688568Z",
+  "model": "glm-5.3"
+}

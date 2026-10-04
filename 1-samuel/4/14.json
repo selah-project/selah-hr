@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ču Eli ⟨את⟩ glas vike te reče: Kakav je to glas ove graje? I čovjek požuri i dođe te javi Eliju.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas vike"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "vike"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "te reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakav"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "graje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ove"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "požuri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "te javi"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eliju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:49.165546746Z",
+  "model": "glm-5.3"
+}

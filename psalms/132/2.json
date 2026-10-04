@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Koji se zakle Jahvi, zavjetova se Jakovljevu Silnome:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Koji"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "se zakle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zavjetova se"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Silnome"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakovljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.105209821Z",
+  "model": "glm-5.3"
+}

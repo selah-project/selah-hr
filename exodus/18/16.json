@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Kad im neki spor dođe k meni, ja sudim između čovjeka i bližnjega njegova, i upoznam ⟨את⟩ naredbe Elohimove i ⟨את⟩ Tore njegove.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spor"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "i sudim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjega njegova"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "i upoznam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naredbe Elohimove"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "naredbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tore njegove"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tore njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:29.968573845Z",
+  "model": "glm-5.3"
+}

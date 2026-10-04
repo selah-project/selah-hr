@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "Riječ Jahvina koja bi proroku Jirmejahu za Pelešćane, prije nego što faraon udari ⟨את⟩ Azu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proroku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelešćane"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prije nego što"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:00.299893143Z",
+  "model": "glm-5.3"
+}

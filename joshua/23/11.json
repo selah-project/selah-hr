@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I čuvajte se vrlo radi sebe samih, da ljubite ⟨את⟩ Jahve, Elohim svojega.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "čuvajte se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "radi sebe samih"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "da ljubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:22:59.753300140Z",
+  "model": "glm-5.3"
+}

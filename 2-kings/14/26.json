@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jer Jahve vidje ⟨את⟩ nevolju Jisraelovu, da je vrlo gorka: nema više ni zatvorenoga ni prepuštenoga i nema nikoga tko bi pomogao Jisraelu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevolju Jisraelovu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevolju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "gorka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "nema više"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "zatvorenoga"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "nema"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "prepuštenoga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nema nikoga"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tko bi pomogao"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:36.931825352Z",
+  "model": "glm-5.3"
+}

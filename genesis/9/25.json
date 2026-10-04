@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče: Proklet bio Kenaan, sluga slugama neka bude braći svojoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "proklet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluga"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slugama"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "braći svojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:53.707856668Z",
+  "model": "glm-5.3"
+}

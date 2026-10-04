@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I ⟨את⟩ sinova njezinih neću se smilovati, jer sinovi su bludništva oni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinova njezinih"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sinova njezinih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "smilovati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "bludništva"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-04T18:50:59.344547404Z",
+  "model": "glm-5.3"
+}

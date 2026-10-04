@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I dadoh Jicaku ⟨את⟩ Jaakova i ⟨את⟩ Esava; i dadoh Esavu ⟨את⟩ goru Seir da ⟨את⟩ je posjeduje; a Jaakov i njegovi sinovi siđoše u Micrajim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "i dadoh"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "i dadoh"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goru Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "da posjeduje"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ je",
+      "marks": "goru Seir"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i njegovi sinovi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "siđoše"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "u Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:36.619989763Z",
+  "model": "glm-5.3"
+}

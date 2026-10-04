@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Ako uđem u šator svoga doma, ako se popnem na postelju svoju ležajku —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "uđem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "u šator"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svoga doma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "se popnem"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "postelju"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "svoju ležajku"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.105348956Z",
+  "model": "glm-5.3"
+}

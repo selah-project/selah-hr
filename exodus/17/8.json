@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I dođe Amalek te se bijaše s Jisraelom u Refidimu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I dođe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "te se bijaše"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "u Refidimu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:59.082688585Z",
+  "model": "glm-5.3"
+}

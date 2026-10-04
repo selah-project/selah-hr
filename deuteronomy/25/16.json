@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Jer groota je Jahvi, tvom Elohimu, svaki koji čini ovo, svaki koji čini nepravdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "groota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvom Elohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koji čini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koji čini"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravdu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:02.261654955Z",
+  "model": "glm-5.3"
+}

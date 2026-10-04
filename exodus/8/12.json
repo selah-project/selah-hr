@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče Jahve Mošeu: Reci Aharonu: Ispruži ⟨את⟩ štap svoj i udari ⟨את⟩ prah zemlje, i bit će komarci po svoj zemlji Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Reci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ispruži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "štap svoj"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "štap svoj"
+    },
+    {
+      "surface": "והך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prah zemlje"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "komarci"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:31.677838408Z",
+  "model": "glm-5.3"
+}

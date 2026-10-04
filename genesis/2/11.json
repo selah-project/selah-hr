@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Ime prvoga ⟨je⟩ Pišon — onaj koji obilazi ⟨את⟩ svu zemlju Havilu, gdje ⟨je⟩ zlato.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "prvoga"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pišon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onaj"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "koji obilazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu zemlju Havilu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havilu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:43.693481307Z",
+  "model": "glm-5.3"
+}

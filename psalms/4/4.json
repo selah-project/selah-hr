@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I znajte da je Jahve odvojio sebi hasida; Jahve će uslišati kad zazovem k njemu.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "i znajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "odvojio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "će uslišati"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kad zazovem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:14.768816110Z",
+  "model": "glm-5.3"
+}

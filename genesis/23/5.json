@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I odgovoriše sinovi Hetovi ⟨את⟩ Avrahama govoreći mu:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "i odgovoriše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:08.076470297Z",
+  "model": "glm-5.3"
+}

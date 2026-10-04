@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "koji postavi našu dušu u život i ne dade da nam se noge pokolebaju.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "koji postavi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "našu dušu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "u život"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "da se pokolebaju"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "noge naše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:33.363436802Z",
+  "model": "glm-5.3"
+}

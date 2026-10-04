@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I planu gnjev Jahvin na njegov narod, i on se ogadi ⟨את⟩ svojoj baštini.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "I planu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gnjev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "na njegov narod"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "i on se ogadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojoj baštini"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "svojoj baštini"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:53.625950929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Sinovi ljudi, dokle će čast moja ⟨biti⟩ na sramotu? Ljubite taštinu, tražite laž. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨dokle⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "čast moja"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "na sramotu"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ljubite"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "taštinu"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "tražite"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laž"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:14.768667335Z",
+  "model": "glm-5.3"
+}

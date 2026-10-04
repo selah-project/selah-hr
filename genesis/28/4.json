@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I neka ti da ⟨את⟩ blagoslov Avrahamov, tebi i sjemenu tvojemu s tobom, da zaposjedneš ⟨את⟩ zemlju prebivanja svojega, koju je Elohim dao Avrahamu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i neka da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blagoslov Avrahamov"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamov"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i sjemenu tvojem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "da zaposjedneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju prebivanja svojega"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "prebivanja svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:55.075791892Z",
+  "model": "glm-5.3"
+}

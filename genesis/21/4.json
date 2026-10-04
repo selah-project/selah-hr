@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I obreza Avraham ⟨את⟩ Jicaka, sina svojega, u dobi od osam dana, kao što mu je zapovjedio Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "I obreza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina svojega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "u dobi od"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "osam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovjedio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim... njemu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:48.124277119Z",
+  "model": "glm-5.3"
+}

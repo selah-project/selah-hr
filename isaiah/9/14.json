@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Starac i čovjek ugodna lica, on je glava; a prorok koji uči laži, on je rep.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "starac"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "i čovjek"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ugodna lica"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "a prorok"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "koji uči"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "rep"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:34.606510039Z",
+  "model": "glm-5.3"
+}

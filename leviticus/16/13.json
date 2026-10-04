@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I stavi ⟨את⟩ kadionicu na oganj pred Jahvom, i oblak kadiona neka pokrije ⟨את⟩ pomirilište koje je nad svjedočanstvom, da ne umre.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadionicu"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadionica"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "pokrije"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadinca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pomirilište"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pomirilište"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "על",
+      "gloss": "je nad"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svjedočanstvom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umre"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:12.134201094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Otvorit će Jahve tebi ⟨את⟩ riznicu svoju dobru, ⟨את⟩ nebo, da da kišu zemlji tvojoj u vrijeme njezino, i blagosloviti ⟨את⟩ sav rad ruku tvojih; i posudit ćeš mnogim narodima, a ti nećeš posuđivati.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "otvorit će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riznicu svoju dobru"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "riznicu svoju"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da da"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "kišu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "zemlji tvojoj"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "u vrijeme njezino"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "i blagosloviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav rad ruku tvojih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rad"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku tvojih"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "posudit ćeš"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "posuđivati"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:36.614774068Z",
+  "model": "glm-5.3"
+}

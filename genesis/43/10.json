@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Jer da nismo oklijevali, već bismo se do sada vratili već dva puta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "da nismo"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "oklijevali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "do sada"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "bismo se vratili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dva puta"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:25.841059293Z",
+  "model": "glm-5.3"
+}

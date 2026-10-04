@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dogodi se, pošto navršiše tókovi dana, te zače Hana i rodi sina, i prozva ⟨את⟩ ime njegovo Šmuel: jer od Jahve sam ga isprosila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "pošto navršiše tókovi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "te zače"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "sam ga isprosila"
+    }
+  ],
+  "timestamp": "2026-10-04T17:30:37.417536264Z",
+  "model": "glm-5.3"
+}

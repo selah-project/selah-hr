@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "što smo čuli i spoznali, i što su nam oci naši kazivali.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo čuli"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "i spoznali"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "i oci naši"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kazivali"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:07.566294400Z",
+  "model": "glm-5.3"
+}

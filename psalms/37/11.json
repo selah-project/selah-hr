@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I smjerni će baštiniti ⟨את⟩ zemlju i nasladit će se obiljem šaloma.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "i smjerni"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "će baštiniti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "i nasladit će se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obilju"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloma"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:09.388754880Z",
+  "model": "glm-5.3"
+}

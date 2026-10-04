@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A Tamar, njegova snaha, rodi mu ⟨את⟩ Pereca i ⟨את⟩ Zeraha. Sveukupno sinova Jehudinih petorica.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "A Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "njegova snaha"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereca"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zeraha"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sveukupno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudinih"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "petorica"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:53.428254527Z",
+  "model": "glm-5.3"
+}

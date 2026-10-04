@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I zavapiše sinovi Jisraelovi Jahvi govoreći: Sagriješili smo ti, i ⟨to⟩ što smo ostavili ⟨את⟩ Elohim svojega i služili ⟨את⟩ Baalima.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "i zavapiše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Sagriješili smo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i ⟨to⟩ što"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ostavili smo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim svojega"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "i služili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalima"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:25:42.241592435Z",
+  "model": "glm-5.3"
+}

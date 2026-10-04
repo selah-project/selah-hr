@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I predat će ⟨את⟩ Jisrael zbog grijeha Jarovamovih koje je počinio i kojima je naveo Jisrael na grijeh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i predat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "grijeha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovamovih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "je počinio"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i kojima"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "naveo na grijeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:26.437719776Z",
+  "model": "glm-5.3"
+}

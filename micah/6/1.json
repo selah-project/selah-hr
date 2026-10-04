@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Čujte sad što Jahve govori: Ustani, vodi parniču ⟨את⟩ s gorama, i neka brežuljci čuju tvoj glas!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Čujte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "što Jahve govori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ustani"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "vodi parniču"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ s"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gorama"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "i neka čuju"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "brežuljci"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tvoj glas"
+    }
+  ],
+  "timestamp": "2026-10-04T18:58:15.504903878Z",
+  "model": "glm-5.3"
+}

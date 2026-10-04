@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 77,
+  "translation": "Je li mu hesed nestao zauvijek? Je li propala riječ ⟨za⟩ naraštaj i naraštaj?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "je li nestao"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "je propala"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "za naraštaj"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:32.588305514Z",
+  "model": "glm-5.3"
+}

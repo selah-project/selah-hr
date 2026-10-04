@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "A osmoga dana obrezat će se kožica njegova mesa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "A osmoga dana"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "osmog"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "obrezat će se"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kožica njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:17:39.689462309Z",
+  "model": "glm-5.3"
+}

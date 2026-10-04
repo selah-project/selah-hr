@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče Avraham: Ja ⟨ću⟩ se zakleti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "⟨ću⟩ se zakleti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:48.529354374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče kralj ženi: Idi kući svojoj, a ja ću zapovjediti o tebi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kući svojoj"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ću zapovjediti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "o tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:04.134487566Z",
+  "model": "glm-5.3"
+}

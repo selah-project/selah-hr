@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 131,
+  "translation": "Pjesma uzlaznica, Davidova. Jahve, nije se uzoholio srce moje, niti su se podigle oči moje, niti sam hodao za velikim stvarima i čudesima koja su iznad mene.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlaznica"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "uzoholio se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "podigle su se"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči moje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "hodao sam"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "za velikim stvarima"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "i čudesima"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "koja su iznad mene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:59.402798617Z",
+  "model": "glm-5.3"
+}

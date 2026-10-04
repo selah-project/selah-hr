@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "i razgorjet će se srdžba moja, i ubit ću vas ⟨את⟩ mačem, i žene će vaše postati udovice, a sinovi vaši siročad.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "i razgorjet će se"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "srdžba moja"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "i ubit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "žene vaše"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "udovice"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a sinovi vaši"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "siročad"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:26.193326909Z",
+  "model": "glm-5.3"
+}

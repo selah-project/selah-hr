@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I ode i učini po riječi Jahvinoj: ode i nastani se uz potok Kerit, koji je prema Jordanu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nastani se"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "uz potok"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פני",
+      "gloss": "prema licu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:13.090504532Z",
+  "model": "glm-5.3"
+}

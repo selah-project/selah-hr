@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I dogodi se, kad je Baša čuo ⟨to⟩, da prestane graditi ⟨את⟩ Ramu i obustavi ⟨את⟩ svoj posao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad je čuo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "prestane"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "obustavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj posao"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "svoj posao"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:17.063733475Z",
+  "model": "glm-5.3"
+}

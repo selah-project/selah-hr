@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Neka bude srce moje čitavo u tvojim zakonima, da se ne postidim.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "neka bude"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "čitavo"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "u tvojim zakonima"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "postidim se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:35.643289829Z",
+  "model": "glm-5.3"
+}

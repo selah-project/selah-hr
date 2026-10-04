@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I pobroji Moše, kako ⟨את⟩ mu je zapovjedio Jahve, ⟨את⟩ sve prvence među sinovima Jisraela.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i pobroji"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve prvence"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "prvence"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "među sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:54.384011037Z",
+  "model": "glm-5.3"
+}

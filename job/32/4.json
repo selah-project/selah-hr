@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "A Elihu čekaše ⟨את⟩ Ijova riječima, jer su oni stariji od njega u danima.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "a Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "čekaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijova"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijova"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "riječima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "stariji"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "u danima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:38:11.298984586Z",
+  "model": "glm-5.3"
+}

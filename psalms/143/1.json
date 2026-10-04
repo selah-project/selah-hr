@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Mizmor Davidov. Jahve, čuj moju molitvu, prisluhni mojim prošnjama, u svojoj vjernosti odgovori mi, u svojoj cedek.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "čuj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moju molitvu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mojim prošnjama"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "u svojoj vjernosti"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "u svojoj cedek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:21.407084070Z",
+  "model": "glm-5.3"
+}

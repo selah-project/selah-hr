@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer vodiči ovoga naroda zavode, a vođeni njima bivaju progutani.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jer bijahu"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "vodiči"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovoga naroda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "zavode"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "a vođeni njima"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "bivaju progutani"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:34.606711407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ne poželi njezine ljepote u svome srcu, i neka te ona ne zahvati trepavicama svojim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "poželi"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ljepote njezine"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "u svome srcu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "neka te zahvati"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "trepavicama svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:47.540021375Z",
+  "model": "glm-5.3"
+}

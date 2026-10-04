@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Zemlja vam je pustoš, gradovi vam ognjem sažezeni; polje vam pred vama tuđinci jedu ⟨את⟩ njega — a pusto je kao prevrnuće tuđinaca.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "zemlja vam"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pustoš"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "gradovi vam"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "sažezeni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "polje vam"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "pred vama"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuđinci"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jedu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "njega (polje)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "a pusto"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kao prevrnuće"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuđinaca"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:29.531181315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I dođoše glasnici u Gibeu Šaulovu, i izgovoriše riječi u uši narodu; i sav narod podiže ⟨את⟩ svoj glas, i zaplakaše.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "glasnici"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "u Gibeu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovu"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "i izgovoriše"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "u uši"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj glas"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i zaplakaše"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:42.779303341Z",
+  "model": "glm-5.3"
+}

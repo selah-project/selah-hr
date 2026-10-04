@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I služit ćeš ⟨את⟩ neprijatelje svoje koje pošalje Jahve na te: u gladi i u žeđi i u goloti i u oskudici svega; i metnut će jaram željezan na vrat tvoj dok te potpuno ne unište.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "i služit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neprijatelje svoje"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "neprijatelje svoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "pošalje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na te"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "u gladi"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "i u žeđi"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "i u goloti"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "i u oskudici"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i metnut će"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "željezan"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "vrat tvoj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ne unište"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:36.506681987Z",
+  "model": "glm-5.3"
+}

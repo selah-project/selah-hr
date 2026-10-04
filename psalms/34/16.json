@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Oči su Jahvina ⟨prema⟩ pravednicima i uši njegove ⟨prema⟩ viku njihovu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨prema⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednicima"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "i uši njegove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨prema⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "viku njihovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:57.502260370Z",
+  "model": "glm-5.3"
+}

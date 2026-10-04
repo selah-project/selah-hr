@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I skupiše Peleštijci ⟨את⟩ svoje taborove za boj, i skupe se kod Soha, ⟨koji je⟩ u Judi, i utaboriše se između Soha i Azake, u Efes-Damimu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "i skupiše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštijci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje taborove"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "svoje taborove"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za boj"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i skupe se"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "u Judi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i utaboriše se"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soha"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azake"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "u Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damimu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:10.300743818Z",
+  "model": "glm-5.3"
+}

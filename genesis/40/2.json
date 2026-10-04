@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I rasrdi se faraon na svoja dva dvorjanina, na kneza peharnika i na kneza pekara.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "I rasrdi se"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "svoja dvorjanina"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "peharnika"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "pekara"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:34.337354267Z",
+  "model": "glm-5.3"
+}

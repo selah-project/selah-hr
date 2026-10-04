@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 111,
+  "translation": "Velika su djela Jahvina, istražuju ih svi koji ih žele.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Velika"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "djela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "istražuju ih"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "koji ih žele"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:47.117166553Z",
+  "model": "glm-5.3"
+}

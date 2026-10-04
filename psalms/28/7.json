@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jahve ⟨je⟩ snaga moja i štit moj; u njega se uzda srce moje, i bih pomognut, pa provali srce moje i pjesmom svojom zahvaljujem mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "snaga moja"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "i štit moj"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njega"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "uzda se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "i bih pomognut"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "pa provali"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "i pjesmom svojom"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "zahvaljujem mu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:09.306947676Z",
+  "model": "glm-5.3"
+}

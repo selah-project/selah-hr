@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 64,
+  "translation": "Radovat će se pravednik u Jahvi i uteći će k njemu, i hvalit će se svi prava srca.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "u Jahvi"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "uteći će"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "hvalit će se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "prava"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:27.313690620Z",
+  "model": "glm-5.3"
+}

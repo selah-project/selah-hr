@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ne otimaj siromahu, jer je siromah, i ne drobi nevoljnika u vratima.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "otimaj"
+    },
+    {
+      "surface": "דל",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דל",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "drobi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevoljnika"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "u vratima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:29:48.720450889Z",
+  "model": "glm-5.3"
+}

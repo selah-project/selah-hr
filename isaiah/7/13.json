@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reče: Čujte ipak, dome Davidov! Zar je malo vama zamarati ljude, da ćete zamarati i ⟨את⟩ Elohim moga?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čujte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ipak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "zar je malo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "zamarati"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "ćete zamarati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim moga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:22.402309662Z",
+  "model": "glm-5.3"
+}

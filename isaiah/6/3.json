@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I zvao ovaj ovome i reče: Svet, svet, svet ⟨je⟩ Jahve Cebaot, puna je sva zemlja slave njegove.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "i zvao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovome"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svet"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "slava njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:25.925718743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Šaul svome slugi: Dobra je tvoja riječ; hajde, idimo. I odoše u grad gdje bijaše čovjek Elohimov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "svome slugi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Dobra"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvoja riječ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hajde"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "idimo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:32:51.908462289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I reče Lavan Jaakovu: Što učini, te mi ukrade ⟨את⟩ srce i odvede ⟨את⟩ moje kćeri kao zarobljenice mača?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "učini"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "te ukrade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "i odvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje kćeri"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "moje kćeri"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "kao zarobljenice"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:08.480283742Z",
+  "model": "glm-5.3"
+}

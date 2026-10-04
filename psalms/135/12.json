@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "i dade zemlju njihovu baštinom, baštinom Jisraelu, narodu svojemu.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "zemlju njihovu"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "baštinom"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "baštinom"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narodu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:02.588688062Z",
+  "model": "glm-5.3"
+}

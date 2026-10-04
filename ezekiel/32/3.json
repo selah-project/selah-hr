@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Tako reče Adonaj Jahve: raširit ću ⟨את⟩ svoju mrežu na tebe pred zborom mnogih naroda, i izvući će te u svoj mreži.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "raširit ću"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju mrežu"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "svoju mrežu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "pred zborom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "izvući će te"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "u svoj mreži"
+    }
+  ],
+  "timestamp": "2026-10-04T18:45:55.066027131Z",
+  "model": "glm-5.3"
+}

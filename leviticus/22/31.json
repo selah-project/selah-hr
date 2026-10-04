@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I čuvajte moje zapovijedi i izvršujte ⟨את⟩ njih. Ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "I čuvajte"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovijedi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "i izvršujte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:26.379994418Z",
+  "model": "glm-5.3"
+}

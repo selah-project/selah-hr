@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I Eliša se pomoli i reče: Jahve, otvori mu ⟨molim⟩ ⟨את⟩ oči da vidi. I Jahve otvori ⟨את⟩ oči dječaku, i vidje, i gle — gora puna konja i ognjenih kola oko Elišina.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "pomoli se"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otvori"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨molim⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči njegove"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči dječaka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dječaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gora"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puna"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "konja"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i kola"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognjenih"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišina"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:56.043095069Z",
+  "model": "glm-5.3"
+}

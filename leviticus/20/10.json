@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A čovjek koji učini preljub s ⟨את⟩ ženom drugoga čovjeka — koji učini preljub s ⟨את⟩ ženom bližnjega svojega — smrću neka se pogube i preljubnik i preljubnica.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "učini preljub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženom drugoga čovjeka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "učini preljub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženom bližnjega svojega"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženom"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnjega svojega"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "preljubnik"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "i preljubnica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:17.194663579Z",
+  "model": "glm-5.3"
+}

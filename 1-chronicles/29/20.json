@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I reče David svej skupštini: Blagoslivljajte ⟨את⟩ Jahvu, Elohim vašega! I blagoslovi sav zbor Jahvi, Elohim otaca svojih, i pokloni se i pade ničice pred Jahvom i pred kraljem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svej"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "skupštini"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "Blagoslivljajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨molim⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vašega"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "otaca svojih"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "pade ničice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pred Jahvom"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "i pred kraljem"
+    }
+  ],
+  "timestamp": "2026-10-04T20:33:13.895210088Z",
+  "model": "glm-5.3"
+}

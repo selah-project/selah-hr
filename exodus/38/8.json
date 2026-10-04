@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I načini ⟨את⟩ umivaonik od tuča i ⟨את⟩ postolje njegovo od tuča, od zrcala žena koje su vršile službu ⟨koje su se skupljale⟩ na ulazu šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umivaonik"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od tuča"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "postolje njegovo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "postolje njegovo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od tuča"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "od zrcala"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "žena koje su vršile službu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "su se skupljale"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:15.440137518Z",
+  "model": "glm-5.3"
+}

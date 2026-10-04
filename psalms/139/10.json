@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "čak i ondje ruka će me tvoja voditi i desnica će me držati.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "čak i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruka tvoja"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vodit će me"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "i držat će me"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "desnica tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.254239292Z",
+  "model": "glm-5.3"
+}

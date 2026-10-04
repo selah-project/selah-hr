@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "i ⟨את⟩ Horejce na njihovoj gori Seir, sve do El-Parana, koji je uz ⟨tu⟩ pustinju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Horejce"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horejce"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "na njihovoj gori"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨tu⟩ pustinju"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:14.911294301Z",
+  "model": "glm-5.3"
+}

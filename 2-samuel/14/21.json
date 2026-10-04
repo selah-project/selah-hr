@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče kralj Joabu: Evo, učinio sam sada ⟨את⟩ tu stvar; idi, vrati ⟨את⟩ mladića ⟨את⟩ Avšaloma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Joabu)"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sada"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "učinio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu stvar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladića"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladića"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:36.924792142Z",
+  "model": "glm-5.3"
+}

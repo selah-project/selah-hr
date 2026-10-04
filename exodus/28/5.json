@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I oni neka uzmu ⟨את⟩ zlato i ⟨את⟩ modroplavu tkaninu i ⟨את⟩ purpur i ⟨את⟩ crvenu gubinu boju i ⟨את⟩ bijeli lan.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "neka uzmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "modroplavu tkaninu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "modroplava tkanina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "purpur"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "crvenu gubinu boju"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "gubina (crvena)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "crvena boja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bijeli lan"
+    },
+    {
+      "surface": "השש",
+      "gloss": "bijeli lan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:40:29.167975610Z",
+  "model": "glm-5.3"
+}

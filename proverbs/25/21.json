@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Ako je gladan onaj koji te mrzi, nahrani ga kruhom; i ako je žedan, daj mu piti vode.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gladan"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "onaj koji te mrzi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "nahrani ga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruhom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "i ako"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "žedan"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "daj mu piti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:01.342304851Z",
+  "model": "glm-5.3"
+}

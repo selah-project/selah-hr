@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "između mene i između sinova Jisraelovih znak je zauvijek, jer šest dana stvori Jahve ⟨את⟩ nebesa i ⟨את⟩ zemlju, a sedmoga daha odmori se i odahnu.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jest"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "stvori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a sedmoga dana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmoga"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "odmori se"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "i odahnu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:59.254528446Z",
+  "model": "glm-5.3"
+}

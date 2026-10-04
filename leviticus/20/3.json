@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I ja ću postaviti ⟨את⟩ lice svoje protiv onoga čovjeka, i istrijebit ću ⟨את⟩ ga iz sredine naroda njegova, jer je od sjemena svojega dao Molohu, da okalja ⟨את⟩ svetište moje i obeščasti ⟨את⟩ ime svetosti moje.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "i ja"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ću postaviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lice svoje"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "protiv čovjeka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoga"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "i istrijebit ću"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz sredine"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naroda njegova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "od sjemena svojega"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molohu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "okalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetište moje"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svetište moje"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "i obeščasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime svetosti moje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svetosti moje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:41.766349504Z",
+  "model": "glm-5.3"
+}

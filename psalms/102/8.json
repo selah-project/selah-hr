@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Bdijeh i postadoh kao ptica samotna na krovu.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "bdijeh"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "i postadoh"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kao ptica"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "samotna"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גג",
+      "gloss": "krovu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.977910196Z",
+  "model": "glm-5.3"
+}

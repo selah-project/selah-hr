@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I ispruži Aharon ⟨את⟩ ruku svoju nad vode Micrajima, i uzađe ⟨הצפרדע⟩ žaba, i prekri ⟨את⟩ zemlju Micrajima.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i ispruži"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruku svoju"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svoju"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "i uzađe"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "žaba"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "i prekri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:55.690444413Z",
+  "model": "glm-5.3"
+}

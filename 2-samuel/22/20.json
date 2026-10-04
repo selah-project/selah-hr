@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I izvede me ⟨u⟩ prostranost, ⟨את⟩ me izbavi, jer je u meni našao zadovoljstvo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "⟨u⟩ prostranost"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "našao je zadovoljstvo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "u meni"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:48.297106118Z",
+  "model": "glm-5.3"
+}

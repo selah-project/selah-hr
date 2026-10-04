@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Muško i žensko stvori ⟨את⟩ njih, i blagoslovi ⟨את⟩ njih, i prozva ime njihovo Adam, u danu kad bijahu stvoreni.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Muško"
+    },
+    {
+      "surface": "וונקבה",
+      "gloss": "i žensko"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "stvori ih"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i prozva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njihovo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ime njihovo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u danu"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "kad bijahu stvoreni"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:33.067126430Z",
+  "model": "glm-5.3"
+}

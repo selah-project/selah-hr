@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I silađaše sav Jisrael k Pelíštijcima da naoštri svaki čovjek ⟨את⟩ svoj lemeš i ⟨את⟩ svoju motiku i ⟨את⟩ svoju sjekiru i ⟨את⟩ svoj rake.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "silađaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "k Pelíštijcima"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "da naoštri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj lemeš"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "lemeš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju motiku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "motiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoju sjekiru"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sjekiru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svoj rake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "rake"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:04.472580178Z",
+  "model": "glm-5.3"
+}

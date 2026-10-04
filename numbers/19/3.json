@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I date ⟨את⟩ nju svećeniku Elazaru, i on će je izvesti van iz tabora, i zaklat će ⟨את⟩ je pred njim.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "date"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "izvesti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "van"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "iz tabora"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "zaklati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:01:46.402351355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "i Naaman, i Ahija i Gera — on ih je odveo u progonstvo — i rodi ⟨את⟩ Uzu i ⟨את⟩ Ahihuda.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "i Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "i Ahija"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "i Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ih je odveo u progonstvo"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahihuda"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihuda"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:21.738061082Z",
+  "model": "glm-5.3"
+}

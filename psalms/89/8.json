@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "El, strašan u tajnome zboru svetih, velik i strašan nad svima oko sebe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "strašan"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "u tajnome zboru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svetih"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velik"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "i strašan"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svima"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "oko sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:35.980972762Z",
+  "model": "glm-5.3"
+}

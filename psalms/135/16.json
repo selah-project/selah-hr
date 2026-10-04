@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Usta imaju, ali ne govore; oči imaju, ali ne vide.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "usta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imaju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imaju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vide"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.840150748Z",
+  "model": "glm-5.3"
+}

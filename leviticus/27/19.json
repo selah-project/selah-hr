@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A ako onaj koji je posvetio polje doista otkupi ⟨את⟩ polje, neka doda petinu srebra tvoje procjene na ⟨את⟩ nj, i stoji njemu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "doista otkupi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "otkupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "koji je posvetio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "petinu srebra na njega"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "neka doda"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "petinu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tvoje procjene"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "i stoji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:16.465787433Z",
+  "model": "glm-5.3"
+}

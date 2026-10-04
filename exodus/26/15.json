@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I načinit ćeš ⟨את⟩ daske za Miškan, od drva šitim, stojeće uspravno.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načinit ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daske"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "daske"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Miškan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojeće uspravno"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:58.066275740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer neće zauvijek biti zaboravljen siromah, nada potlačenih neće propasti zasvagda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "biti zaboravljen"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "nada"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "potlačenih"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "neće propasti"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "zasvagda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:09.298237524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 17:18",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Ali vidje ⟨את⟩ njih mladić i javi Avšalomu, te odoše njih dvojica brzo i dođoše kući jednoga čovjeka u Bahurimu, a njemu bijaše zdenac u dvorištu, i siđoše onamo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (mladića) — לא: אתם upućuje na Ahimaaca i Jehonatana koje mladić vidje"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladić"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "לאבשלם",
+      "gloss": "Avšalomu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "odoše"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "njih dvojica"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "brzo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kući"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "בבחורים",
+      "gloss": "u Bahurimu"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "a njemu"
+    },
+    {
+      "surface": "באר",
+      "gloss": "zdenac"
+    },
+    {
+      "surface": "בחצרו",
+      "gloss": "u dvorištu"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "siđoše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "onamo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:44:07.904889296Z",
+  "model": "glm-5.3"
+}

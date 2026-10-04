@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 12:42",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "i Maaseja, i Šemaja, i Elazar, i Uzi, i Jehohanan, i Malkija, i Elam, i Ezer; i pjevači su se oglasili, a Jizrachja ⟨bio je⟩ nadzornik.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "i Maaseja"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "i Šemaja"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "i Elazar"
+    },
+    {
+      "surface": "ועזי",
+      "gloss": "i Uzi"
+    },
+    {
+      "surface": "ויהוחנן",
+      "gloss": "i Jehohanan"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "i Malkija"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "i Elam"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "i Ezer"
+    },
+    {
+      "surface": "וישמיעו",
+      "gloss": "oglasiše se"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "pjevači"
+    },
+    {
+      "surface": "ויזרחיה",
+      "gloss": "a Jizrachja"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "nadzornik"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:02.280677268Z",
+  "model": "glm-5.3"
+}

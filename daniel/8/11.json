@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I uzvisi se sve do kneza vojske, i od njega bi oduzeta ⟨את⟩ stalna žrtva, i bi odbačeno mjesto svetinje njegove.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "i sve do"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "uzvisi se"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "i od njega"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bi oduzeta"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stalna žrtva"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "i bi odbačeno"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "svetinje njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T20:31:32.959489899Z",
+  "model": "glm-5.3"
+}

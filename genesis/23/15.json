@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Gospodaru moj, poslušaj me: zemlja ⟨vrijedi⟩ četiri stotine šekela srebra — između mene i tebe, što je to? Pokopaj dakle ⟨את⟩ svojega mrtvaca.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Gospodaru moj"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "poslušaj me"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "stotine"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekela"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "između mene"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "i tebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svog mrtvaca"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "svog mrtvaca"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pokopaj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:22:51.830597586Z",
+  "model": "glm-5.3"
+}

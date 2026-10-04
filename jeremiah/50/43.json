@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 50:43",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Čuo je kralj Babilona ⟨את⟩ glas o njima, i klonule su mu ruke; tjeskoba ga zgrabila, bol kao rodilju.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Čuo je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas o njima"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "glas o njima (vijest)"
+    },
+    {
+      "surface": "ורפו",
+      "gloss": "i klonule su"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mu ruke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tjeskoba"
+    },
+    {
+      "surface": "החזיקתהו",
+      "gloss": "ga zgrabila"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bol (porođajna)"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kao rodilja"
+    }
+  ],
+  "timestamp": "2026-10-04T18:35:35.111884219Z",
+  "model": "glm-5.3"
+}

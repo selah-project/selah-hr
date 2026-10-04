@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Ne smije čovjek uzeti ⟨את⟩ ženu oca svojega niti otkriti skut oca svojega.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne smije"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzeti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu oca svojega"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "otkriti"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:45.371657607Z",
+  "model": "glm-5.3"
+}

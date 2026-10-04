@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I Jonatan svuče s sebe ⟨את⟩ ogrtač koji bijaše na njemu i dade ga Davidu, i haljine svoje, i mač svoj, i luk svoj, i pojas svoj.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "i svuče"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogrtač"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ogrtač"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njemu"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i dade ga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "i haljine svoje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mač svoj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "luk svoj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "pojas svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:23.704036107Z",
+  "model": "glm-5.3"
+}

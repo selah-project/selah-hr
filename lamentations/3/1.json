@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ja sam čovjek koji vidje ⟨את⟩ nevolju, pod štapom njegove srdžbe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nevolju"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "pod štapom"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "njegove srdžbe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:45.144048481Z",
+  "model": "glm-5.3"
+}

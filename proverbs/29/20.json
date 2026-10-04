@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Vidiš li čovjeka žurna u riječima svojim — više je nade za luđaka nego za njega.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "vidiš li"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "žurna"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "u riječima svojim"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "nade"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "za luđaka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nego za njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:37.910758065Z",
+  "model": "glm-5.3"
+}

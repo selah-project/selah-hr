@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Izbavi me, Elohime, jer su vode doprle do duše.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "באו",
+      "gloss": "doprle su"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:52.573323315Z",
+  "model": "glm-5.3"
+}

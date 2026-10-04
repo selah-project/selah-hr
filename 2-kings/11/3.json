@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše ⟨את⟩ nje u domu Jahvinu skrivan šest godina; a Atalija kraljevaše nad zemljom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bijaše"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nje",
+      "marks": "s njom (u domu Jahvinu)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "skrivan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "a Atalija"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kraljevaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:34.720338564Z",
+  "model": "glm-5.3"
+}

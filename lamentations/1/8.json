@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Grijeh sagriješi Jerušalajim, stoga zato postade kao nečista; svi koji je slavljaše prezreše je, jer vidješe njezinu golotu; i ona sama uzdahe i vrati se natrag.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "grijeh"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sagriješi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "stoga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "kao nečista"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "postade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "koji je slavljaše"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "prezreše je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidješe"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "njezinu golotu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona sama"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "uzdahe"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "natrag"
+    }
+  ],
+  "timestamp": "2026-10-04T19:43:48.860540180Z",
+  "model": "glm-5.3"
+}

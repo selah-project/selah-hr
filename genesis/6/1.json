@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dogodi se, kad su ljudi počeli raširivati se po licu zemlje, i kćeri rodiše im se,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "החל",
+      "gloss": "počeli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "raširivati se"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "i kćeri"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "rodiše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:40.374479702Z",
+  "model": "glm-5.3"
+}

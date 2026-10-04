@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 10:6",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I dogodi se, kad zapovjedi ⟨את⟩ čovjeku odjevenu u laneno ruho, govoreći: Uzmi oganj ispod kolutova, ispod kerubina — pa uđe i stade uz kolut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בצותו",
+      "gloss": "kad zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "odjevenu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "u laneno ruho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "kolutova"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "לכרובים",
+      "gloss": "kerubina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "pa uđe"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "kolut"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:39.518814427Z",
+  "model": "glm-5.3"
+}

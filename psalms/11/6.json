@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Na bezbožnike će izliti kišu zamki, oganj i sumpor, i vjetar žestine — dio čaše njihove.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "će izliti kišu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnike"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "zamki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "i sumpor"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "i vjetar"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "žestine"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dio"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "čaše njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:01.416306972Z",
+  "model": "glm-5.3"
+}

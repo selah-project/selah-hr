@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I bijaše Jahve s ⟨את⟩ Jehošuom, i bi glas o njemu po svoj zemlji.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I bijaše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuom"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "glas o njemu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T17:18:09.678791115Z",
+  "model": "glm-5.3"
+}

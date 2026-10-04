@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Svaki neka se boji svoje majke i svoga oca, i ⟨את⟩ moje Šabate čuvajte; ja sam Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Svaki"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svoje majke"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "i svoga oca"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "neka se boji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje Šabate"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "moje Šabate"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "čuvajte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja sam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:25.397872488Z",
+  "model": "glm-5.3"
+}

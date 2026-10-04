@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Na mjestu gdje kolju ⟨את⟩ žrtvu paljenicu, zaklat će ⟨את⟩ žrtvu prijestupa, i ⟨את⟩ krv njezinu škropit će oko žrtvenika unaokolo.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "kolju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "zaklat će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu prijestupa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "žrtvu prijestupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krv njezinu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv njezinu"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "škropit će"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:53.613886695Z",
+  "model": "glm-5.3"
+}

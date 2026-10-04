@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I prinese Aharon ⟨את⟩ jarca na kojega je ispao goral za Jahvu, i prinesi ga za žrtvu hatat.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "i prinese"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarca"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "jarca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kojega"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je ispao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goral"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahvu"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "i prinesi ga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "za žrtvu hatat"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:58.772868528Z",
+  "model": "glm-5.3"
+}

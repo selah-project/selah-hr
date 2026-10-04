@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jahve, Elohim otaca vaših, neka pridoda vam tisuću puta toliko koliko vas jest, i neka vas blagoslovi ⟨את⟩ vas, kako vam je zborio!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "otaca vaših"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "neka pridoda"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kao što vi jeste"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuću"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i neka blagoslovi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je zborio"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-04T17:06:26.925802016Z",
+  "model": "glm-5.3"
+}

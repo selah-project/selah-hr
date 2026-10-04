@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "A ja — jedva da nisu kliznule noge moje, koraci su mi se gotovo ⟨izlili⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A ja"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "jedva da"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "kliznule"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "noge moje"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "gotovo ⟨ničemu⟩"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "izlili"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "koraci"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:13.818451850Z",
+  "model": "glm-5.3"
+}

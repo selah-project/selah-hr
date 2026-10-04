@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I načini umivaonik od tuča i postavlje njegovo od tuča, za umivanje, i postaviš ga između Šatora sastanka i žrtvenika; i staviš onamo vode.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "načini"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "umivaonik"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tuč"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "postavlje njegovo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tuč"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "za umivanje"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "postaviš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (umivaonik)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "između"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "i između"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "staviš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:03.052550548Z",
+  "model": "glm-5.3"
+}

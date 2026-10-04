@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 73,
+  "translation": "Kao san kad se probudiš ⟨iz njega⟩ — Adonaj, probudivši se u gradu, njihov ćeš lik prezrijeti.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Kao san"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "kad se probudiš"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "njihov lik"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "prezrijeti ćeš"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:33.781266479Z",
+  "model": "glm-5.3"
+}

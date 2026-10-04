@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 83,
+  "translation": "Gevál i Amon i Amalek, Pelešet sa stanovnicima Cora.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gevál"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "i Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "i Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "stanovnicima"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Cora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.455400127Z",
+  "model": "glm-5.3"
+}

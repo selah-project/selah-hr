@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Mordokaj dozna ⟨את⟩ sve što je učinjeno, i razdije Mordokaj ⟨את⟩ svoje haljine, i obuče kostrijet i pepeo, i iziđe u sredinu grada, i vrisnu vapaj velik i gorak.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "I Mordokaj"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "je učinjeno"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "i razdije"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje haljine"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svoje haljine"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "i obuče"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kostrijet"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "i pepeo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "u sredinu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "i vrisnu"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "vapaj"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "velik"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "i gorak"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:59.491838726Z",
+  "model": "glm-5.3"
+}

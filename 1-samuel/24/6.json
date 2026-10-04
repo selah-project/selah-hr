@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I bi poslije toga, i srce Davidovo udari ⟨את⟩ njega zbog toga što odsiječe ⟨את⟩ kraj plašta koji je Šaulov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "togа što"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "odsiječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraj plašta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulov"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:18.479554424Z",
+  "model": "glm-5.3"
+}

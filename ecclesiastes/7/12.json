@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jer u sjeni haklamija kao u sjeni srebra, ali prednost spoznaje ⟨jest⟩ što haklamija oživljuje svoje posjednike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "u sjeni"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "haklamija"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "u sjeni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ali prednost"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznaje"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "haklamija"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "oživljuje"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "svoje posjednike"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:17.169858852Z",
+  "model": "glm-5.3"
+}

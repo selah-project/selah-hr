@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I sada, zakuni mi se Jahvom da nećeš istrijebiti ⟨את⟩ sjeme moje nakon mene niti iskorijeniti ⟨את⟩ ime moje iz doma oca mojega.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "i sada"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "zakuni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "nećeš istrijebiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjeme moje"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "sjeme moje"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon mene"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "niti"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "iskorijeniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime moje"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:43.615313229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I poslat ću na njih ⟨את⟩ mač, ⟨את⟩ glad i ⟨את⟩ kugu, dok ne nestanu s zemlje koju sam dao njima i ocima njihovim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "i poslat ću"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mač"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glad"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "glad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kugu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kugu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ne nestanu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sam dao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "i ocima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:41.586247022Z",
+  "model": "glm-5.3"
+}

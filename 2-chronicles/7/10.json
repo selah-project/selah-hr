@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A dvadeset trećega dana sedmoga mjeseca otpusti narod ⟨את⟩ u šatore njihove, radosni i vesela srca zbog dobra koje učini Jahve Davidu i Šelomu i Jisraelu, narodu svojem.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "a dana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "trećega"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmoga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "otpusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "u šatore njihove"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "radosni"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "i vesela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "i Šelomu"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Jisraelu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "narodu svojem"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:30.405753423Z",
+  "model": "glm-5.3"
+}

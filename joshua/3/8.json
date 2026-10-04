@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ti zapovjedi ⟨את⟩ svećenicima nosačima kovčega saveza: Kad dođete do ruba voda Jardena, u Jardenu stanite.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenike"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenicima"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosačima"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Kad dođete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ruba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "voda"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardena"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "u Jardenu"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "stanite"
+    }
+  ],
+  "timestamp": "2026-10-04T17:17:29.287775678Z",
+  "model": "glm-5.3"
+}

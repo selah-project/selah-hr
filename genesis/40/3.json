@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "i dade ih ⟨את⟩ u stražu kuće kneza kuhara, u kuću tamnice, mjesto gdje bijaše Josif sužen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "u stražu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kuhara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tamnice"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josif"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "sužen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:34.337557591Z",
+  "model": "glm-5.3"
+}

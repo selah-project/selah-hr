@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I on će govoriti tebi narodu ⟨umjesto tebe⟩, i bit će — on će biti tebi za usta, a ti ćeš biti njemu za Elohima.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "i govorit će"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "za usta"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bit ćeš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:37.862215927Z",
+  "model": "glm-5.3"
+}

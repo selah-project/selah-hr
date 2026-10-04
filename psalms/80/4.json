@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Elohime, vrati nas i rasvijetli lice svoje, i bit ćemo spašeni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vrati nas"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "i rasvijetli"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice svoje"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "bit ćemo spašeni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:49.133437342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I napiši ih na oblovrate kuće svoje i na vrata svoja.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "i napiši ih"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "oblovrate"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kuće svoje"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "i na vrata svoja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:07:44.293760998Z",
+  "model": "glm-5.3"
+}

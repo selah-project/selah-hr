@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Rukuj dobro sa svojim slugom, da ostanem živ i da čuvam tvoju riječ.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Rukuj dobro"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojim slugom"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "da ostanem živ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "i da čuvam"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvoju riječ"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:45.348524016Z",
+  "model": "glm-5.3"
+}

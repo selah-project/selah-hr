@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "I Elohim će te srušiti za svagda, zgrabit će te i istrgnuti te iz šatora i korijen tvoj iz zemlje živih. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "srušit će te"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "za svagda"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "zgrabit će te"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "i istrgnuti te"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "iz šatora"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "i korijen tvoj"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živih"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:12.480992141Z",
+  "model": "glm-5.3"
+}

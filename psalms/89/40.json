@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Poništio si savez sa svojim slugom, oskvrnuo si do zemlje njegov vijenac.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "poništio si"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sa svojim slugom"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "oskvrnuo si"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "do zemlje"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "njegov vijenac"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:31.121808951Z",
+  "model": "glm-5.3"
+}

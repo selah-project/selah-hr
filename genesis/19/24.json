@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I Jahve dade da pada s neba na Sedom i na Amoru sumpor i oganj — ⟨את⟩ — od Jahve, iz nebesa.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "dade da pada kiša"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoru"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "sumpor"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "i oganj"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:38.017544523Z",
+  "model": "glm-5.3"
+}

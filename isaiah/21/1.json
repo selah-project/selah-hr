@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Proroštvo pustinje morske. Kao vihori u Negobu kad promiču, dolazi iz pustinje, iz zemlje strašne.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Proroštvo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morske"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Kao vihori"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "u Negobu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "kad promiču"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "iz pustinje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolazi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz zemlje"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "strašne"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:12.286782369Z",
+  "model": "glm-5.3"
+}

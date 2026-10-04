@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I oskvrnjena je zemlja, i ja pohodih krivnju njezinu na njoj, i zemlja povrati ⟨את⟩ stanare svoje.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "oskvrnjena je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "pohodih"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "krivnju njezinu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na njoj"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "povrati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanare svoje"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "stanare svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:50.295609568Z",
+  "model": "glm-5.3"
+}

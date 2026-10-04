@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ovi od sinova Gadovih bijahu glavari vojske: najmanji ⟨je⟩ ⟨bio⟩ ⟨kao⟩ stotinu, a najveći ⟨kao⟩ tisuću.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinova"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadovih"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavari"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "prema stotinu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "najmanji"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "a najveći"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "prema tisuću"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:13.479803552Z",
+  "model": "glm-5.3"
+}

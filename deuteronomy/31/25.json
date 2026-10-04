@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I zapovjedi Moše ⟨את⟩ levitima nosačima kovčega saveza Jahvina ⟨da im kaže⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitima"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitima"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosačima"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčega"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "saveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨da im kaže⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:22.367982137Z",
+  "model": "glm-5.3"
+}

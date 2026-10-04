@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I reče mu: Eto, podigoh ⟨tio je⟩ lice tvoje i za ovu riječ, da ne razorim ⟨את⟩ grad o kojem si govorio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podigoh"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "za riječ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "razorim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "govorio si"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:38.017012430Z",
+  "model": "glm-5.3"
+}

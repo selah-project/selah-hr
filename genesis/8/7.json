@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I pusti ⟨את⟩ gavrana; on je izlijetao i vraćao se dok voda nije osahla s površine zemlje.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i pusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gavrana"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gavrana"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "izlijetao"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "izlazio"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "i vraćao se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "nije osahla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s površine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:29.483300018Z",
+  "model": "glm-5.3"
+}

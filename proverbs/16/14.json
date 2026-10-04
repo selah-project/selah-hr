@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Žestina je kraljeva glasnici smrti, ali čovjek mudar umiruje je.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "žestina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "glasnici"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ali čovjek"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "umiruje je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:25.553698887Z",
+  "model": "glm-5.3"
+}

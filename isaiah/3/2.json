@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Junaka i ratnika, suca i proroka, gatara i starca.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Junaka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i ratnika"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ratnika"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "suca"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "i proroka"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "i gatara"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "i starca"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:09.418510031Z",
+  "model": "glm-5.3"
+}

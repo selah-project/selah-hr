@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Perom svojim pokrit će te, i pod krilima njegovim ⟨ćeš⟩ se skloniti; štit i oklop ⟨je⟩ istina njegova.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "perom svojim"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "pokrit će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "i pod"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "krilima njegovim"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "⟨ćeš⟩ se skloniti"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "štit"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "i oklop"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "istina njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:19.802111173Z",
+  "model": "glm-5.3"
+}

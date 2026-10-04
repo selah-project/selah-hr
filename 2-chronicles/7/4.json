@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I kralj i sav narod klanjahu žrtvu pred licem Jahvinim.",
+  "tokens": [
+    {
+      "surface": "ויהמלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "klanjahu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:48.247270903Z",
+  "model": "glm-5.3"
+}

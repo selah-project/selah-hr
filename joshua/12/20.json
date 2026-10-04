@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "kralj Šimron-Merona, jedan; kralj Akšafa, jedan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Merona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akšafa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:32.662573357Z",
+  "model": "glm-5.3"
+}

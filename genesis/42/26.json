@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I natovariše ⟨את⟩ svoje žito na svoje magarce te odoše odande.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i natovariše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žito njihovo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "žito njihovo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "svoje magarce"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "i odoše"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:27.059815104Z",
+  "model": "glm-5.3"
+}

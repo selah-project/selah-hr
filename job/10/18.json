@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I zašto si me izveo iz krila? Da sam izdahnuo, i oko me ne bi vidjelo!",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "iz krila"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "si me izveo"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "da sam izdahnuo"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "i oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "bi vidjelo me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:10.375039444Z",
+  "model": "glm-5.3"
+}

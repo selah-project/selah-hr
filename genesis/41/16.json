@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "A Jozef odgovori ⟨את⟩ Paru: Bez mene — Elohim će odgovoriti ⟨את⟩ mir Parov.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odgovori"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parova"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "bez mene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "će odgovoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mir Parov"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:39.411096984Z",
+  "model": "glm-5.3"
+}

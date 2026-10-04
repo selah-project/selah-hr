@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Smiluj mi se, Elohime, smiluj mi se, jer se u tebe sklanja duša moja; u sjeni krila tvojih sklanjat ću se dok ne prođu nevolje.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj mi se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "smiluj mi se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "sklanja se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "u sjeni"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "krila tvojih"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sklanjat ću se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ne prođu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nevolje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:36.035900250Z",
+  "model": "glm-5.3"
+}

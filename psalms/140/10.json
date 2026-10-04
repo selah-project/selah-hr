@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 140,
+  "translation": "Glave onih što me okružuju — neka ih pokrije zloća njihovih usana.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "onih što me okružuju"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zloća"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "njihovih usana"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "neka ih pokrije"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:58.332576860Z",
+  "model": "glm-5.3"
+}

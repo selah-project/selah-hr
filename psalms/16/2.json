@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Rekoh Jahvi: Adonaj, ti si; ⟨nema⟩ dobra mojega mimo tebe.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Rekoh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "dobro moje"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨nema⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mimo tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:16.784659611Z",
+  "model": "glm-5.3"
+}

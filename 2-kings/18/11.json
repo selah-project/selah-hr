@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I kralj Ašura preseli ⟨את⟩ Jisrael u Ašur i nastani ih u Halahu i uz Habor, rijeku Gozana, i u gradove Medije.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "i preseli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "u Ašur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "i nastani ih"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "u Halahu"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "i uz Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rijeku"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozana"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "i u gradove"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medije"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:33.528377148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 59,
+  "translation": "Jer su naše pobune umnožene pred tobom, i naši grijesi svjedoče protiv nas; jer su naše pobune ⟨את⟩-nama ⟨s nama⟩ i svoje krivnje poznamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "umnožene su"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše pobune"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "i naši grijesi"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "svjedoče"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "protiv nas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše pobune"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-nama ⟨s nama⟩",
+      "marks": "naše pobune — ⟨s nama⟩"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "i svoje krivnje"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "poznamo ih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:18:32.365863356Z",
+  "model": "glm-5.3"
+}

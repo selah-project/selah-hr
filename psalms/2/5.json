@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Tada će im govoriti u svojoj srdžbi i u svojem gnjevu ih ustrasiti:",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "će govoriti"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "im"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "u svojoj srdžbi"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "i u svojem gnjevu"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ih ustrasiti"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:59.844014Z",
+  "model": "glm-5.3"
+}

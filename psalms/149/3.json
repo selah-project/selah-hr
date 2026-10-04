@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Neka hvale ime njegovo u plesu, bubnjem i harfom neka mu sviraju.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "neka hvale"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "u plesu"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "bubnjem"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i harfom"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "neka sviraju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:39.951425244Z",
+  "model": "glm-5.3"
+}

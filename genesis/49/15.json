@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "I vidje odmor da je dobar, i ⟨את⟩ zemlju da je ugodna, i sagne svoj vrat da nosi, i postade rob na prisilni rad.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "odmor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "ugodna"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i sagne"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "svoj vrat"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "da nosi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i postade"
+    },
+    {
+      "surface": "למס",
+      "gloss": "na prisilni rad"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rob"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:16.528653004Z",
+  "model": "glm-5.3"
+}

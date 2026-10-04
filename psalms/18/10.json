@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I nakloni nebesa i siđe, i gusta tama pod nogama njegovim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "i nakloni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i siđe"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "i gusta tama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "nogama njegovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:00.113480763Z",
+  "model": "glm-5.3"
+}

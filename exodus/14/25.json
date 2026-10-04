@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I ukloni ⟨את⟩ kotače njihovih bojnih kola, te ih je vodio uz muku; i rekoše Micrajimci: Bježimo ispred lica Jisraelu, jer se Jahve bori za njih protiv Micrajima!",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotače"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "kotač"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "njihovih bojnih kola"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "te ih je vodio"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "uz muku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "bježimo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ispred lica"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bori se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "protiv Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:06.064878511Z",
+  "model": "glm-5.3"
+}

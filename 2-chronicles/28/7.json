@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "I ubi Zikri, junak Efrajimov, ⟨את⟩ Maasejaha, sina kraljeva, i ⟨את⟩ Azrikama, upravitelja doma, i ⟨את⟩ Elkana, drugoga iza kralja.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "i ubi"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejaha"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Azrikama"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikama"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "upravitelja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "drugoga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iza kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:12:34.454854257Z",
+  "model": "glm-5.3"
+}

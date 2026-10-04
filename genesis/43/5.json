@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ako ga ne pošalješ, nećemo sići, jer onaj čovjek reče nama: Nećete vidjeti moje lice ako vaš brat nije ⟨את⟩ s vama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "pošalješ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "sići"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vidjeti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ako ne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:48.587902695Z",
+  "model": "glm-5.3"
+}

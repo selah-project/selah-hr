@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 80,
+  "translation": "Pastiru Jisraela, slušaj! Koji vodiš Jozefa kao stado, koji sjediš ⟨na⟩ kerubima, zasjaji!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Pastiru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "slušaj"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "vodiš"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kao stado"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjediš"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "⟨na⟩ kerubima"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "zasjaji"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:49.133139095Z",
+  "model": "glm-5.3"
+}

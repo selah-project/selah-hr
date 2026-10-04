@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Kliknite Jahvi, sva zemljo, rasprsite se u radosti i zapjevajte i svirajte!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Kliknite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "rasprsite se u radosti"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "i zapjevajte"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "i svirajte"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:03.196864071Z",
+  "model": "glm-5.3"
+}

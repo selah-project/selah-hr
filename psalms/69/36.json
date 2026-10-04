@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 69,
+  "translation": "Jer Elohim će spasiti Cion, i sagradit će gradove Judine, pa će ondje stanovati i zaposjesti ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "će spasiti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "i sagradit će"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judine"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "pa će stanovati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "i zaposjesti je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:33.664425035Z",
+  "model": "glm-5.3"
+}

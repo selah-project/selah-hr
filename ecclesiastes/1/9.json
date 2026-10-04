@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Što je bilo, to će biti, i što je učinjeno, to će se činiti — i nema ničega novoga pod suncem.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "će biti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "i što"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "je učinjeno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "će se činiti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ničega"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novoga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "suncem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:21.061295034Z",
+  "model": "glm-5.3"
+}

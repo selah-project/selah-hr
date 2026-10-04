@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Zar nas nisi, Eloime, odbacio? I ne izlaziš, Eloime, s vojskama našim!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloime"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "nisi nas odbacio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izlaziš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloime"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "s vojskama našim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.523346758Z",
+  "model": "glm-5.3"
+}

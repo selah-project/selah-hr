@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Arvadijca i ⟨את⟩ Cemarijca i ⟨את⟩ Hamatijca; a potom se rasprše obitelji Kanaanca",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arvadijca"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadijac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cemarijca"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Cemarijac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamatijca"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamatijac"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "rasprše se"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "obitelji"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanac"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:55.935276802Z",
+  "model": "glm-5.3"
+}

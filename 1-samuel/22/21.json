@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I javi Evjatar Davidu da je Šaul pobio ⟨את⟩ svećenike Jahvine.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "javi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pobio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećenike Jahvine"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:49.668886682Z",
+  "model": "glm-5.3"
+}

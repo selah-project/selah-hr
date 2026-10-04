@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "No on ih spase radi svojega imena, da objavi ⟨את⟩ svoju silu.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "No on ih spase"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "svoga imena"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "da objavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju silu"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "svoju silu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:02.355525417Z",
+  "model": "glm-5.3"
+}

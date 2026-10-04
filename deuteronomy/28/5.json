@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Blagoslovljen neka je tvoja košara i tvoje zamešeno tijesto.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "tvoja košara"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "i tvoje zamešeno tijesto"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:14.755552703Z",
+  "model": "glm-5.3"
+}

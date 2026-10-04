@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I udariše svaki čovjek svoga čovjeka, pa pobježe Aram, a Jisrael ih progonjaše; i pobježe Ben-Hadad, kralj aramski, na konju s konjanicima.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "udariše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "svoga čovjeka"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "progonjaše ih"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramski"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "konju"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "s konjanicima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:07.212712397Z",
+  "model": "glm-5.3"
+}

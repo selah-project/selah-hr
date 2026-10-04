@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I vratiše se vode i pokriše ⟨את⟩ bojna kola i ⟨את⟩ konjanike, sve vojske faraonove koja uđe za njima u more; ne ostade u njima ni jedan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "i vratiše se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "i pokriše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojna kola"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojna kola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konjanike"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "konjanike"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonove"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "koja uđe"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za njima"
+    },
+    {
+      "surface": "בים",
+      "gloss": "u more"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ostade"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "u njima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:06.065547156Z",
+  "model": "glm-5.3"
+}

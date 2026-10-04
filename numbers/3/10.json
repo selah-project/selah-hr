@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ Ahrona i ⟨את⟩ sinove njegove postavit ćeš da čuva ⟨את⟩ svoje svećeništvo; tuđin koji se približi bit će ubijen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove njegove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove njegove"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "postavit ćeš"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "da čuva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svećeništvo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "svoje svećeništvo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a tuđin"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "koji se približi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bit će ubijen"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:56.550162659Z",
+  "model": "glm-5.3"
+}

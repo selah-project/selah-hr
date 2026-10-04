@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Od Ela oca tvoga, i on ⟨će⟩ ti pomagati, i ⟨od⟩ Šadaja, i on ⟨će⟩ te blagoslivljati blagoslovima nebesa od gore, blagoslovima bezdna što leži dolje, blagoslovima prsa i maternice.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "od Ela"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvoga"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "i pomagati te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Šadaja"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaj"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "i blagoslivljati te"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od gore"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bezdna"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "leži"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dolje"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "prsa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "i maternice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:45.784120202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 100,
+  "translation": "Uđite u vrata njegova s zahvalom, u dvorišta njegova s hvalom; zahvaljujte mu, blagoslivljajte ime njegovo!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Uđite"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "u vrata njegova"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s zahvalom"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "u dvorišta njegova"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "s hvalom"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "zahvaljujte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "blagoslivljajte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:18.060315688Z",
+  "model": "glm-5.3"
+}

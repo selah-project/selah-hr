@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I kad ču Šaul i sav Jisrael ⟨את⟩ riječi toga Filištejca, prestraši se i jako se uplašiše.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi toga Filištejca"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "toga Filištejca"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "prestraši se"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "uplašiše se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jako"
+    }
+  ],
+  "timestamp": "2026-10-04T17:35:16.451437434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Trenutak plakati i trenutak smijati se, trenutak naricati i trenutak plesati.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "trenutak"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "plakati"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i trenutak"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "smijati se"
+    },
+    {
+      "surface": "עת",
+      "gloss": "trenutak"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "naricati"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "i trenutak"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "plesati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.036020153Z",
+  "model": "glm-5.3"
+}

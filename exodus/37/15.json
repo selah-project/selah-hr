@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I načinio je ⟨את⟩ motke od drva šitim, i obložio ih ⟨את⟩ zlatom, za nošenje ⟨את⟩ stola.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i načinio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "i obložio"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "zlatom"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "za nošenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stola"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:47.137479125Z",
+  "model": "glm-5.3"
+}

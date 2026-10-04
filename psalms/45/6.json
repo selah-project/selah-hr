@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Strijele tvoje oštre — narodi pod tobom padaju — u srce neprijatelja kraljeva.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "strijele tvoje"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "oštre"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pod tobom"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padaju"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "u srce"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "neprijatelja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:25.855430860Z",
+  "model": "glm-5.3"
+}

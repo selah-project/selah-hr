@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I dođoše ⟨את⟩ Noi u korablju, dva po dva od svega mesa u kojememu je ruah života.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i dođoše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "korablju"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "po dva"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svega"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u kojememu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:20.467019119Z",
+  "model": "glm-5.3"
+}

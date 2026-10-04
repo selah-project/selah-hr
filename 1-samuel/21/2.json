@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I dođe David u Nov, k Ahimeleku svećeniku; i zadrhta Ahimelek pred Davidom te mu reče: Zašto si sam i nema čovjeka ⟨את⟩ s tobom?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "u Nov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "zadrhta"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pred"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i čovjeka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:09.075919445Z",
+  "model": "glm-5.3"
+}

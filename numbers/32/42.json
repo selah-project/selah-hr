@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I Novah ode i osvoji ⟨את⟩ Kenat i ⟨את⟩ njezine kćeri, te ga prozva Novah, po svome imenu.",
+  "tokens": [
+    {
+      "surface": "וונבח",
+      "gloss": "I Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ode"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "i osvoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezine kćeri"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "njezine kćeri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "te prozva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "po svome imenu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:04:15.662548406Z",
+  "model": "glm-5.3"
+}

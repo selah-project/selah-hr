@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Propast smišlja jezik tvoj, poput britve izoštrene, ti što činiš prijevaru.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Propast"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "smišlja"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "jezik tvoj"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "poput britve"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "izoštrene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činiš"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prijevaru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:13.032972073Z",
+  "model": "glm-5.3"
+}

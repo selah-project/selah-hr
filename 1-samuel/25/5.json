@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I posla David deset mladića, i reče David mladićima: Uziđite u Karmel i dođite Navalu, i upitajte ga u moje ime za mir.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mladića"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "mladićima"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "uziđite"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "u Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "i dođite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalu"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "i upitajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "u moje ime"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mir"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:49.973490591Z",
+  "model": "glm-5.3"
+}

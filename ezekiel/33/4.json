@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "pa tko god čuje ⟨את⟩ glas šofara, a ne prihvati upozorenja — mač dođe i odnese ga: krv je njegova na vlastitoj glavi njegovoj.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "pa čuje"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "tko god čuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "prihvati upozorenja"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "i odnese ga"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krv njegova"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na glavi njegovoj"
+    },
+    {
+      "surface": "ייהי",
+      "gloss": "bit će"
+    }
+  ],
+  "timestamp": "2026-10-04T18:45:52.014637839Z",
+  "model": "glm-5.3"
+}

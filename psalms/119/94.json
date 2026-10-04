@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Tvoj sam — spasi me, jer tražio sam tvoje pikudim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tvoj sam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "spasi me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvoje pikudim"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "tražio sam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:02.517680567Z",
+  "model": "glm-5.3"
+}

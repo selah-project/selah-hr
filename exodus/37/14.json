@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Nasuprot obradi bili su prstenovi, kuće za motke, za nošenje ⟨את⟩ stola.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "obradi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bili su"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "prstenovi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "za motke"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "za nošenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stola"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:47.137357452Z",
+  "model": "glm-5.3"
+}

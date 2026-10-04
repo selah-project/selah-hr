@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Neka se rastope kao voda, neka otiču; strijela neka, kad je odapne, biti odsječena.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "neka se rastope"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "neka otiču"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "kad odapne"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "strijela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "poput"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "odsječena"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:19.031862671Z",
+  "model": "glm-5.3"
+}

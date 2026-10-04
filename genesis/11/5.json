@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I siđe Jahve da vidi ⟨את⟩ grad i ⟨את⟩ toranj koji su sagradili sinovi čovječji.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "I siđe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toranj"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "toranj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su sagradili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovječji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:31.752147844Z",
+  "model": "glm-5.3"
+}

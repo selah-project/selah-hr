@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I spomenuli bi se da je Elohim stijena njihova, i El Eljon otkupitelj njihov.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "i spomenuli bi se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "stijena njihova"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "otkupitelj njihov"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:18.411040972Z",
+  "model": "glm-5.3"
+}

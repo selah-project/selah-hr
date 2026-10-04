@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I Jonatan i David sklopiše savez, jer ga je ljubio kao svoju dušu.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "i sklopi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jer ga je ljubio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (kao svoju dušu)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "kao svoju dušu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:23.703832922Z",
+  "model": "glm-5.3"
+}

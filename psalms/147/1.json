@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Hvalite Jaha, jer je dobro pjevati Elohimu našemu, jer je ugodno, priliči hvala.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "pjevati"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu našemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ugodno"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "priliči"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hvala"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:06.032414862Z",
+  "model": "glm-5.3"
+}

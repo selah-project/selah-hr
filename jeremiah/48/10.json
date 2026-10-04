@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Proklet tko čini djelo Jahvino prijevarno, i proklet tko zadržava mač svoj od krvi!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tko čini"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvino"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prijevarno"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "i proklet"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tko zadržava"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mač svoj"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "od krvi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:33:34.139703865Z",
+  "model": "glm-5.3"
+}

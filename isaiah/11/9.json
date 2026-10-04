@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Neće štetiti niti rušiti na cijeloj svojoj svetoj gori, jer zemlja je puna spoznaje ⟨את⟩ Jahve, kao vode što prekrivaju more.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "štetiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "rušiti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na cijeloj"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gori"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svojoj svetoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puna je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "spoznaje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kao vode"
+    },
+    {
+      "surface": "לים",
+      "gloss": "more"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "prekrivaju"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:17.934567874Z",
+  "model": "glm-5.3"
+}

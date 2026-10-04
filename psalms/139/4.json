@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 139,
+  "translation": "Jer nema riječi na mojem jeziku — evo, Jahve, ti je već posve znaš.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na mojem jeziku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "evo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ti već znaš"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "posve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:00.291660094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I reče Šemuel: Dovedite mi ⟨את⟩ Agaga, kralja Amaleka. I dođe k njemu Agag u ičekivanju slasti, i reče Agag: Zaista, gorčina se smrti odmakla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Dovedite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga, kralja Amaleka"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "I dođe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "u ičekivanju slasti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Zaista"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se odmakla"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gorčina"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:34:22.977028633Z",
+  "model": "glm-5.3"
+}

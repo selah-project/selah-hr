@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I pokloni se i reče: Tko je sluga tvoj, da si se obazro na mrtva psa kao što sam ja?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tko"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "si se obazro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "psa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakav"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "kao što sam ja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:41:38.983172737Z",
+  "model": "glm-5.3"
+}

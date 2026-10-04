@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I dogodi se, s povratkom godine, da prebroji Ben-Hadad ⟨את⟩ Arama, pa uzađe u Afek, u boj s Jisraelom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "s povratkom"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "da prebroji"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "pa uzađe"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "u Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "u boj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:47.564515415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 12:18",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Kralj Rehavam posla ⟨את⟩ Adorama, koji je bio nad tlakom, pa ga sav Jisrael kamenova kamenom te umrije; a kralj Rehavam požuri ući u kola da pobjegne u Jerušalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adorama"
+    },
+    {
+      "surface": "אדרם",
+      "gloss": "Adorama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je bio"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המס",
+      "gloss": "tlakom"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "kamenova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamenom"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "umrije"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a kralj"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "התאמץ",
+      "gloss": "požuri se"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ući"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "u kola"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "da pobjegne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "u Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:53.707287035Z",
+  "model": "glm-5.3"
+}

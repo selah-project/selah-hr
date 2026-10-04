@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I tako svaki čovjek neka jede i pije i vidi dobro u svemu svome trudu — to je dar Elohimov.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i tako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "neka jede"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "i pije"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svemu"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "svome trudu"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:35.467962174Z",
+  "model": "glm-5.3"
+}

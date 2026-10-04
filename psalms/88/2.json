@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Jahve, Elohim moje pomoći, danom vapijem, noću pred tobom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "moje pomoći"
+    },
+    {
+      "surface": "יום",
+      "gloss": "danom"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "vapijem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pred tobom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.046363693Z",
+  "model": "glm-5.3"
+}

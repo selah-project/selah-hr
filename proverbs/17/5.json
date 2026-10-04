@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Tko se ruga siromahu, ruži onoga koji ga je načinio; tko se raduje nesreći, neće ostati nekažnjen.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "ruga se"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "siromahu"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ruži"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "onoga koji ga je načinio"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "nesreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ostati nekažnjen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:27.489201932Z",
+  "model": "glm-5.3"
+}

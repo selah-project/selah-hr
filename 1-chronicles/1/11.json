@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Micrajim rodi ⟨את⟩ Ludijce i ⟨את⟩ Anamijce i ⟨את⟩ Lehavijce i ⟨את⟩ Naftuhijce.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludijce"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamijce"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehavijce"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftuhijce"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhijce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:59:42.043435637Z",
+  "model": "glm-5.3"
+}

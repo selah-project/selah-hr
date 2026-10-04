@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I oderu ⟨את⟩ žrtvu paljenicu, i razrežu je na njezine dijelove.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "i oderu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žrtvu paljenicu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "i razrežu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "njezine dijelove"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "na njezine dijelove"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:58.627025086Z",
+  "model": "glm-5.3"
+}

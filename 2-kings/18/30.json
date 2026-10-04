@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I neka vas Hizkijahu ne tjerá ⟨את⟩ vas da se uzdatee u Jahvu govoreći: Jahve će nas sigurno izbaviti, i ovaj grad neće biti predan u ruku kralju Ašura.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i neka ne"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "tjerá da se uzdatee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "će izbaviti nas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "će biti predan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ovaj grad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:30.849848099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I opet rodi sina, i nadjene mu ime Šelah; a bio je u Kezibu kad ga je rodila.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "i opet je rodila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opet"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i nadjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bio je"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "u Kezibu"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "kad ga je rodila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:37.324754342Z",
+  "model": "glm-5.3"
+}

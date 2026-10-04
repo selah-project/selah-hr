@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ja ću pisati na pločama ⟨את⟩ riječi koje bijahu na prvim pločama koje si ti slomio, i položit ćeš ih u kovčeg.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "i pisat ću"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "pločama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "pločama"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "si slomio"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "i položit ćeš ih"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "u kovčeg"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:26.395552949Z",
+  "model": "glm-5.3"
+}

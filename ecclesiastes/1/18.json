@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Jer u mnoštu mudrosti mnoštvo je srdžbe, i tko množi spoznaju, množi bol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "u mnoštu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrosti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoštvo je"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "srdžbe"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "i množi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznaju"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "množi"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bol"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:13.936777479Z",
+  "model": "glm-5.3"
+}

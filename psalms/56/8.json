@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 56,
+  "translation": "⟨Zar⟩ će zbog bezakonja umaknuti? U gnjevu ⟨svojem⟩ narode obori, Elohime.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "און",
+      "gloss": "bezakonja"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "umaknuti"
+    },
+    {
+      "surface": "למו",
+      "gloss": "oni"
+    },
+    {
+      "surface": "באף",
+      "gloss": "u gnjevu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "obori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:12.263714335Z",
+  "model": "glm-5.3"
+}

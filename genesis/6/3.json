@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I reče Jahve: Neće se moja ruah dovijeka boriti u čovjeku — jer je on tijelo — i dani njegovi bit će sto i dvadeset godina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "boriti"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "u čovjeku"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dani njegovi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "i dvadeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:40.375135075Z",
+  "model": "glm-5.3"
+}

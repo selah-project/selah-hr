@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I Lavan nazva ⟨את⟩ Jegar Sahaduta, a Jaakov nazva ⟨את⟩ Gal-ed.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨את⟩",
+      "marks": "Jegar Sahaduta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Jegar"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Sahaduta"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakov"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨את⟩",
+      "marks": "Gal-ed"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gal-ed"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:01.996877838Z",
+  "model": "glm-5.3"
+}

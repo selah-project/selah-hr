@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Daleko bilo od mene da opravdam ⟨את⟩ vas! Dok izdišem, neću ukloniti svoje nevinosti od sebe.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Daleko bilo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "opravdam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vi (Jobovi prijatelji)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Dok"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "izdišem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neću"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ukloniti"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "svoje nevinosti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T19:36:58.991571539Z",
+  "model": "glm-5.3"
+}

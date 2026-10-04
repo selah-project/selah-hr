@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uze Noemi ⟨את⟩ dijete, stavi ga u krilo svoje, i posta mu dojiljom.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "stavi ga"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "u krilo svoje"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "i posta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "dojiljom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:55.361387057Z",
+  "model": "glm-5.3"
+}

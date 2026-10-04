@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "i dok Jahve ne udalji ⟨את⟩ čovjeka, i napuštenoga ne bude mnoštvo u sredini zemlje.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "i dok ne udalji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "i ne bude mnoštvo"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "napuštenoga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "u sredini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:23.648071168Z",
+  "model": "glm-5.3"
+}

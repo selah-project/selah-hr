@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Užad bezbožnika ovile su me; Tvoje Tore nisam zaboravio.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "užad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnika"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ovile su me"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tvoje Tore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisam"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zaboravio"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:08.101602201Z",
+  "model": "glm-5.3"
+}

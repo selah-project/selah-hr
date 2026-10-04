@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I vidje kraljica Šebe ⟨את⟩ mudrost Šelomovu i ⟨את⟩ kuću koju bijaše sagradio.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kraljica"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudrost Šelomovu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomovu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "i kuću"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sagradio"
+    }
+  ],
+  "timestamp": "2026-10-04T20:09:08.624401298Z",
+  "model": "glm-5.3"
+}

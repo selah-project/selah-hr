@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I postavi ⟨את⟩ sav narod, svaki čovjek svoje oružje u svojoj ruci, od ramena zgrade desne do ramena zgrade lijeve, prema žrtveniku i prema kući, oko kralja unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "i svaki čovjek"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "svoje oružje (koplje)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u svojoj ruci"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "od ramena"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "zgrade"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ramena"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "zgrade"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "lijeve"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "prema žrtveniku"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "i prema kući"
+    },
+    {
+      "surface": "על",
+      "gloss": "oko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T20:11:01.019741107Z",
+  "model": "glm-5.3"
+}

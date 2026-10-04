@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Ne činite ⟨את⟩ sa mnom ⟨את⟩ bogova od srebra i bogove od zlata ne činite sebi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "činite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogova"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "od srebra"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "i bogove"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "od zlata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "činite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:10.673913071Z",
+  "model": "glm-5.3"
+}

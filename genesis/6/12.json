@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I vidje Elohim ⟨את⟩ zemlju, i gle, pokvarena je, jer pokvari svako tijelo ⟨את⟩ svoj put na zemlji.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "I vidje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "pokvarena je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "pokvari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svako"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tijelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj put"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svoj put"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:05.324285531Z",
+  "model": "glm-5.3"
+}

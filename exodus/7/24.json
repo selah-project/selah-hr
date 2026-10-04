@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I kopaše svi Micrajimci unaokolo uz rijeku vode za piće, jer ne mogaše piti voda iz rijeke.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "i kopaše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimci"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "unaokolo uz"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rijeku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "za piće"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogaše"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "piti"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "voda iz"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rijeke"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:24.428044364Z",
+  "model": "glm-5.3"
+}

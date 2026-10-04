@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Oku mojem gasne od ogorčenja; ostarije od svih neprijatelja mojih.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "gasne"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "od ogorčenja"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oku mojem"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ostarije"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "od svih"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "neprijatelja mojih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:03:14.837325337Z",
+  "model": "glm-5.3"
+}

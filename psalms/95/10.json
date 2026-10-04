@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "Četrdeset sam se godina zgražao nad tim naraštajem i rekao: narod su što luta srcem, oni, i oni ne poznaju mojih putova.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "zgražao sam se"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nad tim naraštajem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "i rekao sam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "što luta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni su"
+    },
+    {
+      "surface": "והם",
+      "gloss": "i oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznaju"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mojih putova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.307076803Z",
+  "model": "glm-5.3"
+}

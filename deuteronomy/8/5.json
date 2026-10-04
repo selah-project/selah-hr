@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I znat ćeš sa svojim srcem da, kao što čovjek odgaja ⟨את⟩ svoga sina, tako Jahve, tvoj Elohim, odgaja tebe.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "znat ćeš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "svojim srcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "odgaja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoga sina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svoga sina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "odgaja tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:06.276705566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "i Ahišar ⟨bio je⟩ nad domom ⟨kraljevim⟩; a Adoniram, sin Abdin, nad porezom ⟨u radu⟩.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "i Ahišar"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domom"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "a Adoniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Abdin"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המס",
+      "gloss": "porezom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:50.998276386Z",
+  "model": "glm-5.3"
+}

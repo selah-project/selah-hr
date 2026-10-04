@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Jer kao pucketanje trnja pod loncem, takav je smijeh luđaka — i to je hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kao pucketanje"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "trnja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "loncem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takav je"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "smijeh"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:13.062644074Z",
+  "model": "glm-5.3"
+}

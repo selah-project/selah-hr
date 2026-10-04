@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 118,
+  "translation": "Jahve ⟨je⟩ za me: neću se bojati — što mi može učiniti čovjek?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ću se bojati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "može učiniti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:16.931151678Z",
+  "model": "glm-5.3"
+}

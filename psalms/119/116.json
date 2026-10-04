@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Podupri me po svojoj riječi i živjet ću; ne daj da se postidim ⟨zbog⟩ nade svoje.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Podupri me"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "po svojoj riječi"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "i živjet ću"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne daj"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "da se postidim"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "⟨zbog⟩ nade svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:24.961576579Z",
+  "model": "glm-5.3"
+}

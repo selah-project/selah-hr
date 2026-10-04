@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Naprotiv, u srcu činite zlo, u zemlji nasilje ruku vaših odmjeravate.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Naprotiv"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "u srcu"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "činite"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ruku vaših"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "odmjeravate"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:18.319351449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "i ⟨את⟩ Negév, i ⟨את⟩ ravnicu, dolinu jerišku, grad palmâ, sve do Coara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Negév"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negév"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ravnica"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ravnica"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "dolinu"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "jerišku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmâ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:19.321387238Z",
+  "model": "glm-5.3"
+}

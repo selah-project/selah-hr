@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I reče: Ja ću provesti svu svoju dobrotu pred licem tvojim i zazvat ću ime Jahve pred tobom; i milost ću iskazati onome kome iskazujem milost, i smilovati ću se onome kome se smilujem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ću provesti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "svoju dobrotu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "licem tvojim"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "i zazvat ću"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "i iskazat ću milost"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onome kome iskazujem milost"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kome"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "iskazujem milost"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "i smilovati ću se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onome kome se smilujem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kome"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "se smilujem"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:49.232837728Z",
+  "model": "glm-5.3"
+}

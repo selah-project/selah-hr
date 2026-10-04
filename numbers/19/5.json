@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I neka spali ⟨את⟩ kravu pred njegovim očima: ⟨את⟩ kožu njezinu i ⟨את⟩ meso njezino i ⟨את⟩ krv njezinu — na balegu njezinu neka je spali.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "neka spali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kravu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "kravu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pred njegovim očima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kožu njezinu"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "kožu njezinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "meso njezino"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "meso njezino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krv njezinu"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "krv njezinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "balegu njezinu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "neka je spali"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:57.028954088Z",
+  "model": "glm-5.3"
+}

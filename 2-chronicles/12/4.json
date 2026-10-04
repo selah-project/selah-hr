@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I osvoji ⟨את⟩ utvrđene gradove koji bijahu Judini, te dođe sve do Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "osvoji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utvrđene gradove"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "utvrđene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judini"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dođe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:42.673844811Z",
+  "model": "glm-5.3"
+}

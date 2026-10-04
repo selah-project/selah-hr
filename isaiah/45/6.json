@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Da znaju od izlaska sunca i od zalaska da nema nikoga drugoga osim mene: ja sam Jahve i nema drugoga.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "od izlaska"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunca"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "i od zalaska"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nema nikoga"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "osim mene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "drugoga"
+    }
+  ],
+  "timestamp": "2026-10-04T18:16:08.819154852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 14:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I reče: Spomeni se, molim, kralj, ⟨את⟩ Jahve, Elohim tvoj, da ne umnoži osvetnik krvi razaranje, i ne unište ⟨את⟩ sina mojega. A kralj reče: Živ mi bio Jahve — neće pasti s vlasi sina tvojega na zemlju.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "Spomeni se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "מהרבית",
+      "gloss": "da ne umnoži"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "osvetnik"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "razaranje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "ישמידו",
+      "gloss": "unište"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina mojega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sina mojega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A kralj reče"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "neće pasti"
+    },
+    {
+      "surface": "משערת",
+      "gloss": "s vlasi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina tvojega"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:31.499658571Z",
+  "model": "glm-5.3"
+}

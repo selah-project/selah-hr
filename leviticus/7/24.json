@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "A salo uginule životinje i salo rastrgane životinje može se rabiti za svaki posao, ali ga ne smijete jesti.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "A salo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "uginule životinje"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "i salo"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "rastrgane životinje"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "može se rabiti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za svaki"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ali ga jesti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "smijete jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:23.924778490Z",
+  "model": "glm-5.3"
+}

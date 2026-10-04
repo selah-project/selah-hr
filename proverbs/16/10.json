@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Proroštvo je na usnama kralja; u sudu njegova usta neće izdati.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "proroštvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usnama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "u sudu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "izdati"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "njegova usta"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:15.560821259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 66,
+  "translation": "Paljenice od ugojenih žrtava uzdići ću ti, s miomirisom ovnova; prinijet ću goveda s jarcima. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "od ugojenih žrtava"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "uzdići ću"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "miomirisom"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ovnova"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "prinijet ću"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "jarcima"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:51.407147424Z",
+  "model": "glm-5.3"
+}

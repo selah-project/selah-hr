@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Ovako će Aharon ući u svetište: s mladim bikom, sinom krava, za griješnicu i s ovnom za žrtvu paljenicu.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "će ući"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetište"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "s bikom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinom"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "krava"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za griješnicu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "i s ovnom"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:50:32.714838707Z",
+  "model": "glm-5.3"
+}

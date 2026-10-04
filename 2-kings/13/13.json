@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 13:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I Joaš leže sa svojim očevima, a Jeroboam sjede na njegovo prijestolje; i Joaš biva pokopan u Samariji s kraljevima Jisraela.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "leže"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svojim očevima"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "a Jeroboam"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sjede"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegovo prijestolje"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "biva pokopan"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "u Samariji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:22.761037951Z",
+  "model": "glm-5.3"
+}

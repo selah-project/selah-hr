@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I vidje Haman da Mordečaj ne kleča niti mu se klanja, i napuni se Haman gnjevom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordečaj"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "kleča"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "niti se klanja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "i napuni se"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "gnjevom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:23.312604447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče Jahve Avrahamu: Zašto se Saraja nasmijala ⟨ovako⟩ govoreći: Zar ću doista roditi, a ja sam ostarila?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "nasmijala se"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "האף",
+      "gloss": "zar"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "doista"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "ću roditi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ostarila sam"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:24.074328319Z",
+  "model": "glm-5.3"
+}

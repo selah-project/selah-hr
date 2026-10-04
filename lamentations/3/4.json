@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Istrošio je tijelo moje i kožu moju, polomio je kosti moje.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "istrošio je"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tijelo moje"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "i kožu moju"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "polomio je"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "kosti moje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:52.946068547Z",
+  "model": "glm-5.3"
+}

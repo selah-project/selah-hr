@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče Boaz starješinama i svemu narodu: Svjedoci ste danas da sam kupio ⟨את⟩ sve što bijaše Elimeleku i ⟨את⟩ sve što bijaše Kiljonu i Mahlonu, iz ruke Noemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "starješinama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svemu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svjedoci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "sam kupio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve što bijaše Elimeleku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimeleku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što bijaše Kiljonu i Mahlonu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "Kiljonu"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "i Mahlonu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:30:48.810281919Z",
+  "model": "glm-5.3"
+}

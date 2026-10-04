@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Jer iskrivljenjak je gadost Jahvi, a s ⟨את⟩ pravednima njegovo tajno zajedništvo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "iskrivljenjak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ s",
+      "marks": "pravednima"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pravednima"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "njegovo tajno zajedništvo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:16.738326727Z",
+  "model": "glm-5.3"
+}

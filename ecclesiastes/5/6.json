@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jer uz mnoštvo snova i ispraznosti i mnoštvo riječi — ⟨את⟩ Elohima se boj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "uz mnoštvo"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "snova"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "i ispraznosti"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "i riječi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnoštvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se boj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:57.018576656Z",
+  "model": "glm-5.3"
+}

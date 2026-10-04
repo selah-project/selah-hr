@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Laž sam zamrzio i gađam je se, Tvoju Toru ljubim.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Laž"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "sam zamrzio"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "i gađam je se"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tvoju Toru"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:06.827048537Z",
+  "model": "glm-5.3"
+}

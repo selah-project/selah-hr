@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Čovjek izlazi na posao svoj i na rad svoj do večeri.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "na posao svoj"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "i na rad svoj"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večeri"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:00.591394247Z",
+  "model": "glm-5.3"
+}

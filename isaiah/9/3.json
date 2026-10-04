@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer ⟨את⟩ jaram njegova tereta i ⟨את⟩ štap njegova ramena, palicu njegova tlačitelja koji ga bije — slomio si ⟨to⟩ kao na dan Midjana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaram njegova tereta"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaram"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "njegova tereta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "štap njegova ramena"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "štap"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "njegova ramena"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "palicu"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "njegova tlačitelja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "koji ga bije"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "slomio si"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kao na dan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjana"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:47.891327699Z",
+  "model": "glm-5.3"
+}

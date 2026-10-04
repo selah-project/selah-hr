@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "i ⟨את⟩ Haemorejce, i ⟨את⟩ Hakenaanijce, i ⟨את⟩ Hagirgašijce i ⟨את⟩ Hajevusejce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Haemorejce"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemorejci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hakenaanijce"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Hakenaanijci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hagirgašijce"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Hagirgašijci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Hajevusejce"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Hajevusejci"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:50.688982110Z",
+  "model": "glm-5.3"
+}

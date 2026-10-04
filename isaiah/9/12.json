@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A narod se nije vratio onome koji ga bije, i ⟨את⟩ Jahvu Cebaot nisu tražili.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "a narod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vratio se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "prema"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "onome koji ga bije"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu Cebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "tražili"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:19.955527488Z",
+  "model": "glm-5.3"
+}

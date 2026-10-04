@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Jahve podupire ⟨את⟩ ponizne, a zle obara ⟨את⟩ do zemlje do kraja.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "podupire"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponizne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "obara"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zle"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "do kraja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:05.824713208Z",
+  "model": "glm-5.3"
+}

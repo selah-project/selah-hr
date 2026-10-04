@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 49,
+  "translation": "Jer ja sam razotkrio ⟨את⟩ Esava, otkrio ⟨את⟩ skrovišta njegova, i sakriti se neće moći; oplijenljeno je sjeme njegovo i braća njegova i susjedi njegovi — i njega više nema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "razotkrio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "otkrio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrovišta njegova"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "skrovišta njegova"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "i sakriti se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "će moći"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "oplijenljeno je"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sjeme njegovo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i braća njegova"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "i susjedi njegovi"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "i njega više nema"
+    }
+  ],
+  "timestamp": "2026-10-04T18:34:44.119247179Z",
+  "model": "glm-5.3"
+}

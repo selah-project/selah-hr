@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "Zar ja nemam dovoljno luđaka, da ste doveli ⟨את⟩ ovoga da lude preda mnom? Zar će ovaj ući u moju kuću?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "u pomanjkanju"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ste doveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovoga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovoga"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "da lude"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "će ući"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "moju kuću"
+    }
+  ],
+  "timestamp": "2026-10-04T17:36:48.798104383Z",
+  "model": "glm-5.3"
+}

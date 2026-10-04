@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I dozva kralj Micrajima babice i reče im: Zašto učiniste ovu stvar, te ostaviste ⟨את⟩ djecu živu?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dozva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "babice"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "להן",
+      "gloss": "im"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "učiniste"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ostaviste živu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "djeca"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "djecu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:48.671094434Z",
+  "model": "glm-5.3"
+}

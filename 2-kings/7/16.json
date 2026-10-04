@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I iziđe narod i opljačka ⟨את⟩ tabor Arama: i bi jedna sea bijeloga brašna za šekel, a dvije sea ječma za šekel, po riječi Jahvinoj.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "i opljačka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Arama"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "jedna sea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bijeloga brašna"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "za šekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "a dvije sea"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječma"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "za šekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:49.027739476Z",
+  "model": "glm-5.3"
+}

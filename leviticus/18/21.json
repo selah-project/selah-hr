@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I od svoga sjemena ne daj da ⟨se⟩provede ⟨את⟩ Molohu, i ne skrnavaj imena Elohima svojega; ja sam Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "i od svoga sjemena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "da se provede"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molohu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "skrnavaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imena"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohima svojega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:48.997806496Z",
+  "model": "glm-5.3"
+}

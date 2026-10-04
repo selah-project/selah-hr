@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Neće vikati ni podizati ⟨svoj glas⟩, neće dati da se čuje na ulici glas njegov.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Neće"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "vikati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "podizati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dati da se čuje"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na ulici"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glas njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:02.293727861Z",
+  "model": "glm-5.3"
+}

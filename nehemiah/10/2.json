@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A na potpisane ⟨stavljen je pečat⟩: Nechemja, tiršata, sin Hakaljin, i Cidkija.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "potpisane"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemja"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "tiršata (namjesnik)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Hakalje"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "i Cidkija"
+    }
+  ],
+  "timestamp": "2026-10-04T19:58:00.937363045Z",
+  "model": "glm-5.3"
+}

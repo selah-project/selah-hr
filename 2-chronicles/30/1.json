@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 30:1",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I posla Hizkijahu po svemu Jisraelu i Judi, te napisa i pisma Efrajimu i Manašeu, da dođu u dom Jahvin u Jerušalajim, daslave Pesah Jahvi, Elohimu Jisraelovu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Judi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "te i"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "pisma"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napisa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "i Manašeu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da dođu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da slave"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:13:46.712136515Z",
+  "model": "glm-5.3"
+}

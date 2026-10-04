@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I požali Jahve što je načinio ⟨את⟩ čovjeka na zemlji, i ražalosti se u srcu svojemu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i požali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načinio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "i ražalosti se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srcu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:06.995767933Z",
+  "model": "glm-5.3"
+}

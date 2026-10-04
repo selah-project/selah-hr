@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "Jesu li ⟨את⟩ ih izbavili bogovi naroda koje uništiše moji oci — ⟨את⟩ Gozan i ⟨את⟩ Haran, i Recef i sinovi Edena koji su u Telasaru?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Jesu li izbavili"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "אלהי"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "uništiše"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "moji oci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "i Recef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "i sinovi"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "u Telasaru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:12:41.341387360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "ako pomazani svećenik sagriješi tako da narod upadne u krivnju, neka prinese za grijeh svoj koji je počinio mladoga bika bez mane Jahvi za žrtvu grijeha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pomazani"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sagriješi"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "u krivnju"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "neka prinese"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "grijeh svoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "počinio"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mladoga bika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mladi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bike"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez mane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za žrtvu grijeha"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:17.385053785Z",
+  "model": "glm-5.3"
+}

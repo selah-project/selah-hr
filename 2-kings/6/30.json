@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I dogodi se, kad kralj ču ⟨את⟩ riječi one žene, da razdrije ⟨את⟩ haljine svoje — a on prolazioše po zidu — i vidje narod, i gle, kostrijet na tijelu njegovu iznutra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad ču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječi one žene"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "one žene"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "da razdrije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haljine svoje"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "haljine svoje"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prolazioše"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "zidu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "השק",
+      "gloss": "kostrijet"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tijelu njegovu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iznutra"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:09.272454395Z",
+  "model": "glm-5.3"
+}

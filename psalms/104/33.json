@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "Pjevat ću Jahvi sve dok živim, svirat ću ⟨את⟩ Elohim svojem dok me ima.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "pjevat ću"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sve dok živim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "svirat ću"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim svojem"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "dok me ima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.155438566Z",
+  "model": "glm-5.3"
+}

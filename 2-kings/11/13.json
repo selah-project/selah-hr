@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ču Atalja ⟨את⟩ glas trkača ⟨i⟩ naroda, pa dođe k narodu u dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "trkača"
+    },
+    {
+      "surface": "העם",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "pa dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:16.751067732Z",
+  "model": "glm-5.3"
+}

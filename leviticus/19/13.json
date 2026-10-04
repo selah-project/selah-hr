@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Ne čini nasilja nad ⟨את⟩ svojim bližnjim i ne otimaj; neka ne ostane preko noći plaća najamnika ⟨את⟩ ⟨kod tebe⟩ do jutra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "čini nasilja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim bližnjim"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "svom bližnjim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "otimaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "neka ne ostane preko noći"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "plaća"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najamnika"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨kod tebe⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-04T20:18:03.751366916Z",
+  "model": "glm-5.3"
+}

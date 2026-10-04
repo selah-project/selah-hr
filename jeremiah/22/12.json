@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Jer na mjesto kamo su ga odveli u progonstvo, onamo će umrijeti, a ⟨את⟩ ove zemlje neće vidjeti više.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "odveli u progonstvo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "će umrijeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ovu zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidjet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    }
+  ],
+  "timestamp": "2026-10-04T18:26:05.487714867Z",
+  "model": "glm-5.3"
+}

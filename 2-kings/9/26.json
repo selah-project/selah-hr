@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 9:26",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Ako ne — krv Navota i krv sinova njegovih vidio sam jučer u noći, riječ je Jahvina, i vratio sam tebi na ovom polju, riječ je Jahvina. A sada podigni, baci ga u polje, po riječi Jahvinoj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv Navota"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krv"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "krv sinova njegovih"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krv"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinova njegovih"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidio sam"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "jučer u noći"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "i vratio sam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "na polju"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "שא",
+      "gloss": "podigni"
+    },
+    {
+      "surface": "השלכהו",
+      "gloss": "baci ga"
+    },
+    {
+      "surface": "בחלקה",
+      "gloss": "u polje"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:28.408674243Z",
+  "model": "glm-5.3"
+}

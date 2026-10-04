@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Čuvaj ono ⟨את⟩ što ti ja danas zapovijedam; evo, ja tjeram pred tobom ⟨את⟩ Emorejca i Kenaanca i Hetita i Perižejca i Hivijca i Jebusejca.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨za sebe⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ono što ti ja danas zapovijedam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "zapovijedam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "evo ja"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "tjeram"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred tobom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorejca"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejca"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "i Kenaanca"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "i Hetita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "i Perižejca"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "i Hivijca"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebusejca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:31.957604864Z",
+  "model": "glm-5.3"
+}

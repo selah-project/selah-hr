@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I uze gospodar Josipov ⟨את⟩ njega i dade ga u tamnicu, mjesto gdje su sužnji kraljevski vezani; i bijaše ondje u tamnici.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gospodar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipov"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "ga (Josipa)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i dade ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tamnicu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tamnica"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "sužnji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevski"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "vezani"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u tamnici"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tamnica"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:15.282076266Z",
+  "model": "glm-5.3"
+}

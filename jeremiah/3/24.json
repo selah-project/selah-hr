@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A sramota je proždrla trud otaca naših od naše mladosti: ⟨את⟩ stoku njihovu i ⟨את⟩ goveda njihova, ⟨את⟩ sinove njihove i ⟨את⟩ kćeri njihove.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "A sramota"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "proždrla je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trud otaca naših"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "trud"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "otaca naših"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "od naše mladosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stoku njihovu"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "stoku njihovu (ovaca)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "goveda njihova"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "goveda njihova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove njihove"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sinove njihove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kćeri njihove"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "kćeri njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T18:21:08.761568732Z",
+  "model": "glm-5.3"
+}

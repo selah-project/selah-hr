@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I bijaše Jahve s ⟨את⟩ Jošefom, i on bijaše čovjek koji napreduje, i bijaše u kući gospodara svojega, Micrajca.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s Jošefom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošefom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "koji napreduje"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "gospodara svojega"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Micrajca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:32.286466460Z",
+  "model": "glm-5.3"
+}

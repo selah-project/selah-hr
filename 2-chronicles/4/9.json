@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I napravi dvorište svećenika i veliko dvorište, i vrata za dvorište, i njihova ih vrata obloži mjedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i napravi"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "dvorište"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenika"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "i dvorište"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "i vrata"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "za dvorište"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "njihova vrata"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mjedi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:09.230091785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I reče Jahve ha-satanu: Otkud dolaziš? I odgovori ha-satan ⟨את⟩ Jahvi i reče: Od kruženja po zemlji i od šetnje po njoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha-satanu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "otkud"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dolaziš"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dolaziš"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "משט",
+      "gloss": "od kruženja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "i od šetnje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po njoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:32:21.828586097Z",
+  "model": "glm-5.3"
+}

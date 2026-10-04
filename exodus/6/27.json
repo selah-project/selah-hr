@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Oni su oni koji govoraše faraonu, kralju micrajskomu, da izvedu ⟨את⟩ sinove Jisraelove iz Micrajima; to je onaj Moše i Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Oni su oni"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "koji govoraše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskomu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da izvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je onaj"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:32.832724374Z",
+  "model": "glm-5.3"
+}

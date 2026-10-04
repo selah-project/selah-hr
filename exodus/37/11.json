@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I obloži ⟨את⟩ nj zlatom čistim, i načini mu vijenac zlatan unaokolo.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "i obloži"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nj",
+      "marks": "nj (stol)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vijenac"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:43:32.977896238Z",
+  "model": "glm-5.3"
+}

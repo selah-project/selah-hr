@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "i raširi je preda mnom, i bila je pisana sprijeda i straga, i pisano je na njoj: tužbalice i jad i jao.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "i raširi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "nju — svitak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "i ona"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "pisana"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sprijeda"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "i straga"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "i pisano"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na njoj"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "tužbalice"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "i jad"
+    },
+    {
+      "surface": "והי",
+      "gloss": "i jao"
+    }
+  ],
+  "timestamp": "2026-10-04T18:36:55.808352265Z",
+  "model": "glm-5.3"
+}

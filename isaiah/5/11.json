@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Jao onima koji rano ujutro ustaju da gone opojno piće, koji u sumrak kasne dok ih vino ne zapali!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "jao"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "koji rano ustaju"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "opojno piće"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "da gone"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "koji kasne"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "u sumrak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "zapali ih"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:54.321148855Z",
+  "model": "glm-5.3"
+}

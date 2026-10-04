@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 75,
+  "translation": "Rekoh oholima: Ne oholite se, i zlikovcima: Ne dižite roga.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Rekoh"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "oholima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "oholite se"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "i zlikovcima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "dižite"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "roga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:57.068232555Z",
+  "model": "glm-5.3"
+}

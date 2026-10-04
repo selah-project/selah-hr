@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 84,
+  "translation": "Kako su draga prebivališta tvoja, Jahve Cebaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "draga"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "prebivališta tvoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.991503582Z",
+  "model": "glm-5.3"
+}

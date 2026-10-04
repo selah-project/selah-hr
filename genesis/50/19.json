@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "A Josef reče njima: Ne bojte se, jer jesam li ⟨ja⟩ umjesto Elohim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "umjesto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ja⟩ jesam"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:52.892511644Z",
+  "model": "glm-5.3"
+}

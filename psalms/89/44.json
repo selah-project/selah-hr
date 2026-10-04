@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Čak si oštricu mača njegova odbio i nisi ga dao da stane u boju.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "čak"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "si odbio"
+    },
+    {
+      "surface": "צור",
+      "gloss": "oštricu"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mača njegova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisi"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "ga dao da stane"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "u boju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:21.892036751Z",
+  "model": "glm-5.3"
+}

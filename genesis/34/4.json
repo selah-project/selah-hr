@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I reče Šekem Hamoru, ocu svomu: Uzmi mi ⟨את⟩ ovu djevojku za ženu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hamoru"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ocu svomu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Uzmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu djevojku"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "djevojku"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:06.459342802Z",
+  "model": "glm-5.3"
+}

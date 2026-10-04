@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 24:18",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I Jahve protjera ispred nas ⟨את⟩ sve narode i ⟨את⟩ Amorejca koji je sjedio u zemlji; i mi ćemo služiti ⟨את⟩ Jahvi, jer on je Elohim naš.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "i protjera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve narode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Amorejca"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorejca"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "koji je sjedio"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ispred nas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ćemo služiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:35.380731873Z",
+  "model": "glm-5.3"
+}

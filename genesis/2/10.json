@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A rijeka izlazi iz Edena da napaja ⟨את⟩ vrt, i odande se dijeli i postaje četiri rukavca.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "a rijeka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izlazi"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "iz Edena"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "da napaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrt"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vrt"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "i odande"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "se dijeli"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i postaje"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "rukavca"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:43.693281266Z",
+  "model": "glm-5.3"
+}

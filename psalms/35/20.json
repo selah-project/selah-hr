@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "Jer ne govore mir, nego protiv mirnih u zemlji riječi prijevare smišljaju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nego protiv"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "mirnih"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "prijevare"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "smišljaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:07.222509274Z",
+  "model": "glm-5.3"
+}

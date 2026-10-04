@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I dogodi se, kad ostonja Šemuel, da postavi ⟨את⟩ svoje sinove sucima nad Jisraelom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ostarje"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sucima"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nad Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:37.123543348Z",
+  "model": "glm-5.3"
+}

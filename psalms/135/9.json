@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Posla je znakove i čudesa usred tebe, Micrajime, protiv faraona i svih slugu njegovih.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "posla je"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "znakove"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "i čudesa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "usred tebe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajime"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "protiv faraona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i svih"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "slugu njegovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:02.588100369Z",
+  "model": "glm-5.3"
+}

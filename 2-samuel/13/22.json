@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I Avšalom ne reče ni zla ni dobra s Amnonom, jer je Avšalom mrzio ⟨את⟩ Amnona zbog stvari kojom je obeščastio ⟨את⟩ Tamaru, sestru svoju.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonom"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "mrzio je"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "על",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojom"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "obeščastio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamaru"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamaru"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sestru svoju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:13.468388109Z",
+  "model": "glm-5.3"
+}

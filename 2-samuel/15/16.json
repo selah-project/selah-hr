@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "I iziđe kralj i sav njegov dom na svojim nogama, a kralj ostavi ⟨את⟩ deset žena, inača, da čuvaju kuću.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegov dom"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na svojim nogama"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deset žena, inača"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žena"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "inača"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da čuvaju"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    }
+  ],
+  "timestamp": "2026-10-04T17:43:38.753375154Z",
+  "model": "glm-5.3"
+}

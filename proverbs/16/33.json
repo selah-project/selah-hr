@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "U krilo baca se ⟨את⟩ goral, ali je iz Jahve sav njegov sud.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "u krilo"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "baca se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goral"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goral"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ali je iz Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "njegov sud"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:53.548561734Z",
+  "model": "glm-5.3"
+}

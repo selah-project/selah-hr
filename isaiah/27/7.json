@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Je li ⟨ga⟩ udario kao što ⟨su⟩ udarili oni koji ga udaraju? Ili je li ⟨ga⟩ ubio kako je ubijeno njegovih ubijenih?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "kao što ⟨je⟩ udarano"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "oni koji ga udaraju"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "udario ⟨ga⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili je li"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "kako je ubijeno"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "njegovih ubijenih"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ubio"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:09.571287187Z",
+  "model": "glm-5.3"
+}

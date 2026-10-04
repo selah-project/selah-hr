@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 34:31",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I pozva ih Moše, pa se vratiše k njemu Aharon i svi poglavari u zajednici, i govoraše Moše s njima.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "pozva"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "vratiše se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "poglavari"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "u zajednici"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "s njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:44.616873815Z",
+  "model": "glm-5.3"
+}

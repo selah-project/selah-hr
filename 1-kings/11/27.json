@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A ovo je stvar radi koje diga ruku protiv kralja: Šelomoh sazda ⟨את⟩ Milo, zatvori ⟨את⟩ proboj grada Davida, oca svojega.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a ovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "radi koje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "diga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "protiv kralja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sazda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "המלוא — Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zatvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פרץ — proboj"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "proboj"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:37.296156985Z",
+  "model": "glm-5.3"
+}

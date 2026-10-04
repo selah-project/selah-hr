@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Jedno pravo neka vrijedi za vas ⟨i⟩ za pridošlicu i za domoroca; jer sam ja Jahve, Elohim vaš.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka vrijedi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "kao pridošlica"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "kao domorodac"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka vrijedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T16:52:20.925146697Z",
+  "model": "glm-5.3"
+}

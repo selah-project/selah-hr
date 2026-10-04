@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "I neka načine kovčeg od šitim-drva: dvije lakote i pola neka mu je duljina, lakat i pola širina, i lakat i pola visina.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "i neka načine"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kovčeg"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvije lakote"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pola"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova duljina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pola"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i lakat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "i pola"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "njegova visina"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:42.517794347Z",
+  "model": "glm-5.3"
+}

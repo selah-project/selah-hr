@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I reče Jahve: Kao što sluga moj Ješajahu prođe gol i bos tri godine, znak i čudo protiv Micrajima i protiv Kuša,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "prođe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluga moj"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "gol"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "i bos"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godine"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znak"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "i čudo"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i protiv"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    }
+  ],
+  "timestamp": "2026-10-04T18:09:06.607422834Z",
+  "model": "glm-5.3"
+}

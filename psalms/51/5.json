@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Jer svoje prijestupe ja znadem, i moj grijeh je svagda preda mnom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "svoje prijestupe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znadem"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "i moj grijeh"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "svagda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.107672459Z",
+  "model": "glm-5.3"
+}

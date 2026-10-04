@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Požuri, odgovori me, Jahve; moj se ruah gasi — ne skrivaj lica svojega od mene, da ne budem ⟨sličan⟩ onima što silaze u jamu.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Požuri"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "gasi se"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moj ruah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrivaj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "da ne budem ⟨sličan⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "onima što silaze"
+    },
+    {
+      "surface": "בור",
+      "gloss": "u jamu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:48.485160171Z",
+  "model": "glm-5.3"
+}

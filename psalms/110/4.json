@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 110,
+  "translation": "Zakleo se Jahve i neće se predomisliti: »Ti si svećenik dovijeka, po redu Malki-Cedeka.«",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "zakleo se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "se predomisliti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sviještenik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "redu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Cedeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:58.805910464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 79,
+  "translation": "Dokle, Jahve? Svat ćeš ljutiti ⟨za⟩vijek? Gorjet će kao oganj ljubomora tvoja?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokle"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ljutiti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zavijek"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gorjet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ljubomora tvoja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:52.599721220Z",
+  "model": "glm-5.3"
+}

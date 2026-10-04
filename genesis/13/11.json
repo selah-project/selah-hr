@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I Lot izabra sebi ⟨את⟩ svu okolicu Jordana; i Lot krenu istočno, i rastaviše se jedan od brata svojega.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i izabra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu okolicu Jordana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "okolicu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "i krenu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "istočno"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "i rastaviše se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:11.557777789Z",
+  "model": "glm-5.3"
+}

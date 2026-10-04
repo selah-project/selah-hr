@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 46,
+  "translation": "On obustavlja ratove do kraja zemlje; luk lomi i kopije sječe, kola spaljuje u ognju.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "obustavlja"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ratove"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "lomi"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "sječe"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "kopije"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kola"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "spaljuje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:54.363590513Z",
+  "model": "glm-5.3"
+}

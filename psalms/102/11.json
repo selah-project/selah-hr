@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Od gnjeva tvojega i srdžbe tvoje, jer me podignu ⟨i⟩ odbacio si me.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "od"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "gnjeva tvojega"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "i srdžbe tvoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "podignu me"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "odbacio si me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.141700665Z",
+  "model": "glm-5.3"
+}

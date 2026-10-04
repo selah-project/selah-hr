@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Nek bezbožnici padnu u svoje mreže ⟨zajedno⟩, a ja ⟨pritom⟩ prođoh.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Nek padnu"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "u svoje mreže"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "prođoh"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:45.571560573Z",
+  "model": "glm-5.3"
+}

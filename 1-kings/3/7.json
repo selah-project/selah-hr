@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A sada, Jahve, Elohim moj, ti si kraljem učinio ⟨את⟩ slugu svojega mjesto Davida, oca mojega, a ja sam dječak mali, ne znam izlaziti ni dolaziti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A sada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "si kraljem učinio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slugu svojega"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dječak"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znam"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "izlaziti"
+    },
+    {
+      "surface": "ובוא",
+      "gloss": "ni dolaziti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:48:24.459039464Z",
+  "model": "glm-5.3"
+}

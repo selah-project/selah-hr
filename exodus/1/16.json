@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "i reče: Kad babite ⟨את⟩ hebrejske žene i vidite ih na porođajnim kamenima — ako je sin, pogubite ⟨את⟩ ga, a ako je kći, neka ostane živa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "kad babite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hebrejske žene"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "hebrejske žene"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "i vidite"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "porođajnim kamenima"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "pogubite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega (sina)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "neka ostane živa"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:34.684598649Z",
+  "model": "glm-5.3"
+}

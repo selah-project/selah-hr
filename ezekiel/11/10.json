@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Mačem ćete pasti; na međi Jisraelovoj sudit ću vas ⟨את⟩, i spoznat ćete da sam ja Jahve.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ćete pasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "međi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovoj"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "sudit ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i spoznat ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:29.526883833Z",
+  "model": "glm-5.3"
+}

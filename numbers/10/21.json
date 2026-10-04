@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I krenuše Kehatci, nosači svetinje, a ⟨oni⟩ podigoše ⟨את⟩ Miškan do njihova dolaska.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "i krenuše"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatci"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosači"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "svetinje"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "a podigoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miškan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "באם",
+      "gloss": "njihova dolaska"
+    }
+  ],
+  "timestamp": "2026-10-04T16:57:24.634598177Z",
+  "model": "glm-5.3"
+}

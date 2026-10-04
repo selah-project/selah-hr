@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Čovjek je kao dah bez sadržaja, dani mu kao sjena što prolazi.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Čovjek"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "kao dah bez sadržaja"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "je kao"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dani mu"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kao sjena"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "što prolazi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:24.164331481Z",
+  "model": "glm-5.3"
+}

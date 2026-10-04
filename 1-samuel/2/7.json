@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Jahve osiromašuje i obogaćuje, ponizuje i uzvisuje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "osiromašuje"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "i obogaćuje"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ponizuje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "uzvisuje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:29:59.474234184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I reče mi: sine čovječji, idi, uđi k domu Jisraelovu i govori mojim riječima k njima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uđi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "i govori"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "mojim riječima"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:37:51.037643727Z",
+  "model": "glm-5.3"
+}

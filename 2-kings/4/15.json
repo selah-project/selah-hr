@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I reče: Zovi je. I pozva je, i ona stade na vratima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zovi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i pozva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "na vratima"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:22.170996439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Svaka će se dolina podići, i svaka gora i brežuljak spustiti; i bit će krivudavo ⟨postat će⟩ ravno, i neravnine ⟨postat će⟩ dolina.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Svaka"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dolina"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "će se podići"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svaka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gora"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "i brežuljak"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "spustiti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "krivudavo"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ravno ⟨postat će⟩"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "i neravnine"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "dolina ⟨postat će⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:53.684363956Z",
+  "model": "glm-5.3"
+}

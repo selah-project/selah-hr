@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A vi napojiste ⟨את⟩ nazireje vinom i prorocima zapovjediste govoreći: Ne prorokujte!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "A vi napojiste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazireje"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazireje"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "prorocima"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "zapovjediste"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "prorokujte"
+    }
+  ],
+  "timestamp": "2026-10-04T18:53:21.236150942Z",
+  "model": "glm-5.3"
+}

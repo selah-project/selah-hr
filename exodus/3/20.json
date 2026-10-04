@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "i ispružit ću ⟨את⟩ svoju ruku i udarit ću ⟨את⟩ Micraj svim svojim čudima koja ću učiniti usred njega — a poslije toga on će vas otpustiti.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "i ispružit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "i udarit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "svojim čudima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ću učiniti"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "usred njega"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a poslije"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "će otpustiti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:58.262054981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I stvori Elohim ⟨את⟩ velike morske nemani, i ⟨את⟩ svaku dušu živu koja se miče, koju iznjedriše vode po svojim vrstama, i ⟨את⟩ svaku krilatu pticu po vrsti svojoj; i vidje Elohim da je dobro.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "i stvori"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velike morske nemani"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "velike morske nemani"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svaku dušu živu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živu"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "koja se miče"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "iznjedriše"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "po svojim vrstama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svaku krilatu pticu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pticu"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "krilatu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po vrsti svojoj"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:43.959721810Z",
+  "model": "glm-5.3"
+}

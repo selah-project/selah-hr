@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A u Horebu rasrdili ste ⟨את⟩ Jahvu, i Jahve se razgnjevi na ⟨את⟩ vas ⟨da vas uništi⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "u Horebu"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "rasrdili ste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "i razgnjevi se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "da uništi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:25.606040723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "I posla kralj, te se skupiše k njemu svi starješine Jude i Jerušalajima.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "te se skupiše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starješine"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:00.327019889Z",
+  "model": "glm-5.3"
+}

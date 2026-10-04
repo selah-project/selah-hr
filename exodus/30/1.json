@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I načini žrtvenik za kad ⟨את⟩: od drveta šitim načiniš ⟨את⟩ ga.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "za kad"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kada"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "od drveta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "načiniš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (žrtvenik)"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:17.657881113Z",
+  "model": "glm-5.3"
+}

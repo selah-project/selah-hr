@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Na bezbožan narod poslat ću ga, i narodu gnjeva mojega zapovjedit ću mu ⟨da krene⟩: da plijeni plijen i grabež grabi, i da ga stavi za gaz, kao blato ulica.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "na bezbožan narod"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "bezbožan"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "poslat ću ga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "gnjeva mojega"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "zapovjedit ću mu"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "da plijeni"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plijen"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "i grabež"
+    },
+    {
+      "surface": "בז",
+      "gloss": "da grabi"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "i da ga stavi"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "za gaz"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "kao blato"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ulica"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:57.413898894Z",
+  "model": "glm-5.3"
+}

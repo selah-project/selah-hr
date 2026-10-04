@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "A narod koji je ostao u zemlji judejskoj — koje je ostavio Nevukadnecar, kralj Babela — nad njima postavi ⟨את⟩ Gedaljahu, sina Ahikamova, sina Šafanova.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "a narod"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "koji je ostao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judejskoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ostavio"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikamova"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafanova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:13.315277955Z",
+  "model": "glm-5.3"
+}

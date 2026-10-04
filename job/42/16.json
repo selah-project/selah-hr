@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I življaše Ijov poslije toga sto i četrdeset godina, i vidje ⟨את⟩ sinove svoje i ⟨את⟩ sinove sinova svojih, četiri naraštaja.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "življaše"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poslije"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "i četrdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove svoje"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinove svoje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sinove sinova svojih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinova svojih"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "naraštaja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:40:46.513060797Z",
+  "model": "glm-5.3"
+}

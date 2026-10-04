@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I dat ću ⟨את⟩ Jerušalajim u ruševine, prebivalište čagalja, a ⟨את⟩ gradove Jehude dat ću u pustoš, bez stanovnika.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "i dat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "u ruševine"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "prebivalište"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "čagalja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gradove Jehude"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gradove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dat ću"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "u pustoš"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "stanovnika"
+    }
+  ],
+  "timestamp": "2026-10-04T18:23:00.377752950Z",
+  "model": "glm-5.3"
+}

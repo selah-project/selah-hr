@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Dobra je haklamija s baštinom, i korist ⟨je⟩ onima koji gledaju sunce.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "haklamija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "baštinom"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "i korist"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "onima koji gledaju"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sunce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:17.169731171Z",
+  "model": "glm-5.3"
+}

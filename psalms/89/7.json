@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 89,
+  "translation": "Jer tko je u oblacima ravan Jahvi? Tko je među sinovima Elima sličan Jahvi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "u oblacima"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ravan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "sličan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "među sinovima"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:35.980828668Z",
+  "model": "glm-5.3"
+}

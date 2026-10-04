@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 116,
+  "translation": "Vjerovao sam ⟨da ću govoriti⟩, ja sam jako pogođen.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Vjerovao sam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ću govoriti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "pogođen sam"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jako"
+    }
+  ],
+  "timestamp": "2026-10-04T19:18:17.022162054Z",
+  "model": "glm-5.3"
+}

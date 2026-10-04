@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I življaše Mahalalel pet godina i šezdeset godina, i rodi ⟨את⟩ Jareda.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i šezdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jareda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jareda"
+    }
+  ],
+  "timestamp": "2026-10-04T16:18:16.668103867Z",
+  "model": "glm-5.3"
+}

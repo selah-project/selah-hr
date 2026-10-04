@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I rano ujutro ustane Avraham, uzme kruh i mješinu vode te da Hagari — stavivši joj na rame — i ⟨את⟩ dijete, i otpusti je; ona ode i zaluta u pustinji Beer-Ševe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "rano ustane"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uzme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "i mješinu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "stavivši"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "njezino rame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "i otpusti je"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "i zaluta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševe"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:17.607119295Z",
+  "model": "glm-5.3"
+}

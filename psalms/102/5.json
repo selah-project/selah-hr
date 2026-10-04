@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Udaren sam kao trava i osušilo mi se srce, jer zaboravih jesti kruh svoj.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "udaren sam"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kao trava"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "i osušilo se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zaboravih"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "kruh svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.977401570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 141,
+  "translation": "Neka pravednik udari mene ⟨u⟩ hesed i neka me ukori — ulje ⟨za⟩ glavu; neka ga ne odbije glava moja, jer još i molitva moja ⟨ide⟩ u zlima njihovim.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "neka udari mene"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "i neka me ukori"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יני",
+      "gloss": "neka odbije"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glava moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "i molitva moja"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "u zlima njihovim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:35.525772893Z",
+  "model": "glm-5.3"
+}

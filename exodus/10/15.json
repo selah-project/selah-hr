@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I pokriše ⟨את⟩ oko sve zemlje, i zemlja se zamrači; i izjedoše ⟨את⟩ sav pašu zemlje i ⟨את⟩ sav plod drveta što preostavi tuča; i ne osta nikakvo zelenilo na drvetu ni u paši poljskoj u svoj zemlji micrajskoj.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "pokriše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko sve zemlje"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "zamrači se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "izjedoše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav pašu zemlje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "pašu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav plod drveta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "preostavi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "tuča"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "osta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nikakvo"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zelenilo"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "na drvetu"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "ni u paši"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poljskoj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svoj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:13.456409178Z",
+  "model": "glm-5.3"
+}

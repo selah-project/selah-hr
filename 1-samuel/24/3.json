@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I uze Šaul tri tisuće izabranih ljudi iz svega Jisraela i ode tražiti ⟨את⟩ Davida i njegove ljude po stijenama kozoroga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "izabranih"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz svega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tražiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i njegove ljude"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "stijenama ⟨prema licu stijena⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "stijenama"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "kozoroga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:17.270722584Z",
+  "model": "glm-5.3"
+}

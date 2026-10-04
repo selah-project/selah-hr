@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "I nebesa objaviše njegov cedek, jer Elohim je sudac ⟨on sam⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "i objaviše"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "njegov cedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sudac"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:17.555738334Z",
+  "model": "glm-5.3"
+}

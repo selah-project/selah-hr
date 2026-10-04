@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jer u tebe se, Jahve, uzdah; ti ćeš odgovoriti, Adonaje, Elohe moj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "uzdah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ćeš odgovoriti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:07:57.986249295Z",
+  "model": "glm-5.3"
+}

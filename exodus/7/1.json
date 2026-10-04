@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reče Jahve Mošeu: Gle, dao sam te ⟨kao⟩ Elohim faraonu, a Aharon, brat tvoj, bit će prorok tvoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "dao sam te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brat tvoj"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "prorok tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:52.300753252Z",
+  "model": "glm-5.3"
+}

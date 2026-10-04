@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I Elohim se sjeti ⟨את⟩ Rahelje, i Elohim usliša nju, i otvori ⟨את⟩ utrobu njezinu.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "i sjeti se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelju"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelja"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i usliša"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nju"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "i otvori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utrobu njezinu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "utrobu njezinu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:10.462789345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I potroši se voda iz mješine, te ostavi ⟨את⟩ dijete pod jednim grmom.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "i potroši se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "mješine"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "te ostavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dijete"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednim"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "grmom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:17.607365576Z",
+  "model": "glm-5.3"
+}

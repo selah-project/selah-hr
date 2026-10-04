@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 2:30",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato — riječ Jahvina, Elohim Jisraelov — rekoh doista: dom tvoj i dom oca tvojega hodit će preda mnom dovijeka; a sada — riječ Jahvina — daleko bilo to od mene! Jer koji mene slavi, njega ću slaviti, a koji me preziru, bit će olako shvaćeni.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Zato"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ (Jahvina)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "doista"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dom tvoj"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "hodit će"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda mnom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ (Jahvina)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "daleko bilo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to od mene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "מכבדי",
+      "gloss": "koji mene slavi"
+    },
+    {
+      "surface": "אכבד",
+      "gloss": "njega ću slaviti"
+    },
+    {
+      "surface": "ובזי",
+      "gloss": "a koji me preziru"
+    },
+    {
+      "surface": "יקלו",
+      "gloss": "bit će olako shvaćeni"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:10.683318905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Elohim Avrahamu: Saraja, žena tvoja — ne zovi ⟨את⟩ ime njezino Saraja, jer Sara ime je njezino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraja"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "žena tvoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njezino"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ime njezino"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ime je njezino"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:47.897027048Z",
+  "model": "glm-5.3"
+}

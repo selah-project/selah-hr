@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A pod doma obloži ⟨את⟩ zlatom, unutra i izvana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pod doma"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "obloži"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatom"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "unutra"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "i izvana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:26.540860544Z",
+  "model": "glm-5.3"
+}

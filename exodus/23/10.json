@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "A šest godina sijat ćeš ⟨את⟩ svoju zemlju i skupljat ćeš ⟨את⟩ njezin rod.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "godina"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sijat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju zemlju"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svoju zemlju"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "i skupljat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezin rod"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njezin rod"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:40.030109234Z",
+  "model": "glm-5.3"
+}

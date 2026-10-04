@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Jer je hesed tvoj bolji od života, usne će te moje hvaliti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolji je"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "od života"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "usne moje"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "hvalit će te"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:06.773677792Z",
+  "model": "glm-5.3"
+}

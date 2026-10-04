@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Slušanjem uha čuo sam o tebi, a sada te moje oko vidjelo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "slušanjem"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "čuo sam te"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a sada"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "te vidjelo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:27.269356053Z",
+  "model": "glm-5.3"
+}

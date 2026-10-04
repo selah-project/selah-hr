@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "I udari svakoga prvenca u njihovoj zemlji, prvinu sve njihove snage.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvenca"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "u njihovoj zemlji"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "njihove snage"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:51.316040072Z",
+  "model": "glm-5.3"
+}

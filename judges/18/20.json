@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I veselo bi srcu svećeniku, i uze ⟨את⟩ efod, i ⟨את⟩ terafime, i ⟨את⟩ likovani kip, te otide među narod.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "i bi veselo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "terafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "likovani kip"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "likovani kip"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i otide"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "među"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:29:13.223135326Z",
+  "model": "glm-5.3"
+}

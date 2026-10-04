@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I zaviđahu mu braća njegova, a otac njegov čuvaše ⟨את⟩ riječ.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "i zaviđahu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braća njegova"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "a otac njegov"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riječ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:37.134100410Z",
+  "model": "glm-5.3"
+}

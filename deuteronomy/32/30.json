@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "Kako bi jedan gonio tisuću, a dva tjerala u bijeg deset tisuća — ako ne stoga što ih je Stijena njihova prodala, a Jahve ih predao?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "gonio"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuću"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "a dva"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "tjerala u bijeg"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "deset tisuća"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "stoga što"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "Stijena njihova"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "prodala ih"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "ih predao"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:40.749456831Z",
+  "model": "glm-5.3"
+}

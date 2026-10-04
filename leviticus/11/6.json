@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ zeca, jer žvaci ⟨žvaku⟩, a kopito nije rascijepila — nečista je vama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zec"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "zec"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "žvaci"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "a kopito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "rascijepila"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nečista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:02.954527300Z",
+  "model": "glm-5.3"
+}

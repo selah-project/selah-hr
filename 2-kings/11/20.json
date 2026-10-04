@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I veseli se sav narod zemlje, a grad bijaše miran; a ⟨את⟩ Ataliju ubiše mačem u kraljevskom dvoru.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "i veseli se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a grad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bijaše miran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ataliju"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliju"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ubiše"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mačem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dvoru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljevskom"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:40.917077785Z",
+  "model": "glm-5.3"
+}

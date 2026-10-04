@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Mrzitelji Jahve lagali bi mu ⟨⟨i⟩⟩ vrijeme bi njihovo trajalo dovijeka.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Mrzitelji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "lagali bi mu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bilo bi"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "vrijeme njihovo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:37.120984081Z",
+  "model": "glm-5.3"
+}

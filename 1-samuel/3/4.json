@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Tada Jahve zovnu Šemuela, a on reče: Evo me!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zovnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on reče"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Evo me!"
+    }
+  ],
+  "timestamp": "2026-10-04T17:31:10.779393931Z",
+  "model": "glm-5.3"
+}

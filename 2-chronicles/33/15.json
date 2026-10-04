@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I ukloni ⟨את⟩ bogove tuđe i ⟨את⟩ lik iz doma Jahvina, i sve žrtvenike koje bijaše sagradio na brigu doma Jahvina i u Jerušalajimu, i baci ih izvan grada.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogove tuđe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuđe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "lik"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "lik"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bijaše sagradio"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na brigu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "i u Jerušalajimu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i baci ih"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "grada"
+    }
+  ],
+  "timestamp": "2026-10-04T20:14:16.942791280Z",
+  "model": "glm-5.3"
+}

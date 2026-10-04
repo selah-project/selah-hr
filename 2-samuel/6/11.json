@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I ostade Kovčeg Jahvin u domu Oved-Edoma Jetijca tri mjeseca, i blagoslovi Jahve ⟨את⟩ Oved-Edoma i ⟨את⟩ sav njegov dom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i ostade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Jetijca"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edoma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav njegov dom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegov dom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:43.248322544Z",
+  "model": "glm-5.3"
+}

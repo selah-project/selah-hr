@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I posla Jahve na njega čete Kašdaja, i ⟨את⟩ čete Arama, i ⟨את⟩ čete Moava, i ⟨את⟩ čete sinova Amona; i posla ih u Jehudu da ga uništi, po riječi Jahvinoj koju izreče po ruci svojih slugu proroka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čete Kašdaja"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "čete"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kašdaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "čete Arama"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "čete"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "čete Moava"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "čete"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "čete sinova Amona"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "čete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i posla ih"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "u Jehudu"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "da ga uništi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izreče"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po ruci"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svojih slugu"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroka"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:03.486216038Z",
+  "model": "glm-5.3"
+}

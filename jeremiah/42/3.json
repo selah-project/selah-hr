@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "i neka nam objavi Jahve, Elohim tvoj, ⟨את⟩ put kojim ćemo ići i ⟨את⟩ riječ koju ćemo činiti.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i neka objavi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "put kojim ćemo ići"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ići ćemo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "riječ koju ćemo činiti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "činiti ćemo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:32:30.744513794Z",
+  "model": "glm-5.3"
+}

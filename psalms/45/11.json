@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "Slušaj, kćeri, i gledaj, i prigni uho svoje; i zaboravi narod svoj i dom oca svojega.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "slušaj"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "i gledaj"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "i prigni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "i zaboravi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "narod svoj"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:46.307784573Z",
+  "model": "glm-5.3"
+}

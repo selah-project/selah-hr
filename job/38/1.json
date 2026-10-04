@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "I odgovori Jahve ⟨את⟩ Ijobu iz vihora i reče:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odgovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijoba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "vihora"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:55.557297934Z",
+  "model": "glm-5.3"
+}

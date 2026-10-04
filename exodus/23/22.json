@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 23,
+  "translation": "Jer ćeš, ako doista slušaš njegov glas i učiniš sve što ću govoriti, biti ⟨da ću⟩ — ja ću biti neprijatelj tvojim neprijateljima i tlačiti tvoje tlačitelje ⟨את⟩ neprijatelje tvoje i ⟨את⟩ tlačitelje tvoje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slušaš (doista)"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "slušaš"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "njegov glas"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i učiniš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ću govoriti"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ja ću biti neprijatelj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neprijatelje tvoje"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "neprijatelje tvoje"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "i tlačiti ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlačitelje tvoje"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tlačitelje tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:48.387172583Z",
+  "model": "glm-5.3"
+}

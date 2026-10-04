@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I ustaše rano ujutro, i sunce granu nad vodom, i vidje Moab sprema ⟨את⟩ vodu crvenu kao krv.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "i ustaše rano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "i sunce"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "granu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodom"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sprema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "crvenu"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "kao krv"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:51.248056764Z",
+  "model": "glm-5.3"
+}

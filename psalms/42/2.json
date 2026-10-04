@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Kao što košuta čezne uz vodotoke, tako čezne duša moja za tobom, Elohime.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Kao što košuta"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "vodotoke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:22.992088261Z",
+  "model": "glm-5.3"
+}

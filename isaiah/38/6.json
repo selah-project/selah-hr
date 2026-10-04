@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "i izbavit ću te iz ruke kralja Ašura, i ⟨את⟩ ovaj grad; i zaklanjat ću ovaj grad.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "i iz ruke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "izbavit ću te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj grad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "i zaklanjat ću"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    }
+  ],
+  "timestamp": "2026-10-04T18:13:08.717212180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I utaboriše se sinovi Jisraelovi u Gilgalu i slaviše ⟨את⟩ Pesaḥ četrnaestoga dana mjeseca, u večer, u ravnici Jeriha.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "i utaboriše se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "u Gilgalu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i slaviše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četrnaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "četrnaestoga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mjeseca"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "u večer"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "u ravnici"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriha"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:50.931854299Z",
+  "model": "glm-5.3"
+}

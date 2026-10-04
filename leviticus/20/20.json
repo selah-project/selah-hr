@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A čovjek koji legne sa ⟨את⟩ svojom tetkom, golotinju svojega strica otkrio je — svoj grijeh nosit će, bezdjeci umrijet će.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "legne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojom tetkom"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sa svojom tetkom"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golotinju"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "svojega strica"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "otkrio je"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "svoj grijeh"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nosit će"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdjeci"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "umrijet će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:35.735919929Z",
+  "model": "glm-5.3"
+}

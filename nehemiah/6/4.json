@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I poslaše k meni takvu poruku četiri puta, a ja uzvratih ⟨את⟩ njih istom porukom.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "poslaše"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "takvu poruku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "puta"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "uzvratih"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "istom porukom"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:57:21.637695337Z",
+  "model": "glm-5.3"
+}

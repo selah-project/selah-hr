@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Kad budeš tukao svoje masline, ne prebirah iza sebe: strancu, siročetu i udovici neka bude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "budeš tukao"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "svoje masline"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "prebirah"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "iza sebe"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "strancu"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "siročetu"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "i udovici"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:47.456085289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I Ahav zovnu Ovadjahua, koji bijaše nad kućom; a Ovadjahu bijaše čovjek koji se bojao ⟨את⟩ Jahve veoma.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i zovnu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjahua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kućom"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "a Ovadjahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojao se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veoma"
+    }
+  ],
+  "timestamp": "2026-10-04T17:54:08.141494276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I uzmite po jednoga kneza, po jednoga kneza iz svakoga plemena, da baštine ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "i kneza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "iz plemena"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "uzmite"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "da baštine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:05:44.304043118Z",
+  "model": "glm-5.3"
+}

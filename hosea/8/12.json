@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Tisuće propisa moje Tore napisao sam mu, ali su mu ubrojene kao nešto tuđe.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "napisao sam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tisuće"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "propisa moje Tore"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nešto tuđe"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "su ubrojene"
+    }
+  ],
+  "timestamp": "2026-10-04T18:51:51.386048745Z",
+  "model": "glm-5.3"
+}

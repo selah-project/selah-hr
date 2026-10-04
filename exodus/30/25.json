@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I načiniš iz ⟨את⟩ njega ulje pomazanja svetoga, mješavinu mirisnu, djelo miomirisara; ulje pomazanja sveto neka bude.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "i načiniš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "ulje"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetoga"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mješavina"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "mirisna"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "miomirisara"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ulje"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazanja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "neka bude"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:01.488463295Z",
+  "model": "glm-5.3"
+}

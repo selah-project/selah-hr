@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "Požuriše, zaboraviše njegova djela, ne čekaše njegov savjet.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Požuriše"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zaboraviše"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "njegova djela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "čekaše"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "njegov savjet"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:52.357503476Z",
+  "model": "glm-5.3"
+}

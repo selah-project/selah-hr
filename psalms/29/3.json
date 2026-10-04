@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Glas je Jahvin nad vodama, El slave grmi, Jahve ⟨je⟩ nad mnogim vodama.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "grmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodama"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:10.181878585Z",
+  "model": "glm-5.3"
+}

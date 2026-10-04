@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I uzet ću ⟨את⟩ vas sebi za narod i bit ću vam Elohim; i znat ćete da sam ja Jahve, Elohim vaš, koji vas izvodi ispod tereta Micrajima.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "i uzet ću"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "i bit ću"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "i znat ćete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vaš"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "koji izvodi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ispod"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "tereta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:02.610550832Z",
+  "model": "glm-5.3"
+}

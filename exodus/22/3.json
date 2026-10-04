@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Ako se doista nađe u ruci njegovoj ukradeno — od vola do magarca do ovce, živo — dvostruko će naknaditi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "doista nađe"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nađe se"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruci njegovoj"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ukradeno"
+    },
+    {
+      "surface": "משור",
+      "gloss": "od vola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "magarca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvostruko"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "će naknaditi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.897786054Z",
+  "model": "glm-5.3"
+}

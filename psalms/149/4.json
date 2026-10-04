@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 149,
+  "translation": "Jer Jahve se veseli u narodu svojem; ponizne ukrašava spasenjem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "se veseli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "u narodu svojem"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ukrašava"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponizne"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "spasenjem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:39.951569828Z",
+  "model": "glm-5.3"
+}

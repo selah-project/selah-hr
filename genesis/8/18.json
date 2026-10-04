@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I iziđe Noa, i sinovi njegovi, i žena njegova, i žene sinova njegovih ⟨s njime⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i sinovi njegovi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i žena njegova"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i žene"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinova njegovih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njime"
+    }
+  ],
+  "timestamp": "2026-10-04T16:19:40.269128848Z",
+  "model": "glm-5.3"
+}

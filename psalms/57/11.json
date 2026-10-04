@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 57,
+  "translation": "Jer je velik do nebesa tvoj hesed, i do oblaka tvoja vjernost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "velik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i do"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblaka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvoja vjernost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:53.704354327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 106,
+  "translation": "I rasrdiše ga vodama Meribe, te bi zlo Mošeu zbog njih.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "i rasrdiše ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kod"
+    },
+    {
+      "surface": "מי",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "te bi zlo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "zbog njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:11.207554930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I rodiše se Davidu sinovi u Hevronu; i bi prvorođenac njegov Amnon, od Ahinoame Jizreelke.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "i rodiše se"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "prvorođenac njegov"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "od Ahinoame"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Jizreelke"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:12.256700864Z",
+  "model": "glm-5.3"
+}

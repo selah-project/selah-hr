@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 134,
+  "translation": "Pjesma uzlazaka. Gle, blagoslivljajte ⟨את⟩ Jahvu, svi sluge Jahvine, koji stoje noću u domu Jahvinu!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gle"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "blagoslivljajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "koji stoje"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "noću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:48.687976190Z",
+  "model": "glm-5.3"
+}

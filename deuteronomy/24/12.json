@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A ako je siromah, ne lezi na njegovu zalogu ⟨s njime u zalogu⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A ako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "עני",
+      "gloss": "siromah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "na njegovu zalogu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:02.305514395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Cedek, cedek gonit ćeš, da bi živio i zaposjeo ⟨את⟩ zemlju koju ti daje Jahve, Elohim tvoj.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "gonit ćeš"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "živio"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "i zaposjeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:56.102815678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I ⟨את⟩ Bet-Cur i ⟨את⟩ Soko i ⟨את⟩ Adulam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Bet-Cur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Cur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Soko"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Adulam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    }
+  ],
+  "timestamp": "2026-10-04T20:07:57.741179253Z",
+  "model": "glm-5.3"
+}

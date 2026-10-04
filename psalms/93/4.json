@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 93,
+  "translation": "Od glasova voda mnogih, silnih valova morskih — silan je u visini Jahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "od glasova"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "silnih"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "valova"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morskih"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "silan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "u visini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:40.889557579Z",
+  "model": "glm-5.3"
+}

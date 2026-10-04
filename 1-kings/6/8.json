@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Ulaz bočne odaje srednje bio je na desnom ramenu kuće, i spiralnim se stubama uspinjalo na srednju, a iz srednje u treću.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ulaz"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "bočne odaje"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "srednje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ramenu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuće"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "desnom"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "spiralnim stubama"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "se uspinjalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "srednju"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a iz"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "srednje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "treću"
+    }
+  ],
+  "timestamp": "2026-10-04T17:49:28.837386841Z",
+  "model": "glm-5.3"
+}

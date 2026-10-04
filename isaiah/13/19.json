@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I bit će Babilon, diko kraljevstava, ures oholosti kaldejske, kao kad je Elohim srušio ⟨את⟩ Sodomu i ⟨את⟩ Gomoru.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "diko"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevstava"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ures"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "oholosti"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldejske"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kao kad je srušio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodomu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Gomoru"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomoru"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:29.034498405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 105,
+  "translation": "Spomenuo se dovijeka saveza svojega, riječi koju zapovjedi za tisuću naraštaja.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Spomnuo se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "saveza svojega"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "za tisuću"
+    },
+    {
+      "surface": "דור",
+      "gloss": "naraštaja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:40.159860929Z",
+  "model": "glm-5.3"
+}

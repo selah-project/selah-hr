@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I ako čovjek udari oko svoga sluge ili oko svoje sluškinje i uništi ga, neka ga pusti na slobodu umjesto njegova oka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i ako"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko svoga sluge"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svoga sluge"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko svoje sluškinje"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "svoje sluškinje"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "i uništi ga"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "na slobodu"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "neka ga pusti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "umjesto"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "njegova oka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:23.796668478Z",
+  "model": "glm-5.3"
+}

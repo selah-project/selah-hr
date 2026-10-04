@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "povedoše rat ⟨protiv⟩ Berе, kralja sodomskoga, i ⟨את⟩ Birše, kralja gomorskoga, Šinaba, kralja admanskoga, i Šemebera, kralja cebojskoga, i kralja Bele — to jest Coar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "povedoše"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Berе, kralja sodomskoga"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "sodomskoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Birše, kralja gomorskoga"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "gomorskoga"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Šinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "admanskoga"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "i Šemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "cebojskoga"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "i kralj"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bele"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:43.885910046Z",
+  "model": "glm-5.3"
+}

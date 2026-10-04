@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "Gle, u prijestupu rođen sam, i u grijehu me zače majka moja.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "gle"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "u prijestupu"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "rođen sam"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "i u grijehu"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "zače me"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "majka moja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:40.108069679Z",
+  "model": "glm-5.3"
+}

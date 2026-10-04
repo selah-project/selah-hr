@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "A ime drugome Eli'ezer, jer Elohim oca mojega ⟨u⟩ pomoć mi bi, i izbavi me od mača faraonova.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "drugome"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli'ezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "u pomoć mi"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "i izbavi me"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od mača"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:54.862176935Z",
+  "model": "glm-5.3"
+}

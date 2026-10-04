@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 88,
+  "translation": "Bijedan sam ja i na izmaku od mladosti svoje; nosio sam tvoje strahote — obeshrabren ⟨sam⟩.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "bijedan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "i na izmaku"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od mladosti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nosio sam"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tvoje strahote"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "obeshrabren"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:17.626363824Z",
+  "model": "glm-5.3"
+}

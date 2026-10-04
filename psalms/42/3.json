@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Žedna je duša moja za Elohimom, za Elom živim: kada ću doći i vidjeti lice Elohimovo?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Žedna je"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohimom"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "za Elom"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živim"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ću doći"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "i vidjeti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lice"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:22.992265044Z",
+  "model": "glm-5.3"
+}

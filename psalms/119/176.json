@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Skrenuh s puta kao izgubljeno janje — potraži slugu svojega, jer zapovijedi tvoje ne zaboravih.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "skrenuh s puta"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "kao janje"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "izgubljeno"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "potraži"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "slugu svojega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "zapovijedi tvoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "zaboravih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:04.236716181Z",
+  "model": "glm-5.3"
+}

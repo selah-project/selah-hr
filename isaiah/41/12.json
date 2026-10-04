@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "Tražit ćeš ih, ali ih nećeš naći — ljude svađe tvoje; bit će kao ništa i kao pusto, ljudi rata tvojega.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "tražit ćeš ih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "naći"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "svađe tvoje"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kao ništa"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "i kao pusto"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "rata tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:14:31.151459769Z",
+  "model": "glm-5.3"
+}

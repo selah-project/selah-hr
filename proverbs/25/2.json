@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "Čast je Elohimovu ⟨je⟩ sakriti stvar, a čast je kraljevsku istražiti stvar.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "čast"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovu"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "sakriti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "a čast"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljevsku"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "istražiti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:24.343298067Z",
+  "model": "glm-5.3"
+}

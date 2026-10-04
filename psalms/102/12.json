@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Dani su mi poput sjena što se pruža, a ja se sušim poput trave.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Dani su mi"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "poput sjena"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "što se pruža"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "poput trave"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "sušim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.141838683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I nađe Jošef milost u očima njegovim, i služaše mu, te ga postavi nad kućom svojom, i sve što ima dade u ruku njegovu.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "i nađe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "u očima njegovim"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "i služaše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mu — slugu njegova"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "te ga postavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kućom svojom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i sve"
+    },
+    {
+      "surface": "יש",
+      "gloss": "što ima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dade"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u ruku njegovu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:32.286778257Z",
+  "model": "glm-5.3"
+}

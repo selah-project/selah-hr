@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I uze Hanun ⟨את⟩ sluge Davidove, pa ih obrija, i odsiječe ⟨את⟩ odijela njihova do pola sve do stražnjice, i otpusti ih.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluge Davidove"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidove"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "pa ih obrija"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "i odsiječe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odijela njihova"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "odijela njihova"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "do pola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "stražnjice"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i otpusti ih"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:27.021884741Z",
+  "model": "glm-5.3"
+}

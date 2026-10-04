@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Moj je Gilad, moj je Menaše; Efrajim ⟨je⟩ utvrda glave moje, Jihuda međaš moj.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "moj je"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "i Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "utvrda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave moje"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "međaš moj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.522874034Z",
+  "model": "glm-5.3"
+}

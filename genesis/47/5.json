@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I reče faraon Josipu: Otac tvoj i braća tvoja dođoše k tebi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josipu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨rekavši⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otac tvoj"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "i braća tvoja"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dođoše"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:39.252947751Z",
+  "model": "glm-5.3"
+}

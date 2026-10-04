@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 28:28",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Kad bezbožnici ustaju, čovjek se skriva; a kad propadaju, pravednici se množe.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "kad ustaju"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnici"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "čovjek se skriva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ובאבדם",
+      "gloss": "a kad propadaju"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "množe se"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravednici"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:27.360285665Z",
+  "model": "glm-5.3"
+}

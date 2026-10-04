@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "jer se otac moj borio za vas i bacio je ⟨את⟩ svoj život pred vas, i izbavio vas iz ruke Midjana —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "borio se"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otac moj"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i bacio je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj život (נפשו)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoj život"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "pred vas"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "i izbavio"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:26:27.461952681Z",
+  "model": "glm-5.3"
+}

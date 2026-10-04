@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I o maču svojem živjet ćeš, i ⟨את⟩ brata svojega služiti ćeš; i bit će, kad se budeš otimao, da ćeš skinuti jaram njegov s vrata svojega.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "o"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "maču svojem"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "živjet ćeš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brata svojega"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata svojega"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "služiti ćeš"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "se budeš otimao"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "da ćeš skinuti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jaram njegov"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "vrata svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:25:30.193737905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 143,
+  "translation": "Daj mi čuti ujutro svoj hesed, jer se u tebe uzdam; daj mi spoznati put kojim ću ići, jer k tebi podižem svoju dušu.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "daj mi čuti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "uzdam se"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "daj mi spoznati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "put"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ću ići"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "podižem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoju dušu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:39.587497789Z",
+  "model": "glm-5.3"
+}

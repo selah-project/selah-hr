@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I ⟨את⟩ kožu bika i ⟨את⟩ sve meso njegovo, na glavi njegovoj i na nogama njegovim, i utrobu njegovu i izmet njegov —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kožu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kožu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve meso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "meso njegovo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavi njegovoj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "nogama njegovim"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "i utrobu njegovu"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "i izmet njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:35.984743464Z",
+  "model": "glm-5.3"
+}

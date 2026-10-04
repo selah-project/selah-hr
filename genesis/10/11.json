@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Iz te zemlje izađe Ašur, i sagradi ⟨את⟩ Ninivu, i ⟨את⟩ Rehobot-Ir, i ⟨את⟩ Kalah,",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "te zemlje"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "one"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izađe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i sagradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninivu"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Rehobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Kalah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:00.062618833Z",
+  "model": "glm-5.3"
+}

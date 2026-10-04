@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jer se zlikovac hvali požudom srca svojega, a lakomac blagoslivlja ⟨i⟩ prezire Jahvu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "hvali se"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlikovac"
+    },
+    {
+      "surface": "על",
+      "gloss": "požudom ⟨nad⟩"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "požudom"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoga bića"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "a lakomac"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslivlja"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "prezire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:34.508386362Z",
+  "model": "glm-5.3"
+}

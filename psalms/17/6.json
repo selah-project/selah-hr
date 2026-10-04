@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Ja te zazvah, jer ćeš me uslišati; prigni uho svoje k meni, poslušaj riječi moje, Ele.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "zazvah te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "uslišat ćeš me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "הט",
+      "gloss": "prigni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "riječi moje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:25.714985150Z",
+  "model": "glm-5.3"
+}

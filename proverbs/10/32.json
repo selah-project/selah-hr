@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Usne pravednika znaju što je ugodno, a usta zlikovaca ⟨su⟩ opačina.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Usne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednika"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "što je ugodno"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "a usta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlikovaca"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "opačina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:04.804390796Z",
+  "model": "glm-5.3"
+}

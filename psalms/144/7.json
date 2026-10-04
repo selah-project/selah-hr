@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 144,
+  "translation": "Ispruži svoje ruke iz visine, izbavi me i spas me iz voda mnogih, iz ruke sinova tuđinskoga.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ispruži"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "iz visine"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "izbavi me"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "i spas me"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "iz voda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuđinskoga"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:55.355259270Z",
+  "model": "glm-5.3"
+}

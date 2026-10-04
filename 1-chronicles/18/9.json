@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I ču Tou, kralj Hamata, da je David porazio ⟨את⟩ svu vojsku Hadadezera, kralja Cove.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "i ču"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazio"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svu vojsku Hadadezera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:10.976502157Z",
+  "model": "glm-5.3"
+}

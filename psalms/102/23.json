@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 102,
+  "translation": "Kad se narodi skupe zajedno i kraljevstva, da služe ⟨את⟩ Jahvi.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "kad se skupe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "i kraljevstva"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "da služe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:48.252146887Z",
+  "model": "glm-5.3"
+}

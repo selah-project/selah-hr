@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zar to sebi ne činiš time što si ostavila ⟨את⟩ Jahve, Elohim svojega, u vrijeme kad te vodio putem?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "zar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "činiš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "ostavila si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim svojega"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "u vrijeme"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "kad te vodio"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "putem"
+    }
+  ],
+  "timestamp": "2026-10-04T18:20:31.126332188Z",
+  "model": "glm-5.3"
+}

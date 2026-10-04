@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Radi Davida, sluge svojega, ne odbij lica pomazanika svojega!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "radi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluge svojega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odbij (okreni)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "pomazanika svojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:58.874875366Z",
+  "model": "glm-5.3"
+}

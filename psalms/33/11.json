@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "Namjera pak Jahvina stoji dovijeka, naumi srca njegova za naraštaj i naraštaj.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "namjera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "naumi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srca njegova"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "za naraštaj"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:40.788009798Z",
+  "model": "glm-5.3"
+}

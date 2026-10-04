@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Evo, dani dolaze, riječ Jahvina: i posijat ću ⟨את⟩ dom Jisraelov i ⟨את⟩ dom Judin — sjeme ljudsko i sjeme stoke.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "evo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dani"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dolaze"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "riječ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "i posijat ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jisraelov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sjeme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudsko"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "i sjeme"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "stoke"
+    }
+  ],
+  "timestamp": "2026-10-04T18:28:47.621534040Z",
+  "model": "glm-5.3"
+}

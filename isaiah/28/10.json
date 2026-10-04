@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Jer zapovijest na zapovijest, zapovijest na zapovijest, uže za užetom, uže za užetom, malo ondje, malo ondje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צו",
+      "gloss": "zapovijest"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "na zapovijest"
+    },
+    {
+      "surface": "צו",
+      "gloss": "zapovijest"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "na zapovijest"
+    },
+    {
+      "surface": "קו",
+      "gloss": "uže"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "za užetom"
+    },
+    {
+      "surface": "קו",
+      "gloss": "uže"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "za užetom"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "malo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "malo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:10:22.303215301Z",
+  "model": "glm-5.3"
+}

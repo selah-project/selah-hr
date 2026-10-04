@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Elohim se u njezinim tvrđavama pokaza kao zaklon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "u njezinim tvrđavama"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "pokaza se"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kao zaklon"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:18.055526341Z",
+  "model": "glm-5.3"
+}

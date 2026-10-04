@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "Jer je s tobom izvor života; u svjetlu tvojem vidimo svjetlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tobom"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "izvor"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "u svjetlu tvojem"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "vidimo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:44.959431389Z",
+  "model": "glm-5.3"
+}

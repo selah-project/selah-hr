@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 104,
+  "translation": "i vino razveseljuje srce smrtnika, da od ulja lice zasja, i kruh srce smrtnika učvršćuje.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "i vino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "razveseljuje"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "da zasja"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lice"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od ulja"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "i kruh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "učvršćuje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:25.177042591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Pjesma uzlazaka. Sjeti se, Jahve, za Davida, svega njegova trpljenja ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uzlazaka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Sjeti se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "za Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svega njegova trpljenja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "njegova trpljenja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:01.104981701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 52,
+  "translation": "Jer ovako reče Jahve: badava ste prodani, i bez srebra bit ćete otkupljeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "badava"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "ste prodani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bez srebra"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "bit ćete otkupljeni"
+    }
+  ],
+  "timestamp": "2026-10-04T18:17:08.344197368Z",
+  "model": "glm-5.3"
+}

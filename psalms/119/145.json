@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Zovah te svim srcem svojim — odgovori mi, Jahve; tvoje ću odredbe čuvati.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "zovah te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvoje odredbe"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "ću čuvati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:19:06.278805347Z",
+  "model": "glm-5.3"
+}

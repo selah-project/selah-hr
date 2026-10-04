@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "A ⟨את⟩ Ahrona i ⟨את⟩ njegove sinove privedit ćeš k ulazu Šatora sastanka, i okupat ćeš ⟨את⟩ ih vodom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ahrona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "privedit ćeš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ulazu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "i okupat ćeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "ih (Ahrona i njegove sinove)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodom"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:36.488345807Z",
+  "model": "glm-5.3"
+}

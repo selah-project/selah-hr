@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I zaposjeli su ⟨את⟩ njegovu zemlju i ⟨את⟩ zemlju Oga, kralja bašanskoga — dva kralja haemorejska koji su s onu stranu Yardena, prema izlasku sunca.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "I zaposjeli su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovu zemlju"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegovu zemlju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju Oga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "bašanskoga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haemorejska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardena"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "prema izlasku"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:08:21.575162995Z",
+  "model": "glm-5.3"
+}

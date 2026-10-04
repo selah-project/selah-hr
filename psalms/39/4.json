@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "Usrcalo mi srce u nutrini mojoj; dok razmišljah, planu oganj — progovorih jezikom svojim.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Usrcalo mi se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "u nutrini mojoj"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "dok razmišljah"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "planu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "progovorih"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "jezikom svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:13.159608868Z",
+  "model": "glm-5.3"
+}

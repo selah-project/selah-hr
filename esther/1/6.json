@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Zavjese od bijela lana i modrofinog platna, purpurom obrubljene, o srebrnim prstenovima i stupovima od mramora; ležajevi od zlata i srebra na podu od porfira, mramora, bisernjaka i crnoga mramora.",
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "bijelo lan"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "modrofino platno"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "i purpur"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "obrubljene"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "s vrpcama"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "od bijela platna"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "i purpura"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "prstenovima"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrnim"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "i stupovima"
+    },
+    {
+      "surface": "שש",
+      "gloss": "od mramora"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ležajevi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "od zlata"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "i srebra"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "podu"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "od porfira"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i mramora"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i bisernjaka"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "i crnoga mramora"
+    }
+  ],
+  "timestamp": "2026-10-04T19:46:33.931337910Z",
+  "model": "glm-5.3"
+}

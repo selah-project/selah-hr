@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I reče Jahve Mošeu: Prijeđi pred narod i uzmi ⟨את⟩ sa sobom od starješina Jisraelovih; i svoj štap, kojim si njime udario ⟨את⟩ Nil — uzmi u svoju ruku i pođi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Prijeđi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "i uzmi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa sobom"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "od starješina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "i svoj štap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "si udario"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nil"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nil"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uzmi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "u svoju ruku"
+    },
+    {
+      "surface": "וילכת",
+      "gloss": "i pođi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:59.081973840Z",
+  "model": "glm-5.3"
+}

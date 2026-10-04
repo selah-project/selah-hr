@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Blagoslivljajte Jahvea, anđeli njegovi, silni junaci koji vrše riječ njegovu, poslušni glasu riječi njegove!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Blagoslivljajte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "anđeli njegovi"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "silni junaci"
+    },
+    {
+      "surface": "כח",
+      "gloss": "(u sili)"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "koji vrše"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "riječ njegovu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "poslušni"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "riječi njegove"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:59.626717771Z",
+  "model": "glm-5.3"
+}

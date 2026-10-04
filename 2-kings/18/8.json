@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "On udari ⟨את⟩ Filišćane do Aze i ⟨את⟩ njezine međe, od stražarnice do utvrđena grada.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filišćane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filišćane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njezine međe"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "njezine međe"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "od stražarnice"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "čuvara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "utvrđena"
+    }
+  ],
+  "timestamp": "2026-10-04T18:01:28.621430975Z",
+  "model": "glm-5.3"
+}

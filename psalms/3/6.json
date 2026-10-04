@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ja legnuh i spavah, probudih se, jer me Jahve podupire.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "legnuh"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "i spavah"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "probudih se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "me podupire"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:58.553799118Z",
+  "model": "glm-5.3"
+}

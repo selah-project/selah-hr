@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I iziđe Jehojakin, kralj judejski, pred kralja babilonski — on i majka njegova, i sluge njegove, i časnici njegovi, i dvorani njegovi; i uze ⟨את⟩ njega kralj babilonski u osmoj godini kraljevanja svojega.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i iziđe"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judejski"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonski"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i majka njegova"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "i sluge njegove"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "i časnici njegovi"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "i dvorani njegovi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Jehojakina)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonski"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osmoj"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "kraljevanja njegova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:04:16.780413463Z",
+  "model": "glm-5.3"
+}

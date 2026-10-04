@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 147,
+  "translation": "Velik je ⟨naš⟩ gospodar naš i silno jak; njegovoj tevuni nema broja.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Velik"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "gospodar naš"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i silno"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jak ⟨u snazi⟩"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "njegovoj tevuni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "broja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:05.824525739Z",
+  "model": "glm-5.3"
+}

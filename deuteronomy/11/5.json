@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i što je učinio vama u pustinji, dok niste stigli do ⟨ovoga⟩ mjesta ⟨ovoga⟩ —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "i što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinio"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "niste stigli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:35.716244960Z",
+  "model": "glm-5.3"
+}

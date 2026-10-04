@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I nadjene ime prvoj Jemima, a drugoj ime Kecia, i trećoj ime Keren-Hapuk.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nadjene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "prvoj"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugoj"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Kecia"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i ime"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trećoj"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapuk"
+    }
+  ],
+  "timestamp": "2026-10-04T19:40:46.512712540Z",
+  "model": "glm-5.3"
+}

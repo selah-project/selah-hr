@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I odvest ću ⟨את⟩ vas u progonstvo iza Damaska, riječ je Jahvina, Elohim Cebaot ⟨je⟩ ime njegovo.",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "i odvest ću u progonstvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "iza"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "riječ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    }
+  ],
+  "timestamp": "2026-10-04T18:54:37.011953779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ostatak što ga ostavi skakavac — pojede je arbeh; a ostatak što ga ostavi arbeh — pojede je žutelj; a ostatak što ga ostavi žutelj — pojede ga ždrvno.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ostatak"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "skakavac"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pojede"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a ostatak"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pojede"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "žutelj"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a ostatak"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "žutelj"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pojede"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ždrvno"
+    }
+  ],
+  "timestamp": "2026-10-04T18:52:49.230143241Z",
+  "model": "glm-5.3"
+}

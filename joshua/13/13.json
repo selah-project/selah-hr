@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Ali sinovi Jisraelovi ne protjeraše ⟨את⟩ Gešurca ni ⟨את⟩ Maahatca; i Gešur i Maahat ostadoše živjeti usred Jisraela do današnjega dana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ne protjeraše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gešurca"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gešurac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "Maahatca"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maahatac"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i ostadoše živjeti"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gešur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "i Maahat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "današnjega dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:20:00.057831439Z",
+  "model": "glm-5.3"
+}

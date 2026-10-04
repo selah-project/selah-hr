@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Probudi se, nevel i kinnor! Ja ću probuditi zoru.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Probudi se"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "i kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ja ću probuditi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zoru"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:35.364995982Z",
+  "model": "glm-5.3"
+}

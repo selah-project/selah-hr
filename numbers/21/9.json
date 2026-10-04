@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 21:9",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I načini Moše zmiju od mjedi i postavi je na stup; i dogodi se: ako bi zmija ujela ⟨את⟩ čovjeka, pa pogleda u zmiju od mjedi — živjeće.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "načini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmiju"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "od mjedi"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "postavi je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "stup"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dogodi se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ujela"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "zmija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "pa pogleda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "zmiju"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "od mjedi"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "živjeće"
+    }
+  ],
+  "timestamp": "2026-10-04T17:00:49.102974710Z",
+  "model": "glm-5.3"
+}

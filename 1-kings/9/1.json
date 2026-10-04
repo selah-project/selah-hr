@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I dogodi se, kad Šalomov svrši graditi ⟨את⟩ dom Jahvin i ⟨את⟩ dom kraljevski, i ⟨את⟩ sve na što je Šalomo srčno težio što ga je želio činiti,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kad svrši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dom kraljevski"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevski"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve na što je težio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "na što je srčno težio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "želio"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:07.058736777Z",
+  "model": "glm-5.3"
+}

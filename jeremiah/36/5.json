@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 36,
+  "translation": "I zapovjedi Jirmejahu ⟨את⟩ Baruha govoreći: Ja sam zatočen, ne mogu ućići u dom Jahvin.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruha"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "sam zatočen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mogu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ućići"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvin"
+    }
+  ],
+  "timestamp": "2026-10-04T18:30:39.368490406Z",
+  "model": "glm-5.3"
+}

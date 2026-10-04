@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 72,
+  "translation": "Neka procvate pravednik u njegove dane, i obilje shaloma dok ⟨bude⟩ mjesec.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "neka procvate"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "u njegove dane"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "i obilje"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shaloma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨ne bude⟩"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mjeseca"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:56.799062774Z",
+  "model": "glm-5.3"
+}

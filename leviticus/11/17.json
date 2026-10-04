@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i ⟨את⟩ ćuka, i ⟨את⟩ morskog vrana, i ⟨את⟩ veliku sovu,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ćuka"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ćuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "morskog vrana"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "morski vran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "veliku sovu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "velika sova"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:25.966526453Z",
+  "model": "glm-5.3"
+}

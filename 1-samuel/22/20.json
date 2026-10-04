@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I umače jedan sin Ahimeleka, sina Ahituba, i ime mu Avjatar, te pobježe za Davidom.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "i umače"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahituba"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "i ime mu"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "te pobježe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:37:51.212192540Z",
+  "model": "glm-5.3"
+}

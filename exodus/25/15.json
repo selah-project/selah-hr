@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 25,
+  "translation": "U prstenovima kovčega neka ostaju motke; neka se ne uklanjaju od njega.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "u prstenovima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kovčega"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "neka ostaju"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "neka se ne uklanjaju"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.869914720Z",
+  "model": "glm-5.3"
+}

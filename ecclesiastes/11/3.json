@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Ako se oblaci napune kišom, na zemlju je ispuštaju; ako li stablo padne na jug, ili na sjever — mjestu gdje stablo padne, tamo ostaje ⟨biti⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "napune se"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "oblaci"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "kišom"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ispuštaju"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili ako"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stablo"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "na jug"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "na sjever"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjestu"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "gdje padne"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "stablo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tamo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ostaje ⟨biti⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:52.639308948Z",
+  "model": "glm-5.3"
+}

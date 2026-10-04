@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 98,
+  "translation": "Svirajte Jahvi na kinoru, na kinoru i glasom pjesme.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Svirajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinoru"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinoru"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i glasom"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "pjesme"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:52.272721204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 62,
+  "translation": "Na Elohim počiva spasenje moje i slava moja; stijena snage moje, utočište moje ⟨je⟩ u Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "spasenje moje"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "i slava moja"
+    },
+    {
+      "surface": "צור",
+      "gloss": "stijena"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "snage moje"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "utočište moje"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "u Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:54.530544995Z",
+  "model": "glm-5.3"
+}

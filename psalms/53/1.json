@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 53,
+  "translation": "Zborovođi, na napjev Mahalat, poučna pjesma Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovođi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "napjev Mahalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pjesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:02.088429474Z",
+  "model": "glm-5.3"
+}

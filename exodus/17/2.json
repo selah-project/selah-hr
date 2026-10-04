@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "I prelazi se narod sa Mošeom, pa rekoše: Daj nam vode da pijemo. A Moše im reče: Zašto se prelazete sa mnom? Zašto iskušavate ⟨את⟩ Jahvu?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "i prelazi se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeom"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "pa rekoše"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "da pijemo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "se prelazete"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Zašto"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "iskušavate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:56.120092389Z",
+  "model": "glm-5.3"
+}

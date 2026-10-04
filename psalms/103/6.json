@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Čini cedekot Jahve i sudove za sve potlačene.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Čini"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedekot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "i sudove"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za sve"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "potlačene"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:54.568540320Z",
+  "model": "glm-5.3"
+}

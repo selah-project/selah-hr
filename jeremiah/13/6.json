@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 13:6",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I bi nakon mnogih dana, i reče Jahve meni: Ustani, idi u Perat i uzmi odande ⟨את⟩ pojas koji ti zapovjedih da sakriješ ondje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idi"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "u Perat"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "i uzmi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pojas"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pojas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "zapovjedih"
+    },
+    {
+      "surface": "לטמנו",
+      "gloss": "da sakriješ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:24:23.119323662Z",
+  "model": "glm-5.3"
+}

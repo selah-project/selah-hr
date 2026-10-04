@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I požuri Moše, i sagnu se k zemlji, i pokloni se.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "i požuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "i sagnu se"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemlji"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pokloni se"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:39.063163653Z",
+  "model": "glm-5.3"
+}

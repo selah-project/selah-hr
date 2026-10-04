@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahvu Cebaot — ⟨את⟩ njega posvetite, i on ⟨je⟩ vaš strah, i on ⟨je⟩ vaš užas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu Cebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega (predmet glagola posvetite)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "posvetite"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "vaš strah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "vaš užas"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:05.755128757Z",
+  "model": "glm-5.3"
+}

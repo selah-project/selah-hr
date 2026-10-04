@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I uđe Bat Ševa kralju u odaju; a kralj bijaše vrlo star, i Abišag Šunamka posluživaše ⟨את⟩ kralja.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i uđe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "u odaju"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a kralj"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bijaše star"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vrlo"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "i Abišag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Šunamka"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "posluživaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:31.757252770Z",
+  "model": "glm-5.3"
+}

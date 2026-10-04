@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Oni su kleknuli i pali, a mi smo ustali i stali uspravno.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "su kleknuli"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i pali"
+    },
+    {
+      "surface": "ויאנחנו",
+      "gloss": "a mi"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "smo ustali"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "i stali uspravno"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:43.422843840Z",
+  "model": "glm-5.3"
+}

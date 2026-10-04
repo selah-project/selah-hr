@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I postavi žiške pred Jahvu, kako zapovjedi Jahve ⟨את⟩ Mošea.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "postavi žiške"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "žiške"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    }
+  ],
+  "timestamp": "2026-10-04T16:44:18.366766128Z",
+  "model": "glm-5.3"
+}

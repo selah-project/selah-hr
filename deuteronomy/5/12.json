@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Čuvaj ⟨את⟩ dan Šabata da ga posvetiš, kao što ti je zapovjedio Jahve, Elohim tvoj.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Čuvaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan Šabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ga posvetiš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "zapovjedio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:19:29.251099750Z",
+  "model": "glm-5.3"
+}

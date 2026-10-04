@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I učini tomu biku kao što učini biku žrtve za grijeh, tako neka učini njemu; i svećenik ih izvrši pomir, i oprostit će im se.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "tomu biku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "biku"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "neka učini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i izvrši pomir"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i oprostit će im se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:33.357198835Z",
+  "model": "glm-5.3"
+}

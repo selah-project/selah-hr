@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 108,
+  "translation": "Moab ⟨je⟩ lonac pranja mojega; na Edom bacit ću obuću svoju; nad Pelešet zavitlat ću ⟨ratni⟩ poklik.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "lonac"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pranja mojega"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "bacit ću"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "obuću svoju"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "zavitlat ću poklik"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:33.523083016Z",
+  "model": "glm-5.3"
+}

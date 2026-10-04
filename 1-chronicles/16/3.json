@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I razdijeli svakomu čovjeku u Jisraelu, od čovjeka do žene, svakomu čovjeku hljeb kolač kruha, porciju mesa i grožđani kolač.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "i razdijeli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "svakomu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u Jisraelu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od čovjeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "svakomu čovjeku"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kolač"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "i porciju"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "grožđani kolač"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:34.277469287Z",
+  "model": "glm-5.3"
+}

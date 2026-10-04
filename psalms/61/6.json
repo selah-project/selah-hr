@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 61,
+  "translation": "Jer ti, Elohim, čuo si zavjete moje; dao si baštinu onima koji se boje imena tvojega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "čuo si"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "zavjete moje"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "dao si"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "baštinu"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "onima koji se boje"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imena tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:02.385544497Z",
+  "model": "glm-5.3"
+}

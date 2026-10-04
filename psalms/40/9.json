@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Činiti tvoju volju, Elohe moj, htio sam, i Tora tvoja ⟨je⟩ u nutrini mojoj.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "tvoju volju"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe moj"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "htio sam"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "i Tora tvoja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "u nutrini"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mojoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:00.134956061Z",
+  "model": "glm-5.3"
+}

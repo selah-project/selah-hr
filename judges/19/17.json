@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I podiže oči svoje i vidje ⟨את⟩ čovjeka putnika na trgu grada, i reče čovjek star: Kamo ideš i odakle dolaziš?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čovjeka putnika"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "putnika"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "na trgu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "star"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ideš"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "i odakle"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dolaziš"
+    }
+  ],
+  "timestamp": "2026-10-04T17:29:02.634724895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "da se Jahve ukaza Šalomu drugi put, kao što mu se ukazao u Givonu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ukaza se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ne prevodi se)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomu"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugi put"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukazao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu se"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "u Givonu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:07.058939194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer živi znaju da će umrijeti, a mrtvi ne znaju ničega; i nema za njih više plaće, jer spomen na njih je zaboravljen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "da će umrijeti"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "a mrtvi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ničega"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "להם",
+      "gloss": "za njih"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "plaće"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "zaboravljen"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "spomen na njih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:54.336306104Z",
+  "model": "glm-5.3"
+}

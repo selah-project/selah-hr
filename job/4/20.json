@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Od jutra do večeri satrveni su; neprimećeni, zauvijek propadaju.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "od jutra"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "do večeri"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "satrveni su"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "neprimećeni"
+    },
+    {
+      "surface": "משים",
+      "gloss": "bez obzira"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "propadaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:55.741921658Z",
+  "model": "glm-5.3"
+}

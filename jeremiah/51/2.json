@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 51,
+  "translation": "I poslat ću na Babilon vijače da je vijaju i da isprazne ⟨את⟩ zemlju njezinu, jer bit će na nju sa svih strana u dan njezina zla.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "I poslat ću"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "na Babilon"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vijače ⟨tuđine⟩"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "da je vijaju"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "i da isprazne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlju njezinu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zemlju njezinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na nju"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa svih strana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    }
+  ],
+  "timestamp": "2026-10-04T18:35:29.980598409Z",
+  "model": "glm-5.3"
+}

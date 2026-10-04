@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Kad obnevolj u meni duša moja, spomenuh ⟨את⟩ Jahvu, i dođe k tebi molitva moja, u hram svetosti tvoje.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kad obnevolj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u meni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "spomenuh"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitva moja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hram"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svetosti tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:56:06.060348162Z",
+  "model": "glm-5.3"
+}

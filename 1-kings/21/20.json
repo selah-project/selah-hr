@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I reče Ahav Eliji: Zar si me našao, neprijatelju moj? A on reče: Našao sam ⟨te⟩, jer si se prodao da činiš zlo u očima Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eliji"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliji"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "Zar si me našao"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "neprijatelju moj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A on reče"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Našao sam"
+    },
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "si se prodao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da činiš"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T17:55:15.630317864Z",
+  "model": "glm-5.3"
+}

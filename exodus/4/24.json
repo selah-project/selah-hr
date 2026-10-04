@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I dogodi se na putu, u svratištu, da ga srete Jahve i traži da ga usmrti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na putu"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "u svratištu"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "da ga srete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "i traži"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "da ga usmrti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:18.812445320Z",
+  "model": "glm-5.3"
+}

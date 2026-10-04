@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 148,
+  "translation": "I učvrsti ih zasvagda i dovijeka, postavi naredbu koja neće prijeći.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "i učvrsti ih"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "zasvagda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i dovijeka"
+    },
+    {
+      "surface": "חק",
+      "gloss": "naredbu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koja neće"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "prijeći"
+    }
+  ],
+  "timestamp": "2026-10-04T19:21:57.846425553Z",
+  "model": "glm-5.3"
+}

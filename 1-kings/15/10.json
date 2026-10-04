@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Četrdeset i jednu godinu vladao je u Jerušalajimu; a ime majke njegove ⟨bilo je⟩ Maaha, kći Avišalomova.",
+  "tokens": [
+    {
+      "surface": "ו ארבעים",
+      "gloss": "i četrdeset"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "i jednu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godinu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vladao je"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ime"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "majke njegove"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kći"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avišalomova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:03.154451522Z",
+  "model": "glm-5.3"
+}

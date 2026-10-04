@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I oslijedi ⟨את⟩ oči Cidkijahove, te ga sveza okovima od mjedi da ga dovede u Babilon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahove"
+    },
+    {
+      "surface": "עור",
+      "gloss": "oslijedi"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "sveza ga"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "okovima od mjedi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "da dovede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "u Babilon"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:17.008020107Z",
+  "model": "glm-5.3"
+}

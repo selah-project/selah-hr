@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I rekoše sluge kraljeve, što su mu služile: Neka se potraže za kralja djevojke, djevice lijepa izgleda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "sluge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "što su mu služile"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "neka se potraže"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "djevojke"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "djevice"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "lijepe"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "izgleda"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:12.394381307Z",
+  "model": "glm-5.3"
+}

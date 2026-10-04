@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Radovat će se pravednik kad vidi osvetu; korake svoje oprat će u krvi bezbožnika.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "radovat će se"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravednik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "osvetu"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "korake svoje"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "oprat će"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "u krvi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožnika"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:58.259652034Z",
+  "model": "glm-5.3"
+}

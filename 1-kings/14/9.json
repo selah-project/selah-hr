@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "i učini si zlo više od svega što bijaše prije tebe, i otišao si tebi načinio druge bogove i ljevene likove da me rasrdiš, a mene si bacio iza svojih leđa.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "učini si zlo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činiti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više od svega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prije tebe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "otiao si"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "načinio si"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "druge"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "i ljevene likove"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "da me rasrdiš"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "si bacio"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "svojih leđa"
+    }
+  ],
+  "timestamp": "2026-10-04T20:22:37.207581305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I neću uzeti ⟨את⟩ cijeloga kraljevstva iz ruke njegove, nego ću ga postaviti za kneza sve dane života njegova, zbog Davida, sluge svojega, kojega sam izabrao ⟨את⟩ njega, koji je čuvao zapovijedi moje i uredbe moje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "uzeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cijeloga kraljevstva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cijeloga"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iz ruke njegove"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nego"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "za kneza"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "ću ga postaviti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dane"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "života njegova"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluge svojega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "sam izabrao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "David, sluga moj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvao"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "zapovijedi moje"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "i uredbe moje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:14.872896383Z",
+  "model": "glm-5.3"
+}

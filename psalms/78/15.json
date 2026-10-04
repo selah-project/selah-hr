@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Raspe stijene u pustinji i dade im piti kao iz velikih dubina.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "raspe"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "stijene"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "i dade piti"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "kao iz dubina"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velikih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:12:56.048592105Z",
+  "model": "glm-5.3"
+}

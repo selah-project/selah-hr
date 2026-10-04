@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "Ne budi mudar u očima svojim; boj se ⟨את⟩ Jahve i odstupi od zla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "budi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mudar"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u očima svojim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "i odstupi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zla"
+    }
+  ],
+  "timestamp": "2026-10-04T19:22:41.482051682Z",
+  "model": "glm-5.3"
+}

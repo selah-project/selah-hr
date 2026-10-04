@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I ode sav narod, svaki čovjek svojoj kući, i vrati se David blagosloviti ⟨את⟩ svoj dom.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i ode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svaki čovjek"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "svojoj kući"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "blagosloviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:03:44.977359028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I vidješe nadzornici sinova Jisraelovih ⟨את⟩ njih u zlu, jer se govorilo: Ne umanjujte ništa od svojih opeka — zadatak dana u dan njegov.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "i vidješe"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "nadzornici"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih (u zlu)"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "u zlu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "umanjujte"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "od svojih opeka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zadatak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "u dan njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:58.272569745Z",
+  "model": "glm-5.3"
+}

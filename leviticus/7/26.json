@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I nikakve krvi ne jedite u svim svojim prebivalištima, ni od ptice ni od zvijeri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i nikakve"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jeste"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "svojim prebivalištima"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ni od ptice"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ni od zvijeri"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:07.007458896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I dade svećenik zapovjednicima stotina ⟨את⟩ koplja i ⟨את⟩ štitove koji bijahu kralju Davidu, koji su ⟨u⟩ domu Jahvinu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "zapovjednicima"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "stotina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koplja"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "koplja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "štitove"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "štitove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji su"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:23:00.027469855Z",
+  "model": "glm-5.3"
+}

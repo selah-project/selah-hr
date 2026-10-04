@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 136,
+  "translation": "Zahvaljujte Elohimu bogova, jer zauvijek traje njegov hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bogova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zauvijek"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:53.069856287Z",
+  "model": "glm-5.3"
+}

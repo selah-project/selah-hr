@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Glavar Ahijezer i Joaš, sinovi Šemee Gibeatćanina; Jiziel i Pelet, sinovi Azmavetovi; i Beraha i Jehu Anatotćanin.",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "glavar"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ahijezer"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "i Joaš"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "Šemee"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "Gibeatćanin"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "Jiziel"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "i Pelet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavetovi"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "i Beraha"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "i Jehu"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "Anatotćanin"
+    }
+  ],
+  "timestamp": "2026-10-04T20:02:42.212807067Z",
+  "model": "glm-5.3"
+}

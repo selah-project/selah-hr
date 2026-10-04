@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Bolji su dvojica od jednoga, jer imaju dobar dobitak ⟨od⟩ truda svojega.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "bolji su"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dvojica"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "imaju"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨nima⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "dobitak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobar"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "za trud svoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:28.179900964Z",
+  "model": "glm-5.3"
+}

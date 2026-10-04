@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Jahve zna ⟨את⟩ misli čovjeka, da su ⟨is⟩ ništavilo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zna"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "misli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "המה",
+      "gloss": "one su"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ništavilo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:05.479114230Z",
+  "model": "glm-5.3"
+}

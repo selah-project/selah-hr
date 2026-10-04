@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I učini im Jehošua kako mu je rekao Jahve: njihove konje je obogaljio, a ⟨את⟩ njihove bojna kola spalio u ognju.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove konje"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "njihove konje"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "obogaljio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njihova bojna kola"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "njihova bojna kola"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spalio"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:55.075783926Z",
+  "model": "glm-5.3"
+}

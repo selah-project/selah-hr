@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I javiše kralju Davidu, govoreći: Blagoslovio je Jahve ⟨את⟩ dom Oved-Edoma i ⟨את⟩ sve što je njegovo zbog Kovčega Elohimova. I pođe David i prenese ⟨את⟩ Kovčeg Elohimov iz doma Oved-Edoma u Davidov grad, s radovanjem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i javiše"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslovio je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Oved-Edoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve što je njegovo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je njegovo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "zbog"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčega"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i pođe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "i prenese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kovčeg Elohimov"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kovčeg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz doma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "u grad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radovanjem"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:43.249718639Z",
+  "model": "glm-5.3"
+}

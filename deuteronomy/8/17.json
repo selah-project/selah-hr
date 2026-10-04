@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "pa kažeš u svom srcu: snaga moja i sila ruke moje stekla ⟨את⟩ je za me ovo blago.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "pa kažeš"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "u svom srcu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "snaga moja"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "i sila"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruke moje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "stekla je"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovo blago"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "blago"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:27.685070637Z",
+  "model": "glm-5.3"
+}

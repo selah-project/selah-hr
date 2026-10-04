@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "Međutim, ždrijebom neka se razdijeli ⟨את⟩ zemlja; po imenima plemena svojih otaca neka naslijede.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "međutim"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ždrijebom"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "neka se razdijeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "po imenima"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "svojih otaca"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "neka naslijede"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:14.783577442Z",
+  "model": "glm-5.3"
+}

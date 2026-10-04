@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A ako je siromašniji od tvoje procjene, neka ga stavi pred svećenika, i neka ga svećenik procijeni ⟨את⟩; prema onome što može dostići ruka onoga koji je zavjetovao, neka ga svećenik procijeni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a ako"
+    },
+    {
+      "surface": "מך",
+      "gloss": "siromašniji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "od tvoje procjene"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "neka ga stavi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenikom"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "i neka procijeni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "על",
+      "gloss": "prema"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onome što"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "može dostići"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "onoga koji je zavjetovao"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "neka ga procijeni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:54:12.039271149Z",
+  "model": "glm-5.3"
+}

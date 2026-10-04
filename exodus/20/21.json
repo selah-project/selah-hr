@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A narod stajaše iz daleka, i Moše pristupi mraku u kojemu bijaše Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i stajaše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "iz daleka"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "i Moše"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "pristupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "mraku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:10.673501603Z",
+  "model": "glm-5.3"
+}

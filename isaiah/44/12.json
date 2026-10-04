@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 44:12",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 44,
+  "translation": "Kovač ⟨u⟩ željezu sjekirom radi i obrađuje ⟨je⟩ ugljenom, čekićima je oblikuje, i načini je mišicom svoje snage; gladan je i nema snage, ne pije vode i klone.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "Kovač"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "željezo"
+    },
+    {
+      "surface": "מעצד",
+      "gloss": "sjekirom"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "i obrađuje"
+    },
+    {
+      "surface": "בפחם",
+      "gloss": "ugljenom"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "čekićima"
+    },
+    {
+      "surface": "יצרהו",
+      "gloss": "oblikuje"
+    },
+    {
+      "surface": "ויפעלהו",
+      "gloss": "i načini"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "mišicom"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "svoje snage"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gladan je"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "כח",
+      "gloss": "snage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "וייעף",
+      "gloss": "i klone"
+    }
+  ],
+  "timestamp": "2026-10-04T18:15:29.737603303Z",
+  "model": "glm-5.3"
+}

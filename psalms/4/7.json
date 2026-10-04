@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Mnogi govore: »Tko će nam pokazati dobro?« Podigni nad nama svjetlost lica svojega, Jahve!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mnogi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "govore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Tko"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "će nam pokazati"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Podigni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nama"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svjetlost"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lica svojega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T19:02:55.868992950Z",
+  "model": "glm-5.3"
+}

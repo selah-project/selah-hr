@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Kraljevskim pravom zemlja stoji čvrsto, a tko traži darove ruši je.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "pravom"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "stoji čvrsto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a tko"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "darove"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "ruši je"
+    }
+  ],
+  "timestamp": "2026-10-04T19:30:54.325056631Z",
+  "model": "glm-5.3"
+}

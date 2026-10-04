@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "I uzeše ⟨את⟩ njihove kosti te ih pokopaše pod tamariskom u Jabešu, i postaše sedam dana.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove kosti"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "njihove kosti"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i pokopaše"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamariskom"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "u Jabešu"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "i postaše"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:39:30.630668105Z",
+  "model": "glm-5.3"
+}

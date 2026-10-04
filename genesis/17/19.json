@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 17:19",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "A Elohim reče: Naprotiv, Sara, žena tvoja, rodit će ti sina, i nazvat ćeš ime njegovo Jicak; i uspostavit ću savez svoj s njim ⟨את⟩, savez vječni, za sjeme njegovo poslije njega.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Naprotiv"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "žena tvoja"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "rodit će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "i nazvat ćeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime njegovo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "i uspostavit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savez svoj"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez svoj"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s njim"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "za savez"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vječni"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "za sjeme njegovo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "poslije njega"
+    }
+  ],
+  "timestamp": "2026-10-04T16:21:46.792034993Z",
+  "model": "glm-5.3"
+}

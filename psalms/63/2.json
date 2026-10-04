@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 63,
+  "translation": "Eloime, Elohim si moj, rano ću te tražiti; žeđa za tobom duša ⟨je⟩ moja, čezne za tobom tijelo moje, u zemlji suhoj i iscrpljenoj, bez vode.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloime"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim si moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "rano ću te tražiti"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "žeđa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za tobom"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tijelo moje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suhoj"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "i iscrpljenoj"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-04T19:11:06.773388835Z",
+  "model": "glm-5.3"
+}

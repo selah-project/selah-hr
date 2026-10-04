@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče: Jahve je hrid moja i tvrđava moja i spasitelj moj —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "hrid moja"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "i tvrđava moja"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "i spasitelj moj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    }
+  ],
+  "timestamp": "2026-10-04T17:46:10.704750738Z",
+  "model": "glm-5.3"
+}

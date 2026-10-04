@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I reče Jahve Mošeu: neće vas poslušati Paro, da se umnože moja znamenja u zemlji micrajimskoj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neće"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "poslušati"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "umnože"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "moja znamenja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimskoj"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:23.668503302Z",
+  "model": "glm-5.3"
+}

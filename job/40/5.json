@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "Jednom sam govorio i neću odgovoriti, dvaput — i neću dodavati.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sam govorio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odgovoriti"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dvaput"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "dodavati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:39:32.167398220Z",
+  "model": "glm-5.3"
+}

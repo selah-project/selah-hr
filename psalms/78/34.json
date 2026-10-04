@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Kad bi ih usmrtio, tražili bi ga, i vratili bi se, i rano tražili Ela.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "usmrtio ih"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "i tražili bi ga"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "i vratili bi se"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "rano tražili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:18.410872990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "Ide prema jugu i kruguje prema sjeveru, kruguje, kruguje ide ruah, i po svojim kružnim putovima vraća se ruah.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "i kruguje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sjeveru"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "kruguje"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "kruguje"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ide"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i po"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "svojim kružnim putovima"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vraća se"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:52.505015690Z",
+  "model": "glm-5.3"
+}

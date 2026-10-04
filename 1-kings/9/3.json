@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Jahve njemu: Čuo sam ⟨את⟩ tvoju molitvu i ⟨את⟩ tvoju prošnju koju si izmolio preda mnom; posvetio sam ⟨את⟩ ovaj dom koji si sagradio da stavim ime svoje ondje dovijeka, i oči će moje i srce moje biti ondje sve dane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "čuo sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoju molitvu"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "molitvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoju prošnju"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "prošnju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "izmolio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "preda"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "posvetio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "si sagradio"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "da stavim"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime svoje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vijeka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči će moje"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "i srce moje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:07.059126803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Sine moj, čuvaj moje riječi, i moje zapovijedi sačuvaj ⟨את⟩ ⟨u sebi⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaj"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "moje riječi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "i moje zapovijedi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "sačuvaj"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "u sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:49.669787005Z",
+  "model": "glm-5.3"
+}

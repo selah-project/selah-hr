@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Erwat sestre tvoje, kćeri oca tvojega ili kćeri majke tvoje, rođene u kući ili rođene vani — ne otkrivaj njihovu ervu.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "erva"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "sestre tvoje"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oca tvojega"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "majke tvoje"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "rođene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u kući"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "rođene"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "vani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "otkrivaj"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "njihovu ervu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:33.436692520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I doći će onamo, i uklonit će ⟨את⟩ sve gnusobe njezine i ⟨את⟩ sve odvratnosti njezine iz nje.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "i doći će"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "i uklonit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve gnusobe njezine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "gnusobe njezine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sve odvratnosti njezine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "odvratnosti njezine"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iz nje"
+    }
+  ],
+  "timestamp": "2026-10-04T18:39:13.284342182Z",
+  "model": "glm-5.3"
+}

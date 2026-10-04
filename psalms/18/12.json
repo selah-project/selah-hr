@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "Postavi tamu za svoj skrovište, oko sebe šator svoj — tamu voda, oblake slovnih visina.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "za svoje skrovište"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "oko sebe"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "šator svoj"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "oblake"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "slovnih visina"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:00.113956701Z",
+  "model": "glm-5.3"
+}

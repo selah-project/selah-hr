@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I izgradi Jahve Elohim ⟨את⟩ rebra koje je uzeo od čovjeka u ženu, i dovede je čovjeku.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "izgradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rebra"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "rebro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "u ženu"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "dovede je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.577700426Z",
+  "model": "glm-5.3"
+}

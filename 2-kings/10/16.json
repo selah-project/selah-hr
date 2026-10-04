@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I reče: Dođi sa mnom i vidi moju revnost za Jahvu. I dadoše ga na njegova kola.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Dođi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa mnom"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "moju revnost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahvu"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "i dadoše ga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "na njegova kola"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "na njegova kola"
+    }
+  ],
+  "timestamp": "2026-10-04T17:59:29.300498368Z",
+  "model": "glm-5.3"
+}

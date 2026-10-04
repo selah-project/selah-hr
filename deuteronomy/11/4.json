@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 11:4",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "i što učini vojsci micrajskoj, njegovim konjima i njegovim kolima, kad potopi ⟨את⟩ vode tršćanoga mora preko njihova lica dok su vas gonili, i Jahve ih uništi do današnjega dana —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "i što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "vojsci"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajskoj"
+    },
+    {
+      "surface": "לסוסיו",
+      "gloss": "njegovim konjima"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "i njegovim kolima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הציף",
+      "gloss": "potopi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vode tršćanoga mora"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tršćanoga"
+    },
+    {
+      "surface": "על",
+      "gloss": "preko"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njihova lica"
+    },
+    {
+      "surface": "ברדפם",
+      "gloss": "dok su gonili"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "vas"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "i uništi ih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "današnjega dana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovoga"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:43.877931589Z",
+  "model": "glm-5.3"
+}

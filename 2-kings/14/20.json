@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "I poniješe ga ⟨את⟩ na konjima, i bi pokopan u Jerušalajimu s ocima svojim, u gradu Davidovu.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i poniješe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "konjima"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "i bi pokopan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:00:21.601000399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "i svećenik vidi, i gle, izgled je niži od kože, a dlaka mu se promijenila u bijelo, pa neka ga svećenik proglasi nečistim: ranica je gube — to je što je izbilo u čiru.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i vidi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "izgled"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "niži"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kože"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "a dlaka mu"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "promijenila se"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "u bijelo"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "pa neka ga proglasi nečistim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ranica"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "gube"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "u čiru"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "izbila"
+    }
+  ],
+  "timestamp": "2026-10-04T16:48:49.001064009Z",
+  "model": "glm-5.3"
+}

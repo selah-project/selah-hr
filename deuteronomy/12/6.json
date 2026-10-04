@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I donijet ćete onamo svoje paljenice i svoje žrtve, i ⟨את⟩ svoje desetine i ⟨את⟩ prinos svoje ruke, i svoje zavjete i svoje dobrovoljne darove, i prvenče svoga goveda i svoje sitne stoke.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "i donijet ćete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "onamo"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "svoje paljenice"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "i svoje žrtve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje desetine"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "svoje desetine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prinos"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "prinos"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "svoje ruke"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "i svoje zavjete"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "i svoje dobrovoljne darove"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "i prvenče"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "svoga goveda"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "i svoje sitne stoke"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:46.694653930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 16:22",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Izvor života razumnost je onomu koji je ima, a ukor ludih ludost je.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "izvor"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "razumnost"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "njegovu posjedniku"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "a ukor"
+    },
+    {
+      "surface": "אולים",
+      "gloss": "ludih"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ludost"
+    }
+  ],
+  "timestamp": "2026-10-04T19:25:11.505892868Z",
+  "model": "glm-5.3"
+}

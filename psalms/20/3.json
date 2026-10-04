@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "Pošalje ti pomoć iz svetoga ⟨mjesta⟩ i iz Ciona te podupre.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pošalje"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "pomoć"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "iz svetoga ⟨mjesta⟩"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "i iz Ciona"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "te podupre"
+    }
+  ],
+  "timestamp": "2026-10-04T19:05:26.402788265Z",
+  "model": "glm-5.3"
+}

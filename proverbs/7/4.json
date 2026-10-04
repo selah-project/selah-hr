@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Reci mudrosti: 'Sestro moja, ⟨ti⟩ si', a razum prozovi svojim rođakom.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "mudrosti"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sestro moja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "a razum"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "razumnosti"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "prozovi"
+    }
+  ],
+  "timestamp": "2026-10-04T19:23:49.670300172Z",
+  "model": "glm-5.3"
+}

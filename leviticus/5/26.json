@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I neka se svećenik pomiri za njega pred Jahvom, i oprostit će mu se ⟨za⟩ jedno od svega što učini kao krivnju u tome.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "i neka se pomiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za njega"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "i oprostit će mu se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨za⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od svega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "kao krivnju"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u tome"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:08.856108909Z",
+  "model": "glm-5.3"
+}

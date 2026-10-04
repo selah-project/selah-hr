@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "Duša blagoslova bit će ugojena, a tko natapa, i sam će biti natopljen.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blagoslova"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "bit će ugojena"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "a tko natapa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "će biti natopljen"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:45.194430557Z",
+  "model": "glm-5.3"
+}

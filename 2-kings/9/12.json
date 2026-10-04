@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I rekoše: Laž! Kaži nam ipak. A on im reče: Ovako i ovako reče mi: Tako govori Jahve: Pomazao sam te za kralja nad Jisraelom.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i rekoše"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "kaži"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ipak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "i ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "pomazao sam te"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-04T17:58:36.104541999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Je li dobro da vas on ispituje? Ili ćete li, kao što se čovjeka izruguje, njega izrugivati?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "je li dobro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ispituje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ili"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "kao što se izruguje"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "izrugujete"
+    },
+    {
+      "surface": "בו",
+      "gloss": "njega"
+    }
+  ],
+  "timestamp": "2026-10-04T19:34:02.028957325Z",
+  "model": "glm-5.3"
+}

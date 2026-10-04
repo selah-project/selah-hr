@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "Pokrenu istočni vjetar na nebu i snagom svojom povede južni vjetar.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "pokrenu"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "istočni vjetar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebu"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "i povede"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "snagom svojom"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "južni vjetar"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:01.097917065Z",
+  "model": "glm-5.3"
+}

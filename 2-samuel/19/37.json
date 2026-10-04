@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "S malo će prijeći sluga tvoj ⟨את⟩ Jordan s kraljem; i zašto da mi ⟨את⟩ kralj uzvrati ovakvu nagradu?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "s malo"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "će prijeći"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluga tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "i zašto"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "uzvrati mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "nagradu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovakvu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:45:11.094754576Z",
+  "model": "glm-5.3"
+}

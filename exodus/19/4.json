@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "Vi ste vidjeli što sam učinio Micrajimu, i nosio sam vas ⟨את⟩ na krilima orlovima i doveo vas ⟨את⟩ k sebi.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ste vidjeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micrajimu"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "i nosio sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "krilima"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "orlovima"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "i doveo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k sebi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:23.742741467Z",
+  "model": "glm-5.3"
+}

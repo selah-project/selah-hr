@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I uze Moše ⟨את⟩ svoju ženu i ⟨את⟩ svoje sinove, posadi ih na magarca i vrati se u zemlju micrajsku; i uze Moše ⟨את⟩ štap Elohimov u svoju ruku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svoju ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "posadi ih"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "maganca"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "u zemlju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajsku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "štap Elohimov"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "štap"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "u svoju ruku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:33:39.729249472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 58,
+  "translation": "Kao puž što se rastapa, neka <i>svaki od njih<\/i> prođe; kao neživo rođenče žene, da sunca ne vide.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kao"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "puž"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "rastapa se"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "neka prođe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "neživo rođenče"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunce"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:58.259176655Z",
+  "model": "glm-5.3"
+}

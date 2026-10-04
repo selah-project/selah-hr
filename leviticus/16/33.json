@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I pomirit će ⟨את⟩ svetinju svetinje i ⟨את⟩ šator sastanka, i ⟨את⟩ žrtvenik pomirit će; i za svećenike i za sav narod zajednice pomirit će.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "i pomirit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetinju svetinje"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svetinju"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "šator sastanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šator"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvenik"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pomirit će"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "svećenike"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zajednice"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pomirit će"
+    }
+  ],
+  "timestamp": "2026-10-04T16:49:38.161682992Z",
+  "model": "glm-5.3"
+}

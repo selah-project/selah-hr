@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "I reče im Josip: To je ono što sam vam govorio rekavši: špijuni ste vi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sam govorio"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "špijuni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ste vi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:30:30.565583156Z",
+  "model": "glm-5.3"
+}

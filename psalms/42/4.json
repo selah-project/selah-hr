@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Suze su mi bile kruh dan i noć, dok mi govore cio dan: Gdje je Elohim tvoj?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "su bile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Suze moje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i noć"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "dok govore"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cio"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Gdje je"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    }
+  ],
+  "timestamp": "2026-10-04T19:08:22.992410186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I sahraniše ⟨את⟩ Avnera u Hevronu, i kralj podiže ⟨את⟩ glas svoj te zaplaka nad grobom Avnerovim; i sav narod zaplaka.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "I sahraniše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "u Hevronu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glas svoj"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "glas svoj"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "te zaplaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grobom"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerovim"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i zaplaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    }
+  ],
+  "timestamp": "2026-10-04T17:40:37.656254601Z",
+  "model": "glm-5.3"
+}

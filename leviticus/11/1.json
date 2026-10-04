@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I progovori Jahve Mošeu i Aharonu, rekavši im:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I progovori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-10-04T16:47:25.205442758Z",
+  "model": "glm-5.3"
+}

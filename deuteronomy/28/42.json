@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Zrikavac će zaposjesti sve tvoje stablo i plod tvoje zemlje.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "tvoje stablo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "i plod"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tvoje zemlje"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "će zaposjesti"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "zrikavac"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:29.373012240Z",
+  "model": "glm-5.3"
+}

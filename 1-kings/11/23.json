@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I podiže Elohim njemu protivnika ⟨את⟩ Rezona, sina Eljadina, koji je pobjegao od ⟨את⟩ svoga gospodara Hadadezera, kralja Cove.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "protivnika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezona"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljadina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji je"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "pobjegao"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cove"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svoga gospodara"
+    }
+  ],
+  "timestamp": "2026-10-04T17:52:07.859604024Z",
+  "model": "glm-5.3"
+}

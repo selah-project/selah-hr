@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 33,
+  "translation": "I ovo je blagoslov kojim je Moše, čovjek Elohimov, blagoslovio ⟨את⟩ sinove Jisraelove pred svojom smrću.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "i ovo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojim"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslovio"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraelove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelove"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "svojom smrću"
+    }
+  ],
+  "timestamp": "2026-10-04T17:16:04.772845022Z",
+  "model": "glm-5.3"
+}

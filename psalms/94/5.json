@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Tvoj narod, Jahve, gaze, i tvoju baštinu tlače.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "tvoj narod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "gaze"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "i tvoju baštinu"
+    },
+    {
+      "surface": "ייענו",
+      "gloss": "tlače"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:00.678030271Z",
+  "model": "glm-5.3"
+}

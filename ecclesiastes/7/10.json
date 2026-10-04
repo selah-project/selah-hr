@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "Ne reci: „Što bijaše da dani prijašnji bijahu bolji od ovih?” — jer ne iz haklamije pitaš o ovome.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "da dani"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prijašnji"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bolji"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od ovih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "iz haklamije"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "pitaš"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ovome"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:17.169595039Z",
+  "model": "glm-5.3"
+}

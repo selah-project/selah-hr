@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i zapitat će te za mir, i dat će ti dva kruha, i ti ćeš uzeti iz ruke njihove.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "i zapitat će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mir"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "i dat će"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dva"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzet ćeš"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iz ruke njihove"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:29.803300497Z",
+  "model": "glm-5.3"
+}

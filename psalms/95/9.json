@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 95,
+  "translation": "gdje su me iskušavali očevi vaši, ispitali me premda su vidjeli moje djelo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "iskušavali su me"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "očevi vaši"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ispitali su me"
+    },
+    {
+      "surface": "גם",
+      "gloss": "predmda"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidjeli su"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "moje djelo"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:06.306784424Z",
+  "model": "glm-5.3"
+}

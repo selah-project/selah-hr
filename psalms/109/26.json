@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 109,
+  "translation": "Pomozi mi, Jahve, Elohim moj; spasi me po hesedu svojemu!",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Pomozi mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "spasi me"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "po hesedu svojemu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:37.208455993Z",
+  "model": "glm-5.3"
+}

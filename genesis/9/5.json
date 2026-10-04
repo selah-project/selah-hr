@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A doista, ⟨את⟩ krv vašu za živote vaše zatražit ću — iz ruke svake životinje zatražit ću je, i iz ruke čovjeka, iz ruke svakoga čovjeka, brata njegova, zatražit ću ⟨את⟩ život čovjeka.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "a doista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krv vašu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "krv vašu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "za živote vaše"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zatražit ću"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svake"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "životinje"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "zatražit ću je"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i iz ruke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz ruke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakoga čovjeka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata njegova"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zatražit ću"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život čovjeka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjeka"
+    }
+  ],
+  "timestamp": "2026-10-04T20:16:20.243458334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I posla ⟨את⟩ njih Moše iz pustinje Parana, po ustima Jahvinim: svi oni ljudi, poglavari sinova Jisraelovih, oni su.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I posla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "iz pustinje"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parana"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ustima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinim"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "svi oni"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ljudi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "poglavari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni su"
+    }
+  ],
+  "timestamp": "2026-10-04T16:58:57.628533935Z",
+  "model": "glm-5.3"
+}

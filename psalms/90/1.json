@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 90,
+  "translation": "Molitva Mošea, čovjeka Elohimova. Adonaje, boravište si nam bio u naraštaju i naraštaju.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Molitva"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "boravište"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "si bio"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "u naraštaju"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i naraštaju"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:25.610677675Z",
+  "model": "glm-5.3"
+}

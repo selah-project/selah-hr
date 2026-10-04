@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 132,
+  "translation": "Ustani, Jahve, k svojem počivalištu, ti i kovčeg svoje snage.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ustani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "k svojem počivalištu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "i kovčeg"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "svoje snage"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:11.351720951Z",
+  "model": "glm-5.3"
+}

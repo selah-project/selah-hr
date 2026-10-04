@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 81,
+  "translation": "Slušaj, narode moj, i upozorit ću te: Jisraele, ako me budeš slušao!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slušaj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narode moj"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "i upozorit ću te"
+    },
+    {
+      "surface": "בך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "budeš slušao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:25.563415214Z",
+  "model": "glm-5.3"
+}

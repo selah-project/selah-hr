@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "A čovjek koji legne s muškarcem, ⟨את⟩ kao posteljom žene: gadost učiniše obojica; smrću neka se pogube; krv njihova na njima.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a čovjek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "legne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muškarca"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muškarcem"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "posteljom"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žene"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gadost"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učiniše"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obojica"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "neka se pogube"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "krv njihova"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na njima"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:52.662128427Z",
+  "model": "glm-5.3"
+}

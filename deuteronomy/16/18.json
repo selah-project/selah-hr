@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 16:18",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "Suce i nadzornike postavit ćeš sebi u svim svojim vratima koja ti Jahve, Elohim tvoj, daje po svojim plemenima, i oni će suditi ⟨את⟩ narod pravednim sudom.",
+  "tokens": [
+    {
+      "surface": "שפטים",
+      "gloss": " suce"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "i nadzornike"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "postavit ćeš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svim"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "svojim vratima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשבטיך",
+      "gloss": "po svojim plemenima"
+    },
+    {
+      "surface": "ושפטו",
+      "gloss": "i oni će suditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sudom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pravednim"
+    }
+  ],
+  "timestamp": "2026-10-04T17:10:56.102508839Z",
+  "model": "glm-5.3"
+}

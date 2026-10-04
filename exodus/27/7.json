@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I motke će se staviti u prstenove ⟨את⟩ ⟨motke njegove⟩, i motke će biti na dvjema stranama žrtvenika pri nošenju ⟨את⟩ ⟨njega⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "i bit će stavljene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motke njegove"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "motke njegove"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "u prstenove"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "i bit će"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "motke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvjema"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "stranama"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "pri nošenju"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨njega⟩",
+      "marks": "žrtvenik"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:54.793249057Z",
+  "model": "glm-5.3"
+}

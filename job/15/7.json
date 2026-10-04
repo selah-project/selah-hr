@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 15,
+  "translation": "Jesi li prvi čovjek rođen, i prije brežuljaka si oblikovan?",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "rođen"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "prije"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "brežuljaka"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "oblikovan"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:48.452957630Z",
+  "model": "glm-5.3"
+}

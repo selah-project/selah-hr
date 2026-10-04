@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Onaj čiste ruke i čista srca, koji nije uzdigao ⟨na⟩ ispraznost dušu svoju niti se zakleo prijevarom.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "čiste"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ruke"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "i čista"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "uzdigao"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ispraznost"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dušu svoju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "se zakleo"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "prijevarom"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:17.265271065Z",
+  "model": "glm-5.3"
+}

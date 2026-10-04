@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "esron esron za svako pojedinačno janje, za sedam janjaca.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "esron"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "esron"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "za janje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "pojedinačno"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "za sedam"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "janjaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:30.297670681Z",
+  "model": "glm-5.3"
+}

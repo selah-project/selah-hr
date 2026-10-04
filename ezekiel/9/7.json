@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče im: Okaljajte ⟨את⟩ dom i napunite ⟨את⟩ dvorišta pobojenima; iziđite! I iziđoše te udarahu po gradu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "okaljajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i napunite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvorišta"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "dvorišta"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "pobojenima"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "iziđite"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "i iziđoše"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "te udarahu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "po gradu"
+    }
+  ],
+  "timestamp": "2026-10-04T18:39:29.228909414Z",
+  "model": "glm-5.3"
+}

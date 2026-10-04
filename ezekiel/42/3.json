@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 42,
+  "translation": "Nasuprot dvadeset ⟨lakata⟩ koje pripadaju unutarnjemu dvorištu i nasuprot popločenju koje pripada vanjskome dvorištu — trijem nasuprot trijemu u triju redova.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pripadaju dvorištu"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "unutarnjemu"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "i nasuprot"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "popločenju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pripada dvorištu"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "vanjskemu"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "trijem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "čelu"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "trijema"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "u triju redova"
+    }
+  ],
+  "timestamp": "2026-10-04T18:48:22.820479655Z",
+  "model": "glm-5.3"
+}

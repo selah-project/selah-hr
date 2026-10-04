@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Šemuel kuharu: Daj ⟨את⟩ porciju koju sam ti dao, za koju sam ti rekao: metni ⟨את⟩ nju kod sebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kuharu"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "daj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porciju"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "porciju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sam ti dao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za koju"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sam rekao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tome"
+    },
+    {
+      "surface": "שים",
+      "gloss": "metni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kod sebe"
+    }
+  ],
+  "timestamp": "2026-10-04T17:33:06.539404065Z",
+  "model": "glm-5.3"
+}

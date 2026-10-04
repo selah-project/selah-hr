@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I Reu življaše dvadeset i dvije godine... dvije i trideset godina, i rodi ⟨את⟩ Seruga.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i življaše"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvije"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "i trideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godina"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruga"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruga"
+    }
+  ],
+  "timestamp": "2026-10-04T16:20:08.022829964Z",
+  "model": "glm-5.3"
+}

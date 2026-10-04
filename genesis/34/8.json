@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "I govoraše Hamor ⟨את⟩ s njima rekavši: Šekem, sin moj — duša mu se čvrsto prilijepi uz kćer vašu; dajte ⟨את⟩ nju njemu za ženu, molim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I govoraše"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ s njima"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekavši"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sin moj"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "čvrsto se prilijepi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "duša mu"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "uz kćer vašu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:22.800943378Z",
+  "model": "glm-5.3"
+}

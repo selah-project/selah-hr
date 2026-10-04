@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 64,
+  "translation": "Kao kad oganj zahukta ⟨u⟩ suho granje, i voda uzavre ⟨od⟩ ognja, da se objavi ime tvoje protivnicima tvojim, pred licem tvojim narodi će se uzdrmati.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "kao kad oganj zahukta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "suho granje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "uzavre"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oganj"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "da se objavi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ime tvoje"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "protivnicima tvojim"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred licem tvojim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "će se uzdrmati"
+    }
+  ],
+  "timestamp": "2026-10-04T20:24:20.181276410Z",
+  "model": "glm-5.3"
+}

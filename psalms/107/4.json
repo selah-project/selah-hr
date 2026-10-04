@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Lutali su pustinjom, pustom, putom; grada za stanovanje nisu našli.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Lutali su"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pustinjom"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "pustom"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "putom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "za stanovanje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "našli"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:13.006331175Z",
+  "model": "glm-5.3"
+}

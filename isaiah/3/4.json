@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I dat ću dječake za njihove knezove, i hirovita djecu da vladaju nad njima.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "I dat ću"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dječake"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "za njihove knezove"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "i hirovita djecu"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "da vladaju"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nad njima"
+    }
+  ],
+  "timestamp": "2026-10-04T18:05:09.418797940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 16,
+  "translation": "I Baša je počinuo s ocima svojim i bio je pokopan u Tirci, a Ela, sin njegov, zakraljio se mjesto njega.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "počinuo je"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ocima svojim"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "pokopan je"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "u Tirci"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "zakraljio se"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin njegov"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:40.721813224Z",
+  "model": "glm-5.3"
+}

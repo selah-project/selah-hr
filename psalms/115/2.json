@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 115,
+  "translation": "Zašto bi narodi govorili: Gdje je, molim, njihov Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bi govorili"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "gdje je"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "njihov Elohim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:29:01.037131768Z",
+  "model": "glm-5.3"
+}

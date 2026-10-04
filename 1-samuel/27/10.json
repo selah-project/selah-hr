@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "I reče Akiš: Zar ⟨li⟩ niste danas navalili? A David reče: Na negev Judin, i na negev Jerahmeelaca, i na negev Kenaca.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zar ⟨li⟩"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "niste navalili"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Jerahmeelaca"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenaca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:19.638228899Z",
+  "model": "glm-5.3"
+}

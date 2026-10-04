@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I postadoh velik i nadmaših sve koji bijahu prije mene u Jerušalajimu; i moja me mudrost stajala ⟨uz⟩ mene.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "postadoh velik"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "nadmaših"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "koji bijahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prije mene"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "moja mudrost"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stajala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:44:37.625647901Z",
+  "model": "glm-5.3"
+}

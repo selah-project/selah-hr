@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 32,
+  "translation": "I uze ⟨את⟩ teleće koje načiniše, i spali ga u ognju, i stuče dok se ne satr u prah, i razasu po licu vode, i dade da ⟨את⟩ sinovi Jisraelovi popiju.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teleće"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "teleće"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "načiniše"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "spali"
+    },
+    {
+      "surface": "באש",
+      "gloss": "u ognju"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "stuče"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דק",
+      "gloss": "satr u prah"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "razasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dade da popiju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinovi Jisraelovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:42:33.038351660Z",
+  "model": "glm-5.3"
+}

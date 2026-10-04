@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Uzmi odande malo, na broj, i sveži ⟨את⟩ ih u svoja krila ⟨u skutove odjeće⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "i uzmi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odande"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na broj"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "i sveži"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih",
+      "marks": "krila \/ skutovi"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "u svoja krila"
+    }
+  ],
+  "timestamp": "2026-10-04T18:38:04.085499857Z",
+  "model": "glm-5.3"
+}

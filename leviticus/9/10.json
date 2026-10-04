@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ loj, i ⟨את⟩ bubrege, i ⟨את⟩ resicu s jetre od žrtve za grijeh dimom sažga na žrtveniku, kao što zapovjedi Jahve ⟨את⟩ Mošeu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "loj"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "loj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bubrege"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bubrege"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "resicu"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "resicu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jetre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "žrtve za grijeh"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "dimom sažga"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na žrtveniku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.366769366Z",
+  "model": "glm-5.3"
+}

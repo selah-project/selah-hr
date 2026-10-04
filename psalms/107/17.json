@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 107,
+  "translation": "Ludi zbog svojega buntovnoga puta i zbog svojih opačina bivaju mučeni.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ludi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "zbog puta"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "svojega buntova"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "i zbog svojih opačina"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "bivaju mučeni"
+    }
+  ],
+  "timestamp": "2026-10-04T19:17:14.164451191Z",
+  "model": "glm-5.3"
+}

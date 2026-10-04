@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I napisa Moše ⟨את⟩ sve riječi Jahvine, usta rano ujutro i podiže žrtvenik pod goroj, i dvanaest stupova za dvanaest plemena Jisraelovih.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "i napisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve riječi Jahvine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvine"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "usta rano"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goroj"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "i dvanaest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stupova"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "za dvanaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:02.912727373Z",
+  "model": "glm-5.3"
+}

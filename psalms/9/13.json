@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "Jer koji traga za krvlju, sjetio ih se ⟨את⟩; ne zaboravi vriska potlačenih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "tragа"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "za krvlju"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ih se",
+      "marks": "sjetio ih se"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sjetio se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "zaboravi"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "vriska"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "potlačenih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:03.080463158Z",
+  "model": "glm-5.3"
+}

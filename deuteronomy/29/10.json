@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "dječica vaša, žene vaše i stranac tvoj koji je usred tabora tvojega, od sječača drva tvojega do crpca vode tvoje —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "dječica vaša"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "žene vaše"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "i stranac tvoj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "tabora tvojega"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "od sječača"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "drva tvojega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "crpca"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "vode tvoje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:21.848674921Z",
+  "model": "glm-5.3"
+}

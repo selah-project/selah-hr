@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 55,
+  "translation": "Pazi na me i odgovori mi: lutam u jadu svojem i stenjem.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pazi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "i odgovori mi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "lutam"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "u jadu svojem"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "i stenjem"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:11.108599752Z",
+  "model": "glm-5.3"
+}

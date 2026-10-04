@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "I narod ponese ⟨את⟩ tijesto svoje prije nego što uskisnu, posude svoje za tijesto zamotane u haljine svoje na plećima svojim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ponese"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tijesto svoje"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "tijesto svoje"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "prije nego"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "uskisnu"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "posude svoje za tijesto"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zamotane"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "u haljine svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "plećima svojim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:36:14.702694788Z",
+  "model": "glm-5.3"
+}

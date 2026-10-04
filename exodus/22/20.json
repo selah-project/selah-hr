@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "A došljaka ne ugnjetavaj niti ga tlači, jer bili ste došljaci u zemlji Micrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "a došljaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ugnjetavaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niti"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ga tlači"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "došljaci"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bili ste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:38:32.121580361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 45,
+  "translation": "I reče Josef braći svojoj: Primaknite se, molim, k meni. I primakoše se. I reče: Ja sam Josef, brat vaš, kojega prodaste ⟨את⟩ mene u Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "braći svojoj"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Primaknite se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "i primakoše se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brat vaš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojega"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "prodaste"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "u Micrajim"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "u Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:54.791752939Z",
+  "model": "glm-5.3"
+}

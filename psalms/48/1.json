@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 48,
+  "translation": "Pjesma, psalam sinova Korahovih.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pjesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalam"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahovih"
+    }
+  ],
+  "timestamp": "2026-10-04T19:09:18.054791830Z",
+  "model": "glm-5.3"
+}

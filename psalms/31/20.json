@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Kako je veliko dobro tvoje koje si sakrio za one koji te se boje, koje si učinio onima što se k tebi sklanjaju, pred sinovima ljudskim!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "dobro tvoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "si sakrio"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "za one koji te se boje"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "koje si učinio"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "onima što se sklanjaju"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ljudskim"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:03.437362225Z",
+  "model": "glm-5.3"
+}

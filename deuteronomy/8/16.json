@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "koji hranio tebe manom u pustinji, koju ne poznaše oci tvoji — da te ponizi i da te iskuša, da ti dobro učini na koncu tvojem.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "koji hranio tebe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manom"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "u pustinji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "poznaše"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oci tvoji"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "te ponizi"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i da"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "te iskuša"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "da ti dobro učini"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "na koncu tvojem"
+    }
+  ],
+  "timestamp": "2026-10-04T17:09:02.726739268Z",
+  "model": "glm-5.3"
+}

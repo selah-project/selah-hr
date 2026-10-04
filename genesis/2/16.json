@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I zapovjedi Jahve Elohim čovjeku: Sa svakoga drveta u vrtu jest ćeš jesti — slobodno jedeš.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "čovjeku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "riječju:"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa svakoga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drveta"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "u vrtu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "slobodno jedeš"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jest ćeš jesti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:57.844771440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I zapovjedi kralj da se tako učini, i naredba bi dana u Šušanu, i ⟨את⟩ deset sinova Hamanovih objesiše.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "da se učini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "i bi dana"
+    },
+    {
+      "surface": "דת",
+      "gloss": "naredba"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "u Šušanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deset sinova Hamanovih"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanovih"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "objesiše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:48:13.111159978Z",
+  "model": "glm-5.3"
+}

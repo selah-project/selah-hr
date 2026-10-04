@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 91,
+  "translation": "Jer ti si, Jahve, zaklon moj, Elijon za prebivalište svoje si stavio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "zaklon moj"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "si stavio"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "prebivalište svoje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:01.277743059Z",
+  "model": "glm-5.3"
+}

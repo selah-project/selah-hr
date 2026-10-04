@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 20,
+  "translation": "I on izvrijeđa ⟨את⟩ Jisrael, pa ga udari Jehonatan, sin Šimee, brata Davidova.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "i izvrijeđa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "pa ga udari"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Šimee"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:04:16.689765383Z",
+  "model": "glm-5.3"
+}

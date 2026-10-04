@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I vrati se Mordechai na kraljevska vrata, a Haman pohrli kući svojoj, tužan i pokrivene glave.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i vrati se"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevska"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "a Haman"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "pohrli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kući"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svojoj"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "tužan"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "i pokrivene"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glave"
+    }
+  ],
+  "timestamp": "2026-10-04T19:47:54.049117013Z",
+  "model": "glm-5.3"
+}

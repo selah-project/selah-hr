@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 17,
+  "translation": "Sličan je lavu što čezne rastrgati, i kao mladi lav što sjedi u skrovištima.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "sličan je"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "lavnici"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "čezne"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "rastrgati"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "i kao mladi lav"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "što sjedi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "u skrovištima"
+    }
+  ],
+  "timestamp": "2026-10-04T19:04:04.786784277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I uze Moše polovicu krvi i stavi ⟨je⟩ u zdjele; a polovicu krvi poškropi po žrtveniku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovicu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "u zdjele"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a polovicu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "poškropi"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-04T16:39:19.232029908Z",
+  "model": "glm-5.3"
+}

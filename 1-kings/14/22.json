@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Jehuda je činio zlo u očima Jahvinim, i izazivali su njegovu ljubomoru više nego sve što su činili oci njihovi, grijesima svojim kojima su sagriješili.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "činio je"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvinim"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "izazivali su ljubomoru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "više nego sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "činili"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "oci njihovi"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "grijesima svojim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kojima"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "su sagriješili"
+    }
+  ],
+  "timestamp": "2026-10-04T17:53:33.460096789Z",
+  "model": "glm-5.3"
+}

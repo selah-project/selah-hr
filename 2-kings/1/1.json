@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 1,
+  "translation": "I pobuni se Moab protiv Jisraela nakon smrti Ahava.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "pobuni se"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "protiv Jisraela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahava"
+    }
+  ],
+  "timestamp": "2026-10-04T17:56:50.557078564Z",
+  "model": "glm-5.3"
+}

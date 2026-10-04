@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "A sada, sine moj, poslušaj moj glas ⟨את⟩ — ono što ti ja naređujem.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A sada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sine moj"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "moj glas"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ono što"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "naređujem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    }
+  ],
+  "timestamp": "2026-10-04T20:15:52.629404585Z",
+  "model": "glm-5.3"
+}

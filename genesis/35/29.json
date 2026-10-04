@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I Jicak izdahnu i umrije, i bi skupljen k svojemu narodu, star i sit dana; i sahraniše ⟨את⟩ njega Esav i Jaakov, sinovi njegovi.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "izdahnu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "i bi skupljen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "svojemu narodu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "star"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i sit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "i sahraniše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega (Esava i Jaakova — אתו upućuje na Jicaka)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "i Jaakov"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:27:20.696594016Z",
+  "model": "glm-5.3"
+}

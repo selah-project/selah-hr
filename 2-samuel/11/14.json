@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I bijaše ujutro, te David napisa pismo Joabu i posla ⟨את⟩ rukom Urije.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "napisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pismo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joabu ⟨prema⟩"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukom"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urije"
+    }
+  ],
+  "timestamp": "2026-10-04T17:42:29.348080086Z",
+  "model": "glm-5.3"
+}

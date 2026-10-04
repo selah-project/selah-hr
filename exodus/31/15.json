@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 31,
+  "translation": "Šest dana neka se radi posao, a sedmoga dana Šabat potpunog počinka, svetost Jahvi; svaki koji radi posao na dan Šabata smrću će umrijeti.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "neka se radi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a sedmoga dana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "potpunog počinka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaki"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "koji radi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "posao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Šabata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrću"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "će umrijeti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:41:22.470997054Z",
+  "model": "glm-5.3"
+}

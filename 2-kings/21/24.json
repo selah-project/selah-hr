@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "I udario je narod zemlje ⟨את⟩ sve urotnike protiv kralja Amona, a narod zemlje postavio je za kralja ⟨את⟩ Jošijahu, sina njegova, mjesto njega.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udario je"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sve urotnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "urotnike"
+    },
+    {
+      "surface": "על",
+      "gloss": "protiv"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "a postavio je za kralja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošijahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sina njegova"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mjesto njega"
+    }
+  ],
+  "timestamp": "2026-10-04T18:02:48.636744559Z",
+  "model": "glm-5.3"
+}

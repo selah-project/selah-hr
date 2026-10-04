@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "translation": "I dovede Josip ⟨את⟩ Jaakova, oca svojega, i postavi ga pred faraona; i blagoslovi Jaakov ⟨את⟩ faraona.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i dovede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova, oca svojega"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oca svojega"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "i postavi ga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "i blagoslovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-10-04T16:31:39.253453513Z",
+  "model": "glm-5.3"
+}

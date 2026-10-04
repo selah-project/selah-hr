@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I stavi ⟨את⟩ turban na njegovu glavu, i stavi na turban, nasuprot njegovu licu, ⟨את⟩ zlatnu pločicu, sveti vijenac posvete, kako zapovjedi Jahve ⟨את⟩ Mošeu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovu glavu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i stavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "njegovim licem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatnu pločicu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pločicu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatnu"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "vijenac"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sveti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošea"
+    }
+  ],
+  "timestamp": "2026-10-04T16:46:47.449228846Z",
+  "model": "glm-5.3"
+}

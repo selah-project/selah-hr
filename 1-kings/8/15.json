@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "I reče: Blagoslovljen Jahve, Elohim Jisraelov, koji usta svojima govoraše ⟨את⟩ Davidu, ocu mojemu, i rukom svojom ispuni ⟨to⟩, govoreći:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govoraše"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "usta svojima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidu, ocu mojemu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ocu mojemu"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "i rukom svojom"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ispuni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    }
+  ],
+  "timestamp": "2026-10-04T17:50:55.934449847Z",
+  "model": "glm-5.3"
+}

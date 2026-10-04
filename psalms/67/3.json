@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 67,
+  "translation": "Da se na zemlji upozna tvoj put, među svim narodima tvoje spasenje.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "da se upozna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvoj put"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "među svim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodima"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tvoje spasenje"
+    }
+  ],
+  "timestamp": "2026-10-04T19:10:54.222526326Z",
+  "model": "glm-5.3"
+}

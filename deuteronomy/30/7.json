@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "I Jahve, Elohim tvoj, navest će ⟨את⟩ sva ova prokletstva na neprijatelje tvoje i na one koji te mrze, koji su te gonili.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "i navest će"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sva ova prokletstva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "prokletstva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ova"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "neprijatelje tvoje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "one koji te mrze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "su te gonili"
+    }
+  ],
+  "timestamp": "2026-10-04T17:15:04.261011564Z",
+  "model": "glm-5.3"
+}

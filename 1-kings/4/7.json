@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "I Šalomu je imao dvanaest namještenika nad svim Jisraelom, i oni su uzdržavali ⟨את⟩ kralja i ⟨את⟩ dom njegov; mjesec dana u godini bijaše na jednome ⟨od njih⟩ da uzdržava.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "i Šalomu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "naest"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "namještenika"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "uzdržavali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dom njegov"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dom njegov"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mjesec dana"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednome"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "da uzdržava"
+    }
+  ],
+  "timestamp": "2026-10-04T17:47:50.998483762Z",
+  "model": "glm-5.3"
+}

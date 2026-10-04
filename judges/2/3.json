@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "Zato i rekoh: Neću ih istjerati ispred vas, nego će vam oni biti za protivnike, a bogovi njihovi bit će vam zamka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "zato i"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ću istjerati"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ih"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ispred vas"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "nego će biti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "za protivnike"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "a bogovi njihovi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "zamka"
+    }
+  ],
+  "timestamp": "2026-10-04T17:23:46.149702242Z",
+  "model": "glm-5.3"
+}

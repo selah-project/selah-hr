@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I reče kralj Jisraela: Uzmite ⟨את⟩ Mikaja i vratite ga k Amonu, knezu grada, i k Joašu, sinu kraljevu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Uzmite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaja"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaja"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "i vratite ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knezu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i k"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:10:10.401771359Z",
+  "model": "glm-5.3"
+}

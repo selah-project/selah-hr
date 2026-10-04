@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I svukoše ga, i uzeše ⟨את⟩ glavu njegovu i ⟨את⟩ oružje njegovo, i poslaše po zemlji plištejskoj unaokolo da nose vijest ⟨את⟩ kumirima njihovim i ⟨את⟩ narodu.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "i svukoše ga"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "i uzeše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu njegovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavu njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "oružje njegovo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "oružje njegovo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "i poslaše"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plištejskoj"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "unaokolo"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "da nose vijest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumirima njihovim"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "kumirima njihovim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narodu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:01:59.290587824Z",
+  "model": "glm-5.3"
+}

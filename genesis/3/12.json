@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A čovjek reče: Žena koju si stavio uza me — ona mi je dala s onoga stabla, pa sam jeo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koju"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "si stavio"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uza me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "je dala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "onoga stabla"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "pa sam jeo"
+    }
+  ],
+  "timestamp": "2026-10-04T16:17:39.560511563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 7:7",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 7,
+  "translation": "I reče Jehošua: Ah, Adonaj Jahve, zašto si preveo — prijeđenje — ⟨את⟩ ovaj narod preko ⟨את⟩ Jordana, da nas predaš u ruku Emorejaca, da nas uništiš? O da bijasmo voljni ostati s onu stranu Jordana!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "העברת",
+      "gloss": "preveo si"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "prijeđenje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ovaj narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da predaš"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nas",
+      "marks": "nas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejaca"
+    },
+    {
+      "surface": "להאבידנו",
+      "gloss": "da nas uništiš"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "o da"
+    },
+    {
+      "surface": "הואלנו",
+      "gloss": "bijasmo voljni"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "i ostali"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "s onu stranu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordana"
+    }
+  ],
+  "timestamp": "2026-10-04T17:19:03.469012676Z",
+  "model": "glm-5.3"
+}

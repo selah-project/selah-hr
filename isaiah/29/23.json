@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "Jer kad vidi djecu svoju, djelo ruku svojih, usred sebe, posvetit će ime moje, i posvetit će ⟨את⟩ Svetoga Jaakovljevega, i ⟨את⟩ Elohim Jisraelov bit će im strašan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "kad vidi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "djecu svoju"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "djelo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "usred sebe"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "posvetit će"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ime moje"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "i posvetit će"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svetoga Jaakovljevega"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svetoga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovljevega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Jisraelov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "bit će im strašan"
+    }
+  ],
+  "timestamp": "2026-10-04T18:11:44.768419307Z",
+  "model": "glm-5.3"
+}

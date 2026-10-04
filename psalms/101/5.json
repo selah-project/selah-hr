@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 101,
+  "translation": "Tajanstvenog klevetnika prijatelja svojega — njega ću istrijebiti; oholih očiju i široka srca — njega neću moći ⟨podnositi⟩.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "klevetnik"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "u tajnosti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "prijatelja svojega"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "istrijebiti ću"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "oholih"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "očiju"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "i široka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "moći ću"
+    }
+  ],
+  "timestamp": "2026-10-04T19:16:28.637858616Z",
+  "model": "glm-5.3"
+}

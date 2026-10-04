@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "A kad sam posrtao, radovahu se i skupljahu se, skupiše se protiv mene udarači ⟨kojih⟩ nisam znao, razdirahu ⟨me⟩ i nisu stajali.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "kad sam posrtao"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "radovahu se"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "i skupljahu se"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "skupiše se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "udarači"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisam"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znao"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "razdirahu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "stajali"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:55.656244723Z",
+  "model": "glm-5.3"
+}

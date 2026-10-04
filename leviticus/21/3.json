@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 21,
+  "translation": "i za sestru djevicu, koja mu je bliska, koja nije bila muškarcu — za nju neka se onečisti.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "i za sestru"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "djevicu"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "koja je bliska"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muškarcu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "za nju"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "neka se onečisti"
+    }
+  ],
+  "timestamp": "2026-10-04T16:51:13.911043714Z",
+  "model": "glm-5.3"
+}

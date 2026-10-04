@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "i po jedan esron za svako janje, za četrnaest janjaca.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "i po jedan esron"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "esron"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "za janje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "svako"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "za četrnaest"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(na)est"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "janjaca"
+    }
+  ],
+  "timestamp": "2026-10-04T17:03:53.251245114Z",
+  "model": "glm-5.3"
+}

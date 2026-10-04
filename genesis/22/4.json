@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "Trećega dana podiže Avraham ⟨את⟩ svoje oči i ugleda ⟨את⟩ mjesto izdaleka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trećega"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "i podiže"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i ugleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjesto"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "izdaleka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:23:22.840209897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Ovaj mjesec vama ⟨je⟩ početak mjeseci: prvi vama od mjeseci godine.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ovaj mjesec"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Ovaj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "početak"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mjeseci"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "od mjeseci"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "godine"
+    }
+  ],
+  "timestamp": "2026-10-04T16:35:36.458384234Z",
+  "model": "glm-5.3"
+}

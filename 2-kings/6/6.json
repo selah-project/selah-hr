@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "A čovjek Elohimov reče: Gdje je palo? I on mu pokaza ⟨את⟩ mjesto. Tada on odsiječe drvo i baci ga ondje, i željezo zapliva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a reče"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "je palo"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "i pokaza mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjesto"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "odsiječe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drvo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "i baci"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "zapliva"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "željezo"
+    }
+  ],
+  "timestamp": "2026-10-04T17:57:07.499244615Z",
+  "model": "glm-5.3"
+}

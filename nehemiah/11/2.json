@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I blagoslovi narod sve ljude koji se dobrovoljno dadoše za stanovanje u Jerušalajimu.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "I blagoslovi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ljude"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "koji se dobrovoljno dadoše"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "za stanovanje"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "u Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-04T19:58:55.439805958Z",
+  "model": "glm-5.3"
+}

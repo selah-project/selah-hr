@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "i mudrost ne naučih, ni znanje svetih ⟨ne⟩ poznam.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "naučih"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ni znanje"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svetih"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "poznam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:31:33.325742413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 34,
+  "translation": "Tražio sam Jahvu i ⟨את⟩ — odgovorio mi je i izbavio me od svega čega sam se bojao.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "tražio sam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "i odgovorio mi je"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "od svega"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "čega sam se bojao"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izbavio me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:49.021527150Z",
+  "model": "glm-5.3"
+}

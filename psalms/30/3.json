@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 30,
+  "translation": "Jahve, Elohim moj, k tebi sam vapio i ti si me izliječio.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "vapio sam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "i izliječio si me"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:10.134309375Z",
+  "model": "glm-5.3"
+}

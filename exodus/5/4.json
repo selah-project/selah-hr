@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "I reče im kralj micrajski: Zašto, Moše i Aharon, odvraćate ⟨את⟩ narod od poslova njegovih? Idite na svoje terete!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajski"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "odvraćate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "od poslova njegovih"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "na svoje terete"
+    }
+  ],
+  "timestamp": "2026-10-04T16:34:11.398883983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 135,
+  "translation": "Koji pobi narode mnoge i ubi kraljeve moćne:",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "koji pobi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoge"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "i ubi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "moćne"
+    }
+  ],
+  "timestamp": "2026-10-04T19:20:02.588417125Z",
+  "model": "glm-5.3"
+}

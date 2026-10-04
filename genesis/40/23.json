@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 40,
+  "translation": "I ne sjeti se nadpodrumač ⟨את⟩ Josefa, nego ga zaboravi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sjeti se"
+    },
+    {
+      "surface": "שר",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "točilaca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "nego ga zaboravi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:28:35.179543482Z",
+  "model": "glm-5.3"
+}

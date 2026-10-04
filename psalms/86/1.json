@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 86,
+  "translation": "Molitva Davidova. Prigni uho svoje, Jahve, i odgovori mi, jer sam tlačen i siromašan ja.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Molitva"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Prigni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uho svoje"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tlačen"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "i siromašan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:14:48.820962859Z",
+  "model": "glm-5.3"
+}

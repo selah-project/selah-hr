@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Jer reče: Zar moji knezovi nisu svi zajedno kraljevi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Zar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "moji knezovi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zajedno"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljevi"
+    }
+  ],
+  "timestamp": "2026-10-04T18:06:57.414242890Z",
+  "model": "glm-5.3"
+}

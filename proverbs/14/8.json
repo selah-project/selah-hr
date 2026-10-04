@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "hr",
+  "chapter": 14,
+  "translation": "Mudrost je lukavoga da razumije svoj put, a ludost je luđaka prijevara.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "mudrost"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "lukavoga"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razumije"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svoj put"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "a ludost"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prijevara"
+    }
+  ],
+  "timestamp": "2026-10-04T19:24:48.768951574Z",
+  "model": "glm-5.3"
+}

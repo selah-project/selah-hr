@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "I podiže Jahve protivnika Šalomu: ⟨את⟩ Hadada Edomca, od kraljevska sjemena — on bijaše u Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "protivnika"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadada Edomca"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomca"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "od sjemena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "u Edomu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:51:58.607018895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "Svakoga tko bude nađen, probost će; i svaki koji im se pridruži, past će od mača.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tko bude nađen"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "probost će"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svaki"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "koji je pridružen"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "past će"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "od mača"
+    }
+  ],
+  "timestamp": "2026-10-04T18:07:17.617537666Z",
+  "model": "glm-5.3"
+}

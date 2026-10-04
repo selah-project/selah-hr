@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 29,
+  "translation": "I ne s vama jedino — ja sklapam ⟨את⟩ ovaj savez i ⟨את⟩ ovu kletvu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "s ⟨את⟩ vama"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "jedino"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sklapam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovaj savez"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "savez"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "ovu kletvu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kletvu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-10-04T17:14:39.961227858Z",
+  "model": "glm-5.3"
+}

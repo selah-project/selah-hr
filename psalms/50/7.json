@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "translation": "Slušaj, narode moj, i govorit ću, Jisraele, i svjedočit ću protiv tebe: Elohim, Elohim tvoj, ja sam.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "slušaj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "narode moj"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "i govorit ću"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "i svjedočit ću"
+    },
+    {
+      "surface": "בך",
+      "gloss": "protiv tebe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja sam"
+    }
+  ],
+  "timestamp": "2026-10-04T20:28:17.555945849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 103,
+  "translation": "Koliko je istok daleko od zapada, toliko je udaljio od nas ⟨את⟩ prijestupe naše.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "koliko je daleko"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "istok"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "od zapada"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "udaljio je"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prijestupe naše"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "prijestupe naše"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:49.978721958Z",
+  "model": "glm-5.3"
+}

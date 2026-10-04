@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "Napor luđaka izmorí njih: ne znaju ići u grad.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "napor"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "luđaka"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "izmorí njih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znaju"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ići"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "grad"
+    }
+  ],
+  "timestamp": "2026-10-04T19:45:17.229885673Z",
+  "model": "glm-5.3"
+}

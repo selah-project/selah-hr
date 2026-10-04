@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Zaklela sam vas ⟨את⟩, kćeri Jerušalajimske: ne budite ljubavi, niti je probuđujte, dok njoj ne bude volja!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Zaklela sam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kćeri Jerušalajimske"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kćeri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajimske"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zašto"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "budite"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "niti"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "probuđujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljubavi"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ljubavi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "njoj ne bude volja"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:53.144516188Z",
+  "model": "glm-5.3"
+}

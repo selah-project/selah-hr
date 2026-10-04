@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 11,
+  "translation": "A poslije nje uze ⟨את⟩ Maaku, kćer Avšalomovu, i rodi mu ⟨את⟩ Aviju i ⟨את⟩ Ataja i ⟨את⟩ Zizu i ⟨את⟩ Šelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "poslije nje"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaku"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomovu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviju"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ataja"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Ataja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Zizu"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Zizu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Šelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Šelomit"
+    }
+  ],
+  "timestamp": "2026-10-04T20:08:36.796620559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "hr",
+  "chapter": 12,
+  "translation": "Jahve posla ⟨את⟩ Natana k Davidu, i on dođe k njemu i reče mu: Dva čovjeka bijahu u jednome gradu, jedan bogat, a jedan siromašan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "posla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "u gradu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednome"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogat"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jedan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "siromašan"
+    }
+  ],
+  "timestamp": "2026-10-04T20:21:32.635770239Z",
+  "model": "glm-5.3"
+}

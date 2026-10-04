@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 18,
+  "translation": "I uze Jitro, tast Mošev, ⟨את⟩ Ciporu, ženu Moševu, pošto bijaše otpremi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tast"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporu"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moševu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pošto"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "bijaše otpremi"
+    }
+  ],
+  "timestamp": "2026-10-04T16:37:54.861883927Z",
+  "model": "glm-5.3"
+}

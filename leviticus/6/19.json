@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "Svećenik koji je prinosi za grijeh ⟨את⟩ neka je jede; na svetome mjestu neka se jede, u dvorištu šatora sastanka.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Svećenik"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "koji prinosi za grijeh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "je (žrtva za grijeh)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "neka je jede"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mjestu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetome"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "neka se jede"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "u dvorištu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šatora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sastanka"
+    }
+  ],
+  "timestamp": "2026-10-04T16:45:34.925979287Z",
+  "model": "glm-5.3"
+}

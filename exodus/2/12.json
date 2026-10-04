@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "I obazre se amo i tamo, i vidje da nema čovjeka, pa udari ⟨את⟩ Micrajca i sakri ga u pijesak.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "i obazre se"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "i tamo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i vidje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "pa udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajca"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Micrajca"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "i sakri ga"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "u pijesak"
+    }
+  ],
+  "timestamp": "2026-10-04T16:32:23.959285706Z",
+  "model": "glm-5.3"
+}

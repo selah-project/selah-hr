@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 94,
+  "translation": "Onaj koji je zasadío uho — zar neće čuti? Onaj koji je oblikovao ⟨את⟩ oko — zar neće gledati?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "onaj koji je zasadío"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "će čuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "onaj koji"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "oblikovao"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zar ne"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "će gledati"
+    }
+  ],
+  "timestamp": "2026-10-04T19:15:05.478758849Z",
+  "model": "glm-5.3"
+}

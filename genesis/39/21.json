@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 39,
+  "translation": "I bijaše Jahve ⟨את⟩ Jošefom, i iskaza ⟨mu⟩ hesed, i dade mu naklonost u očima zapovjednika tamnice.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošefom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jošefom"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i iskaza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "prema njemu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "naklonost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "שר",
+      "gloss": "zapovjednika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tamnice"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tamnice"
+    }
+  ],
+  "timestamp": "2026-10-04T16:29:10.140142124Z",
+  "model": "glm-5.3"
+}

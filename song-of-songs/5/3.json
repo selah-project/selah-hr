@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "hr",
+  "chapter": 5,
+  "translation": "Svukoh ⟨את⟩ svoju košulju, kako da je obučem? Oprah ⟨את⟩ svoje noge, kako da ih uprljam?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "svukoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoju košulju"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "svoju košulju"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "da je obučem"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "oprah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje noge"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "svoje noge"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "da ih uprljam"
+    }
+  ],
+  "timestamp": "2026-10-04T19:41:16.477930119Z",
+  "model": "glm-5.3"
+}

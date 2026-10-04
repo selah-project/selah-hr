@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 78,
+  "translation": "I povede ih sigurno, te se ne bojaše, a more prekri ⟨את⟩ neprijatelje njihove.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "i povede ih sigurno"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sigurno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te se ne"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "bojaše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neprijatelje njihove"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "neprijatelje njihove"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "prekri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "more"
+    }
+  ],
+  "timestamp": "2026-10-04T19:13:12.396595752Z",
+  "model": "glm-5.3"
+}

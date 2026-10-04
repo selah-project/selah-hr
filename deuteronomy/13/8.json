@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "od bogova naroda koji su oko vas, blizu vas ili daleko od vas, s jednoga kraja zemlje do drugoga kraja zemlje —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "od bogova"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "oko vas"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "blizu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vam"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "daleko"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od vas"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "s kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T17:11:27.186702046Z",
+  "model": "glm-5.3"
+}

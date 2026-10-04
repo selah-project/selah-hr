@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "Ne uzima se u zalog žrvanj ni gornji kamen, jer time se u zalog uzima ⟨nesušivo⟩ život.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "uzima se u zalog"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "žrvanj"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ni gornji kamen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "time se"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "uzima u zalog"
+    }
+  ],
+  "timestamp": "2026-10-04T17:13:22.477548119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 27,
+  "translation": "Ako se utabori protiv mene tabor, srce se moje neće bojati; ako ustane protiv mene rat, u ovom ću ja uzdati se.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "se utabori"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "će se bojati"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ustane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "protiv mene"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rat"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "u ovom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "uzdati se"
+    }
+  ],
+  "timestamp": "2026-10-04T19:06:29.184087454Z",
+  "model": "glm-5.3"
+}
