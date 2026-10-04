@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "hr",
   "chapter": 12,
-  "translation": "Zaista, vi ste ⟨the⟩ narod, i s vama će umrijeti mudrost!",
+  "translation": "Zaista, vi ste ⟨narod⟩, i s vama će ⟨חכמה⟩ umrijeti mudrost.",
   "tokens": [
     {
       "surface": "אמנם",
-      "gloss": "zaista"
+      "gloss": "Zaista"
     },
     {
       "surface": "כי",
-      "gloss": "⟨jer⟩"
+      "gloss": ""
     },
     {
       "surface": "אתם",
-      "gloss": "vi"
+      "gloss": "vi ste"
     },
     {
       "surface": "עם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועמכם",
-      "gloss": "i s vama"
+      "gloss": "s vama"
     },
     {
       "surface": "תמות",
@@ -36,6 +36,6 @@
       "gloss": "mudrost"
     }
   ],
-  "timestamp": "2026-10-04T19:34:15.005299182Z",
+  "timestamp": "2026-10-04T20:45:24.283712797Z",
   "model": "glm-5.3"
 }

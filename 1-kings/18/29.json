@@ -5,8 +5,61 @@
   "book": "1-kings",
   "lang": "hr",
   "chapter": 18,
-  "translation": "I bijaše, pošto prijeđe podne, da su prorokovali sve do podizanjajerne ⟨minhe⟩ — a ni glasa, ni odgovora, ni osluškivanja.",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:54:54.746843275Z",
+  "translation": "I bijaše, pošto prijeđe podne, da su prorokovali sve do podizanja večernje ⟨את⟩ minhe — a nema glasa, nema odaziva i nema osluškivanja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "pošto prijeđe"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "podne"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "da su prorokovali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sve do"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "podizanja"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nema"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nema"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "odaziva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i nema"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "osluškivanja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:22.394178028Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I izgradi Šelomo ⟨את⟩ kuću i dovrši je.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i izgradi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuću"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kuću"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "i dovrši je"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:35.819783026Z",
+  "model": "glm-5.3"
+}

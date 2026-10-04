@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hr",
   "chapter": 16,
-  "translation": "I bi mu malo <הנקל> — posla u grijesima Jarobama, sina Nevatova — pa uze za ženu ⟨את⟩ Izabel, kćer Etbaala, kralja Cidonaca, te ode i služaše ⟨את⟩ Baala i klanjaše se njemu.",
+  "translation": "I bi ⟨kao da je⟩ laka stvar za njega ići u grijesima Jarobeama sina Nevatova, pa uzme ženu, ⟨את⟩ Izevel, kćer Etbaala, kralja Sidonaca, i ode i služaše ⟨את⟩ Baalu i pokloni mu se.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הנקל",
-      "gloss": "malomu"
+      "gloss": "laka stvar"
     },
     {
       "surface": "לכתו",
-      "gloss": "poslati njegov"
+      "gloss": "za njega ići"
     },
     {
       "surface": "בחטאות",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jarobama"
+      "gloss": "Jarobeam"
     },
     {
       "surface": "בן",
-      "gloss": "sina"
+      "gloss": "sin"
     },
     {
       "surface": "נבט",
-      "gloss": "Nevatova"
+      "gloss": "Nevat"
     },
     {
       "surface": "ויקח",
-      "gloss": "i uze"
+      "gloss": "pa uzme"
     },
     {
       "surface": "אשה",
-      "gloss": "za ženu"
+      "gloss": "ženu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Izabel"
+      "marks": "Izevel"
     },
     {
       "surface": "איזבל",
-      "gloss": "Izabel"
+      "gloss": "Izevel"
     },
     {
       "surface": "בת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "צידנים",
-      "gloss": "Cidonaca"
+      "gloss": "Sidonaca"
     },
     {
       "surface": "וילך",
@@ -79,21 +79,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Baala"
+      "marks": "Baalu"
     },
     {
       "surface": "הבעל",
-      "gloss": "Baala"
+      "gloss": "Baalu"
     },
     {
       "surface": "וישתחו",
-      "gloss": "i klanjaše se"
+      "gloss": "i pokloni se"
     },
     {
       "surface": "לו",
-      "gloss": "njemu"
+      "gloss": "mu"
     }
   ],
-  "timestamp": "2026-10-04T17:53:52.655640415Z",
+  "timestamp": "2026-10-04T20:44:20.249097506Z",
   "model": "glm-5.3"
 }

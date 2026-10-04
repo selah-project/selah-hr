@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "A Avraham ostarje, došao u dane, i Jahve blagoslovi ⟨את⟩ Avrahama u svemu.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "A Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ostarje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "došao"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "u dane"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svemu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:22.813456816Z",
+  "model": "glm-5.3"
+}

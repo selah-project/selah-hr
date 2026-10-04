@@ -5,8 +5,49 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 20,
-  "translation": "I sta­ne J哆sha�פat… ",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:10:40.234102643Z",
+  "translation": "I stade Jehošafat u zboru Jude i Jerušalajima, u domu Jahve, pred novim dvorištem.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i stade"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "u zboru"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "i Jerušalajima"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorištem"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "novim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:55.979735945Z",
   "model": "glm-5.3"
 }

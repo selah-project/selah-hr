@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "I Samuel reče narodu ⟨את⟩ pravo kraljevstva, i zapisa u knjigu, i položi pred Jahvom; i Samuel otpusti ⟨את⟩ sav narod, svakoga k svojoj kući.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "narodu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pravo kraljevstva"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljevstva"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "i zapisa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "u knjigu"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "i položi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i otpusti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav narod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "svakoga"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "k svojoj kući"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:54.668924486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Psalam Davidov, za spomen.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "za spomen"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:35.333166862Z",
+  "model": "glm-5.3"
+}

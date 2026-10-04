@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "A drugome dade ⟨את⟩ ime Efrajim, jer — reče — Elohim me je učinio plodnim u zemlji nevolje moje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ime drugome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugome"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dade ime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "učinio me je plodnim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nevolje moje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:23.544176304Z",
+  "model": "glm-5.3"
+}

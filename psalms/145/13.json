@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Tvoje kraljevstvo ⟨je⟩ kraljevstvo svih vjekova, i tvoja vladavina ⟨traje⟩ kroz sve naraštaje i naraštaje.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Tvoje kraljevstvo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "vjekova"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "i tvoja vladavina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kroz sve"
+    },
+    {
+      "surface": "דור",
+      "gloss": "naraštaje"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "i naraštaje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:32.827700139Z",
+  "model": "glm-5.3"
+}

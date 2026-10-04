@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 4,
-  "translation": "I načini deset umivaonika, i postavi pet s desne strane i pet s lijeve, da se u njima pere <את> djelo žrtve paljenice; u njima su ispirali. A More bijaše za pranje svećenicima u njemu.",
+  "translation": "I načini deset umivaonika, i postavi pet s desne i pet s lijeve, da se u njimapere ⟨את⟩ djelo žrtve paljenice — ispirali su ⟨את⟩ djelo žrtve paljenice u njima; a More bijaše za pranje svećenicima u njemu.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כיורים",
-      "gloss": "umivaonika"
+      "gloss": "umivaonike"
     },
     {
       "surface": "עשרה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מימין",
-      "gloss": "s desne strane"
+      "gloss": "s desne"
     },
     {
       "surface": "וחמשה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לרחצה",
-      "gloss": "da se pere"
+      "gloss": "da sepere"
     },
     {
       "surface": "בהם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩",
       "marks": "djelo žrtve paljenice"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ידיחו",
-      "gloss": "ispirali"
+      "gloss": "ispirali su"
     },
     {
       "surface": "בם",
@@ -85,6 +85,6 @@
       "gloss": "u njemu"
     }
   ],
-  "timestamp": "2026-10-04T20:07:06.454790511Z",
+  "timestamp": "2026-10-04T20:46:21.003272482Z",
   "model": "glm-5.3"
 }

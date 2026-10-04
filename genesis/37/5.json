@@ -5,8 +5,46 @@
   "book": "genesis",
   "lang": "hr",
   "chapter": 37,
-  "translation": "Josan. —\n\n(\"Oops — restart.\")",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:16:25.910359826Z",
+  "translation": "I Josef sanja san te je pripovjedi svojoj braći, a oni ga još više zamrziše.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "sanja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "te je pripovjedi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "svojoj braći"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "a oni dodaše"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "još"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "zamrziše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:24.453053109Z",
   "model": "glm-5.3"
 }

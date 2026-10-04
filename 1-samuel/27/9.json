@@ -5,8 +5,82 @@
   "book": "1-samuel",
   "lang": "hr",
   "chapter": 27,
-  "translation": "I David udari ⟨את⟩ zemlju, ne ostavi živa ni čovjeka ni ženu, i uze ovce i goveda i magarce i deve i haljine, pa se vrati i dođe AkAVišu.",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:38:24.206748121Z",
+  "translation": "I udari David ⟨את⟩ zemlje, i ne ostavi živa ni čovjeka ni ženu; i uze sitnu stoku, i goveda, i magarce, i deve, i haljine, pa se vrati i dođe Akišu.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemlje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ostavi živa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "čovjeka"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ni ženu"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "i uze"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sitnu stoku"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "magarce"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "deve"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "haljine"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pa se vrati"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i dođe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akišu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:16.842357590Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,65 @@
   "book": "jeremiah",
   "lang": "hr",
   "chapter": 51,
-  "translation": "Jer Jisrael nijedna udovica, ni Jehuda od svoga Elohima, od Jahve Ceavot, jer njihova zemlja napunjena je krivnjom protiv Svetoga Jisraelova.",
-  "tokens": [],
-  "timestamp": "2026-10-04T18:35:10.467652993Z",
+  "translation": "Jer nije ostavljena kao udovica Jisrael ni Juhda ⟨od⟩ svoga Elohima, ⟨od⟩ Jahve Cebaot; ali im je zemlja bila puna krivnje ⟨pred⟩ Svetim Jisraelovim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nije"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "ostavljena kao udovica"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ni Juhda"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "⟨od⟩ svoga Elohima"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "⟨od⟩ Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "im je zemlja"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "bila puna"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "krivnje"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "⟨pred⟩ Svetim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:53.491812426Z",
   "model": "glm-5.3"
 }

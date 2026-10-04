@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 16,
-  "translation": "I otvori zemlja ⟨את⟩ svoja usta i прогутa ⟨את⟩ njih i ⟨את⟩ njihove kuće i ⟨את⟩ sve ljude koji bijahu Korahovi, i ⟨את⟩ svu imovinu.",
+  "translation": "i otvori se zemlja ⟨את⟩ svoja usta te ⟨את⟩ ih proguta, i ⟨את⟩ njihove kuće, i ⟨את⟩ sve ljude koji bijahu Korahovi, i ⟨את⟩ svu imovinu.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "i otvori"
+      "gloss": "i otvori se"
     },
     {
       "surface": "הארץ",
@@ -25,12 +25,12 @@
       "gloss": "svoja usta"
     },
     {
-      "surface": "ותבלע",
-      "gloss": "i прогутa"
+      "surface": "וַתִּבְלַע",
+      "gloss": "te proguta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ njih"
+      "gloss": "⟨את⟩ ih"
     },
     {
       "surface": "ואת",
@@ -76,6 +76,6 @@
       "gloss": "imovinu"
     }
   ],
-  "timestamp": "2026-10-04T17:00:44.457038440Z",
+  "timestamp": "2026-10-04T20:43:44.364556902Z",
   "model": "glm-5.3"
 }

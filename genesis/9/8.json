@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 9,
+  "translation": "I reče Elohim Noahu i njegovim sinovima s ⟨את⟩ njim ⟨govoreći⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Noahu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovim sinovima"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨govoreći⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:16.340107788Z",
+  "model": "glm-5.3"
+}

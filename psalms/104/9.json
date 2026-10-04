@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 104,
-  "translation": "Među ⟨את⟩ granjem daju glas; ptice neba stanuju nad njima.",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:15:49.109344113Z",
+  "translation": "Mecu si stavio ⟨da⟩ je ne pređu, ⟨da⟩ se ne vrate pokriti ⟨את⟩ zemlju.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "mecu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "si stavio"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "pređu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "vrate se"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "pokriti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlju"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:29.619084698Z",
   "model": "glm-5.3"
 }

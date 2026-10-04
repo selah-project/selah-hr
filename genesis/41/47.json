@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hr",
   "chapter": 41,
-  "translation": "I zemlja rodi u sedam godina obilja punim יhandama.",
+  "translation": "I zemlja rodi u sedam godina obilja <span dir=\"rtl\">לִקְמָצִֽים<\/span> <span dir=\"rtl\">לִקְמָצִֽים<\/span> za žetve.",
   "tokens": [
     {
       "surface": "ותעש",
-      "gloss": "rodi"
+      "gloss": "i rodi"
     },
     {
       "surface": "הארץ",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "לקמצים",
-      "gloss": "punim šakama"
+      "gloss": "u žetve (šake)"
     }
   ],
-  "timestamp": "2026-10-04T16:30:02.313418057Z",
+  "timestamp": "2026-10-04T20:46:27.626527078Z",
   "model": "glm-5.3"
 }

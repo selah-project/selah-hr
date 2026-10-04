@@ -5,8 +5,81 @@
   "book": "deuteronomy",
   "lang": "hr",
   "chapter": 17,
-  "translation": "Ne kolji za žrtvu Jahvi, Elohimu svome, vola ni janjeta u kojemu je mana, bilo koja zao <odst>stvar<\/odst> — jer je odvratnost Jahvi, Elohimu tvome.",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:12:43.127171175Z",
+  "translation": "Ne kolji za žrtvu Jahvi, Elohimu svojemu, vola ni janjeta u kojemu bude mana, išta zlo, jer je to odvratnost Jahvi, Elohimu svojemu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kolji za žrtvu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svojemu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ni janjeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u kojemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u njemu"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "išta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "odvratnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu svojemu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:42.804741641Z",
   "model": "glm-5.3"
 }

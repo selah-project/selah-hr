@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 6,
+  "translation": "I nastavit ću boraviti usred sinova Jisraelovih, i neću napustiti ⟨את⟩ svoj narod Jisrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "i nastavit ću boraviti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neću"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "napustiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj narod Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svoj narod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:35.819524453Z",
+  "model": "glm-5.3"
+}

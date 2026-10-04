@@ -5,8 +5,50 @@
   "book": "deuteronomy",
   "lang": "hr",
   "chapter": 12,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:10:49.012677822Z",
+  "translation": "Čuvaj se ⟨da ne⟩ napustiš ⟨את⟩ levita sve dane svoje na svojoj zemlji.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "čuvaj se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "napustiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levita"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dane svoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "svojoj zemlji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:46.191834099Z",
   "model": "glm-5.3"
 }

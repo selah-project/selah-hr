@@ -5,8 +5,67 @@
   "book": "ezekiel",
   "lang": "hr",
   "chapter": 21,
-  "translation": "I dade se ⟨da bude⟩ naостр(o) — isitnjena — da se zgrči u šaci; ona je izoštren mač i ona je istoglačan, da se preda u ruku ubojice.",
-  "tokens": [],
-  "timestamp": "2026-10-04T18:41:38.951943055Z",
+  "translation": "I dade ⟨את⟩ nju da se naoštri, da se zagrne rukom — ona je nabrušena, mač, i ona je istačkana — da se preda u ruku onoga koji ubija.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i dade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nju (mač)"
+    },
+    {
+      "surface": "למרטה",
+      "gloss": "da se istače"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "da se zagrne"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "u dlan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "nabrušena"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mač"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "i ona"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "istačkana"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da se preda"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "u ruku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "u ruku"
+    },
+    {
+      "surface": "הורג",
+      "gloss": "onoga koji ubija"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:52.233124292Z",
   "model": "glm-5.3"
 }

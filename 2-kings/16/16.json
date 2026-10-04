@@ -5,8 +5,41 @@
   "book": "2-kings",
   "lang": "hr",
   "chapter": 16,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T18:01:50.433975205Z",
+  "translation": "I učini Urija svećenik sve ono što zapovjedi kralj Ahaz.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:45.503735163Z",
   "model": "glm-5.3"
 }

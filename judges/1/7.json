@@ -5,8 +5,101 @@
   "book": "judges",
   "lang": "hr",
   "chapter": 1,
-  "translation": "—",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:23:04.628933589Z",
+  "translation": "I reče Adoni-Bezek: \"Sedamdeset kraljeva, s palčevima ruku i nogu svojih odsječenima, skupljahu ⟨mrvicu⟩ pod stolom mojim; kao što sam učinio, tako mi je Elohim uzvratio.\" I dovedoše ga u Jerušalajim, i umrije ondje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedamdeset"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljeva"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "s palčevima"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "rukā svojih"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "i nogu svojih"
+    },
+    {
+      "surface": "מקצצים",
+      "gloss": "odsječenima"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bijahu"
+    },
+    {
+      "surface": "מלקטים",
+      "gloss": "skupljahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "stolom mojim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kao što"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sam učinio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "uzvratio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "i dovedoše ga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:36.028443359Z",
   "model": "glm-5.3"
 }

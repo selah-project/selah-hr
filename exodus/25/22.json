@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hr",
   "chapter": 25,
-  "translation": "I sastat ću se тама s tobom, i govorit ću s tobom s Pomirilišta, između dva keruba koji su na Kovčegu Svjedočanstva, o svemu što ću ti zapovjediti ⟨את⟩ za sinove Jisraelove.",
+  "translation": "I ondje ću se sastati s tobom, i govorit ću s tobom s ⟨את⟩ pomagalice, između dva keruba koja su na Kovčegu svjedočanstva — ⟨את⟩ sve što ću ti zapovjediti za sinove Jisraelove.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "sastat ću se"
+      "gloss": "i sastat ću se"
     },
     {
       "surface": "לך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "tamo"
+      "gloss": "ondje"
     },
     {
       "surface": "ודברתי",
-      "gloss": "govorit ću"
+      "gloss": "i govorit ću"
     },
     {
       "surface": "אתך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "s Pomirilišta"
+      "gloss": "s"
     },
     {
       "surface": "הכפרת",
-      "gloss": "Pomirilišta"
+      "gloss": "pomagalice"
     },
     {
       "surface": "מבין",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "koji"
+      "gloss": "koja"
     },
     {
       "surface": "על",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "Svjedočanstva"
+      "gloss": "svjedočanstva"
     },
     {
       "surface": "את",
@@ -82,7 +82,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tebi"
+      "gloss": "⟨את⟩ tebi",
+      "marks": "za sinove Jisraelove"
     },
     {
       "surface": "אל",
@@ -97,6 +98,6 @@
       "gloss": "Jisraelove"
     }
   ],
-  "timestamp": "2026-10-04T16:39:55.349235639Z",
+  "timestamp": "2026-10-04T20:43:11.380990718Z",
   "model": "glm-5.3"
 }

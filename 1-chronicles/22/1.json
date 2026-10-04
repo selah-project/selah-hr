@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I reče David: Ovo je dom Jahve, Elohim, i ovo ⟨je⟩ žrtvenik za paljenicu za Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "i ovo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "žrtvenik"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za paljenicu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "za Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:07.456771162Z",
+  "model": "glm-5.3"
+}

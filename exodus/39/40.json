@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hr",
   "chapter": 39,
-  "translation": "⟨את⟩ zastore dvorišta, ⟨את]] njegove stupove i ⟨את⟩ njegove podnožja, i ⟨את⟩ zavjesu za vrata dvorišta, ⟨את⟩ njegova konopce i ⟨את⟩ njegove kolce, i ⟨את]] sav pribor službe Miškana — za šator sastanka.",
+  "translation": "⟨את⟩ zastore dvorišta, ⟨את⟩ stupove njegove i ⟨את⟩ podnožja njegova, i ⟨את⟩ zavjesu za vrata dvorišta, ⟨את⟩ užeta njegova i kolčiće njegove, i ⟨את⟩ sve potrepštine službe Miškana, za šator sastanka.",
   "tokens": [
     {
       "surface": "את",
@@ -14,7 +14,7 @@
     },
     {
       "surface": "קלעי",
-      "gloss": "zastori"
+      "gloss": "zastore"
     },
     {
       "surface": "החצר",
@@ -23,29 +23,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njegove stupove"
+      "marks": "stupove njegove"
     },
     {
       "surface": "עמדיה",
-      "gloss": "njegove stupove"
+      "gloss": "stupove njegove"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "njegove podnožja"
+      "marks": "podnožja njegova"
     },
     {
       "surface": "אדניה",
-      "gloss": "njegove podnožja"
+      "gloss": "podnožja njegova"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "zavjesu za vrata dvorišta"
+      "marks": "zavjesu"
     },
     {
       "surface": "המסך",
-      "gloss": "zavjesa"
+      "gloss": "zavjesu"
     },
     {
       "surface": "לשער",
@@ -58,28 +58,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njegova konopce"
+      "marks": "užeta njegova"
     },
     {
       "surface": "מיתריו",
-      "gloss": "njegova konopce"
+      "gloss": "užeta njegova"
     },
     {
       "surface": "ויתדתיה",
-      "gloss": "i njegove kolce"
+      "gloss": "i kolčiće njegove"
     },
     {
       "surface": "ואת",
       "gloss": "i ⟨את⟩",
-      "marks": "sav pribor službe Miškana"
+      "marks": "sve potrepštine"
     },
     {
       "surface": "כל",
-      "gloss": "sav"
+      "gloss": "sve"
     },
     {
       "surface": "כלי",
-      "gloss": "pribor"
+      "gloss": "potrepštine"
     },
     {
       "surface": "עבדת",
@@ -98,6 +98,6 @@
       "gloss": "sastanka"
     }
   ],
-  "timestamp": "2026-10-04T16:44:36.519543904Z",
+  "timestamp": "2026-10-04T20:43:09.302770504Z",
   "model": "glm-5.3"
 }

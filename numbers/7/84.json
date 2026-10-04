@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 7,
-  "translation": "To je posvećenje žrtvenika u dan njegova pomazanja, od strane knezova Jisraelovih: dvanaest srebrnih zdjela, dvanaest srebrnih čaša za škropljenje, dvanaest zlatnih kašika.",
+  "translation": "Ovo bijaše posvećenje žrtvenika u dan kad je bio pomazan, ⟨את⟩ njega, od strane ⟨את⟩-a knezova Jisraelovih: dvanaest srebrnih zdjela, dvanaest srebrnih kropilica, dvanaest zlatnih tanjurića.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "To"
+      "gloss": "Ovo"
     },
     {
       "surface": "חנכת",
-      "gloss": "je posvećenje"
+      "gloss": "posvećenje"
     },
     {
       "surface": "המזבח",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "המשח",
-      "gloss": "njegova pomazanja"
+      "gloss": "kad je bio pomazan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "ga"
+      "gloss": "⟨את⟩ njega",
+      "marks": "žrtvenik"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ od strane",
+      "gloss": "⟨את⟩ od",
       "marks": "knezova Jisraelovih"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "surface": "מזרקי",
-      "gloss": "čaša za škropljenje"
+      "gloss": "kropilica"
     },
     {
       "surface": "כסף",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "כפות",
-      "gloss": "kašika"
+      "gloss": "tanjurića"
     },
     {
       "surface": "זהב",
@@ -94,6 +94,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-10-04T16:57:24.078975169Z",
+  "timestamp": "2026-10-04T20:43:36.986873740Z",
   "model": "glm-5.3"
 }

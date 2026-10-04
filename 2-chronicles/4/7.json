@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 4,
-  "translation": "I načini <את> svijećnjake zlatnih deset po pravilu njihovu, i postavi u Hekal pet s desne strane i pet s lijeve.",
+  "translation": "I načini ⟨את⟩ svjetiljke zlatne, deset, po pravilu njihovu, i postavi u Hekal, pet s desne i pet s lijeve.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
-      "marks": "svijećnjake zlatnih"
+      "gloss": "⟨את⟩",
+      "marks": "svjetiljke zlatne"
     },
     {
       "surface": "מנרות",
-      "gloss": "svijećnjake"
+      "gloss": "svjetiljke"
     },
     {
       "surface": "הזהב",
-      "gloss": "zlatnih"
+      "gloss": "zlatne"
     },
     {
       "surface": "עשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מימין",
-      "gloss": "s desne strane"
+      "gloss": "s desne"
     },
     {
       "surface": "וחמש",
@@ -57,6 +57,6 @@
       "gloss": "s lijeve"
     }
   ],
-  "timestamp": "2026-10-04T20:07:06.455030016Z",
+  "timestamp": "2026-10-04T20:46:21.003469800Z",
   "model": "glm-5.3"
 }

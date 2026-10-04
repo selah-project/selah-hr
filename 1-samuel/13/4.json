@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "hr",
+  "chapter": 13,
+  "translation": "I sav Jisrael čuše ⟨što⟩ govoreći: Udari Šaul ⟨את⟩ posadu Filistejaca, a i Jisrael postade odvratan Filistejcima; i zazvaše narod za Šaulom u Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "i sav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čuše"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posadu Filistejaca"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posadu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejaca"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "postade odvratan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistejcima"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "i zazvaše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "u Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:36.974577391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 145,
+  "translation": "Jahve podupire sve koji padaju, i uspravlja sve koji su pognuti.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "podupire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "koji padaju"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "i uspravlja"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "koji su pognuti"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:32.828213514Z",
+  "model": "glm-5.3"
+}

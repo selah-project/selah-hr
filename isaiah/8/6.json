@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 8,
+  "translation": "Jer ovaj narod prezre ⟨את⟩ vode Šiloaha koje teku tiho, i raduje se ⟨את⟩ Recinom i sinom Remalijinim;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "jer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "prezre"
+    },
+    {
+      "surface": "העם",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vode Šiloaha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Šiloaha"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "koje teku"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "tiho"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "i raduje se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recinom"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinom"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalijinim"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:33.322177241Z",
+  "model": "glm-5.3"
+}

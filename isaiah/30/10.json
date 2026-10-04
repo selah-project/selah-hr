@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "hr",
   "chapter": 30,
-  "translation": "Koji govore vidovnjacima: Ne vidite, i gatarima: Ne gledajte nam ono što je pravo; govorite nam glatke stvari, gledajte varke.",
+  "translation": "koji govore vidjelacima: Ne vidite! i gledateljima: Ne gledajte nam iskrenoga, govore nam glatko, gledajte nam varke!",
   "tokens": [
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לראים",
-      "gloss": "vidovnjacima"
+      "gloss": "vidjelacima"
     },
     {
       "surface": "לא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ולחזים",
-      "gloss": "i gatarima"
+      "gloss": "i gledateljima"
     },
     {
       "surface": "לא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "נכחות",
-      "gloss": "što je pravo"
+      "gloss": "iskreno"
     },
     {
       "surface": "דברו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "חלקות",
-      "gloss": "glatke stvari"
+      "gloss": "glatko"
     },
     {
       "surface": "חזו",
@@ -68,6 +68,6 @@
       "gloss": "varke"
     }
   ],
-  "timestamp": "2026-10-04T18:11:33.523238469Z",
+  "timestamp": "2026-10-04T20:44:24.829030864Z",
   "model": "glm-5.3"
 }

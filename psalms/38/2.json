@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 38,
+  "translation": "Jahve, ne kori me u svojem gnjevu niti me kažnjavaj u svojem bijesu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "u svojem gnjevu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "kori me"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "niti u svojem bijesu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "kažnjavaj me"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:35.333385832Z",
+  "model": "glm-5.3"
+}

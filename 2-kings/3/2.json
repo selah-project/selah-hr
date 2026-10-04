@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "I činio je zlo u očima Jahve, samo ne kao otac njegov i majka njegova; i ukloni ⟨את⟩ stup Baala koji načini otac njegov.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "i činio je"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "kao otac njegov"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "i majka njegova"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "i ukloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stup Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stup"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "načini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otac njegov"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:29.310516514Z",
+  "model": "glm-5.3"
+}

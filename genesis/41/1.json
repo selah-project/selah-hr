@@ -5,8 +5,49 @@
   "book": "genesis",
   "lang": "hr",
   "chapter": 41,
-  "translation": "I na koncu dviju punih godina Parʾo usni: i gle, stajaše nad ⟨את⟩-rijekom.",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:16:39.867303925Z",
+  "translation": "I dogodi se na kraju dviju godina, punih dana, i Par'o sanjaše, i gle, stajaše na obali Ji'ora.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dviju godina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "punih dana"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "i Par'o"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "sanjaše"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stajaše"
+    },
+    {
+      "surface": "על",
+      "gloss": "na obali"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ji'ora"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:19.511969373Z",
   "model": "glm-5.3"
 }

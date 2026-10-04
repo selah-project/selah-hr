@@ -5,8 +5,45 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 26,
-  "translation": "To su porodice Jisaskarovove po popisanimима: šezdeset i četiri tisuće i tri stotine.",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:02:48.831133240Z",
+  "translation": "To su plemena Jisaskara po svojih popisanih: četiri i šezdeset tisuća i tri stotine.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "plemena"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisaskara"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "po svojih popisanih"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četiri"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "i šezdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisuća"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "i tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotine"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:32.125018317Z",
   "model": "glm-5.3"
 }

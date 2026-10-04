@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hr",
   "chapter": 13,
-  "translation": "A ako mu s ⟨ה⟩ prednjeg dijela lica opadne kosa na glavi, ćelav je na čelu — čist je on.",
+  "translation": "A ako mu s ⟨prednje⟩ strane lica opadne kosa s glave, ćelav je na čelu — čist je on.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מפאת",
-      "gloss": "s prednjeg dijela"
+      "gloss": "s ⟨prednje⟩ strane"
     },
     {
       "surface": "פניו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "glava njegova"
+      "gloss": "s glave njegove"
     },
     {
       "surface": "גבח",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "je"
+      "gloss": "on"
     }
   ],
-  "timestamp": "2026-10-04T16:48:18.874197129Z",
+  "timestamp": "2026-10-04T20:43:01.883390647Z",
   "model": "glm-5.3"
 }

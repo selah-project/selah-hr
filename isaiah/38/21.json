@@ -5,23 +5,28 @@
   "book": "isaiah",
   "lang": "hr",
   "chapter": 38,
-  "translation": "I reče Ješajahu: Neka uzmu ±דְּבֵלָה± — klinove smokava — i neka ih razmažu po čiru, i on će živjeti.",
+  "translation": "I reče Jišajahu: Neka uzmu ⟨את⟩ kolač smokava i neka ga razmažu po čiru, i on će živjeti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "I reče"
+      "gloss": "i reče"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Ješajahu"
+      "gloss": "Jišajahu"
     },
     {
       "surface": "ישאו",
       "gloss": "neka uzmu"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolač smokava"
+    },
+    {
       "surface": "דבלת",
-      "gloss": "klin"
+      "gloss": "kolač"
     },
     {
       "surface": "תאנים",
@@ -44,6 +49,6 @@
       "gloss": "i on će živjeti"
     }
   ],
-  "timestamp": "2026-10-04T18:12:31.139140100Z",
+  "timestamp": "2026-10-04T20:44:10.499947312Z",
   "model": "glm-5.3"
 }

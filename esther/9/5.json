@@ -5,8 +5,53 @@
   "book": "esther",
   "lang": "hr",
   "chapter": 9,
-  "translation": "I udariše Juhudi svoga neprijatelja mačem ⟨את⟩ ⟨svoga neprijatelja⟩…",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:47:25.907917041Z",
+  "translation": "I Jevreji udariše sve svoje neprijatelje udarcem mača, i pokolj, i uništenje, i učiniše onima koji su ih mrzili kako su htjeli.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "i udariše"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jevreji"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "svoje neprijatelje"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "udarcem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "i pokolj"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "i uništenje"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "i učiniše"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "onima koji su ih mrzili"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "kako su htjeli"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:28.239172845Z",
   "model": "glm-5.3"
 }

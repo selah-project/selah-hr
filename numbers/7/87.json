@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 7,
-  "translation": "Sve goveda za žrtvu paljenice: dvanaest bikova, dvanaest ovnova, dvanaest janjaca godišnjih, i njihova ⟨je⟩ minha, i dvanaest jaraca za žrtvu grijeha.",
+  "translation": "Sva goveda za paljenicu dvanaest bikova, ovnove dvanaest, janjadi od godine dana dvanaest, i njihovu minhu, i jarčevi od koza dvanaest za žrtvu za grijeh.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "sve"
+      "gloss": "sva"
     },
     {
       "surface": "הבקר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "za žrtvu paljenice"
+      "gloss": "za paljenicu"
     },
     {
       "surface": "שנים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvanaest"
     },
     {
       "surface": "פרים",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "אילם",
-      "gloss": "ovanova"
+      "gloss": "ovnove"
     },
     {
-      "surface": "šנים",
+      "surface": "שנים",
       "gloss": "dvanaest"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvanaest"
     },
     {
       "surface": "כבשים",
-      "gloss": "janjaca"
+      "gloss": "janjadi"
     },
     {
       "surface": "בני",
-      "gloss": "godišnjih"
+      "gloss": "od"
     },
     {
       "surface": "שנה",
-      "gloss": ""
+      "gloss": "godine dana"
     },
     {
       "surface": "שנים",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvanaest"
     },
     {
       "surface": "ומנחתם",
-      "gloss": "i njihova minhe"
+      "gloss": "i njihovu minhu"
     },
     {
       "surface": "ושעירי",
-      "gloss": "i jaraca"
+      "gloss": "i jarčevi"
     },
     {
       "surface": "עזים",
-      "gloss": "kozjih"
+      "gloss": "od koza"
     },
     {
       "surface": "שנים",
@@ -81,9 +81,13 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvanaest"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za žrtvu za grijeh"
     }
   ],
-  "timestamp": "2026-10-04T16:57:54.787895784Z",
+  "timestamp": "2026-10-04T20:46:28.991785014Z",
   "model": "glm-5.3"
 }

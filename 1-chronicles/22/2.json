@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "hr",
+  "chapter": 22,
+  "translation": "I zapovjedi David da se skupe ⟨את⟩ došljaci koji su u zemlji jisraelskoj, i postavi klesare da klesu klesano kamenje za gradnju doma Elohimova.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I zapovjedi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "da se skupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "došljaci"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "došljaci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "u zemlji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "jisraelskoj"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i postavi"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "klesare"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "da klesu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamenje"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "klesano"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "za gradnju"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:07.457077301Z",
+  "model": "glm-5.3"
+}

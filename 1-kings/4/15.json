@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 4,
+  "translation": "Ahimaac u Naftaliju; i on uze ⟨את⟩ Basmat, kćer Šalomonovu, za ženu.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaac"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "u Naftaliju"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kćer"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomonovu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:29.938331588Z",
+  "model": "glm-5.3"
+}

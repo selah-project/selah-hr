@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hr",
   "chapter": 4,
-  "translation": "I reče ocu svojemu: Glava moja, glava moja! A on reče sluzi: Ponesi ga majci njegovoj.",
+  "translation": "I reče ocu svome: Glava moja, glava moja! A on reče momku: Nosite ga ⟨njega⟩ majci njegovoj.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…"
     },
     {
       "surface": "אביו",
-      "gloss": "ocu svojemu"
+      "gloss": "ocu svome"
     },
     {
       "surface": "ראשי",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a reče"
+      "gloss": "a on reče"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…"
     },
     {
       "surface": "הנער",
-      "gloss": "sluzi"
+      "gloss": "momku"
     },
     {
       "surface": "שאהו",
-      "gloss": "ponesi ga"
+      "gloss": "Nosite ga"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…"
     },
     {
       "surface": "אמו",
       "gloss": "majci njegovoj"
     }
   ],
-  "timestamp": "2026-10-04T17:57:21.482551062Z",
+  "timestamp": "2026-10-04T20:44:10.241234889Z",
   "model": "glm-5.3"
 }

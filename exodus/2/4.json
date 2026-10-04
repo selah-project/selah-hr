@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 2,
+  "translation": "A sestra njegova stade izdaleka da bi znala što će mu se učiniti.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "stade"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sestra njegova"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "izdaleka"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "da bi znala"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "će se učiniti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:22.331217657Z",
+  "model": "glm-5.3"
+}

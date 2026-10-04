@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 54,
+  "translation": "Jer će se gore pomaknuti i brežuljci će se zatresti, ali moj će hesed od ⟨את⟩ tebe neće otići, ni savez mog mira neće se poljuljati — govori onaj koji ti se smiluje, Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "pomaknuti se"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "i brežuljci"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "zatresti se"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ali moj hesed"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "od ⟨את⟩ tebe",
+      "marks": "tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "otići"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ni savez"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mog mira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "poljuljati se"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "onaj koji ti se smiluje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:52.275112011Z",
+  "model": "glm-5.3"
+}

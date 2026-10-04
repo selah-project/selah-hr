@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "hr",
+  "chapter": 3,
+  "translation": "A Ehud pobježe dok su oni oklijevali, te prijeđe ⟨את⟩ kipove i pobježe u Seiru.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "A Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "pobježe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dok"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "oklijevali"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "te on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prijeđe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kipove"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "kipove"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "i pobježe"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "u Seiru"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:56.280566743Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hr",
   "chapter": 17,
-  "translation": "I rekoše kralju Asirije: Narodi koje si preselio i naselio u gradovima Šomrona ne znaju מishpat Elohim ⟨את⟩ pravo Elohim te zemlje, pa on posla među njih ⟨את⟩ lavove, i gle, oni ⟨את⟩ ih ubijaju, jer ne znaju pravo Elohim te zemlje.",
+  "translation": "I rekoše kralju Asirije ovako: Narodi koje si odveo u izgnanstvo i naselio u gradove Šomrona ne znaju pravo Elohim zemlje, pa posla ⟨on⟩ među njih ⟨את⟩ lavove, i gle, oni ⟨את⟩ ih ubijaju, jer ne znaju pravo Elohim zemlje.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "govoreći"
+      "gloss": "ovako"
     },
     {
       "surface": "הגוים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הגלית",
-      "gloss": "si preselio"
+      "gloss": "si odveo u izgnanstvo"
     },
     {
       "surface": "ותושב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בערי",
-      "gloss": "u gradovima"
+      "gloss": "u gradove"
     },
     {
       "surface": "שמרון",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pravo Elohim te zemlje"
+      "marks": "pravo"
     },
     {
       "surface": "משפט",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "te zemlje"
+      "gloss": "zemlje"
     },
     {
       "surface": "וישלח",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "והנם",
-      "gloss": "i gle oni"
+      "gloss": "i gle"
     },
     {
       "surface": "ממיתים",
-      "gloss": "ubijaju"
+      "gloss": "oni ubijaju"
     },
     {
       "surface": "אותם",
@@ -116,7 +116,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pravo Elohim te zemlje"
+      "marks": "pravo"
     },
     {
       "surface": "משפט",
@@ -128,9 +128,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "te zemlje"
+      "gloss": "zemlje"
     }
   ],
-  "timestamp": "2026-10-04T18:02:10.654892528Z",
+  "timestamp": "2026-10-04T20:44:31.662448683Z",
   "model": "glm-5.3"
 }

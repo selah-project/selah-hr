@@ -5,8 +5,89 @@
   "book": "nehemiah",
   "lang": "hr",
   "chapter": 2,
-  "translation": "I iziđoh noću kroz Dolinsku vrata, i prema izvoru Zmajevoj ⟨well⟩…",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:56:24.503296569Z",
+  "translation": "I izađoh noću kroz vrata doline, i do lica izvora zmajeva, i do vrata smeća; i razgledah zidine Jerušalajima koje su razorene, a vrata mu oganj izjede.",
+  "tokens": [
+    {
+      "surface": "ואצאה",
+      "gloss": "i izađoh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kroz vrata"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "doline"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noću"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "עין",
+      "gloss": "izvora"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "zmajeva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i do"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "smeća"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "i razgledah"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "razgledah"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "zidine"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "המפרוצים",
+      "gloss": "razorene"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "a vrata mu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "izjede"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oganj"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:00.473407038Z",
   "model": "glm-5.3"
 }

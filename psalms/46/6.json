@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 46,
-  "translation": "Elohim ⟨je⟩ u sredini njezinoj, neće se pokolebati; Elohim će joj pomoći pred ⟨svanuce⟩ jutra.",
+  "translation": "Elohim je u sredini njezin — neće se pokolebati; Elohim će joj pomoći ⟨u času⟩ kad svane jutro.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "בקרבה",
-      "gloss": "u sredini njezinoj"
+      "gloss": "u sredini njezin"
     },
     {
       "surface": "בל",
-      "gloss": "neće"
+      "gloss": "ne"
     },
     {
       "surface": "תמוט",
-      "gloss": "pokolebati se"
+      "gloss": "će se pokolebati"
     },
     {
       "surface": "יעזרה",
-      "gloss": "pomoći će joj"
+      "gloss": "će joj pomoći"
     },
     {
       "surface": "אלהים",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "לפנות",
-      "gloss": "pred svanuće"
+      "gloss": "pred ⟨dolazak⟩"
     },
     {
       "surface": "בקר",
       "gloss": "jutra"
     }
   ],
-  "timestamp": "2026-10-04T19:09:16.153370202Z",
+  "timestamp": "2026-10-04T20:45:22.201873293Z",
   "model": "glm-5.3"
 }

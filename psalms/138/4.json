@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 138,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:21:04.744665753Z",
+  "translation": "Zahvaljivat će ti, Jahve, svi kraljevi zemlje, jer su čuli riječi tvojih usta.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "zahvaljivat će ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "čuli su"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "riječi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvojih usta"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:46.479569033Z",
   "model": "glm-5.3"
 }

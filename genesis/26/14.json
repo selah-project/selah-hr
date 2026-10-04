@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 26:14",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 26,
+  "translation": "I bijaše njemu stada sitne živine i stada krava, i brojna slugu, te mu zaviđahu Filistejci.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i bijaše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "stada"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sitne živine"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "i stada"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "krava"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "i slugu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "brojna"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "te zaviđahu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:38.424538371Z",
+  "model": "glm-5.3"
+}

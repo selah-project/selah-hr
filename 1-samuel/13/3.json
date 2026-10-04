@@ -5,8 +5,78 @@
   "book": "1-samuel",
   "lang": "hr",
   "chapter": 13,
-  "translation": "I Jonatan udari ⟨את⟩ neočekivani niz Pelíštimaca koji bijaše u Gevi; i Pelíštimci to čuše. A Šaul zatrubi u šofar po svoj zemlji govoreći: Čujte topli!",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:20:37.855930977Z",
+  "translation": "I Jonatan udari ⟨את⟩ posadu Filistejaca koja je bila u Gevi, i čuše Filistejci; a Šaul zatrubu u šofar po svoj zemlji govoreći: Nek čuju Hebreji!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i udari"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posadu Filistejaca"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posada"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejaca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "u Gevi"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "i čuše"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Šaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "zatrubu"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "u šofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po svoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nek čuju"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreji"
+    }
+  ],
+  "timestamp": "2026-10-04T20:46:36.974255327Z",
   "model": "glm-5.3"
 }

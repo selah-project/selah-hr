@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hr",
   "chapter": 10,
-  "translation": "I uze Šemuel ⟨את]] mjehuljicu ulja i izli je na glavu njegovu, i poljubi ga, i reče: Nije li zato što te Jahve pomazao nad svojom baštinom za kneza?",
+  "translation": "I uze Šemuel ⟨את⟩ posudu ulja i izli je na glavu njegovu, i poljubi ga, i reče: Nije li zato što te pomazao Jahve ⟨את⟩ nad svojom baštinom za kneza?",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mjehuljicu ulja"
+      "marks": "posudu ulja"
     },
     {
       "surface": "פך",
-      "gloss": "mjehuljicu"
+      "gloss": "posudu"
     },
     {
       "surface": "השמן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "nije li"
+      "gloss": "Nije li"
     },
     {
       "surface": "כי",
@@ -77,6 +77,6 @@
       "gloss": "za kneza"
     }
   ],
-  "timestamp": "2026-10-04T17:33:29.802590991Z",
+  "timestamp": "2026-10-04T20:43:35.813957912Z",
   "model": "glm-5.3"
 }

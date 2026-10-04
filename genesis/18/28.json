@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "hr",
   "chapter": 18,
-  "translation": "Možda pedeset cedeka izostane pet — zar ćeš radi pet〈את〉 ⟨את⟩ cijeli grad uništiti? I reče: Neću uništiti ako nađem ondje četrdeset i pet.",
+  "translation": "Možda pedeset pravednicima petorica izostane — zar ćeš zbog petorice uništiti ⟨את⟩ sav grad? I reče: Neću uništiti ako nađem ondje četrdeset i pet.",
   "tokens": [
     {
       "surface": "אולי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יחסרון",
-      "gloss": "izostane"
+      "gloss": "izostati"
     },
     {
       "surface": "חמשים",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "הצדיקם",
-      "gloss": "cedeka"
+      "gloss": "pravednicima"
     },
     {
       "surface": "חמשה",
-      "gloss": "pet"
+      "gloss": "petorica"
     },
     {
       "surface": "התשחית",
-      "gloss": "ćeš uništiti"
+      "gloss": "uništiti"
     },
     {
       "surface": "בחמשה",
-      "gloss": "radi pet"
+      "gloss": "zbog petorice"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cijeli grad"
+      "marks": "sav grad"
     },
     {
       "surface": "כל",
-      "gloss": "cijeli"
+      "gloss": "sav"
     },
     {
       "surface": "העיר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשחית",
-      "gloss": "ću uništiti"
+      "gloss": "uništiti"
     },
     {
       "surface": "אם",
@@ -81,6 +81,6 @@
       "gloss": "i pet"
     }
   ],
-  "timestamp": "2026-10-04T20:16:22.852914176Z",
+  "timestamp": "2026-10-04T20:43:03.443168495Z",
   "model": "glm-5.3"
 }

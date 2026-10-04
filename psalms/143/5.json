@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 143,
-  "translation": "Sjetih se dana davnih, razmišljah o svemu hesedu... o svemu djelu tvomu, o djelu ruku tvojih promišljah.",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:21:38.028986775Z",
+  "translation": "Sjetih se dana iz davnine, razmišljah o svemu djelu tvomu, o djelu ruku tvojih govorah ⟨u sebi⟩.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Sjetih se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dana"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "iz davnine"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "razmišljah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o svemu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "djelu tvomu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "o djelu"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ruku tvojih"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "govorah"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:24.965517269Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,78 @@
   "book": "joshua",
   "lang": "hr",
   "chapter": 8,
-  "translation": "I zapovjedi im ⟨את⟩ govoreći: Gle, vi ćete zasjesti u zasjedi gradu s但是我̨ grada; ne udaljujte se od grada previše, i svi ćete biti spremni.",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:19:37.434069469Z",
+  "translation": "I zapovjedi ⟨את⟩ njih govoreći: Gle, vi ćete zasjesti u zasjedi gradu iza grada; ne udaljujte se od grada previše, i budite svi vi spremni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i zapovjedi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "zasjesti u zasjedi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "gradu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "udaljujte se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "grada"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "previše"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "i budite"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "svi vi"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "spremni"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:43.046106806Z",
   "model": "glm-5.3"
 }

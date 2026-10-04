@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 41,
+  "translation": "I Josif dade ime prvorođencu Menaše, jer — reče — Elohim me je učinio da zaboravim sav moj trud i sav dom oca mojega.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dade ime"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorođencu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "učinio me je da zaboravim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sav moj trud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "moj trud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav dom oca mojega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oca mojega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:23.543764765Z",
+  "model": "glm-5.3"
+}

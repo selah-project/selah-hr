@@ -5,8 +5,183 @@
   "book": "2-kings",
   "lang": "hr",
   "chapter": 16,
-  "translation": "I zapovjedi mu kralj Ahaz, Uriji svećeniku: Na velikom žrtveniku kadioni ⟨את⟩ jutarnju paljenicu i ⟨את⟩ večernju minhy — ispravak: ⟨את⟩ večernju minhy — ispravak: ⟨את⟩ večernju minhy — ispravak: ⟨את⟩ večernju minhy; ispravak: ⟨את⟩ večernju žrtvu prinosa, i ⟨את⟩ kraljevu paljenicu i ⟨את⟩ njegovu minhy — ispravak: ⟨את⟩ njegov prinos, i ⟨את⟩ paljenicu svega puka zemlje, i njihov prinos i njihove naljeve; i svu krv paljenice i svu krv klanja po njemu poškropi; a žrtvenik od tuča neka bude meni za ispitivanje.",
-  "tokens": [],
-  "timestamp": "2026-10-04T18:01:50.433872531Z",
+  "translation": "I zapovjedi mu kralj Ahaz Uriji svećeniku: Na velikom žrtveniku kad ⟨את⟩ žrtvu paljenicu jutarnju i ⟨את⟩ minh večernju i ⟨את⟩ paljenicu kraljevu i ⟨את⟩ minh njegovu i ⟨את⟩ paljenicu svega puka zemlje, i minh njihovu i ljevanice njihove; a svu krv paljenice i svu krv žrtve na nj poprskaš; a žrtvenik brončani bit će meni za ispitivanje.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "i zapovjedi mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju svećenika"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećeniku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velikom"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žrtvu paljenicu jutarnju"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutarnju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "minh večernju"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minh"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večernju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "paljenicu kraljevu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "minh njegovu"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minh njegovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "paljenicu svega puka"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "paljenicu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svega"
+    },
+    {
+      "surface": "עם",
+      "gloss": "puka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "i minh njihovu"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "i ljevanice njihove"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a svu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "paljenice"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i svu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krv"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nj"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "poprskaš"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "a žrtvenik"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "brončani"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bit će"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "za ispitivanje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:45.503445647Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 34,
-  "translation": "Ovako govori Jahve: Evo, ja dovodim zlo na ovo mjesto i na njegove stanovnike — ⟨את⟩ sve kletve napisane u knjizi koju su čitali pred kraljem Judinim —",
+  "translation": "Tako reče Jahve: Evo, ja dovodim zlo na ovo mjesto i na njegove stanovnike — ⟨את⟩ sve kletve napisane u knjizi koju su čitali pred kraljem Judinim.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Ovako"
+      "gloss": "Tako"
     },
     {
       "surface": "אמר",
-      "gloss": "govori"
+      "gloss": "reče"
     },
     {
       "surface": "יהוה",
@@ -37,14 +37,14 @@
     },
     {
       "surface": "המקום",
-      "gloss": "mjesto"
+      "gloss": "ovo mjesto"
     },
     {
       "surface": "הזה",
       "gloss": "ovo"
     },
     {
-      "surface": "ועל",
+      "surface": "ו על",
       "gloss": "i na"
     },
     {
@@ -93,14 +93,10 @@
       "gloss": "kraljem"
     },
     {
-      "surface": "יהוה",
-      "gloss": ""
-    },
-    {
       "surface": "יהודה",
       "gloss": "Judinim"
     }
   ],
-  "timestamp": "2026-10-04T20:15:14.488780941Z",
+  "timestamp": "2026-10-04T20:45:58.968515378Z",
   "model": "glm-5.3"
 }

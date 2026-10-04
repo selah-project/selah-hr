@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 37,
+  "translation": "I reče im: Poslušajte ⟨molim vas⟩ ovaj san koji sanjah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "im"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨molim vas⟩"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "san"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sanjah"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:24.453435242Z",
+  "model": "glm-5.3"
+}

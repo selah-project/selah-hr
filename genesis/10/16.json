@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "i ⟨את⟩ Jebusejca i ⟨את⟩ Emorejca i ⟨את⟩ Girgašejca.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jebusejca"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusejca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Emorejca"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgašejca"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgašejca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:15.462541621Z",
+  "model": "glm-5.3"
+}

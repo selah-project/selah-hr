@@ -5,8 +5,77 @@
   "book": "jeremiah",
   "lang": "hr",
   "chapter": 7,
-  "translation": "I učinit ću da u gradu Jisraela i u selištu Svetoga prestane... i nastavit ću goniti ⟨ih⟩",
-  "tokens": [],
-  "timestamp": "2026-10-04T18:22:27.739731311Z",
+  "translation": "I učinit ću da prestane iz gradova Jehude i iz ulica Jerušalajima glas radosti i glas veselja, glas mladoženje i glas nevjeste, jer će zemlja postati pustoš.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "i učinit ću da prestane"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "iz gradova"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ומחצות",
+      "gloss": "i iz ulica"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i glas"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselja"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mladoženje"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i glas"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevjeste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "pustoš"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "će postati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:59.091943527Z",
   "model": "glm-5.3"
 }

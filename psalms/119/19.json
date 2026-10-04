@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Došljak sam ja na zemlji — ne skrivaj od mene svojih zapovijedi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "došljak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrivaj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "svojih zapovijedi"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:35.805054044Z",
+  "model": "glm-5.3"
+}

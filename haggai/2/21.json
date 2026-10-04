@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "hr",
   "chapter": 2,
-  "translation": "Reci Zerubabelu, upravitelju Judin, <to say> : ja tresem ⟨heavens⟩ and ⟨earth⟩.",
+  "translation": "Reci Zerubavelu, upravitelju Judeje: Ja tresem ⟨את⟩ nebesa i ⟨את⟩ zemlju.",
   "tokens": [
     {
       "surface": "אמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": ""
     },
     {
       "surface": "זרבבל",
-      "gloss": "Zerubabel"
+      "gloss": "Zerubavelu"
     },
     {
       "surface": "פחת",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Judin"
+      "gloss": "Judeje"
     },
     {
       "surface": "לאמר",
-      "gloss": "to say"
+      "gloss": "govoreći"
     },
     {
       "surface": "אני",
-      "gloss": "ja"
+      "gloss": "Ja"
     },
     {
       "surface": "מרעיש",
@@ -42,22 +42,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "heavens"
+      "marks": "nebesa"
     },
     {
       "surface": "השמים",
-      "gloss": "heavens"
+      "gloss": "nebesa"
     },
     {
       "surface": "ואת",
-      "gloss": "and ⟨את⟩",
-      "marks": "earth"
+      "gloss": "i ⟨את⟩",
+      "marks": "zemlju"
     },
     {
       "surface": "הארץ",
-      "gloss": "earth"
+      "gloss": "zemlju"
     }
   ],
-  "timestamp": "2026-10-04T18:59:00.426316020Z",
+  "timestamp": "2026-10-04T20:45:21.176331010Z",
   "model": "glm-5.3"
 }

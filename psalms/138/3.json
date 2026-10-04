@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 138,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:21:04.744560424Z",
+  "translation": "U dan kad te zazvah, odgovori mi; ohrabri me u mojoj duši ⟨s⟩ snagom.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kad zazvah"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ohrabri me"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "u mojoj duši"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨s⟩ snagom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:46.479399375Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "hr",
   "chapter": 11,
-  "translation": "Blagoslovom poštenih grad se uzdiže, a ustima zlih biva razor <נ>.",
+  "translation": "Blagoslovom pravednih grad se uzdiže, a ustima zlih biva rušen.",
   "tokens": [
     {
       "surface": "בברכת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ישרים",
-      "gloss": "poštenih \/ ispravnih"
+      "gloss": "pravednih"
     },
     {
       "surface": "תרום",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "תהרס",
-      "gloss": "biva razor"
+      "gloss": "biva rušen"
     }
   ],
-  "timestamp": "2026-10-04T19:24:17.011211914Z",
+  "timestamp": "2026-10-04T20:45:45.634291002Z",
   "model": "glm-5.3"
 }

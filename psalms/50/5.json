@@ -5,8 +5,42 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 50,
-  "translation": "Sabерите mi se, hasidi moji, koji sterezali savez sa mnom ⟨nad⟩ žrtvom.",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:08:54.524660441Z",
+  "translation": "Sabrite mi ⟨את⟩ moje haside, koji surezali ⟨את⟩ moj savez nad žrtvom.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Sabrite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "haside"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "srezali"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savez moj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtvom"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:21.917668402Z",
   "model": "glm-5.3"
 }

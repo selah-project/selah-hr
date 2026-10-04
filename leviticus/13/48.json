@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hr",
   "chapter": 13,
-  "translation": "ili u osnovi ili u potki, od lana ili od vune, ili u koži ili u bilo kojem radu od kože —",
+  "translation": "ili u osnovi ili u potki, od lana ili od vune, ili u koži, ili u bilo kojem predmetu od kože,",
   "tokens": [
     {
       "surface": "או",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "או",
-      "gloss": "или — ispravak: ili"
+      "gloss": "ili"
     },
     {
       "surface": "בערב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ולצמר",
-      "gloss": "i od vune"
+      "gloss": "ili od vune"
     },
     {
       "surface": "או",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "מלאכת",
-      "gloss": "radu"
+      "gloss": "predmetu, radu"
     },
     {
       "surface": "עור",
       "gloss": "od kože"
     }
   ],
-  "timestamp": "2026-10-04T16:48:33.292676357Z",
+  "timestamp": "2026-10-04T20:43:01.712461651Z",
   "model": "glm-5.3"
 }

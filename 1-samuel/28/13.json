@@ -5,8 +5,77 @@
   "book": "1-samuel",
   "lang": "hr",
   "chapter": 28,
-  "translation": "I reče kralj njoj: Ne boj se, jer što si vidjela? I reče žena Šaulu: Elohim vidjeh how ascending out of the earth — ispravno: Elohim sam vidjela uzlazeće iz zemlje.",
-  "tokens": [],
-  "timestamp": "2026-10-04T17:38:41.018505222Z",
+  "translation": "I reče kralj njoj: Ne boj se, jer što si vidjela? I reče žena Šaulu: Elohim vidjeh kako uzlaze iz zemlje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njoj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מה",
+      "gloss": "što"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "si vidjela"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vidjeh"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "uzlaze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:22.545342864Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,61 @@
   "book": "psalms",
   "lang": "hr",
   "chapter": 79,
-  "translation": "Pomozi nam, Elohim ⟨je⟩ spasenja našega, radiSlave imena tvojega, i izbavi nas i očisti ⟨את⟩ grijehe naše, radi imena tvojega.",
-  "tokens": [],
-  "timestamp": "2026-10-04T19:13:24.435464320Z",
+  "translation": "Pomozi nam, Elohime spasa našega, radi ⟨sebe⟩ slave imena tvojega, i izbavi nas, i okaj grijehe naše, radi imena tvojega.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Pomozi nam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "spasa našega"
+    },
+    {
+      "surface": "על",
+      "gloss": "radi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imena tvojega"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "i izbavi nas"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "i okaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "naše"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "grijehe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "radi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imena tvojega"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:30.900874314Z",
   "model": "glm-5.3"
 }

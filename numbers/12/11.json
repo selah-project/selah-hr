@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hr",
   "chapter": 12,
-  "translation": "I reče Aharon Mošeu: Boga mi, gospodaru moj, ne metni, molim, na nas grijeh <אשר>... jer ludost počinismo i jer zgriješismo.",
+  "translation": "I reče Aharon Mošeu: Molim te, gospodaru moj, ne metni na nas grijeha u kojem smo luđački postupili i u kojem smo sagriješili.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mošeu"
+      "gloss": "⟨Mošeu⟩"
     },
     {
       "surface": "בי",
-      "gloss": "Boga mi"
+      "gloss": "molim te"
     },
     {
       "surface": "אדני",
@@ -49,25 +49,25 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "grijeh"
+      "gloss": "grijeha"
     },
     {
       "surface": "אשר",
-      "gloss": "jer"
+      "gloss": "u kojem"
     },
     {
       "surface": "נואלנו",
-      "gloss": "ludost počinismo"
+      "gloss": "luđački postupili"
     },
     {
       "surface": "ואשר",
-      "gloss": "i jer"
+      "gloss": "i u kojem"
     },
     {
       "surface": "חטאנו",
-      "gloss": "zgriješismo"
+      "gloss": "smo sagriješili"
     }
   ],
-  "timestamp": "2026-10-04T20:18:14.820094019Z",
+  "timestamp": "2026-10-04T20:43:54.518806099Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 35,
+  "translation": "I uzeh ⟨את⟩ Jaazanjaha, sina Jirmejahuova, sina Havacanjahova, i ⟨את⟩ njegovu braću, i ⟨את⟩ svu njegovu djecu, i ⟨את⟩ sav dom Rehavaca.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "i uzeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazanjaha"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Jaazanjaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahuova"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Havacanjahova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "njegovu braću"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegovu braću"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svu njegovu djecu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovu djecu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sav dom Rehavaca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rehavaca"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:15.370179309Z",
+  "model": "glm-5.3"
+}

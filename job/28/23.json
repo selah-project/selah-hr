@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 28,
+  "translation": "Elohim razumije ⟨את⟩ njezin put, i on poznaje ⟨את⟩ njezino mjesto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razumije"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "njezin put"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "i on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznaje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njezino mjesto"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "njezino mjesto"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:32.432527388Z",
+  "model": "glm-5.3"
+}

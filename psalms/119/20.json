@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 119,
+  "translation": "Satrta je moja nefeš od čežnje za tvojim sudovima u svako doba.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "satrta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefeš"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "od čežnje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvojim sudovima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "u svakom"
+    },
+    {
+      "surface": "עת",
+      "gloss": "doba"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:35.805296273Z",
+  "model": "glm-5.3"
+}

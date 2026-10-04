@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "hr",
+  "chapter": 24,
+  "translation": "I uspne se Moše na goru, i pokri oblak ⟨את⟩ goru.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i uspne se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "i pokri"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goru"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goru"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:22.795712831Z",
+  "model": "glm-5.3"
+}

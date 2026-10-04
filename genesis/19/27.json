@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 19,
+  "translation": "I rano ujutro diže se Avraham ⟨i pođe⟩ k mjestu na kojem je stajao ondje pred ⟨את⟩ licem Jahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "i rano diže se"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ujutro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mjestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kojem"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "je stajao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "licem Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pred licem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:27.121661822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 10,
+  "translation": "A Kenaan rodi ⟨את⟩ Sidona, prvorođenca svojega, i ⟨את⟩ Heta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "A Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidona"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidona"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "prvorođenca svojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Heta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    }
+  ],
+  "timestamp": "2026-10-04T20:43:15.462262653Z",
+  "model": "glm-5.3"
+}

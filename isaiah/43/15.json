@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 43,
+  "translation": "Ja sam Jahve, Sveti vaš, Stvoritelj Jisraela, Kralj vaš.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Sveti vaš"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Stvoritelj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Kralj vaš"
+    }
+  ],
+  "timestamp": "2026-10-04T20:44:34.652559190Z",
+  "model": "glm-5.3"
+}

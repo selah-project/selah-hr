@@ -5,8 +5,37 @@
   "book": "2-chronicles",
   "lang": "hr",
   "chapter": 4,
-  "translation": "i cvjetovi i svjetiljke i pincete ⟨to je⟩ zlato, sasvim <n>zlato",
-  "tokens": [],
-  "timestamp": "2026-10-04T20:06:49.186858305Z",
+  "translation": "i cvjetovi, i svjetiljke, i hvataljke — zlatni ⟨su⟩, savršeno zlato.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "i cvjetovi"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "i svjetiljke"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "i hvataljke"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "savršeno"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    }
+  ],
+  "timestamp": "2026-10-04T20:45:59.570971644Z",
   "model": "glm-5.3"
 }

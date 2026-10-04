@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hr",
   "chapter": 15,
-  "translation": "Tada reče David: Nije <נ> nositi ⟨את⟩ Kovčeg Elohimov nego leviti, jer u njih je izabrao Jahve da nose ⟨את⟩ Kovčeg Jahvin i da mu služe dovijeka.",
+  "translation": "Tada reče David: Nije ⟨dopušteno⟩ nositi ⟨את⟩ Kovčeg Elohimov, nego samo leviti, jer je u njih izabrao Jahve da nose ⟨את⟩ Kovčeg Jahvin i da mu služe zauvijek.",
   "tokens": [
     {
       "surface": "אז",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "jer"
+      "gloss": "nego"
     },
     {
       "surface": "אם",
-      "gloss": "nego"
+      "gloss": "samo"
     },
     {
       "surface": "הלוים",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "ולשרתו",
-      "gloss": "da mu služe"
+      "gloss": "i da mu služe"
     },
     {
       "surface": "עד",
-      "gloss": "dovijeka"
+      "gloss": "do"
     },
     {
       "surface": "עולם",
-      "gloss": "dovijeka"
+      "gloss": "zauvijek"
     }
   ],
-  "timestamp": "2026-10-04T20:03:19.007340677Z",
+  "timestamp": "2026-10-04T20:46:00.384167793Z",
   "model": "glm-5.3"
 }
