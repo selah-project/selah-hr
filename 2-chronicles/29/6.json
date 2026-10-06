@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 29:6",
+  "book": "2-chronicles",
+  "lang": "hr",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתנו ערף",
+      "rationale": "doslovno 'dadoše potiljak' — hebrejski izraz za okrenuti leđa; zadržano doslovno."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעלו",
+      "rationale": "korijen מעל 'prevariti, djelovati prikriveno' — iznevjeriše \/ sagriješiše (KJV 'trespassed')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעיני",
+      "rationale": "doslovno 'u očima' umjesto 'u očima' + predlog 'pred'; hebrejska rečenica 'zlo u očima Jahve'"
+    }
+  ],
+  "translation": "Jer naši oči iznevjeriše i činiše zlo u očima Jahve, Elohim našega, i ostaviše ga, i okrenuše lica svoja od Miškana Jahvina, i dadoše potiljak.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "c55d636fa0d9b32769bed67f04556a2a0f9719583dfbcb45fad5acfeb9613e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/2-chronicles\/29\/6-6.1791272221613.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iznevjeriše"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "oči naše"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "i činiše"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "ויעזבהו",
+      "gloss": "i ostaviše ga"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "i okrenuše"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "lica svoja"
+    },
+    {
+      "surface": "ממשכן",
+      "gloss": "od Miškana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvina"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i dadoše"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "potiljak"
+    }
+  ],
+  "timestamp": "2026-10-06T07:37:01.614432530Z",
+  "model": "glm-5.3"
+}
