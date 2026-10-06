@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 38:35",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Možeš li",
+      "rationale": "hebrejsko he-haš'eal ( interrogativni ha) prenosi se pitanjem 'možeš li'"
+    },
+    {
+      "kind": "you",
+      "subject": "Job",
+      "rationale": "neposredno Božje pitanje upućeno Jobu iz vihora"
+    }
+  ],
+  "translation": "Možeš li poslati ⟨את⟩ munje da idu i da ti kažu: Evo nas?",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "2694e619d438b1bff59a054cf263233a549eac50ddc950b4313efa2f2de2602f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/job\/38\/35-35.1791264298176.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשלח",
+      "gloss": "možeš li poslati"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "munje"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "da idu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "da kažu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "Evo nas"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:58.179148955Z",
+  "model": "glm-5.3"
+}

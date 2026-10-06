@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 43:7",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ovo je⟩",
+      "rationale": "hebrejski nema glagola biti; starije verzije ga dodaju, ovdje u zagradi"
+    },
+    {
+      "kind": "crux",
+      "subject": "פגרי מלכיהם",
+      "rationale": "doslovno 'trupla kraljeva njihovih' — idolatski kipovi ili pogrebni spomenici kraljeva; BSB uzima 'pogrebni prilozi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uzvišja",
+      "rationale": "במות su kultna mjesta na uzvišicama; riječ 'bamot' bi sačuvala hebrejski pojam"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekijelu",
+      "rationale": "neposredan govor: 'Sine čovječji' upućen proroku"
+    }
+  ],
+  "translation": "I reče mi: Sine čovječji, ⟨ovo je⟩ mjesto prijestolja mojega i mjesto tabana nogu mojih, gdje ću prebivati među sinovima Jisraelovim dovijeka; i neće više oskvrnjivati dom Jisraelov ime svetosti moje — oni i kraljevi njihovi — bludnošću svojom i truplima kraljeva svojih na uzvišjima svojim.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "e81d2c74d44d1ebe141911aec6411dc4bf5a2663db84b4f93f51482c4a334e6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/43\/7-7.1791264265678.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjesto prijestolja mojega"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "prijestolja mojega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mjesto tabana nogu mojih"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mjesto"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "tabana"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nogu mojih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gdje"
+    },
+    {
+      "surface": "אשכן",
+      "gloss": "ću prebivati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ondje"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "među"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dovijeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i neće"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "oskvrnjivati"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "više"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svetosti moje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "i kraljevi njihovi"
+    },
+    {
+      "surface": "בזנותם",
+      "gloss": "bludnošću svojom"
+    },
+    {
+      "surface": "ובפגרי",
+      "gloss": "i truplima"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kraljeva svojih"
+    },
+    {
+      "surface": "במותם",
+      "gloss": "na uzvišjima svojim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:25.685405298Z",
+  "model": "glm-5.3"
+}

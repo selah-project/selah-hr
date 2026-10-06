@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 1:8",
+  "book": "malachi",
+  "lang": "hr",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הישא פניך",
+      "rationale": "doslovno 'podignuti lice tvoje' — hebrejski idiom za pokazati naklonost, primiti s obzirom na lice."
+    },
+    {
+      "kind": "crux",
+      "subject": "אין רע",
+      "rationale": "može biti pitanje ('nije li zlo?') ili ironični navod riječi svećenika ('nema zla') kao u ylt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פחה",
+      "rationale": "perzijski namjesnik\/upravitelj; Wycliffe 'duyk' — 'upravitelj' je neutralan hrvatski izraz."
+    }
+  ],
+  "translation": "I kad dovedete slijepoga ⟨da⟩ ⟨se⟩ ⟨zakolje⟩ ⟨kao⟩ žrtva — nije li zlo? I kad dovedete hroma i bolesna — nije li zlo? Prinesi ga, molim te, svome upravitelju: hoće li te primiti milo, ili će li podignuti lice tvoje? riječ je Jahve Cebaot.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "b5749810f3b0fe7b0346fc76bf5362303ebe7608f56f3a3a640bca25e56e98a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/malachi\/1\/8-8.1791264278497.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "תגשון",
+      "gloss": "dovedete"
+    },
+    {
+      "surface": "עור",
+      "gloss": "slijepoga"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "za žrtvu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i kad"
+    },
+    {
+      "surface": "תגישו",
+      "gloss": "dovedete"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "hroma"
+    },
+    {
+      "surface": "וחלה",
+      "gloss": "i bolesna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nije li"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "הקריבהו",
+      "gloss": "prinesi ga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim te"
+    },
+    {
+      "surface": "לפחתך",
+      "gloss": "svome upravitelju"
+    },
+    {
+      "surface": "הירצך",
+      "gloss": "hoće li te primiti milo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הישא",
+      "gloss": "hoće li podignuti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "lice tvoje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "riječ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:38.503376739Z",
+  "model": "glm-5.3"
+}

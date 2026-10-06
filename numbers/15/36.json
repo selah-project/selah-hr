@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "zajednica",
+      "rationale": "Pripovijest izvršava naredbu iz retka 35 — sva zajednica kao subjekt kazne."
+    }
+  ],
+  "translation": "I izvedoše ga ⟨את⟩ sva zajednica izvan tabora, i kamenoše ga ⟨את⟩ kamenjem, i umrije — kako zapovjedi Jahve ⟨את⟩ Mošeu.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "8895e1785c41bb155bd082255e6ecd179560dcf20bbd71f6ca504ca629aad655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/numbers\/15\/36-36.1791264224516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "i izvedoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega — čovjeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sva"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "zajednica"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "izvan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "i kamenoše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "njega — kamenjem"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kamenjem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i umrije"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovjedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:44.520649041Z",
+  "model": "glm-5.3"
+}

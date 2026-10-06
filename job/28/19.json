@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 28:19",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פטדת",
+      "rationale": " tradicionalno 'topaz', ali dragi kamen nije sigurno određen"
+    },
+    {
+      "kind": "crux",
+      "subject": "סלה",
+      "rationale": " 'vaganje' ili 'uspoređivanje\/vrednovanje' — dva tumačenja glagola"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨s njom⟩",
+      "rationale": " hebrejski ne ponavlja objekt (mudrost), dodano radi jasnoće"
+    }
+  ],
+  "translation": "Topaz Kuša ne može joj se izmjeriti, ni čistim zlatom neće se uskladiti ⟨s njom⟩.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "f57eb47719c5c9fc10267d4e5ac625704ef2108b5a7d78d80395056b073fd104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/job\/28\/19-19.1791264295043.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "može joj se izmjeriti"
+    },
+    {
+      "surface": "פטדת",
+      "gloss": "topaz"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "čistim zlatom"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čitim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסלה",
+      "gloss": "će se uskladiti"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:55.044330901Z",
+  "model": "glm-5.3"
+}

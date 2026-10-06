@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 28:2",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבך כלב",
+      "rationale": "ponavljanje srca: 'srce tvoje... kao-srce' — lanac lev, naglašava oholost, djelomično izgubljeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלב ימים",
+      "rationale": "doslovno 'u srcu mora', prevedeno 'usred mora' — hebrejska metafora središta"
+    },
+    {
+      "kind": "you",
+      "subject": "knezu Cora",
+      "rationale": "izravni uput — poruka upućena vladaru Cara preko proroka"
+    },
+    {
+      "kind": "addition",
+      "subject": "sam",
+      "rationale": "hebrejski nema glagola biti u 'אל אני'; dodano za hrvatski sklad"
+    }
+  ],
+  "translation": "Sine čovječji, reci knezu Cora: Ovako govori Adonaj Jahve: što ti se srce uzoholilo i rekao si: El sam ja, sjedište Elohimovo prebivam usred mora — a ti si čovjek, i nisi El — i dao si svoje srce kao srce Elohimovo.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "a87313f5fc57ea74db16936e5ebef7bfe660708a7f2de51357abf22b9e285ced",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/28\/2-2.1791264277593.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "knezu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cora"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ovako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "što"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "uzoholilo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srce"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i rekao si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam ja"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "sjedište"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovo"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "prebivam"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "usred"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ti si"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovjek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i nisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "i dao si"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "srce"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "kao srce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:37.600098308Z",
+  "model": "glm-5.3"
+}

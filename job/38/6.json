@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "hr",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדניה",
+      "rationale": "אדן je podnožje,Stopa stuba (ne 'temelji'); slika gradnje sa stubovima"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירה",
+      "rationale": "doslovno 'baciti (kao kišu)'; 'položio' vs 'spustio\/bacio' kamen"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Jahve pita Joba retorički — graditelj samo on"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kamen njezina kutova",
+      "rationale": "אבן פנה je ugaoni kamen, doslovno 'kamen kuta'"
+    }
+  ],
+  "translation": "Na čemu su njezini podnožji potonuli, ili tko je položio ⟨את⟩ kamen njezina kutova?",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "a5da4c21a27f2543828a8493254628a9d8e884052579694a50cf8bcb1f586552",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/job\/38\/6-6.1791264289597.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מה",
+      "gloss": "čemu"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "njezini podnožji"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "potonuli"
+    },
+    {
+      "surface": "או",
+      "gloss": "ili"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tko"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "položio"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "njezina kutova"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:49.602703941Z",
+  "model": "glm-5.3"
+}

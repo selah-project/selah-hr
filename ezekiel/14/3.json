@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 14:3",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האדרש אדרש",
+      "rationale": "Infinitivus absolutus: udvostručenje glagola דרש — 'biti ispitivan, ispitivati' — retoričko pojačanje, djelomično izgubljeno."
+    },
+    {
+      "kind": "crux",
+      "subject": "האדרש אדרש להם",
+      "rationale": "Alternativna čitanja: 'zar da im dajem odgovore kad me pitaju' (genevska\/KJV) naspram 'zar da ih ja ispitujem'."
+    },
+    {
+      "kind": "elision",
+      "subject": "האלה",
+      "gloss": "ד\/428 'ovi' stopljeno s 'ti ljudi' u hrvatskom poretku riječi."
+    }
+  ],
+  "translation": "Sine čovječji, ti ljudi podigoše svoje kumire na svoje srce i zapreku svoje krivnje staviše nasuprot svome licu — zar da budem ispitivan, da ih pitam?",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "98bbfad87857b87337c4c473a39bb3ea7107a89d1863405b351ae5f99b90abe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/14\/3-3.1791264259040.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "čovječji"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti ljudi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "podigoše"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "svoje kumire"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "ומכשול",
+      "gloss": "i zapreku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "svoje krivnje"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "staviše"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "nasuprot"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "svome licu"
+    },
+    {
+      "surface": "האדרש",
+      "gloss": "zar da budem ispitivan"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "da ih pitam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njih"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:19.043528434Z",
+  "model": "glm-5.3"
+}

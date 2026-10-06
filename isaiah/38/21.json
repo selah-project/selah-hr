@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "hr",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biti",
+      "rationale": "hrvatski traži pomoćni glagol, hebrejski ga nema"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבלת",
+      "rationale": "plovka smokava — zbiti kolač od smokava, ovdje kao oblog"
+    }
+  ],
+  "translation": "I reče Ješajahu: Neka donesu打 ple Smokava i neka ih razmažu po čiru, i on će ⟨biti⟩ živ.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "1a8c1c129b593ecf496a5b012ba98d7de14886fbd9ba84e495c712ab3a9b277a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/isaiah\/38\/21-21.1791264251166.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I reče"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "neka donesu"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "plovku"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "smokava"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "i neka razmažu"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "čiru"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "i neka bude živ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:11.168512725Z",
+  "model": "glm-5.3"
+}

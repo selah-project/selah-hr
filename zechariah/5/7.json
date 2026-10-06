@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "hr",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ככר עפרת",
+      "rationale": "'kružna ploča olova' (JPS), 'talent olova' (KJV, mjera težine) ili 'poklopac' (BSB, iz konteksta r. 8) — oblik se drži doslovno."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejski nema glagola biti u drugom dijelu rečenice, dodan je kopulativni 'je'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "efa",
+      "rationale": "האיפה ostaje kao mjera 'efa' (D3), ne 'košarica' ni 'mjera'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "viđenje",
+      "rationale": "dio drugoga Zecharijinoga viđenja, vizionarska slika čije značenje tumač anđeo otkriva postupno."
+    }
+  ],
+  "translation": "I gle, kriška od olova bijaše podignuta, a ovo je jedna žena koja sjedi usred ⟨te⟩ efe.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "fdf94fa67dcc532361b6ded7a296fd0b1e14c85fa99b094d1ea6cf56873d88fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/zechariah\/5\/7-7.1791264265096.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "i gle"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kriška"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "od olova"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "bijaše podignuta"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "a ovo je"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "koja sjedi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usred"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:25.100172531Z",
+  "model": "glm-5.3"
+}

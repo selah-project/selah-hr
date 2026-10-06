@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 41:2",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bila je",
+      "rationale": "hebrejski nema glagola biti u ovom stihu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ramena",
+      "rationale": "כתפות doslovno 'ramena' ulaza — bočni zidovi koji se pružaju kao ramena"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפו...מפו",
+      "rationale": "doslovno 'odavde... odavde', tj. s jedne i s druge strane"
+    },
+    {
+      "kind": "measurement",
+      "subject": "stih",
+      "rationale": "mjerenje hrama u laktima: širina, ramena, duljina"
+    }
+  ],
+  "translation": "A širina ulaza bila je deset lakata, a ramena ulaza pet lakata s jedne strane i pet lakata s druge strane; i izmjeri mu duljinu četrdeset lakata, a širinu dvadeset lakata.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "ef869ebebf6fad215c80a03d3654ffc04e27735c54f3da3b31590ac8214da831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/41\/2-2.1791264272843.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "a širina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "וכתפות",
+      "gloss": "a ramena"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ulaza"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "s jedne strane"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "i pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "s druge strane"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "i izmjeri"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "mu duljinu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a širinu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:32.851475474Z",
+  "model": "glm-5.3"
+}

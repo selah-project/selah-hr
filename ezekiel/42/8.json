@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dužina soba",
+      "rationale": "Pedeset lakata i sto lakata — stih je dio niza mjera Hrama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lakata",
+      "rationale": "אמה je lakat — mjera od lakta do vrha prsta; složeno s brojem stoji u genitivu."
+    }
+  ],
+  "translation": "Jer je dužina ⟨lakata⟩ soba koje su prema vanjskome dvorištu bila pedeset lakata, a gle, pred licem Hekala sto lakata.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "d55a8e335ad68490ddb29720338d69e2caeda856bcdb7aeb2bb4ddb484014eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/42\/8-8.1791264264437.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dužina"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "soba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "prema dvorištu"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "vanjskome"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pedeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a gle"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "licem"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "Hekala"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lakata"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:24.441356318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "hr",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejski ne ponavlja zamjenicu uz הממלכה; dodana radi hrvatskoga poretka riječi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואקרע",
+      "rationale": "glagol 'rastrgnuti' slika kidanje tkanine — slika gubitka kraljevstva kao razderotine"
+    }
+  ],
+  "translation": "i rastrgoh ⟨את⟩ kraljevstvo od doma Davidova i dadoh je tebi; a ti ne bijaše kao sluga moj David, koji čuvaše zapovijedi moje i koji hodiše za mnom svim srcem svojim, čineći samo ono pravo u očima mojim.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "41c2d62ef5aad8ab3607034d08d385b4a539ac24ba18089ffb1c21d666aa2683",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/1-kings\/14\/8-8.1791264252968.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "i rastrgoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraljevstvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljevstvo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "od doma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "i dadoh je"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bijaše"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "kao sluga moj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koji"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "čuvaše"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "zapovijedi moje"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "i koji"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodiše"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za mnom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "svim"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "srcem svojim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "čineći"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "u očima mojim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:12.973788998Z",
+  "model": "glm-5.3"
+}

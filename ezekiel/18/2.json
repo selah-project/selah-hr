@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "hr",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקהינה",
+      "rationale": "doslovno 'biti otupljen' — 'nagrizaju se \/ stupe' za zube; poslovica o naslijeđenoj krivnji"
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "hrvatski povratni glagol zahtijeva 'se', hebrejski ga nema"
+    },
+    {
+      "kind": "you",
+      "subject": "izraelskom narodu",
+      "rationale": "neposredan upit upravljen narodu u zemlji Jisraelovoj"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסר",
+      "rationale": "'kiselo (nezrelo) grožđe' — neke inačice prevode općenito 'kiselo voće'"
+    }
+  ],
+  "translation": "Što vama, vi što ponavljate ⟨את⟩ ovu poslovicu o zemlji Jisraelovoj, govoreći: Oci jedu kiselo grožđe, a zubi sinova ⟨se⟩ tupi?",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "b6353e2baed7c315d938c1f06fd820c665e77dda8a86da57b789134cf5d2a326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezekiel\/18\/2-2.1791264265811.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Što"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vama"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "što ponavljate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovu poslovicu"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "poslovicu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovoj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreći"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "Oci"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jedu"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "kiselo grožđe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a zubi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "tupi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:25.830085102Z",
+  "model": "glm-5.3"
+}

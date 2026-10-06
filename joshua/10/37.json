@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 10:37",
+  "book": "joshua",
+  "lang": "hr",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "doslovno 'prema ustima mača' — idiom za oštricu mača."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנפש",
+      "rationale": "nefesh je 'dišuće biće, živa duša', ne 'duša' u kasnijem smislu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחרם",
+      "rationale": "haram je 'staviti pod kletvu potpunoga uništenja (posvećeno Jahvi)' — 'zatro' ili 'uništio' gubi vjerski pojam."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "sufiksni aleph-tav na 'nju' izgubljen je u hrvatskom prijelazu glagola."
+    }
+  ],
+  "translation": "I osvojiše je, i pobijoše je oštricom mača, i ⟨את⟩ njezina kralja, i ⟨את⟩ svih njezinih gradova, i ⟨את⟩ sve duše ⟨nefesh⟩ koje bijahu u njoj — ne ostavi nikakva preživjelog, posve kao što učini Eglonu; i prenije je ⟨u kletvu potpunoga uništenja⟩, i ⟨את⟩ svaku dušu ⟨nefesh⟩ koja bijaše u njoj.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "96eafa4ccd34767dbf6835250dcd3ed2da93bf87ac019fb2353a756967e68434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/joshua\/10\/37-37.1791264228721.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדוה",
+      "gloss": "i osvojiše je"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "i pobijoše je"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "oštricom ⟨mača⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mača"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njezina kralja"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "njezina kralja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svih njezinih gradova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svih"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "njezinih gradova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sve duše koje bijahu u njoj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sve"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duše ⟨nefesh⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ostavi"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nikakva preživjelog"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "posve kao sve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "što"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učini"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Eglonu"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "i prenije ⟨u kletvu⟩"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "je ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svaku dušu koja bijaše u njoj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svaku"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "dušu ⟨nefesh⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u njoj"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:48.728633059Z",
+  "model": "glm-5.3"
+}

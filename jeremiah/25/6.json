@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mene",
+      "rationale": "אותי ovdje nije aleph-tav oznaka nego zamenica s sufiksom (et + ja) — doslovno 'mene'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא ארע לכם",
+      "rationale": "doslovno 'i neću učiniti zlo vama'; prevodi se i kao uzročna posljedica ('da vam ne učinim zla') i kao čista nakana ('i neću vam nauditi', KJV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחרי\/אחרים",
+      "rationale": "zvukovna igra 'aharej aherim' — ići za (ahar) drugim (aher) bogovima; u hrvatskom igra je izgubljena."
+    }
+  ],
+  "translation": "I ne idite za drugim bogovima da im služite i da im se klanjate, i ne srdite ⟨את⟩ mene djelom ruku svojih, da vam ne učinim zla.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "6176f7f036e15bf92e172cd9ad6963a4575bdcdf13c9c5b0ded8f62f55bd1141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/jeremiah\/25\/6-6.1791264255331.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "idite"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovima"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "da im služite"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "i da im se klanjate"
+    },
+    {
+      "surface": "להם",
+      "gloss": "im"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i ne"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "srdite"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mene"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "djelom"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ruku svojih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "učinim zla"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:15.333843268Z",
+  "model": "glm-5.3"
+}

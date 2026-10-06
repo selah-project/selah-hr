@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 52:31",
+  "book": "jeremiah",
+  "lang": "hr",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "podignuti glavu",
+      "rationale": "נשא את ראש, hebrejski idiom za pomilovanje i uzdizanje; doslovno 'podignuti glavu'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datumi",
+      "rationale": "Stih točno datira događaj: trideset sedma godina, dvanaesti mjesec, dvadeset i peti dan mjeseca."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשנת מלכתו",
+      "rationale": "Tekst kaže samo 'u godini svojega kraljevanja'; stariji prijevodi dodaju 'prvoj' po 2 Kr 25,27."
+    }
+  ],
+  "translation": "I dogodi se trideset i sedme godine progonstva Jehojakina, kralja Judina, u dvanaestom mjesecu, dvadeset i petoga dana u mjesecu, da Evíl-Merodak, kralj babilonski, u godini svojega kraljevanja podiže ⟨את⟩ glavu Jehojakinu, kralju Judinu, i izvede ⟨את⟩ ga iz kuće tamnice.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "e62c5431f981fd6c73360794b507ff968c93c9c85831a081bd64642ffd7717bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/jeremiah\/52\/31-31.1791264271583.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i dogodi se"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "i sedme"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "godine"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "progonstva"
+    },
+    {
+      "surface": "יהויכן",
+      "gloss": "Jehojakina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judina"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "u dvanaestom"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanaestom"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mjesecu"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "dvadeset"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "i petoga"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "u mjesecu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "podiže"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "Evíl"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babilonski"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "u godini"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "svojega kraljevanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavu Jehojakinu, kralju Judinu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavu"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakinu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judinu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i izvede"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz kuće"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "tamnice"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:31.591465751Z",
+  "model": "glm-5.3"
+}

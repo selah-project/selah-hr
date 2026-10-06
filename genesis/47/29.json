@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 47:29",
+  "book": "genesis",
+  "lang": "hr",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד ואמת",
+      "rationale": "hesed i emet — doslovno 'hesed i istinu(vjernost)'; dvostruka hrvatska riječ razbija jedinstven par"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bedro",
+      "rationale": "ירך je eufemizm za rodni dio — gesta zakletve, ne obično bedro"
+    },
+    {
+      "kind": "you",
+      "subject": "Jozefu",
+      "rationale": "Izravna smrtne zapovijedi oca upućene Jozefu"
+    }
+  ],
+  "translation": "Približiše se dani Jisraelovi da umre, pa pozva svojega sina Jozefa i reče mu: Ako sam, molim, našao milost u tvojim očima, stavi, molim, svoju ruku pod moje bedro i učini sa mnom hesed i emet — ne sahrani me, molim, u Micrajimu.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "dccdf1be0bb6079fbbf6badec6182dc2a7bf4b4f707444e9b236a68477093520",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/genesis\/47\/29-29.1791264234924.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "približiše se"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "da umre"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "pa pozva"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "svojega sina"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i reče"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "našao sam"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "u tvojim očima"
+    },
+    {
+      "surface": "שים",
+      "gloss": "stavi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoju ruku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ירכי",
+      "gloss": "moje bedro"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "i učini"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa mnom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "i emet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "molim"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "sahrani me"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "u Micrajimu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:54.928277347Z",
+  "model": "glm-5.3"
+}

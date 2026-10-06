@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "numbers 7:84",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dlanovi-šake",
+      "rationale": "כפות je doslovno 'šuplji dlan\/šaka'; tradicijski 'kašike' ili 'tanjuri' — oblik riječi je sačuvan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvanaest + dvanaest + dvanaest",
+      "rationale": "stih broji darove dvanaest knezova — sabirni završetak posvetnih darova"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנכת...המשח",
+      "rationale": "posvećenje (hanuka) i pomazanje (mišaha) — dva korijena za istu svečanost, ritam izgubljen u prijevodu"
+    }
+  ],
+  "translation": "Ovo je bila posvećenje žrtvenika u dan kad ga se pomazalo ⟨את njega⟩, od ⟨את⟩ knezova Jisraelovih: dvanaest srebrnih zdjela, dvanaest srebrnih škropilica, dvanaest zlatnih dlanova-šaka.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "3948d4c42a413b5c7ca2a71cfae13eea35afd3db083d2b121aa7b7ee98a9220b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/numbers\/7\/84-84.1791264229803.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ovo"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "posvećenje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "u dan"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "kad ga se pomazalo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את njega⟩",
+      "marks": "ga — žrtvenik"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "knezova Jisraelovih"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "knezova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "zdjela"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrnih"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvanaest — dva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-naest"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "škropilica"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrnih"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanaest — dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-naest"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "dlanove-šake"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatnih"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvanaest — dva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-naest"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:49.808863667Z",
+  "model": "glm-5.3"
+}

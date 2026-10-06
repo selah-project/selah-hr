@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "hr",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "El, Elohim, Jahve",
+      "rationale": "Trostruko uzastopno ime: El · Elohim · Jahve; neki prijevodi stapaju ih u jedan naslov, redoslijed triju imena se čuva."
+    },
+    {
+      "kind": "addition",
+      "subject": "njegova",
+      "rationale": "Zamjenica uz 'zalaska' dodana radi jasnoće — hebrejski מבאו je konstrukcija bez posvojnice."
+    }
+  ],
+  "translation": "Psalam Asafov. El, Elohim, Jahve progovori i zove ⟨את⟩ zemlju od izlaska sunca do njegova zalaska.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "0a4f88b116f1d1edc05e952b850752f059f25d4a57f4a53092cf9fa4522324ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/psalms\/50\/1-1.1791264247590.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalam"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "progovori"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i zove"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ zemlju"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "od izlaska"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sunca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "njegova zalaska"
+    }
+  ],
+  "timestamp": "2026-10-06T05:24:07.593397525Z",
+  "model": "glm-5.3"
+}

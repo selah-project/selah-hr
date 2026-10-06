@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "hr",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "osvetnik",
+      "rationale": "גֹּאֵל je 'otkupitelj\/iskupitelj po srodstvu' (goel), ovdje krvni; 'osvetnik' gubi aspekt otkupa i obiteljske dužnosti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימית\/ימיתנו",
+      "rationale": "dvostruko ponavljanje korijena מות (ubiti) u jednom stihu — naglasak na sigurnosti kazne"
+    }
+  ],
+  "translation": "Krvni osvetnik sam neka ubije ⟨את⟩ ubojicu: kad ga sretne, neka ga ubije.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "30664713e3a464044816395aa4f028c9ef03e26af58240478b4ed1a77bf51e60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/numbers\/35\/19-19.1791264218206.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "osvetnik"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvn(i)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "neka ubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubojicu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ubojicu"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "kad ga sretne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "neka ga ubije"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:38.211414446Z",
+  "model": "glm-5.3"
+}

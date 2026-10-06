@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 8:33",
+  "book": "ezra",
+  "lang": "hr",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "posuđe",
+      "rationale": "כלים je 'sprave, posuđe' općenito; kontekst su posvećeni predmeti za hram"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "doslovno 'na ruku', hebrejski izraz za predaju u nečiju nadležnost"
+    },
+    {
+      "kind": "measurement",
+      "subject": "izvaženo je",
+      "rationale": "nastavlja vađenje i prebrojavanje posvećenoga blaga iz st. 25–34"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svećenik",
+      "rationale": "הכהן kao naslov uz Meremota; doslovno 'onaj koji služi'"
+    }
+  ],
+  "translation": "I četvrtoga dana izvaženo je srebro i zlato i posuđe u domu Elohimovu našemu ⟨u dom našega Elohima⟩, na ruku Meremota sina Urije svećenika; i s njim Elazar sin Pinehasa; i s njima Jozabad sin Ješue i Noadija sin Binuja, Leviti.",
+  "provenance": {
+    "system-sha256": "ca616c03a6c6ca34b9e2faf258d64ac6fd3853242e9864158c9cd7035042d545",
+    "user-sha256": "b5ad492a017f32513a0c10c2b76350b94c301ace77798aac77d48264f7901cec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/hr\/ezra\/8\/33-33.1791264310045.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "I četvrtoga dana — i na dan"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "četvrti"
+    },
+    {
+      "surface": "נשקל",
+      "gloss": "izvaženo je"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "i zlato"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "i posuđe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Meremot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urije"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "svećenik"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "i s njim"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasa"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "i s njima"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Jozabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Ješue"
+    },
+    {
+      "surface": "ונועדיה",
+      "gloss": "i Noadija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Binuja"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviti"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:10.053379759Z",
+  "model": "glm-5.3"
+}
