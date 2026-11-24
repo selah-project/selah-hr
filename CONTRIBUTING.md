@@ -13,7 +13,7 @@ dio prije nego što ispraviš i jednu riječ.
 - Otvori **Issue** u repozitoriju:
   <https://github.com/selah-project/selah-hr>
 - Ili, ako znaš i sam ispraviti, otvori **Pull request**.
-- Ili nam piši: <support@selahproject.com>
+- Ili nam piši: <https://s33k3r.com/learn/support>
 
 ## Što treba u prijavi
 
@@ -96,7 +96,7 @@ točnijom, molimo te za nj.
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-hr>, or write to
-<support@selahproject.com>. The text is machine-made and awaits a native
+<https://s33k3r.com/learn/support>. The text is machine-made and awaits a native
 ear. One file = one verse; unit count equals gloss count; ⟨את⟩ markers
 are never deleted or added; the D1 Names (Jahve, Elohim…) never yield to
 titles; supplied words only in ⟨⟩, and only in Croatian. Ijekavian
